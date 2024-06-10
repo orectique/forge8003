@@ -6,7 +6,7 @@ from llama_index.core import Settings
 from llama_index.embeddings.llamafile import LlamafileEmbedding
 from llama_index.llms.llamafile import Llamafile
 from llama_index.core.node_parser import SentenceSplitter
-from llama_index.query_engine import CitationQueryEngine
+from llama_index.core.query_engine import CitationQueryEngine
 
 Settings.embed_model = LlamafileEmbedding(base_url="http://localhost:8080")
 
