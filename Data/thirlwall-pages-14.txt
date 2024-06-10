@@ -1,0 +1,3770 @@
+415
+•
+• Introduction
+•
+• The role of foreign borrowing
+•
+• Dual-gap analysis and foreign 
+borrowing
+•
+• Models of capital imports and 
+growth
+•
+• Capital imports, domestic saving 
+and the capital–output ratio
+•
+• Types of international capital flows
+•
+• The debate over international 
+assistance to developing 
+countries
+•
+• The motives for official assistance
+•
+• The critics of international aid
+•
+• The macroeconomic impact of aid
+•
+• The total net flow of financial 
+resources to developing countries
+•
+• Official development assistance 
+(ODA)
+•
+• Total net flow of financial 
+resources from DAC countries
+•
+• UK assistance to developing 
+countries
+•
+• The recipients of ODA
+•
+• Aid tying
+•
+• Remittances
+•
+• Multilateral assistance
+•
+• World Bank activities
+•
+• Structural adjustment lending
+•
+• Poverty Reduction Strategy 
+Papers (PRSPs)
+•
+• Estimating the aid component of 
+international assistance
+•
+• The distribution of international 
+assistance
+•
+• Schemes for increasing the flow 
+of revenue
+•
+• Foreign direct investment (FDI) 
+and multinational corporations
+•
+• International debt and debt 
+service problems
+•
+• Optimal borrowing and 
+sustainable debt
+•
+• The debt crisis of the 1980s
+•
+• Debt relief
+•
+• The Heavily Indebted Poor 
+Country (HIPC) Initiative
+•
+• Debt rescheduling
+•
+• Debt service capping
+•
+• Debt buybacks and debt  
+swaps
+•
+• Long-term solutions
+•
+• Summary
+•
+• Discussion questions
+•
+• Websites on aid, remittances, 
+debt and FDI
+FOREIGN ASSISTANCE, AID, 
+DEBT AND DEVELOPMENT
+14
+416
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Introduction
+In an open economy, domestic savings can be supplemented by many kinds of external assistance. 
+This chapter considers the role of foreign borrowing in the development process. The emphasis 
+is on longer term resource flows to developing countries rather than the provision of short-term 
+balance of payments support, which is the traditional function of the International Monetary 
+Fund (IMF), and is considered in Chapter 16.
+The chapter starts by showing how the need for foreign resource inflows can be quantified, 
+using the concept of dual-gap analysis, and then outlines the conditions under which foreign 
+capital inflows will raise the growth of national income and the growth of national output.
+The various magnitudes of resource inflows to developing countries are given, including official 
+bilateral and multilateral aid flows (official development assistance, ODA), foreign direct invest-
+ment (FDI) and remittances. The various donors and country recipients are identified.
+We consider the debate over international assistance to developing countries, the motives for 
+giving aid, the macroeconomic impact of aid on economies, and the critics of aid who say that it 
+can do more harm than good.
+The World Bank is a major multilateral donor, and its programmes of structural adjustment 
+lending come under scrutiny.
+Some resource flows, such as FDI and remittances, do not create debt, but loans from inter­
+national organizations and the private banking system do, and we look at the debt burden of 
+developing countries and the debt-servicing difficulties they face because debt has to be repaid 
+with interest in foreign exchange, which is scarce and badly needed for imports. We ask the 
+question: Is it possible to define an optimal level of borrowing and sustainable debt?
+The 1980s witnessed a severe debt crisis for developing countries, which still lingers today, and 
+we explore the various solutions that have been put forward for relieving the debt burden of poor, 
+developing countries, including the World Bank’s Heavily Indebted Poor Country (HIPC) Initiative.
+The role of foreign borrowing
+It is important to understand that lending and borrowing are natural features of capitalist 
+economic activity; without them, capital accumulation would be confined to sectors of economic 
+activity that have a surplus of income over current requirements, which, from a growth point of 
+view, would be inefficient and suboptimal. Very often, the factors that cause the supply of cap­
+ital to increase create their own demand. The most obvious example of this, at the international 
+level, are increases in the price of oil, which create large surpluses for oil-exporting countries and 
+the need to borrow by oil-importing countries to maintain economic growth without curtailing 
+imports. Going back into history, sovereign lending (and the problems associated with it) has 
+been a feature of international economic life since the Medicis of Florence started to make loans 
+to the English and Spanish monarchs in the fourteenth century. Historically, the international 
+lending and borrowing process has played an integral part in the development of most major 
+industrialized countries, and continues to play a significant role in the economic transformation 
+of today’s developing countries.
+Traditionally, the role of foreign borrowing has been seen by countries as a supplement to 
+domestic saving to bridge an investment–savings gap and achieve faster growth. The concept 
+of dual-gap analysis, however, pioneered by Hollis Chenery and his collaborators (e.g. Chenery 
+and Bruno, 1962), shows that foreign borrowing may also be viewed as a supplement to foreign 
+417
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+exchange if, to achieve a faster rate of growth and development, the gap between foreign 
+exchange earnings from exports and necessary imports is larger than the domestic investment–
+savings gap, and domestic and foreign resources are not easily substitutable for one another. 
+Foreign borrowing must fill the larger of the two gaps if the target growth rate is to be achieved. 
+The historical sequence of experience originally suggested by Chenery was that countries in the 
+pre-take-off stage of development would have a dominant investment–savings gap, followed by 
+a dominant foreign exchange gap, with the possibility of a skill constraint at any stage. Most of 
+today’s developing countries, apart from China and the oil-exporting countries, have a dominant 
+foreign exchange gap, which manifests itself in a chronic balance of payments deficit on the 
+current account, while domestic resources lie idle. These deficits require financing not only in the 
+interests of the countries themselves, but for the sake of the growth momentum of the whole 
+world economy. There is an interdependence in the world economic system because countries 
+are linked through trade. The alternative to the financing of deficits is adjustment by deflation to 
+reduce imports, which means slower growth in the world economy as a whole.
+If the historical experience of developed countries is considered, in cases where borrowing 
+took place (mainly from Britain as the major creditor), the borrowing was ultimately converted 
+into an export surplus, which enabled the borrowing country to repay its debt and become a net 
+creditor. The condition for this to happen is that the marginal savings ratio should exceed the 
+average savings ratio in order to eliminate the investment–savings gap, if that is the dominant 
+constraint, or that the marginal propensity to export should exceed the marginal propensity to 
+import if foreign exchange is the dominant constraint. For most developing countries today, there 
+is little evidence that they have either the desire or the option to reduce the level of net resource 
+inflows without a major disruption of their economies. The need for resources is as acute as ever, 
+because of a dominant foreign exchange gap to meet development requirements and to pay inter-
+est and amortization on past borrowing. Developing countries find it difficult to convert domes-
+tic resources into foreign exchange in adequate quantities, not only cyclically when the world 
+economy is depressed, but also secularly owing to their economic structure; that is, they produce 
+goods whose demand tends to be both price and income inelastic in world trade.
+In the first edition of this textbook (Thirlwall, 1972), I predicted that:
+unless something is done the debt-servicing problem arising from mounting resource flows 
+may well become unmanageable in the not too distant future. It will certainly be a long time 
+before these countries become net exporters of capital even in the absence of an investment–
+savings gap.
+This has turned out to be true. Developing countries continue to borrow extensively; their debt 
+now stands at over $5,000 billion, and over $250 billion flows out of developing countries each 
+year to service the debts.
+Dual-gap analysis and foreign borrowing
+In national income accounting, an excess of investment over domestic saving is equivalent to a 
+surplus of imports over exports. The national income equation can be written from the expend­
+iture side as:
+Income 5 Consumption 1 Investment 1 Exports 2 Imports
+418
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Since saving is equal to income minus consumption, we have:
+Saving 5 Investment 1 Exports 2 Imports
+or:
+Investment 2 Savings 5 Imports 2 Exports
+A surplus of imports over exports financed by foreign borrowing allows a country to spend more 
+than it produces or to invest more than it saves.
+Note that, in accounting terms, the amount of foreign borrowing required to supplement domes-
+tic savings is the same whether the need is just for more resources for capital formation or for imports 
+as well. The identity between the two gaps, the investment–savings (I − S) gap and the import–
+export (M − X) gap, follows from the nature of the accounting procedures. It is a matter of arithmetic 
+that if a country invests more than it saves, this will show up in the national accounts as a balance of 
+payments deficit. Or, to put it another way, an excess of imports over exports necessarily implies an 
+excess of the resources used by an economy over the resources supplied by it, or an excess of invest-
+ment over saving. There is no reason in principle, however, why the two gaps should be equal ex ante 
+(in a planned sense); that is, that plans to invest in excess of planned saving should exactly equal plans 
+to import in excess of plans to export. This is the starting point of dual-gap analysis.
+Before going into dual-gap analysis in more detail, a reminder of elementary growth theory is in 
+order. Growth requires investment goods, which may be provided domestically or purchased from 
+abroad. The domestic provision requires saving; the foreign provision requires foreign exchange. 
+If it is assumed that some investment goods for growth can be provided only from abroad, a 
+minimum amount of foreign exchange is always required to sustain the growth process. In the 
+Harrod model of growth (see Chapter 4), the relation between growth and saving is given by the 
+incremental capital–output ratio (c), which is the reciprocal of the productivity of capital (p), 
+that is, g 5 s/c or g 5 sp, where g is the growth rate and s is the saving ratio. Likewise, the growth 
+rate can be expressed as the product of the incremental output–import ratio (DY/M 5 m’) 
+and the ratio of investment-good imports to income ([M/Y] 5 i), that is, g 5 imr.
+If there is a lack of substitutability between domestic and foreign resources, growth will be con-
+strained by whatever factor is the most limiting – domestic saving or foreign exchange. Suppose, 
+for example, that the growth rate permitted by domestic saving is less than the growth rate per-
+mitted by the availability of foreign exchange. In this case, growth will be savings-limited and if 
+the constraint is not lifted, a proportion of foreign exchange will go unused. For example, sup-
+pose that the product of the savings ratio (s) and the productivity of capital (p) gives a permis-
+sible growth rate of 5%, and the product of the import ratio (i) and the productivity of imports 
+(m9) gives a permissible growth rate of 6%. Growth is constrained to 5%, and for a given m9, a 
+proportion of the foreign exchange available cannot be absorbed (at least for the purposes of 
+growth). Some oil-exporting countries fall into this category; they cannot use all their foreign 
+exchange. Conversely, suppose that the growth rate permitted by domestic savings is higher than 
+that permitted by the availability of foreign exchange. In this case, the country will be foreign 
+exchange-constrained and a proportion of domestic saving will go unused. Most developing 
+countries fall into this category. The policy implications are clear: there will be resource waste as 
+long as one resource constraint is dominant. If foreign exchange is the dominant ­
+constraint, ways 
+must be found of using unused domestic resources to earn more foreign exchange and/or raise 
+the productivity of imports. If domestic saving is the dominant constraint, ways must be found 
+419
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+of using foreign exchange to augment domestic saving and/or raise the productivity of domes-
+tic resources (by relaxing a skill constraint, for example). (If there were complete substitutability 
+between imports and domestic resources, any surplus of domestic resources could be immedi-
+ately converted into foreign exchange, and any surplus of foreign exchange could be immediately 
+converted into domestic resources, and there could only be one gap, ex ante, as well as ex post.)
+Suppose now a country sets a target rate of growth, r. From our simple growth equations 
+(identities), the required savings ratio (s*) to achieve the target is s* 5 rc, and the required import 
+ratio (i*) is i* 5 r/m9. If domestic saving is calculated to be less than the level required to achieve 
+the target rate of growth, an investment–savings gap is said to exist equal at time t to:
+It 2 St 5 s*Yt 2 sYt 5 (rc)Yt 2 sYt
+(14.1)
+Similarly, if minimum import requirements to achieve the growth target are calculated to be 
+greater than the maximum level of export earnings available for investment purposes, there is 
+said to exist an import–export gap, or foreign exchange gap, equal at time t to:
+Mt2 Xt 5 i*Yt 2 iYt 5 (r/m')Yt 2 iYt,
+(14.2)
+where i is the ratio of imports to output that is permitted by export earnings. If the target growth 
+rate is to be achieved, foreign capital flows must fill the larger of the two gaps. The two gaps are 
+not additive. If the import–export gap is the larger, then foreign borrowing to fill it will also fill the 
+investment–savings gap. If the investment–savings gap is the larger, foreign borrowing to fill it will 
+obviously cover the smaller foreign exchange gap.
+The distinctive contribution of dual-gap analysis to development theory is that if foreign 
+exchange is the dominant constraint, it points to the dual role of foreign borrowing in supple-
+menting not only deficient domestic saving but also foreign exchange. Dual-gap theory thus 
+performs the valuable service of emphasizing the role of imports and foreign exchange in the 
+development process. It synthesizes traditional and more modern views concerning aid, trade and 
+development. On the one hand, it embraces the traditional view of foreign assistance as merely 
+a boost to domestic saving; on the other hand, it takes the more modern view that many of the 
+goods necessary for development cannot be produced by the developing countries themselves 
+and must therefore be imported with the aid of foreign assistance. Indeed, if foreign exchange 
+is truly the dominant constraint, it can be argued that dual-gap analysis also presents a more 
+relevant theory of trade for developing countries that justifies selective protection and import 
+substitution. If growth is constrained by a lack of foreign exchange, free trade cannot guarantee 
+simultaneous internal and external equilibrium, and the efficiency gains from trade may be offset 
+by the underutilization of domestic resources. We shall take up this matter in Chapter 15.
+A practical example of dual-gap analysis
+Now let us give a practical example of how dual-gap analysis may be applied to a country. We 
+shall be applying equation (14.1) to estimate the investment–savings gap, and equation (14.2) to 
+estimate the import–export gap. Suppose that the target rate of growth (r) set by the government 
+over a five-year planning period 2015–20 is 5% per annum and the capital–output ratio is 3. The 
+investment requirements in time t may be written as:
+It 5 crYt 5 cDY 5 3DY
+420
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Now assume that 10% of income is saved, so that:
+St 5 0.1 Yt
+Given this information and the target level of income, Yt , for each year (t 5 1 − 5), obtained from 
+applying the target rate of growth to the base level of income (Y0 5 1,000), the I – S gap can be 
+calculated for each year in the future. The results are shown in Table 14.1. All values are in dollars 
+at constant (base year) prices.
+For import requirements, let us assume that the incremental output–import ratio (m9) is 0.2. 
+Therefore:
+Mt (r/m') Yt 5 i* Yt 5 (0.05/0.2) Yt 5 0.25 Yt
+Finally, assume a forecast exponential rate of growth of exports of 3% a year, namely:
+Xt 5 X0e0.03t
+The calculated import–export gap is also shown in Table 14.1. The results show that while the 
+two gaps are equal in the 2015 base year from the national accounts, the forecast gaps, ex ante, 
+diverge through time, with the import–export gap dominant. For the target rate of growth of 5% 
+per annum to be achieved, there would have to be foreign borrowing each year to fill the larger of 
+the two gaps. The analysis here is brief and mechanistic, but it illustrates the principle and what 
+can be done in a simple way as a first approach to calculating foreign resource requirements for 
+growth and development. (See El-Shibley and Thirlwall (1981) for a case study of Sudan. Chenery’s 
+pioneer study of dual-gap analysis is in Chenery and Bruno, 1962).
+Models of capital imports and growth
+In the simple case where there are no repayment obligations, foreign capital inflows will raise 
+the growth of output and income (g), provided the foreign inflows do not reduce the domestic 
+savings ratio or reduce the productivity of capital. To show this, we can write:
+Table 14.1  Estimates of investment–savings and import–export gaps assuming a 5% growth of 
+GDP,  2015–20 ($ million)
+Y0
+Y1
+Y2
+Y3
+Y4
+Y5
+Base year 2015
+2016
+2017
+2018
+2019
+2020
+GDP
+1,000
+1,050
+1,102.5
+1,157.6
+1,215.5
+1,276.3
+Savings
+100
+105
+110.2
+115.8
+121.5
+127.6
+Investment
+140
+150
+157.5
+165.3
+173.7
+182.4
+Investment–savings gap
+40
+45
+47.3
+49.5
+52.2
+54.8
+Exports
+210
+216.3
+222.8
+229.4
+236.3
+243.4
+Imports
+250
+262.5
+275.6
+289.4
+303.9
+319.0
+Import–export gap
+40
+46.2
+52.8
+60.0
+67.6
+75.6
+Note: The base level of investment and exports will be given by the country’s national accounts and balance of 
+payments statistics.
+421
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+g 5  I
+Y (s)
+(14.3)
+where I/Y is the ratio of investment to GDP and s is the productivity of capital (dY/I). Now, total 
+investment is equal to domestic saving (S) plus foreign capital inflows (F), so equation (14.3) can 
+be written as:
+g 5  (S 1 F)
+(Y)
+ s 5 cs 1 F
+Y ds
+(14.4)
+where s is the savings ratio (S/Y). Growth is now higher than it would be with domestic saving 
+alone, unless foreign inflows (F/Y) reduce s and s.
+If foreign inflows have to be repaid, however, the condition changes for the growth of income 
+and output to be higher. This can be shown from the model outlined below, which incorporates 
+the terms on which capital imports are financed. It is shown that:
+•
+• The rate of growth of output will be faster with capital imports, provided new inflows of for-
+eign capital exceed the loss of domestic saving to pay interest; if, however, interest charges are 
+met by new borrowing, capital imports must always have a favourable effect on the growth 
+rate of output.
+•
+• The rate of growth of income will be faster as long as the productivity of capital imports 
+exceeds the rate of interest.
+The model is as follows. Let:
+O 5 Y 1 rD
+(14.5)
+where O is output, Y is income, r is the interest rate and D is debt. The difference between domes-
+tic output and national income is net factor payments abroad (including interest, profits and 
+dividends). From equation (14. 5), we have:
+DO 5 DY 1 rDD
+(14. 6)
+Now:
+DO 5 sI
+(14. 7)
+where s is the productivity of capital, and:
+I 5 sO 1 DD − srD
+(14. 8)
+where s is the propensity to save. Substituting equation (14. 8) into equation (14. 7) and dividing 
+by O gives an expression for output growth of:
+DO
+O  5 sas 1  DD 2 srD
+O
+ b
+(14. 9)
+Equation (14. 9) shows that the growth of output will be higher than the rate obtainable from 
+domestic saving alone as long as DD . srD, that is, as long as new inflows of capital exceed the 
+422
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+amount of outflow on past loans that would otherwise have been saved. This is a fairly stringent 
+condition unless it is assumed that the interest payments due are met by creating new debt. It can 
+be seen from equation (14. 9) that if rD 5 DD, the rate of growth of output with capital imports 
+will always be higher than without capital imports as long as s , 1 (which is the normal case to 
+consider). It may be concluded, then, that if interest payments on past loans can be borrowed 
+in perpetuity, there is a permanent gain to be had from running an import surplus. In practice, 
+however, a country that continually reschedules its debts might ultimately be classified by the 
+international community as uncreditworthy and therefore not be able to borrow continually.
+Now let us consider the rate of growth of income as the dependent variable. From 
+equation (14. 5):
+DY 5 DO − rDD
+(14. 10)
+Substituting equation (14. 8) into equation (14. 7) and the result into equation (14. 10) gives:
+DY 5 s(sO 1 DD − srD) − rDD
+(14. 11)
+Now, since Y 5 O − rD, we can also write equation (14. 11) as:
+DY 5 ssY 1 DD(s − r)
+(14.12)
+and dividing by Y, we have the following expression for the rate of growth of income:
+DY
+Y   5 ss 1 as 2 rb DD
+Y 
+(14.13)
+Equation (14.13) shows that the growth rate of income with capital imports will be higher than 
+that obtained from domestic saving alone as long as the productivity of capital imports (s) 
+exceeds the rate of interest on foreign borrowing (r). This is a standard result showing that invest-
+ment is profitable as long as the rate of return exceeds the rate of interest. In some circumstances, 
+however, this condition may also be a fairly stringent one.
+Capital imports, domestic saving and the capital–output ratio
+From the discussion above, it would appear that import surpluses have great potential in the 
+development process. It is sometimes argued, however, that import surpluses financed by foreign 
+capital inflows increase the capital–output ratio (that is, reduce the productivity of capital) and 
+discourage domestic saving; and that a large fraction of capital inflows is consumed rather than 
+invested. The net result may be no extra growth at all or even a reduction in the growth rate. (The 
+argument was first put forward by Griffin (1970) and has since been the subject of continual scru-
+tiny; see the survey by White, 1992). In terms of equation (14.9) and equation (14.13), the inflow 
+of capital DD may reduce s and s and only a fraction of DD may be invested.
+As far as the relation between capital imports and domestic saving is concerned, many studies 
+find a negative relation. Care must be taken in interpreting the relation, however, because owing 
+to the way saving is defined, a negative relation is bound to be found as long as a proportion of 
+capital imports is consumed. As we said before, domestic saving is normally defined in developing 
+countries as investment minus foreign capital inflows: S 5 I 2 F. If F rises and I rises by less than 
+423
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+F, S must fall for the equality to hold. Thus, a negative statistical relation between foreign capital 
+inflows and domestic saving cannot necessarily be interpreted as a weakening of the develop-
+ment effort; it may simply reflect the fact that a proportion of foreign capital inflows is consumed. 
+The important point is that no studies find a negative relation between capital inflows and the 
+investment ratio. This means that capital inflows must finance some additional growth unless the 
+productivity of capital falls drastically.
+Some economists argue that foreign capital inflows do lower the productivity of capital and raise 
+the capital–output ratio because of the tendency for international assistance to be used for prestige 
+projects and a bias towards the use of international resource flows for infrastructure projects and 
+social overhead capital. It should be remembered, however, that there is an important distinction to 
+be made between the capital–output ratio of a particular project and the capital–output ratio for 
+the economy as a whole, which is the ratio relevant to the model. It is quite possible for the overall 
+capital–output ratio to fall even if projects financed by capital inflows are relatively capital-intensive, 
+because the projects financed confer externalities on the rest of the economy and also relax a foreign 
+exchange constraint on demand. There is no convincing evidence that countries with a high ratio 
+of capital inflows to national income have a higher capital–output ratio than other countries, and 
+no convincing evidence either that the productivity of foreign resource inflows is lower than the 
+productivity of domestic saving.
+Types of international capital flows
+The main types of international capital flows to developing countries consist of:
+•
+• Official flows from bilateral sources and multilateral sources, such as the World Bank and its 
+two affiliates, the International Development Association (IDA) and the International Finance 
+Corporation (IFC), on concessional and non-concessional terms
+•
+• Aid provided by nongovernmental organizations (NGOs)
+•
+• Humanitarian and emergency aid
+•
+• FDI and portfolio investment
+•
+• Remittances from migrant labour.
+Because of the different types of capital flow and the different terms of borrowing, there is an 
+important distinction between the nominal value of capital flows and their worth in terms of the 
+increased command over goods and services that they represent to the recipient. There is also a 
+distinction between the return to international assistance, the benefit of international assistance 
+(in a cost–benefit sense) and the value of international assistance:
+•
+• The return to international assistance is the difference between the nominal value of assist­
+ance and any repayments due, discounted by the productivity of the assistance in the recipient 
+country. In other words, the rate of return to assistance is measured in the same way as the 
+return to any other investment.
+•
+• The benefit of assistance is the difference between the nominal value of assistance and repay-
+ments discounted by the rate of interest at which the country would have had to borrow in 
+the capital market. It is this calculation that we shall later refer to as the grant element or aid 
+component of the capital flow, representing ‘something for nothing’ to the recipient country. 
+Clearly, if the terms on which the country borrows from the donor are no different from those 
+prevailing in the free market, there is no grant element or aid attached to the capital transfer 
+and the benefit of assistance in this sense is zero.
+424
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+•
+• The value of the assistance may, in turn, differ from its benefit if the assistance is tied to the pur-
+chase of donor goods that differ in price from the world market price. If the prices are higher, 
+this reduces the value of the grant element of assistance to below what it would otherwise have 
+been (see below for calculations of the grant element).
+Not all foreign resource inflows create debt; only those flows that involve a repayment 
+obligation. The aid component of official flows, for example, does not create debt, nor do 
+remittances from migrant workers or FDI, although the latter may involve an outflow of profits.
+Now let us turn to a discussion of the various types of international capital flows, and the mag-
+nitudes involved. We start with a discussion of official development assistance, or international 
+aid, and the motives behind it.
+The debate over international assistance to developing countries
+As indicated above, capital flows to developing countries come in many different forms: from 
+grants or pure aid from bilateral and multilateral donors and NGOs, loans, portfolio investment 
+and FDI by multinational companies. The magnitude of these various flows will be given later in 
+the chapter. Donor countries and institutions provide aid, loans and investment, and developing 
+countries accept the flows, for a mixture of reasons. But the motives of the donors and recipi-
+ents, and the wider interests of developing countries as a whole, may not always coincide. The 
+rationale and relevance of financial assistance to developing countries are very much a matter of 
+subjective assessment, depending on the meaning and vision of the development process held 
+by the protagonists. There is a substantial body of opinion on the right and the left of the politi-
+cal spectrum that argues that not only are financial resource transfers unnecessary for develop-
+ment, but may even be counterproductive and inimical to development by fostering dependence, 
+weakening the domestic development effort, and leading to a distorted structure of consumption 
+and production (as well as to debt-servicing problems and profit outflows). These criticisms are 
+levelled at official assistance and private investment, particularly at the activities of multinational 
+companies. We shall consider some of these concerns later, but first let us examine the motives for 
+assistance and why developing countries accept the transfers.
+The motives for official assistance
+There are several motives (see Riddell, 2007 for a comprehensive text on foreign aid) that inspire 
+financial assistance from bilateral and multilateral sources on concessionary terms, but they can 
+be grouped under three headings:
+•
+• Moral, humanitarian motive: To assist poor countries, and particularly poor people in 
+poor countries (see Opeskin, 1996). The same arguments that provide the basis for income 
+redistribution within nations can also be applied at the global level, namely that absolute 
+poverty is morally unacceptable and that if the marginal utility of income diminishes, total 
+welfare will be increased by a redistribution of income from rich to poor. From a moral and 
+welfare point of view, national boundaries are quite artificial constructions. Developing 
+countries accept assistance with this concern in mind not only from national governments 
+and international organ­
+izations as part of their regular aid programmes, but also from many 
+voluntary and charitable NGOs, and from emergency and disaster relief funds.
+425
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+•
+• Political, military and historical motives: A large part of the US aid programme was origin­
+ally designed as a bulwark against the spread of communism, and the regional and country 
+distribution of international assistance can still be partly explained in these terms. British and 
+French assistance tends to be concentrated on ex-colonial territories, reflecting strong historical 
+ties and perhaps some recompense for former colonial neglect. Most developing countries are 
+willing to accept assistance on this basis to assist their development effort, particularly when 
+governments are threatened by hostile forces from within or without.
+•
+• Economic motives: Developed countries invest in developing countries not only to raise the 
+growth rate of developing countries, but also to improve their own welfare. Hence, inter­
+national assistance is seen as mutually beneficial. If the rate of interest on loans is higher than 
+the productivity of capital in the developed donor country and lower than the productivity 
+of capital in the developing recipient country, both parties will gain. If there are underutilized 
+resources in the developed country that could not otherwise be activated because of balance 
+of payments constraints, international assistance will be mutually profitable by adding to the 
+resources in the developing country and enabling fuller utilization of the resources in the 
+developed country. This is the strong Keynesian argument for international assistance, and 
+forcefully recommended in the Brandt Report (discussed in Chapter 1). Developing countries 
+accept these financial flows because most are desperately short of foreign exchange (see 
+Chapter 16), and judge the benefits of international programmes and the projects they finance 
+to be greater than the costs of servicing the borrowing and any unfavourable side effects.
+The critics of international aid
+Despite the many worthy motives for giving international assistance to developing countries, there 
+are many critics of international aid. One extreme view is that aid has no effect on the growth per-
+formance of poor countries and can undermine development by fostering a dependency culture. 
+This was the view of early critics, such as Bauer (1971) and Friedman (1958), and has recently been 
+revived in polemical books such as The White Man’s Burden (Easterly, 2006) and Dead Aid (Moyo, 
+2009). Both argue that aid to Africa has been wasted, and Moyo argues that there should be a 
+programme of aid withdrawal from Africa and that all future capital inflows should come from 
+the private sector, which would lead to a more responsible and efficient use of resource inflows.
+It is true that international assistance may be wasted. If not directed wisely, it may help to 
+support governments that are corrupt and profligate. It may encourage irresponsible financial 
+policies; and if the assistance is free (pure aid), there may be no incentive to use resources product­
+ively. Critics argue that billions of dollars have been invested in Africa over the past half century, 
+but still Africa is extremely poor.
+There are several counterarguments, however, to this extreme view:
+1.	 The amount of aid received per head of population in developing countries (and Africa) is very 
+low, and poor countries have many depressive cumulative forces working against them, so that 
+expectations relating to the impact of aid should not be exaggerated.
+2.	 Much aid has been used for humanitarian purposes; for social investment in hospitals, public 
+health and schools, the benefits of which are not disputed.
+3.	 As far as corrupt governments and irresponsible economic policy-making are concerned, it is 
+not clear that the same scenario would not prevail without aid. Indeed, the alternatives might 
+be worse because international assistance brings a certain amount of ‘leverage’, which can be 
+426
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+used for the promotion of good governance and more enlightened policy-making. The chal-
+lenge is not to stop aid, but to make it more effective.
+The most valid criticism of aid is that it may lead to a weakening of the domestic development 
+effort by supporting a culture of dependency. In particular, it may weaken a country’s tax effort. 
+In many poor developing countries, the value of aid exceeds tax revenue. To cope with this issue, 
+Adrian Wood (2008), Oxford economist, suggests that donors collectively set an upper limit to 
+the aid–tax ratio (say, 50%), above which aid would be phased out, but below which donors 
+would give 50 cents more aid for every extra dollar raised in taxes. This would encourage develop-
+ing countries to raise more tax, while encouraging governments to pay more attention to what 
+their citizens want (because they are paying) rather than what donors want the aid used for.
+Another less extreme view of aid is that it can have a positive effect on growth and development 
+on average, but not in every country, and is conditional on absorptive capacity, good governance 
+and the policies of donor countries. Some countries may not have the administrative or techni-
+cal capacity to absorb much aid, in which case there will be diminishing returns to aid. There is 
+evidence on this, which will be discussed below. There is also evidence that aid only works in good 
+policy environments, where there is good governance and sound macroeconomic policy-making. 
+The practices of donor countries also make a difference to the productivity of aid, whether the aid 
+is multilateral or bilateral, whether it is tied to the purchase of donor goods or untied, and how the 
+aid is monitored. The consensus now is that recipient countries themselves should have ‘owner-
+ship’ of aid programmes, and that the heavy hand of donors can be counterproductive.
+There are valid criticisms of aid and how it has been administered in the past, but the fact 
+that it can be wasted, that it doesn’t help the people it is meant to, and the recipients of aid still 
+remain poor and underdeveloped is more a challenge to the use of aid than an argument that 
+resource flows to poor countries cannot be productive. That would defy economic logic. Case 
+example 14.1 discusses the impact of aid on growth in Sierra Leone.
+Sierra Leone is characterized by high levels of aid dependence and unimpressive 
+economic performance, as well as long-term political instability and armed conflict. 
+Development aid has historically been a high proportion of Sierra Leone’s GDP and 
+surged when the civil war, 1991–2002, ended. Annual aid dispersed to Sierra Leone in 
+the period 1970–2007 stands at an average of 14.2% of GDP, a figure much higher than 
+the regional average of 3.7% for Africa as a whole. Despite this level of support, Sierra 
+Leone’s economic performance has remained wanting in terms of growth and poverty 
+reduction.
+A variety of econometric approaches have been used to assess the effect of aid on 
+economic growth in the period 1970–2007 in Sierra Leone. There are two main findings:
+1.  
+Aid had a significant positive effect on economic growth over the period as a whole, 
+but was weak or nonexistent during the civil war.
+2.  
+Aid had a greater positive impact on growth prior to the civil war than it has in the 
+postwar period.
+These finding are largely consistent with a great portion of the macro-level aid-growth 
+literature. Indeed, Arndt et al. (2011) find that a similar positive link between aid and 
+ 
+ 
+ 
+Case example 14.1
+The impact of aid on economic growth in Sierra Leone
+continued overleaf
+427
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+The macroeconomic impact of aid
+When a country receives aid, it can do one of two things, or a combination of both. It can either 
+spend the aid directly on imports, in which case there are no serious domestic implications (e.g. 
+there will be no change in the exchange rate or change in foreign exchange reserves), or the gov-
+ernment can sell the extra foreign exchange to the central bank and then use the local currency to 
+buy domestic goods. This does have domestic implications depending on the response of govern-
+ments and the Central Bank. Aiyar et al. (2005) consider four responses:
+1.	 Absorb and spend: the government spends on domestic goods and the central bank sells for-
+eign exchange, which neutralizes the increase in local currency spent by the government and 
+finances the current account balance of payments deficit due to rising imports.
+2.	 Neither absorb nor spend: the government keeps the new foreign exchange in the central 
+bank to add to reserves. This does not assist development directly, but can act as a buffer 
+against aid volatility in the future.
+3.	 Absorb but not spend: the government reduces the money supply while the central bank sells 
+the foreign exchange. Aid acts as a substitute for the domestic finance of government budget 
+deficits.
+4.	 Spend but not absorb: the government increases its expenditure but keeps aid in the central 
+bank as reserves. This is equivalent to a fiscal stimulus financed by selling bonds or printing 
+money. There is no real resource transfer to the developing country because no aid has been 
+used to import more. This policy can be highly inflationary and lead to the currency depreciat-
+ing unless the central bank sells foreign exchange to stop it.
+If aid is not spent directly on imports, the first best response is to absorb and spend, but accord-
+ing to Aiyar et al. (2005), it is surprisingly rare, at least in the five countries they studied in detail 
+(Ethiopia, Ghana, Mozambique, Tanzania and Uganda). In four of the countries, less than one-
+third of aid was absorbed.
+Case example 14.1
+The impact of aid on economic growth in Sierra Leone – continued
+growth is present on a more general, cross-country level. However, case studies on 
+Bangladesh, Cameroon, Papua New Guinea and Pakistan have not found a statistically 
+significant link between aid and growth. There are three main reasons why this 
+relationship may be found in Sierra Leone, but not in the other case studies:
+1.  
+The differing motivations that lead to donors granting aid may well determine how 
+effective that aid is in promoting growth. As one of the poorest countries in the 
+world, Sierra Leone is likely to receive aid targeted towards generating economic 
+growth and reducing poverty.
+2.  
+Aid is likely to have a positive impact on economic growth in countries like Sierra 
+Leone, which require capital in order to fund foreign imports essential for growing 
+the economy. Given the high level of imports, and the likelihood that exports will 
+be much lower, a foreign exchange gap is inevitable. Inflows of foreign aid help to fill 
+this gap and thus promote economic growth.
+3.  
+While there is a history of corruption in Sierra Leone, it is more associated with non-
+official aid from countries like China and Libya than with official aid.
+Source: Kargbo, 2012.
+428
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+If aid is not spent directly on imports, there is the strong possibility of exchange rate apprecia-
+tion, the so-called Dutch disease, after what happened to the Dutch currency after the discovery 
+of natural gas in the Netherlands in the 1970s, which can have damaging effects on the tradable 
+goods sector of the economy, by making exports more expensive and imports cheaper. To prevent 
+appreciation, governments can buy up foreign exchange, which adds to reserves, but then the 
+central bank has to sell bonds if it wants to absorb the excess liquidity arising from such purchases 
+(to prevent inflation, for example). This may lead to a rise in interest rates, which can also damage 
+the real economy. Some studies of the impact of aid find evidence of Dutch disease (see Rajan and 
+Subramanian, 2005), but the important point to make is that it is not inevitable, if the aid is spent 
+on the purchase of tradable goods, which, in principle, is the best policy. There are so many goods 
+needed for development that poor developing countries cannot produce themselves. Aid gives 
+the chance to import them.
+Two main approaches are used to assess the impact of aid on growth and development. The 
+first is to do detailed case studies, which is the micro-approach. As representative of this approach, 
+a study by Cassen (1994) of seven countries (Bangladesh, Colombia, India, Kenya, South Korea, 
+Malawi and Mali) shows that most aid achieves its development objectives, although in several 
+instances, the performance could have been improved. The provision of aid played a major part in 
+the Green Revolution in Southeast Asia, the building of infrastructure in southern Africa, and the 
+direct provision of basic needs and the relief of poverty in many countries. The study also found, 
+however, that aid performance appears to be least satisfactory where it is most needed, and that, 
+above all, improved performance requires better collaboration between aid agencies. Most micro-
+studies find a positive impact of aid on development (Arndt et al., 2010).
+The second approach to assessing the impact of aid is to conduct a detailed statistical analysis 
+of the relation between the growth of GDP or living standards and the amount of aid (as a propor-
+tion of GDP) received by each country, controlling for other variables. This is the macro-approach. 
+A typical estimating equation, taking a large sample of developing countries, would be:
+y 5 a 1 b (AID) 1 ci (Vi)
+where y is the growth of per capita income, AID is the ratio of official development assistance 
+(ODA) to GDP and Vi is a vector of control variables (i 5 1 -- n). Hansen and Tarp (2001) review 
+131 cross-section studies and conclude that most of them show a positive relation between aid 
+and growth. Their own research shows that aid has a positive effect on growth with a coefficient 
+(b) of approximately 0.25, although not when investment is included in the equations as one of 
+the control variables. The implication is that aid promotes growth by encouraging investment, 
+and this is confirmed by equations relating the ratio of investment to GDP with the ratio of aid 
+to GDP. Dalgaard et al. (2004) also show that aid has a positive effect on the growth of living 
+standards, with a 1 percentage point difference in the aid variable leading to (approximately) a 0.5 
+percentage point difference in the growth of per capita income. The impact is lower, however, in 
+tropical countries. Dalgaard et al. (2004) conclude: ‘we have confidence … that aid has a positive 
+impact on growth, and that the impact depends on climate-related differences’.
+Addison et al. (2005) survey studies conducted between 1997 and 2005 and conclude that 
+developing countries’ growth would have been slower without aid, and that the criticism of aid 
+that it is counterproductive is not supported by the bulk of statistical evidence.
+Clements et al. (2004) distinguish different types of aid, and focus on the impact of aid specific­
+ally meant for development purposes, as opposed to aid given for political and humanitarian 
+reasons. They take a cross-section of 67 countries over the period 1974–2001, and use a nonlinear 
+429
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+specification of the aid–growth relationship to allow for the possibility of diminishing returns 
+to aid. Their central estimate is that an increase in aid of 1% of GDP leads to a 0.31 percentage 
+point increase in growth, and diminishing returns to aid seem to set in at about 8–9% of GDP 
+(which implies 16–18% of total aid to GDP because only one-half of total aid is specifically for 
+development purposes). These figures are three times the amount of aid actually given.
+In a major study across more than 70 countries over the period 1960–2000 (and subperiods), Rajan 
+and Subramanian (2005) conclude: ‘it is difficult to discern any systematic effect of aid on growth’. 
+This conclusion has been challenged Arndt et al. (2010), who reanalyse the Rajan and Subramanian 
+study and estimate a long-run elasticity of growth with respect to the share of aid in GDP of 0.13, so 
+an inflow of aid of 10% GDP would increase GDP by just over 1 percentage point in the long run.
+In a meta-study of 68 countries of the aid–growth relationship, Doucouliagos and Paldam 
+(2008) also dismiss any positive impact of aid on growth. But Mekasha and Tarp (2013) have 
+criticized this study on methodological grounds and argue that if the meta-study is done properly, 
+there is a statistically significant positive impact of aid on growth of about 0.1 percentage point 
+for every 1 percentage point increase in the ratio of aid to GDP, which means that a 10 percentage 
+point increase in the aid ratio would raise the growth of GDP by 1 percentage point. This a similar 
+result to Arndt et al. (2010), who conclude their study by saying:
+abolishing foreign aid, or drastically cutting it back, would be a mistake and is not warranted 
+by any reasonable interpretation of the evidence. The challenge is to improve foreign assist­
+ance effectiveness so that living standards in poor countries are substantially advanced over 
+the next three decades.
+In recent years, the World Bank has been heavily involved in attempting to assess the impact 
+of aid, and one of its major researchers is David Dollar. The World Bank (1998) and Burnside 
+and Dollar (2000) take a panel of 56 developing countries over the period 1970–93 and try to 
+disentangle the circumstances in which aid ‘works’ and in which it does not. The major findings 
+are that, on average, aid has had only a minor impact on the growth of GDP per head (partly 
+because aid as a percentage of GDP is so small), but that it can be extremely effective in promot-
+ing growth and reducing poverty in the right economic and political environment where there 
+are democratic governments pursuing sensible macroeconomic policies. In countries with good 
+economic management, a 1 percentage point increase in aid raises the growth rate by 0.5% and 
+reduces poverty by 1%. The World Bank (1998) calculates that an extra $10 billion of aid could lift 
+25 million people out of poverty if the aid is directed to countries that manage their economies 
+well. In countries with poor management, aid is entirely wasted. There are also diminishing returns 
+to aid. Even in good environments, the returns to aid peak when aid reaches about 10% of GDP.
+The World Bank (1998) emphasizes five major points from its analysis, and indicates five policy 
+reforms for making aid more effective:
+Analysis:
+•
+• Financial aid works in a good policy environment.
+•
+• Improvements in economic institutions and policies are the key to reducing poverty.
+•
+• Effective aid and private investment are complementary.
+•
+• The value of development projects is to strengthen institutions and policies so that services can 
+be delivered effectively.
+•
+• Aid can nurture reform even in the most distorted environments, but it requires patience and 
+a focus on ideas, not money.
+430
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+3FGPSNT
+ 
+t Financial assistance must be targeted more eﬀectively to low-income countries with sound 
+economic management.
+ 
+t Policy-based aid should be provided to nurture policy reform where needed.
+ 
+t The mix of aid activities should be tailored to suit the needs of the country and sectoral conditions.
+ 
+t Projects need to focus on creating and transmitting knowledge and capacity.
+ 
+t Aid agencies need to ﬁnd alternative approaches to helping highly distorted countries.
+Two further reforms and improvements could make aid more eﬀective:
+1. Donors could cooperate more to pool resources for speciﬁc purposes, and to take politics out 
+of the aid-giving process.
+2. Aid should only be given if the outcomes of programmes are eﬀective. This is referred to as 
+‘cash on delivery’, and some donors, such as Norway and Britain, are experimenting with this 
+ 
+approach. This gives countries an incentive to achieve outcomes eﬃciently. Norway has prom-
+ised aid for the preservation of forests, and Britain has agreed to pay Ethiopia £100 for each 
+extra pupil sitting a school-leaving exam.
+3FTFBSDITIPXTUIBUUIFunpredictability and volatility of the ﬂow of aid also aﬀect the impact 
+of aid on growth because they aﬀect the composition and eﬀectiveness of government expenditure 
+and can deter private investment. Aid is unpredictable if recipients cannot be conﬁdent about the 
+amount and timing of aid disbursements. Aid is volatile if it ﬂuctuates signiﬁcantly (predictably or 
+unpredictably). Measuring the predictability of aid is not easy, but it can be done with detailed data 
+on aid commitments and disbursements by donor agencies, such as the Development Assistance 
+Committee (DAC) of the OECD. Celasun and Walliser (2008) found that, on average, over the 
+period 1993–2005, disbursed budget aid diﬀered from the amount expected by 30%, or roughly 
+1% of GDP. Total aid disbursements to sub-Saharan Africa deviated from aid commitments by 3.4% 
+of GDP. Aid shortfalls cut investment, while aid windfalls encourage consumption. This aid unpre-
+dictability aﬀects the composition of expenditure in favour of consumption. Celasun and Walliser 
+(2008) ﬁnd that an aid shortfall of 1% of GDP is associated with a cut of investment expenditure of 
+about 0.1 to 0.2% of GDP, while a 1% aid windfall is associated with an increase in consumption of 
+about 0.6% of GDP. In other words, more predictable aid would lead to more investment.
+Aid volatility can be measured by the standard deviation of aid ﬂows. Lensink and Morrissey 
+(2000) take 75 countries over the period 1970–95 and ﬁnd that volatility negatively aﬀects growth 
+performance, but when volatility is controlled for, aid itself has a positive and signiﬁcant eﬀect on 
+growth performance.
+Since the fundamental purpose of international aid is the relief of primary poverty, there is 
+a strong case for arguing (as part of the reform of aid programmes) that assistance should be 
+given only to countries that are committed to poverty reduction programmes and make progress 
+towards certain targets, such as literacy, basic healthcare provision, reducing infant mortality and 
+so on. As incentives for governments to embark on and continue the programmes, donor coun-
+tries could, in turn, commit themselves to funding as long as the recipients continue to support 
+them. This would improve the certainty of aid ﬂows.
+The World Bank (2000) is moving in these directions. In its World Development Report 
+2000/2001, it refers to the new consensus on how aid can be made more eﬀective:
+ 
+t by linking aid to policy reforms
+ 
+t by improving coordination between donors
+431
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+•
+• by getting people in the recipient countries to believe that the projects or reforms will bring 
+benefits, so that countries feel they ‘own’ the programmes (see below on the reform of World 
+Bank lending).
+In 1999, the World Bank launched its Comprehensive Development Framework, which addresses 
+these various issues. One new approach is the sector-wide approach where donors sign on to 
+finance a sector (not individual projects), and the country itself does the work. An example is 
+given in Case example 14.2.
+To address problems of ownership, donor coordination, and fungibility, donors are 
+experimenting with pooling their resources to support sector-wide strategies designed 
+and implemented by the recipient government. The country, in consultation with key 
+stakeholders, designs a sector strategy and a budget framework extending several years 
+forward, and donors put their money into the central expenditure pool for the sector. The 
+approach encourages country ownership of sector strategies and programmes. It also links 
+sector expenditure with the overall macroeconomic framework. And it ensures coordin­
+ation of donor and recipient activities.
+Some benefits of a sector-wide programme are evident in the Zambian health 
+sector. In 1994, the government presented its national health policy and strategy to 
+donors and – to ensure equitable distribution of services and coherent implementa-
+tion of the strategy – asked them not to fund specific provinces or projects but to 
+fund the Ministry of Health centrally. Hesitant at first, donors began to comply. An 
+independent evaluation in 1997 found that: ‘health workers are better motivated; 
+clinics are functioning; funds are flowing to the districts; some modicum of decen-
+tralization is in place; [and] an important part of the private sector has become 
+formally involved’.
+The approach ensures full ownership by the country and eliminates problems of 
+donor coordination. With the country having more ownership and control over what 
+happens, the use of resources can be much more efficient. But it also means great 
+changes in donor–recipient relations and perhaps greater difficulties in implementa-
+tion. Several sector-wide programmes have stumbled because of the recipient coun-
+try’s inadequate institutional capacity. Lack of consistency with the macroeconomic 
+programme has been another problem. And donors often have too many require-
+ments and thus too much of a problem (or too little interest) in harmonizing them. 
+Furthermore, these arrangements greatly diminish donor control and monitoring of 
+exactly how money is spent.
+The changes required imply that gaining support for the approach will be dif-
+ficult. The recipient government has to be very confident, because strict adher-
+ence to a sector-wide approach means donors that do not participate in common 
+implementation arrangements are not allowed to act in the sector (that is, they 
+do not have their own projects). The result may be less donor funding for a sector. 
+Governments might therefore opt for less strict sector-wide programmes, choosing 
+instead to allow donors to implement projects as long as they fit into the overall 
+sector strategy.
+Source: World Bank, 2000.
+Case example 14.2
+Sector-wide development cooperation, mid-1990s
+432
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+The total net ﬂow of ﬁnancial resources to developing countries
+The total net flow of financial resources to developing countries is the total of all official 
+and private flows to developing countries net of repayments of past loans (amortization). 
+It includes flows given bilaterally by individual donor countries and multilaterally through 
+international organizations, and includes flows both with and without concessionary terms. 
+Most official flows are given on concessionary terms and are referred to as official develop-
+ment assistance (ODA). To qualify as such, the concessional (or grant) element of the flow 
+must be at least 25%. Only the concessional element of international financial flows really 
+qualifies for the term ‘aid’. The major donors of ODA are the 22 developed countries that 
+form the Development Assistance Committee (DAC) of the OECD, and the various multilat-
+eral agencies. In addition, OPEC countries have lent substantial sums on concessional terms 
+in recent years.
+Other developing countries themselves, such as China and Brazil, are also starting to distribute 
+aid, and India has set up its own agency to distribute $11 billion over the period 2012–17. 
+The magnitude of types of ﬂows, including FDI and remittances, is shown in Figure 14.1, and 
+the total net ﬂow of resources (excluding remittances) is shown in Table 14.2. Private ﬂows at 
+market terms (mainly FDI and export credits) are non-concessional ﬂows. The total net ﬂows 
+of ﬁnancial resource from DAC countries to developing countries and multilateral institutions in 
+2014 amounted to $577 billion, of which $137 billion was ODA and $402 billion consisted of non-
+concessional ﬂows, mainly FDI.
+The aid targets set for the developed countries of 1% of their national incomes refer to the 
+total net ﬂow of ﬁnancial resources, while the target for ODA alone is 0.7% of donor countries’ 
+OBUJPOBMJODPNFT3FNFNCFSUIFOFUnPXPGmOBODJBMSFTPVSDFTJTOPUUIFTBNFUIJOHBTUIF
+ﬂow of real resources, since the former does not take account of interest payments and proﬁt 
+repatri 
+ation. If the terms of lending are steady over time, the net transfer of resources in any one 
+year (that is, the gross capital inﬂow net of amortization and interest and proﬁt payments) will 
+be approximately equal to the estimated grant equivalent or aid component of assistance, the 
+measurement of which is discussed later.
+800
+US$ billion
+Remittances
+FDI
+FDI excl.
+China
+ODA
+Private debt & portfolio equity
+700
+600
+500
+400
+300
+200
+100
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+0
+-100
+Figure 14.1 The magnitude of ﬂows to developing countries
+Sources: World Development Indicators and World Bank Development Prospects Group
+433
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+Table 14.2  Total flow of financial resources from DAC countries to developing countries and multi-
+lateral ­
+organizations, by type of flow
+$ million
+Per cent of total
+2014
+2014
+I. Official development assistance
+137 222
+23.78
+1. Bilateral ODA
+94 663
+16.41
+of which: General budget support
+624
+0.11
+Core support to national NGOs
+2 070
+0.36
+Investment projects
+13 788
+2.39
+Debt relief grants
+462
+0.08
+Administrative costs
+6 347
+1.10
+Other in-donor expenditures
+6 912
+1.20
+2. Contributions to multilateral institutions
+42 559
+7.38
+of which: UN
+6 803
+1.18
+EU
+13 269
+2.30
+IDA
+8 916
+1.55
+Regional development banks
+4 002
+0.69
+II. Other official flows
+4 626
+0.80
+1. Bilateral
+4 747
+0.82
+2. Multilateral
+- 121
+-0.02
+III. Private flows at market terms
+402 936
+69.83
+1. Direct investment
+189 624
+32.86
+2. Bilateral portfolio investment
+206 979
+35.87
+3. Multilateral portfolio investment
+3 012
+0.52
+4. Export credits
+3 321
+0.58
+IV. Net grants by NGOs
+32 246
+5.59
+TOTAL NET FLOWS
+577 030
+100
+Source: OECD, 2015.
+Official development assistance (ODA)
+The total flow of ODA from the DAC countries in 2014 was $137 billion, of which approximately 
+$94 billion consisted of grants, and $42 billion was disbursed by multilateral institutions.
+The evolution of ODA in current and constant (2004) prices, and as a ratio of national income, 
+is shown in Figures 14.2 and 14.3. The total value of ODA rose from less than $40 billion a year 
+in 1960 to nearly $140 billion today. On the other hand, the ratio of ODA to national income fell 
+more or less continuously from 1960 to 2004, despite the commitment in the 1970s to the 0.7% 
+aid target, and it has only started to rise in the past decade.
+The 2014 record of individual DAC countries as providers of ODA is shown in Table 14.3, 
+together with the flow measured as a proportion of the donor’s gross national income (GNI). 
+It can be seen that only the Netherlands, Denmark, Norway, Luxembourg, Sweden and the UK 
+434
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+met the aid target of 0.7% of GNI. The USA is the richest country but contributes the lowest 
+proportion of GNI. The ratio for all DAC countries now averages only 0.3%.
+Total net flow of financial resources from DAC countries
+As well as providing ODA, there are other official flows on non-concessional terms from 
+DAC countries to developing countries, and DAC countries are the major source of the various 
+private flows. Table 14.3 also shows the total net flow of financial resources by DAC countries to 
+developing countries and multilateral agencies, together with the total flow as a proportion of the 
+donor’s GNI. Many of the countries that failed to meet the official development assistance target 
+managed to meet the total net financial flow target of 1% of GNI by virtue of large volumes of 
+private lending.
+1960
+1965
+1970
+1975
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+2014
+Years
+0
+20
+40
+60
+80
+100
+120
+140
+160
+ODA (US$ billion)
+Figure 14.2  Official development assistance (ODA), 1960–2014
+Source: Based on OECD Data-Aid Statistics.
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+1960
+1965
+1970
+1975
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+2014
+%
+Years
+Figure 14.3  Ratio of ODA to GNI, 1960–2014
+Source: Based on OECD Data-Aid Statistics
+435
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+Table 14.3  ODA and total net flow of financial resources from DAC countries to developing coun-
+tries and multilateral agencies, 2014
+ODA
+Total net flows by DAC country
+US$ million
+% of GNI
+US$ million
+% of GNI
+Australia
+4 382
+0.31
+31 975
+2.29
+Austria
+1 235
+0.28
+3 284
+0.76
+Belgium
+2 448
+0.46
+8 726
+1.65
+Canada
+4 240
+0.24
+18 175
+1.03
+Czech Republic
+212
+0.11
+106
+0.06
+Denmark
+3 003
+0.86
+4 194
+1.20
+Finland
+1 635
+0.60
+3 027
+1.12
+France
+10 620
+0.37
+19 222
+0.67
+Germany
+16 566
+0.42
+54 375
+1.37
+Greece
+247
+0.11
+- 438
+-0.19
+Iceland
+37
+0.22
+37
+0.22
+Ireland
+816
+0.38
+1 203
+0.55
+Italy
+4 009
+0.19
+8 706
+0.41
+Japan
+9 266
+0.19
+40 501
+0.84
+Korea
+1 857
+0.13
+10 542
+0.74
+Luxembourg
+423
+1.06
+423
+1.06
+Netherlands
+5 573
+0.64
+68 874
+7.85
+New Zealand
+506
+0.27
+667
+0.36
+Norway
+5 086
+1.00
+5 040
+0.99
+Poland
+452
+0.09
+452
+0.09
+Portugal
+430
+0.19
+- 331
+-0.15
+Slovak Republic
+83
+0.09
+83
+0.09
+Slovenia
+62
+0.12
+62
+0.12
+Spain
+1 877
+0.13
+13 669
+0.98
+Sweden
+6 233
+1.09
+9 325
+1.64
+Switzerland
+3 522
+0.50
+4 673
+0.67
+United Kingdom
+19 306
+0.70
+31 809
+1.16
+United States
+33 096
+0.19
+238 648
+1.34
+TOTAL DAC
+137 222
+0.30
+577 029
+1.24
+Source: OECD, 2015.
+UK assistance to developing countries
+The total flow of ODA from the UK to developing countries and multilateral agencies in 2014 was 
+over $19 billion (see Table 14.4). Just over half the assistance is bilateral and the remainder goes 
+to multilateral institutions. Of total bilateral aid, most goes into investment projects, including 
+technical assistance, and for core support for NGOs working in poor countries. Recently, the UK 
+436
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+has closed its bilateral programmes in several countries and now concentrates on just 28 of the 
+poorest countries. Some 30% of the budget is committed to states affected by conflict.
+The UK aid programme is administered by the Department for International Development 
+(DfID) and its mission statement is given in Case example 14.3.
+Case example 14.3
+DfID mission statement
+The Department for International Development (DfID) leads the UK’s work to end 
+extreme poverty. We’re ending the need for aid by creating jobs, unlocking the poten-
+tial of girls and women and helping to save lives when humanitarian emergencies hit.
+Responsibilities
+We are responsible for:
+•
+• honouring the UK’s international commitments and taking action to achieve the 
+United Nations’ Global Goals (https://www.gov.uk/government/news/greening-
+britain-backs-the-global-goals-for-sustainabledevelopment)
+•
+• making British aid more effective by improving transparency, openness and value 
+for money
+•
+• targeting British international development policy on economic growth and wealth 
+creation
+•
+• improving the coherence and performance of British international development 
+policy in fragile and conflict-affected countries
+•
+• improving the lives of girls and women through better education and a greater 
+choice on family planning
+•
+• preventing violence against girls and women in the developing world
+•
+• helping to prevent climate change and encouraging adaptation and low-carbon 
+growth in developing countries.
+Priorities
+•
+• Strengthening global peace, security and governance.
+•
+• Strengthening resilience and response to crisis.
+•
+• Promoting global prosperity.
+•
+• Tackling extreme poverty and helping the world’s most vulnerable.
+Source: www.gov.uk/government/organisations/department-for-international-development.
+The focus is very much on poverty reduction through social expenditure on health and educa-
+tion. Part of doctors’ salaries in Africa are paid out of the aid budget, as well as user fees for medi-
+cines and various forms of hospital care. The aid budget is also increasingly being used to improve 
+security in ‘fragile states’ (see Chapter 9).
+Perhaps the most significant recent development, however, is that DfID tries not to tell the aid-
+receiving countries what to do; rather, it listens to what countries want to achieve and tries to help 
+them to do so by ensuring that aid strengthens a country’s system for planning, budgeting and 
+accounting. As much aid as possible is channelled through countries’ budgets so that they can assess 
+resources and plan spending. Aid conditionality has been abandoned (see Case example 14.4).
+437
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+Table 14.4  Total net flow of financial resources from the UK to 
+developing countries and multilateral agencies, 2014
+Net disbursements
+US $million
+I. Official development assistance (ODA) (A 1 B)
+19 306
+   ODA as % of GNI
+0.70
+   A. Bilateral official development assistance
+11 233
+	
+of which: General budget support
+87
+	
+Core support to national NGOs
+394
+	
+Investment projects
+916
+	
+Administrative costs
+432
+	
+Other in-donor expenditures
+226
+	
+of which: Refugees in donor countries
+222
+   B. Contributions to multilateral institutions
+8 073
+	
+of which: UN
+855
+	
+EU
+1 922
+	
+IDA
+2 702
+	
+Regional development banks
+464
+II. Other official flows (OOF) net (C 1 D)
+41
+     C. Bilateral other official flows (1 1 2)
+41
+          1. Official export credits
+–
+          2. Equities and other bilateral assets
+41
+     D. Multilateral institutions
+–
+III. Grants by private voluntary agencies
+–
+IV. Private flows at market terms (long-term) (1 to 4)
+12 462
+          1. Direct investment
+–
+          2. Private export credits
+299
+          3. Bilateral portfolio investment
+12 761
+          4. Securities of multilateral agencies
+–
+V. Total resource flows (long-term) (I to IV)
+31 809
+Total resource flows as a % of GNI
+1.16
+Source: OECD, 2015.
+Traditional conditionality, under which donors link aid to the implementation of particu-
+lar policies by developing countries, is not compatible with the guiding principles of the 
+country-led approach. It limits governments’ freedom to design poverty reduction plans 
+suited to the circumstances of their countries, and it compromises their accountability to 
+their own citizens. It also undermines efforts to make aid more predictable. Conditional-
+ity has been particularly criticized when applied to privatization and trade liberalization. 
+But even where it has been less controversial, there is little evidence that conditionality 
+Case example 14.4
+Rethinking conditionality
+continued overleaf
+438
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+The recipients of ODA
+We end this statistical section by showing the distribution of ODA across the regions and con-
+tinents of the world. Table 14.5 shows the total amount disbursed, the amount per head of the 
+population, the percentage of GNI of the recipient region, and the percentage contribution that 
+Case example 14.4
+Rethinking conditionality – continued
+has been effective in promoting long-term policy reform. The UK has therefore adopted 
+a new approach, in which the key purpose is to safeguard donor resources from misuse, 
+rather than to promote policy change in partner countries. Good policy remains vital for 
+development, and we will continue to discuss policy options with partner countries. But 
+we will not attempt to impose policies on them by making aid conditional on specific 
+policy decisions. Our aid relationships will be based on three shared commitments – to 
+poverty reduction, to human rights and other international obligations, and to sound 
+financial management and accountability. Only if countries veer substantially away from 
+these commitments will we consider reducing or withdrawing agreed aid.
+To specify what our aid is intended to achieve, and as a basis for measuring progress, 
+we will agree on benchmarks with partner countries, drawn from national poverty 
+reduction plans. They will focus on outcomes and results, rather than on particular 
+policies, and will be the basis for both partners to be accountable to their citizens for 
+the effective use of aid. Although aid will not be conditional on the achievement of 
+any particular benchmark, the rate and pattern of a country’s progress will contribute 
+to our assessment of its continuing commitment to poverty reduction and may be 
+reflected in our subsequent aid allocation decisions.
+Source: DfID.
+Table 14.5  The recipients of aid, 2013
+Net official development assistance
+$ millions
+$ Per head
+% of GNI
+% of gross capital formation
+World
+150,086
+21.0
+0.2
+0.8
+Low income
+43,859
+72.0
+11.9
+44.6
+Middle income
+61,288
+12.0
+0.3
+0.8
+Lower middle income
+45,811
+16.0
+0.8
+3.2
+Upper middle income
+14,475
+6.0
+0.1
+0.2
+Low and middle income
+149,928
+26.0
+0.6
+1.8
+East Asia and Pacific
+11,875
+6.0
+0.1
+0.2
+Europe and Central Asia
+9,026
+34.0
+0.5
+2.1
+Latin America and Caribbean
+10,202
+20.0
+0.2
+1.0
+Middle East and North Africa
+25,682
+73.0
+1.6
+5.5
+South Asia
+14,065
+8.0
+0.6
+2.0
+Sub-Saharan Africa
+46,769
+49.0
+2.9
+13.8
+High income
+159
+0.0
+0.0
+0.0
+Source: World Bank, 2015.
+439
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+ODA makes to total capital formation. As expected, most flows go to low-income and lower 
+middle-income countries, but the amount per head is relatively small – $72 per head in low-
+income countries and only $16 per head in lower middle-income countries. On the other hand, 
+the percentage of ODA to GNI in low-income countries exceeds 10%, and it finances 44.6% of 
+gross capital formation. In short, the poorest countries of the world are heavily dependent on 
+ODA for their growth and living standards. Of the continents, by far the largest recipient is Africa, 
+where ODA per head is $49 and ODA’s contribution to capital formation is 13.8%.
+Aid tying
+About $15 billion of DAC aid to developing countries (roughly one-fifth of total bilateral aid) is 
+tied to the purchase of donors’ goods. In this sense, capital inflows are not worth as much as they 
+might be, as the recipients have to pay higher prices for goods and services bought with aid money 
+than the prices prevailing in the free market. Tying tends to be of two kinds: restrictions on where 
+the recipients can spend the aid money, and restrictions on how the aid is used. Spending restric-
+tions take the form of tying assistance to purchases in the donor country – so-called ‘procurement 
+tying’. This reduces the real worth of aid because it prevents recipients from shopping around to 
+find the precise goods they want in the cheapest markets. Use restrictions normally mean that the 
+aid must be used to cover the foreign exchange costs of a defined project. Restricting the use of 
+aid to particular projects as well as to the donor country’s goods amounts to double tying. Tying 
+can be expensive.
+The price of tied goods can be 20% or more above the price of the same goods in the free market 
+(see Jepma, 1991; Morrissey and White, 1993). Moreover, there are other costs of tying apart from 
+the inability of the recipient to buy in the cheapest market. If there is double tying, the project for 
+which assistance is given might not fit perfectly into the recipient’s development programme, the 
+technology might be inappropriate, the donor may raise the import content un­
+necessarily, the 
+suppliers may engage in exploitation, knowing that they have a captive consumer, and servicing 
+over the life of the investment may be expensive.
+The excess cost of imported goods from the tied source represents a form of export subsidy to 
+suppliers in the donor country, in the sense that if the aid was not tied and the suppliers had to remain 
+competitive, the subsidy would have to be paid by the donor country itself. This subsidy to exporters 
+in DAC countries through aid tying amounts to about $2 billion a year, or 2% of DAC assistance.
+The one mitigating factor in all this is that the project for which assistance is given in tied form 
+may have been undertaken anyway using the same source of supplies, in which case the assistance 
+releases resources for another purpose. In other words, assistance to a certain extent is fungible 
+because of resource switching. The fungibility of assistance also means that the balance of pay-
+ments gain to the donor from tying may be quite small in practice because one form of purchase 
+is substituted for another. This could be used as a bargaining weapon to reduce the extent of tying, 
+the major reason for which seems to be balance of payments protection of the donors.
+Remittances
+Remittances from migrant workers are a growing source of resource transfer to many poor devel-
+oping countries, supporting their balance of payments, and allowing the countries to grow faster 
+than would otherwise be the case. In 2015, nearly 300 million migrant workers across the world 
+440
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+remitted back to their homelands (developing countries) over $600 billion, more than four times 
+higher than the volume of ODA, and more than FDI, excluding flows to China. And these are just 
+official remittances; informal flows may be as high as formal flows. The estimated workers’ remit-
+tances to developing countries by region are shown in Table 14.6. East Asia and the Pacific, and 
+South Asia receive the most. Each migrant remits, on average, $2,000, or 20% of their earnings. For 
+over twenty countries in the world, for example Bangladesh, Jamaica, Nicaragua and Tajikistan, 
+remittances account for over 10% of GDP. The largest country recipient is Mexico, with flows of 
+$30 billion. The largest remitter is Saudi Arabia (not the USA).
+Remittances support the balance of payments of recipient countries and can be used either 
+for consumption purposes or used productively to set up small businesses, to build houses, to 
+invest in health and education. If remittances are consumed on domestic goods or imports, 
+this increases the tax revenue of countries and enables them to spend more on socially useful 
+purposes (see Chami and Fullenkamp, 2013). There is evidence that the children of families that 
+receive remittances stay longer in school, and infant mortality is lower. In general, remittances 
+help to reduce poverty.
+The long-run growth effects are more controversial. The IMF (2003), using data for 100 
+developing countries for the period 1975–2002, finds that remittances boost growth in 
+countries with less developed financial systems by providing an alternative way to finance 
+investment, but remittances don’t seem to impact on growth in countries with already well-
+functioning credit markets. Catrinescu et al. (2008) find in their study across 162 countries 
+over 34 years that the impact of remittances on growth depends on the quality of a country’s 
+institutions; specifically: ‘low level of ethnic tension; good governance; prevalence of law and 
+order and good socioeconomic conditions are preconditions for a successful use of migrant 
+remittances’. Their central estimate is that a 1% increase in the remittances/GDP ratio leads 
+to a 0.04–0.05 percentage point increase in growth on average. Findings of a negative relation 
+between remittances and growth are due to the failure to take into account the institutional 
+structure of countries.
+Table 14.6  Estimates and projections for remittance flows to developing countries
+2012
+2013
+2014
+2015
+2016
+2017
+(US$ billions)
+World
+531
+551
+582
+608
+636
+667
+Low-income countries
+33
+34
+37
+39
+41
+44
+Middle-income
+367
+380
+398
+415
+434
+455
+High income
+131
+137
+148
+154
+161
+168
+Developing countries
+400
+414
+435
+454
+475
+499
+East Asia and Pacific
+108
+114
+122
+127
+134
+141
+Europe and Central Asia
+44
+48
+49
+50
+52
+54
+Latin America and Caribbean
+60
+61
+64
+67
+70
+73
+Middle-East and North Africa
+49
+49
+51
+53
+55
+58
+South Asia
+108
+111
+117
+123
+129
+136
+Sub-Saharan Africa
+31
+32
+33
+34
+36
+38
+Source: World Bank calculations based on IMF balance of payments statistics.
+441
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+Multilateral assistance
+The major sources of multilateral assistance to developing countries are the World Bank (the 
+International Bank for Reconstruction and Development, IBRD) and its two affiliates, the 
+International Development Association (IDA) and the International Finance Corporation (IFC), 
+as well as the UN and various regional development banks.
+The total disbursement in 2014 was $92 billion, of which $52 billion was on concessional terms. 
+A detailed breakdown of the lending by the various multilateral agencies from 2010 to 2014 is 
+given in Table 14.7. The disbursements by multilateral agencies to developing countries consist 
+not only of the contributions of developed countries but also of funds raised on the international 
+capital market and repayments of previous loans. As can be seen from Table 14.7, the World Bank 
+is essentially a commercial institution lending on non-concessional terms, and it raises large sums 
+of money on the world’s capital markets.
+The IDA is the ‘soft’ loan affiliate of the World Bank and dispenses loans at very low rates of 
+interest with long repayment periods. It is the most important provider of concessional multilateral 
+assistance. Since 1960, it has lent over $200 billion to over 100 countries. Only countries with 
+less than a certain level of per capita income are eligible to receive assistance but this currently 
+includes at least 80 countries with over 3 billion people. The EU has also become a major provider 
+of concessional assistance through the European Development Fund (EDF). In 2014, it dispensed 
+over £18 billion – a little more than the IDA. The major providers of non-concessional assistance 
+in recent years (apart from the World Bank) have been the two regional development banks – the 
+Inter-American Development Bank (IDB), lending to Latin America, and the Asian Development 
+Bank (AsDB).
+Table 14.7  Concessional and non-concessional flows by multilateral organizations, US$ million, at 
+current prices and exchange rates
+Gross disbursements
+2010
+2011
+2012
+2013
+2014
+Concessional flows
+International financial institutions
+  AfDB
+2 414
+2 355
+2 548
+2 420
+2 148
+  AsDB
+1 930
+1 940
+1 835
+2 696
+2 798
+  CarDB
+75
+72
+64
+92
+113
+  EBRD
+–
+–
+–
+–
+–
+  IDA
+12 123
+11 703
+12 523
+12 307
+13 759
+  IDB Sp. Fund
+1 994
+1 703
+1 619
+2 169
+1 938
+  IMF
+2 973
+1 455
+1 506
+1 212
+832
+  Nordic Dev. Fund
+65
+70
+56
+49
+50
+Total IFIs
+21 575
+19 297
+20 151
+20 945
+21 638
+United Nations
+  IFAD
+520
+621
+631
+612
+531
+  UNAIDS
+246
+265
+242
+246
+239
+continued overleaf
+442
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Gross disbursements
+2010
+2011
+2012
+2013
+2014
+  UNDP
+613
+494
+487
+468
+463
+  UNFPA
+316
+315
+349
+355
+340
+  UNHCR
+393
+441
+424
+417
+480
+  UNICEF
+1 050
+1 104
+1 152
+1 252
+1 342
+  UNRWA
+545
+608
+667
+539
+680
+  UNTA
+–
+–
+–
+–
+–
+  WFP
+244
+345
+355
+365
+309
+  WHO
+366
+452
+397
+475
+471
+  Other UN
+151
+145
+148
+594
+153
+Total UN
+4 443
+4 792
+4 851
+5 325
+5 008
+  EU institutions
+12 638
+17 947
+18 082
+17 166
+18 454
+  Adaptation Fund
+22
+47
+24
+7
+13
+  Arab Funds
+1 864
+1 599
+1 569
+1 671
+1 717
+  CEB
+42
+133
+95
+122
+77
+  CIF
+–
+–
+–
+151
+350
+  GAVI
+772
+819
+1 068
+1 544
+1 415
+  GEF
+530
+474
+539
+574
+606
+  GGGI
+–
+–
+–
+16
+16
+  Global Fund
+3 031
+2 647
+3 359
+4 009
+2 887
+  Montreal Protocol
+21
+10
+5
+37
+45
+  OSCE
+150
+151
+135
+134
+131
+Total concessional
+45 085
+47 915
+49 878
+51 701
+52 356
+Non-concessional flows
+  AfDB
+2 042
+3 051
+3 510
+2 304
+3 045
+  Arab Funds
+1 983
+2 297
+1 752
+2 134
+2 205
+  AsDB
+5 272
+5 626
+6 900
+6 163
+7 600
+  CarDB
+247
+83
+36
+54
+49
+  CEB
+147
+440
+171
+297
+285
+  CIF
+–
+–
+–
+70
+56
+  EBRD
+3 399
+4 022
+3 501
+3 961
+4 823
+  EU institutions
+8 259
+982
+762
+1 510
+868
+  IBRD
+26 511
+15 971
+15 136
+16 234
+15 858
+  IDB
+10 175
+7 187
+6 447
+9 828
+8 789
+  IFAD
+44
+49
+63
+57
+92
+  IFC
+4 184
+4 733
+6 414
+6 743
+–
+Total non-concessional
+62 264
+44 441
+44 693
+49 356
+43 671
+Source: OECD, 2015.
+Table 14.7  Concessional and non-concessional flows by multilateral organizations, US$ million, at 
+current prices and exchange rates – continued
+443
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+World Bank activities
+The activities of the World Bank since its creation in 1946 have broadly reflected changes in 
+thinking about development policy and development priorities – changes that the World Bank 
+itself has played a large part in promoting. In the early years, and throughout the 1960s, its 
+major emphasis was on financing infrastructure projects in the field of power generation and 
+distribution, transportation, ports, telecommunications and irrigation. There was very little 
+support for agriculture and rural development, or industry and tourism; and programme loans 
+(as opposed to project assistance) were largely confined to countries outside those classified as 
+less developed.
+The World Bank began to realize, however, that investment in infrastructure was not enough; 
+that it had a role to play in lending to support directly productive activities. It also recognized the 
+need for investment in education and managerial skills, and became increasingly aware that the 
+development taking place in the countries it was supporting was not trickling down to the vast 
+masses of the poor. In the late 1960s and throughout the 1970s, it began to play a more active role 
+in agriculture and in helping both the rural and urban poor. Robert McNamara, president from 1968 
+to 1981, inaugurated this radical change of emphasis in his annual address to the World Bank in 
+Nairobi in 1973. He defined absolute poverty as: ‘a condition of life so degraded by disease, illiteracy, 
+malnutrition and squalor as to deny its victims basic human necessities’, and he pledged that the 
+bank would make a concerted attack on rural poverty in order to raise the productivity of the poor 
+and improve the incomes of small farmers. The objective was to provide most of the benefits of 
+lending to those in the bottom 40% of the income distribution. In 1975, the World Bank announced 
+that it would also attempt to deal with the problems of the urban poor by promoting productive 
+employment opportunities on labour-intensive projects, and by developing basic services to serve 
+the poor at low cost, for example water supplies, sanitation and family planning services.
+Successive presidents of the World Bank have reiterated its commitment to helping the poor. 
+It was mentioned in Chapter 2 that Lewis Preston announced in May 1992 that poverty reduction 
+will be the ‘benchmark by which our performance as a development institution will be measured’, 
+and this was reaffirmed by his successor, James Wolfensohn, president from 1995 to 2005, who 
+wrote in the World Development Report 2000/2001: ‘poverty amidst plenty is the world’s greatest 
+challenge. We at the Bank have made it our mission to fight poverty with passion and profes-
+sionalism, putting it at the centre of all the work that we do’ (World Bank, 2000). Robert Zoellich, 
+Wolfensohn’s successor, said: ‘it is the vision of the World Bank Group to contribute to inclusive 
+and sustainable globalization – to overcome poverty, enhance growth with care for the environ-
+ment, and create individual opportunity and hope’. Dr Jim Yong Kim, the current president, has 
+said: ‘our mission at the World Bank is defined by two goals – to end extreme poverty by 2030, and 
+to boost prosperity among the poorest 40% in low- and middle-income countries’.
+The World Bank sees four major challenges:
+1.	 To spur growth and overcome poverty, particularly in Africa, by provision of infrastructure, 
+tackling corruption and raising agricultural productivity.
+2.	 To help countries coming out of conflict, and failed states.
+3.	 To foster regional and global public goods, for example disease control, dissemination of tech-
+nology and combating global warming.
+4.	 To advance development and opportunities in the Arab world, and to reduce social tensions 
+particularly among young people who cannot find jobs.
+It is committed to the Sustainable Development Goal of eliminating poverty by the year 2030.
+444
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+The distribution of World Bank assistance for various purposes is shown in Table 14.8. The largest 
+bulk of lending goes on economic infrastructure, which includes transport, communications and 
+energy. Agriculture is still relatively neglected, with only 6.7% of the budget.
+Structural adjustment lending
+Another initiative was introduced by the World Bank in October 1979: structural adjustment 
+lending to countries in order to support their balance of payments. To qualify for structural 
+adjustment loans, a country has to adopt policies that are acceptable to the bank and designed 
+to secure external equilibrium in the longer run without sacrificing growth. The emphasis is on 
+improving the supply-side capacity of the economy.
+Table 14.8  Distribution of World Bank lending, 2014
+% of total multilateral finance
+Social and administrative infrastructure
+35.0
+Education
+7.4
+of which: Basic education
+4.1
+Health
+3.8
+of which: Basic health
+2.4
+Population
+0.2
+Water supply and
+sanitation
+7.1
+Government and civil society
+10.2
+Other social infrastructure/service
+6.3
+Economic infrastructure
+43.9
+Transport and communications
+13.3
+Energy
+16.2
+Other
+14.5
+Production
+13.7
+Agriculture
+6.7
+Industry, mining and construction
+6.3
+Trade and tourism
+0.7
+Multisector
+4.4
+Programme assistance
+0.4
+Action relating to debt
+0.0
+Humanitarian aid
+2.4
+Administrative expenses
+-
+Other and unspecified
+0.1
+TOTAL
+100.0
+Source: OECD, 2015.
+445
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+The World Bank defines structural adjustment loans as ‘non-project lending to support pro-
+grammes of policy and institutional change to modify the structure of the economy so that it can 
+maintain both its growth rate and viability of its balance of payments in the medium term’. The 
+loans are geared to seven main areas:
+•
+• Supply-side reforms, for example improving the efficiency with which markets operate
+•
+• Price reforms
+•
+• Changing the price of tradable goods relative to non-tradables
+•
+• Getting the ‘correct’ terms of trade between agricultural goods and industrial goods
+•
+• Reducing the size of the public sector
+•
+• Financial reforms
+•
+• Tax reforms.
+Governments must commit themselves to policy reform in order to qualify for a loan.
+Balance of payments support has been the traditional preserve of the International Monetary 
+Fund (IMF: see Chapter 16), but there is a difference of emphasis between the IMF and the World 
+Bank. Whereas IMF policies focus primarily on balance of payments management, the World Bank 
+is more concerned with promoting policies to increase efficiency and providing incentives to raise 
+export earnings and reduce import payments. Clearly, however, the roles of the two institutions 
+now overlap and will do so increasingly as the IMF itself insists on supply-side policies as a condi-
+tion for assistance, as well as on the traditional demand-side policies of devaluation and mon-
+etary contraction. (See Taylor, 1997 for a trenchant summary and critique of IMF and World Bank 
+policies in poor countries.) The distinct roles of the IMF and the World Bank are outlined in Case 
+example 14.5.
+The IMF and the World Bank were conceived at the Bretton Woods conference in July 
+1944 to strengthen international economic cooperation and to help create a more 
+stable and prosperous global economy. Although these goals have remained central to 
+both institutions, their mandates and functions differ, and their work has evolved in 
+response to new economic developments and challenges.
+The IMF promotes international monetary cooperation and provides member 
+countries with policy advice, temporary loans and technical assistance so they can 
+establish and maintain financial stability and external viability, and build and main-
+tain strong economies. The IMF’s loans are provided in support of policy programmes 
+designed to solve balance of payments problems – that is, situations in which a country 
+cannot obtain sufficient financing on affordable terms to meet international payment 
+obligations. Some IMF loans are relatively short term and funded by the pool of quota 
+contributions provided by its members. Others are for longer periods, including con-
+cessional loans provided to low-income members on the basis of subsidies financed by 
+past IMF gold sales and members’ contributions. In its work in low-income countries, 
+the IMF’s main focus is on how macroeconomic and financial policies can contribute 
+to laying a basis for sustainable growth and poverty reduction. Most IMF professional 
+staff are economists.
+The World Bank promotes long-term economic development and poverty reduc-
+tion by providing technical and financial support, including by helping countries 
+Case example 14.5
+The IMF and the World Bank: What’s the difference?
+continued overleaf
+446
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Since the purpose of structural adjustment lending and the structural adjustment pro-
+grammes (SAPs) is to improve the growth potential of countries, evaluations of these lending 
+programmes by independent investigators and the World Bank itself have focused on the key 
+macro variables of GDP growth, savings, investment, exports and the balance of payments. In 
+a World Bank symposium on adjustment lending, Corbo et al. (1992) single out the following 
+as indicators of country performance: real GDP growth, the ratio of savings to GDP, the ratio 
+of investment to GDP, and the export ratio. Their methodology is to compare countries that 
+have SAPs with other countries that have less intensive adjustment lending programmes and 
+with countries that had received no adjustment loans. The performance of the three sets of 
+countries is then compared relative to their performance in a base period before any loans 
+were dispensed (that is, pre-1979). It appears that only the export ratio was superior in the SAP 
+countries, and the investment ratio was much worse. This was also the conclusion of another 
+World Bank study (1990), which found that structural adjustment lending had achieved a 
+modest degree of success in helping countries to improve their balance of payments, but 
+had failed to lead to an upsurge in investment or to enable countries to ‘grow out of debt’. 
+Another major study of 40 countries (Harrigan and Mosley, 1991) found that the effect on 
+GDP growth had been negligible; export growth and the balance of payments had improved, 
+but investment had declined. The main reason for the disappointing results appears to be the 
+heavy requirements (or conditionality) placed on recipient governments, which have served 
+to depress demand and confidence. There is a general consensus that the requirements should 
+be less stringent and more selective, and more sensitive to each country’s circumstances (see 
+Mosley et al., 1991).
+SAPs have particularly hit the poor in many countries. Cornia et al. (1987, 1988) called for 
+‘adjustment with a human face’, but the record is still not good. A major study by Noorbakhsh 
+(1999), comparing the periods 1970–85 and 1986–92 in countries with SAPs and those without, 
+found that virtually all the indicators of the standard of living – for example, infant mortality, life 
+expectancy, adult literacy, primary school enrolment and per capita calorie supply – fared worse 
+in countries with structural adjustment loans.
+It would seem that much more care is required in the design of SAPs if they are to achieve 
+growth with equity (see Bourguignon and Morrisson, 1992), and if the World Bank is to avoid 
+the charge of being an anti-developmental institution, like its sister institution, the IMF (see 
+Chapter 16). In fact, one of the most damning indictments of SAPs comes from Joseph Stiglitz 
+Case example 14.5
+The IMF and the World Bank: What’s the difference? – continued
+­
+reform particular sectors or implement specific projects; for example, building schools 
+and health centres, providing water and electricity, fighting disease, and protecting 
+the environment. World Bank financial assistance is generally long term and is funded 
+by member country contributions and through bond issuance. World Bank staff have 
+qualifications that embrace a broader range of disciplines than those of IMF staff.
+The IMF and the World Bank collaborate in a variety of areas, particularly in sup-
+porting governments in implementing poverty reduction strategies in low-income 
+countries, providing debt relief for the poorest countries, and assessing the financial 
+sectors of countries. The two institutions hold joint meetings twice a year.
+Source: IMF, 2006.
+447
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+The imposition of harsh conditionality, which has not worked, and the relative failure of 
+SAPs, has led to calls for reform of World Bank lending. Gilbert et al. (1999) suggest that ex 
+ante conditionality should be abandoned altogether. Instead, the World Bank should say to 
+countries: ‘If you get your own house in order you can borrow from us without conditions, 
+and can continue to do so as long as sensible economic policies are pursued and good gov-
+ernance prevails.’ This amounts to a form of ex post conditionality, but the countries would 
+‘own’ the policies rather than be dictated to by the bank. For countries without good govern-
+ance and the ability to reform, it should stop lending. Instead, it should act as a knowledge 
+bank for the dissemination of best practice techniques in economic management and policy 
+reform. This would require more World Bank staff in the countries concerned, fulfilling a 
+training role.
+Poverty Reduction Strategy Papers (PRSPs)
+World Bank policy is already moving in the direction suggested above. In a new approach 
+announced by the World Bank and IMF in 1999, national governments are offered a role in 
+shaping and implementing anti-poverty strategies as part of its new focus on tackling poverty 
+directly and making debt relief conditional on countries producing Poverty Reduction Strategy 
+Papers (PRSPs) (see Case example 14.6). According to the World Bank, the focus of PRSPs 
+should be on ‘identifying in a participatory manner the poverty reduction outcomes a country 
+wishes to achieve and the key public actions – policy changes, institutional reforms, programmes 
+and ­
+projects – that are needed to achieve the desired outcomes’. The idea is that the attack on 
+poverty should be based on partnership between governments and all sections of society con-
+cerned with poverty reduction, with governments leading the process of setting the goals and 
+­
+monitoring the process.
+Joseph Stiglitz
+Born 1943, Gary, Indiana, USA. Taught in several universities including 
+MIT, Yale, Stanford, Princeton and Oxford. Now Professor of Economics 
+at Columbia University. Former Chairman of the Council of Economic 
+Advisers under President Clinton (1995–97), and Chief Economist of 
+the World Bank (1997–2000). Most prolific economist of his generation, 
+with major contributions to virtually every branch of economics. Highly 
+critical of the global trade and financial architecture in such books as 
+Globalization and its Discontents (2002) and Making Globalization Work 
+(2006). Awarded the Nobel Prize for Economics in 2001.
+(2002), a former chief economist of the World Bank, in his powerful book Globalization and 
+its Discontents, who attacks IMF policy-making at the same time. We leave the discussion until 
+Chapter 16.
+448
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Poverty reduction strategies (PRS) are central to IMF-supported economic and finan-
+cial programmes in low-income countries. Poverty Reduction Strategy Papers (PRSPs) 
+assess policy challenges, describe how macroeconomic, structural and social policies 
+and programmes can promote growth and reduce poverty, and outline external fund-
+ing needs and the associated sources of financing. They are prepared by governments 
+in low-income countries generally through a participatory process involving domestic 
+stakeholders and external development partners.
+The PRSP approach was initiated by the IMF and World Bank in 1999 in the con-
+text of the Heavily Indebted Poor Country (HIPC) Initiative (see later), and Annual 
+Progress Reports as a basis for debt reduction. The same documents were subse-
+quently used to anchor IMF-supported programmes for low-income countries to 
+allow for the implementation of strategies to achieve sustained poverty reduction 
+and growth.
+The core principles of the current PRS policy in IMF-supported programmes are:
+•
+• Maintain the link between members’ PRS and policies under IMF-supported pro-
+grammes, with streamlined PRS documentation.
+•
+• Preserve national ownership of the PRS process.
+•
+• Provide flexibility in the scope and coverage of the PRS to reflect different country 
+circumstances.
+The authorities’ PRS will be documented through an Economic Development Doc-
+ument (EDD), and can take two forms:
+1.  
+Existing national development plans documenting countries’ PRS.
+2.  
+New EDD focused on elements of the PRS that are macro-relevant under IMF-supported 
+programmes.
+These documentation requirements must be met in order for a low-income country to 
+complete reviews under an Extended Credit Facility (ECF) arrangement.
+EDDs must meet the following minimum requirements:
+•
+• A strategy or plan for poverty reduction and growth
+•
+• Specific policies, including macroeconomic and financial policies that would be 
+­
+pursued in the context of the strategy
+•
+• The launch date and timeframe for implementation, to ensure that the strategy 
+­
+underlying IMF-supported programmes is current.
+In addition, they should provide a description of:
+•
+• Existing poverty situation and trends
+•
+• Factors influencing poverty, including barriers to poverty reduction
+•
+• A fiscal and debt framework, with a view to prioritizing development spending
+•
+• Spending effectiveness, that is, how well money is spent on poverty
+•
+• Safety nets and risk mitigation
+•
+• Outline of the participatory process.
+Source: www.imf.org/en/About/Factsheets/Sheets/2016/08/01/16/32/ 
+Poverty-Reduction-Strategy-in-IMF-supported-Programs.
+Case example 14.6
+Poverty reduction strategy in IMF-supported programmes
+449
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+Estimating the aid component of international assistance
+Because of the different nature of the various capital flows, a common procedure is required for 
+measuring the equivalence of the different flows. Clearly, grants and loans are not equivalent since 
+the latter have to be repaid and the former do not.
+A standard procedure for making the flows equivalent is to estimate the grant equivalent or aid 
+component of the different flows by taking the difference between the nominal flow and future 
+repayments discounted by the free-market rate of interest, which was our earlier measure of the 
+benefit of assistance. A capital inflow that is a pure grant (with no repayment obligations) is ‘worth’ 
+its face value. A capital inflow that has to be repaid with interest is not worth its face value. How 
+much less it is worth than its face value depends on the rate at which the repayments are discounted:
+•
+• If the rate of interest at which the country would have had to borrow in the free market is 
+greater than the actual rate of interest it has to pay, the worth or benefit will be positive.
+•
+• If the rate of interest at which it would have had to borrow is less than the actual rate, the worth 
+or benefit will be negative because the recipient would have had to pay back more than it need 
+to have done (this is unlikely to happen).
+The grant equivalent or aid component of assistance is measured in this differential benefit sense. 
+The rate of return on the assistance may, of course, be much greater than the benefit if the prod­
+uctivity of the assistance is higher than the free-market rate of interest.
+Two other factors determine the grant equivalent of a loan as well as the effective interest rate 
+subsidy:
+•
+• The grace period between the disbursement of the loan and the first repayment. The longer the grace 
+period for a loan of a given maturity, the less the present value of the future discounted repayments.
+•
+• The maturity of the loan. This is important because the longer the maturity, the longer the 
+concessionary interest rate is enjoyed and the less the present value of the future discounted 
+repayments. Through the technique of discounting, any combination of repayment terms can 
+be brought to a common measure.
+All three factors referred to – the interest rate subsidy, the grace period and the maturity of the loan – can 
+be incorporated into a simple formula for calculating the grant equivalent of a loan. The grant equivalent 
+or aid component of a loan (as a percentage of its face value) is called the grant element and is equal to:
+G
+F =
+F −
+T
+t=1
+Pt
+(1 + r)t
+F
+100
+where F is the face value of the loan, Pt is the total repayment of principal and interest in year t, T 
+is the maturity of the loan and r is the rate of discount. Since Pt includes interest charges, it can be 
+seen that the lower the interest rate relative to the rate of discount (r), and the more that repay-
+ments can be delayed through time, the greater the grant element of the loan.
+The grant element can be worked out for different combinations of interest rates, discount rates, 
+grace periods and length of maturity. At the two extremes, if the financial flow is a pure grant, then 
+Pt 5 0 and the grant element is 100%. If the financial flow is at a rate of interest equal to the market rate 
+of interest, and the grace period and maturity of the loan are the same as in the free market, the sum of 
+the discounted future repayments will equal the face value of the flow and the grant element will be zero.
+For combinations of conditions between the two extremes, Table 14.9 provides some illustra-
+tive calculations. For example, the grant element of a 10-year loan at 5% interest with a grace 
+450
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Table 14.9  Grant element in loans at different discount rates 
+Rate of interest and 
+maturity period
+5%
+6%
+7%
+10%
+No grace 
+period G 5 0
+5 years’ 
+grace G 5 5
+10 years’ 
+grace G 5 10
+G 5 0
+G 5 5
+G 5 10
+G 5 0
+G 5 5
+G 5 10
+G 5 0
+G 5 5
+G 5 10
+2% interest
+10 years
+12.9
+21.2
+16.7
+24.0
+20.0
+28.9
+29.5
+41.8
+20 years
+22.1
+27.1
+31.3
+27.8
+34.0
+39.0
+32.8
+40.1
+45.7
+39.8
+48.0
+53.7
+30 years
+28.9
+34.0
+37.0
+35.7
+40.6
+45.4
+41.5
+47.5
+52.4
+54.7
+62.3
+67.3
+40 years
+34.2
+38.0
+41.2
+41.5
+46.2
+49.4
+47.5
+52.7
+56.6
+60.5
+61.6
+73.0
+3% interest
+10 years
+  8.6
+14.1
+12.5
+18.0
+16.0
+23.2
+25.8
+36.6
+20 years
+14.7
+18.1
+20.9
+20.8
+25.5
+29.2
+21.3
+32.2
+36.6
+31.3
+38.1
+43.1
+30 years
+19.3
+22.6
+24.6
+26.8
+30.5
+34.9
+33.2
+38.1
+42.0
+47.8
+54.5
+58.9
+40 years
+22.8
+25.4
+27.4
+31.1
+34.6
+37.0
+38.0
+42.2
+45.4
+52.9
+58.2
+63.8
+4% interest
+10 years
+  4.3
+  7.1
+  8.1
+12.0
+12.0
+17.4
+22.1
+31.4
+20 years
+  7.4
+  9.0
+10.4
+13.9
+17.0
+19.4
+19.8
+24.2
+27.5
+34.1
+41.1
+46.0
+30 years
+  9.6
+11.3
+12.3
+17.8
+20.3
+22.8
+24.9
+28.6
+31.5
+41.0
+46.7
+50.5
+40 years
+11.4
+12.7
+13.7
+20.7
+23.0
+24.6
+28.6
+31.7
+34.1
+45.3
+50.0
+54.6
+451
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+Table 14.9  Grant element in loans at different discount rates 
+Rate of interest and 
+maturity period
+5%
+6%
+7%
+10%
+No grace 
+period G 5 0
+5 years’ 
+grace G 5 5
+10 years’ 
+grace G 5 10
+G 5 0
+G 5 5
+G 5 10
+G 5 0
+G 5 5
+G 5 10
+G 5 0
+G 5 5
+G 5 10
+5% interest
+10 years
+0
+0
+0
+  4.2
+  6.0
+  8.0
+11.5
+18.4
+   26.1*
+20 years
+0
+0
+0
+  6.9
+  8.5
+  9.7
+13.1
+16.2
+18.3
+28.4
+34.2
+38.4
+30 years
+0
+0
+0
+  8.9
+10.2
+11.3
+16.6
+19.0
+20.9
+34.2
+38.9
+42.0
+40 years
+0
+0
+0
+10.4
+11.5
+12.1
+19.0
+21.0
+22.6
+37.7
+41.6
+45.5
+6% interest
+10 years
+a
+a
+a
+0
+0
+0
+  4.0
+  5.8
+14.7
+20.9
+20 years
+a
+a
+a
+0
+0
+0
+  6.6
+  8.1
+  9.2
+22.7
+27.4
+30.7
+30 years
+a
+a
+a
+0
+0
+0
+  8.4
+  9.6
+10.6
+27.4
+31.1
+33.6
+40 years
+a
+a
+a
+0
+0
+0
+  9.6
+10.6
+11.4
+30.1
+33.3
+36.4
+7% interest
+10 years
+a
+a
+a
+a
+a
+a
+0
+0
+0
+11.1
+15.7
+20 years
+a
+a
+a
+a
+a
+a
+0
+0
+0
+17.1
+21.6
+23.0
+30 years
+a
+a
+a
+a
+a
+a
+0
+0
+0
+20.5
+23.3
+25.2
+40 years
+a
+a
+a
+a
+a
+a
+0
+0
+0
+22.6
+25.0
+27.3
+Notes: a indicates negative aid value. * Illustrative calculation referred to in the text.
+Source: Ohlin, 1966, appendix.
+ – continued
+452
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+period of 5 years, with the recipient discounting repayments at 10%, would be 26.1%. It can be 
+seen that the grant element is quite sensitive to small changes in the interest rate and the discount 
+rate but relatively insensitive to variations in the grace period and the length of maturity. Long 
+maturities and grace periods are mainly means of providing liquidity rather than aid.
+The terms of ODA from DAC members in 2014 are shown in Table 14.10. The average rate of 
+interest charged was 1.3%, the average grace period was 7.7 years and the average maturity of loans 
+was 27 years. The discount rate normally applied is 10%, giving a grant element of approximately 
+65%. In 2014, the grant element of total oﬃcial development assistance was 74%. The grant 
+element of major forms of multilateral assistance is approximately 50%.
+The moral of the foregoing discussion on the grant element of loans is that identifying the real 
+worth of assistance depends on knowledge of the alternatives. Loans that look generous on the 
+surface because they have a lower interest rate attached may be less valuable than the alternatives 
+if they have shorter lives and grace periods. There is also the question of the freedom of the recipi-
+ent country to use the loan as it wishes, which we considered earlier in connection with aid tying.
+The distribution of international assistance
+The distribution of international assistance will aﬀect the comparative rates of growth of develop-
+ing countries if aid is a positive growth-inducing force. At present, the distribution of assistance in 
+relation to the population of developing countries is extremely unequal. Whereas some countries 
+receive less than $5 per head per annum, others receive over $100 per head. Assistance as a pro-
+portion of national income also diﬀers widely between countries
+Most bilateral donors refrain from making explicit the criteria on which they distribute assist-
+ance. In practice, the criteria employed often tend to be as much non-economic as economic, 
+reﬂecting historical relations between countries, as well as military and political objectives. It is 
+Table 14.10 DAC members’ ODA terms, 2014
+Loan share of 
+total ODA (%)
+Terms of bilateral loans
+Average 
+maturity (years)
+Average grace 
+period (years)
+Average interest 
+rate (%)
+Grant 
+element (%)
+Australia
+0.5
+33.2
+3.2
+0.0
+75.4
+Belgium
+0.9
+29.5
+10.5
+0.0
+82.7
+Canada
+4.0
+5.0
+5.0
+2.1
+31.4
+France
+30.5
+20.5
+6.6
+2.2
+52.8
+Germany
+28.7
+15.0
+4.5
+2.3
+43.5
+Italy
+1.9
+37.4
+26.5
+0.0
+94.2
+Japan
+51.1
+34.7
+9.2
+0.6
+78.1
+Korea
+47.4
+39.9
+14.5
+0.1
+89.6
+Poland
+32.2
+24.2
+5.0
+0.2
+69.0
+Portugal
+31.9
+29.1
+10.4
+1.8
+67.7
+Total DAC
+15.0
+26.9
+7.7
+1.3
+64.9
+Note: Not all DAC countries report information.
+Source: OECD, 2015.
+453
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+often said that it pays a country to be a small island of ex-colonial status in a politically sensitive 
+part of the world. High levels of per capita assistance seem to be closely associated with these 
+characteristics. It is difficult to discern any significant relationship between the distribution of 
+assistance and developmental considerations such as low per capita income, slow growth, balance 
+of payments problems or even good governance. Dictators and corrupt governments also seem 
+to be rewarded.
+One recent comprehensive study by Burnside and Dollar (2000) takes a sample of 56 countries 
+over the period 1970–93 and tries to explain the distribution of aid as a percentage of GDP in 
+terms of variables, such as the level of per capita income of the recipient countries (as a measure 
+of need), population size, various strategic (political and military) interests, and whether there is 
+good governance. There seems to be no tendency for either total aid or bilateral aid to be related 
+to the level of poverty, or to favour countries pursuing ‘good policies’, although multilateral aid is 
+more ‘wisely’ distributed (see also Alesina and Dollar, 2000).
+Collier and Dollar (2002) derive a poverty-efficient allocation of aid and compare it with actual 
+aid allocations across 59 countries over the period 1974–97, and conclude that the allocation of 
+aid was radically different from the poverty-efficient allocation. With the actual allocation of aid, 
+about 10 million people had been lifted out of poverty annually, but with an efficient allocation 
+to reduce poverty, nearly double the number of people would have been lifted out of poverty.
+Individual donor countries will continue to pursue their own objectives and set their own 
+criteria, although there is evidence that more and more donor countries are focusing directly on 
+the attack on poverty and favouring poor countries with sound policies, in line with World Bank 
+thinking.
+The criteria governing the distribution of multilateral assistance through international agencies, 
+to which rich countries contribute, are of wider concern. Since loans have to be repaid in foreign 
+exchange, one obvious criterion for distribution would be a productivity criterion measured in 
+terms of foreign exchange, but then all sorts of questions arise concerning the measurement of 
+productivity, the time horizon to be taken, and whether this would lead to a distribution of assist­
+ance in relation to need. Without an economically objective and value-free criterion, need is as 
+good a criterion as any and meets the main direct objective of the World Bank, which is the ‘attack 
+on poverty’ (see Chapter 2). One possibility in this connection would be to distribute assistance 
+on a per capita basis according to some target level of per capita income, which would operate 
+rather like an international negative income tax. Certain graduated rates of per capita income 
+assistance could be applied to the gap between the actual level of per capita income and the 
+target level. A country that fell way below the target would receive a greater amount of assistance 
+per head of the population than a country that was closer to the target or exceeded it. Given 
+knowledge of the total amount of resources available, rates could be fixed to ensure a wide spread 
+of assistance across countries while not making demands on resources in excess of supply. All this 
+would be conditional, of course, on the new guiding principle of ‘good governance’.
+Schemes for increasing the flow of revenue
+There are two ways of increasing the net flow of financial resources to developing countries: 
+either nominal assistance can be left unchanged and repayment obligations reduced, or nominal 
+assist­
+ance can be increased, leaving the terms of repayment unchanged. Reducing repayment 
+obligations means cutting interest rates, lengthening repayment periods, and generally increasing 
+the grant element of international assistance. Other possibilities would be to allow countries 
+454
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+to repay in local currency rather than foreign currency and to reduce the level of aid tying, as 
+discussed earlier. We shall concentrate here, however, on measures that might be taken to increase 
+the volume of nominal assistance.
+One quick way to increase the flow would be for all the developed countries to meet their devel-
+opment assistance targets of 1% of national income for total assistance and 0.7% of national income 
+for ODA. A significant increase in the resource flow by a deliberate budget decision in developed 
+countries is only likely to occur, however, if there is widespread public support for the programme. 
+In recent years, there have been signs of diminished public support for aid, based on the belief that 
+a good deal of assistance is wasted and misused. If there is disillusion with assistance – or aid fatigue 
+as it has been called – an increased flow of assistance in the future is unlikely in the absence of some 
+recognizable improvement in the efficiency with which current assistance is used. It is difficult to 
+convince people in developed countries, whose standard of living is not that high, to acquiesce to 
+programmes that transfer resources from themselves if these resources are then perceived to be 
+wasted or end up in the hands of people in recipient countries who are richer than themselves. The 
+major reasons for the waste and misuse of resources in the past have been inefficiency and corrup-
+tion on the part of recipient governments and interference from donor countries in the administra-
+tion of programme assistance.
+Given the political difficulties of increasing aid budgets, what the global economy needs are 
+schemes and forms of international taxation that would raise revenue automatically, free of 
+political debate and budgetary pressure in donor countries. The 1980 Brandt Report first raised 
+the issue of the need for automatic revenue to support global development needs, and the UN 
+Development Programme (UNDP) has called for more work on global taxes. There is no shortage 
+of suggestions as to how more global finance might be raised, particularly through the taxation of 
+global transactions. The schemes can be divided into three (overlapping) groups:
+1.	 Taxes and charges on various international transactions and external diseconomies that dam-
+age human welfare in various ways.
+2.	 Taxes or charges on unexploited resources over which no state has sovereignty, for example 
+deep sea minerals.
+3.	 International income taxes earmarked for development purposes.
+A useful and interesting list of the various suggestions made has been compiled by the Overseas 
+Development Institute in London (ODI, 1996):
+Twenty recent suggestions for raising global revenue:
+•
+• A tax on all or some international financial transactions (the ‘Tobin Tax’); variants include a 
+tax on bond turnover, or on derivatives.
+•
+• A general surcharge on international trade.
+•
+• Taxes on specified traded commodities like fuel.
+•
+• A tax on the international arms trade.
+•
+• Surcharges on post and telecommunications revenues.
+•
+• An international lottery.
+•
+• A surcharge on domestic taxation (usually expressed as a progressive share of income tax).
+•
+• Dedication of some part of national or local taxes, for example on luxuries (or surcharges 
+on them).
+•
+• Parking charges for satellites placed in geostationary orbit.
+•
+• Royalties on minerals mined in international waters.
+455
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+•
+• Charges for exploration in, or exploitation of, Antarctica.
+•
+• Charges for fishing in international waters.
+•
+• Charges for use of the electromagnetic spectrum.
+•
+• A tax or charge on international flights (or alternatively, on flights in congested sectors); a 
+variant is a tax on aviation kerosene.
+•
+• A tax or charge on international shipping.
+•
+• Pollution charges (for example, for dumping at sea).
+•
+• A tax on traded pollution permits.
+•
+• A voluntary local tax paid to a central global agency.
+•
+• A new issue of Special Drawing Rights (SDRs), distributed to the poorer developing coun-
+tries (or used for peacekeeping or other global public goods).
+•
+• Sale of part of the IMF gold stock.
+These are only suggestions and possibilities. There has been no sustained discussion of any of 
+them at the intergovernmental level, and none of them has been taken up in a serious way by any 
+of the major aid-giving countries. A $100 billion increase in SDRs was announced in 2009 in the 
+wake of the international financial crisis that erupted across the world in 2008 (see Chapter 16).
+Apart from the idea of various taxes and charges, one of the most attractive ideas is to involve 
+individuals in the spirit of international aid giving and to foster their interest in the challenge 
+of development by allowing them to pay a proportion of their tax obligations in the form of 
+donations to various development funds concerned with poverty eradication, the environment, 
+education and so on. This already happens in a small way with tax relief on donations to charities 
+and NGOs working in developing countries, but the principle needs to be expanded if the idea of 
+voluntary taxation in support of development is to have a significant impact.
+The proposal for new issues of SDRs and the sale of IMF gold for development purposes is 
+discussed in Chapter 16.
+Foreign direct investment (FDI) and multinational corporations
+Apart from ODA, another major source of development finance is private capital flows that allow 
+countries to import more than they export and to invest more than they save. Private capital 
+flows are of three main types: FDI and portfolio investment, which are non-debt-creating flows, 
+and commercial bank lending, which creates debt. In this section, we focus on FDI in developing 
+countries. Bank lending, and the debt problems to which it gives rise, are considered in the final 
+section.
+There has been a vast increase in the amount of FDI going to developing countries in recent 
+years, fuelled by three major factors: the rise of multinational corporations and the search for 
+global profits, the liberalization of global capital markets, and economic liberalization within devel-
+oping countries. For a comprehensive survey of the causes and effects of FDI, see de Mello (1997).
+But these flows are highly concentrated in a few countries. Total flows of FDI into developing 
+countries are now running at over $500 billion a year, compared with under $20 billion in the early 
+1980s, but 80% goes to only ten countries located in South America and Southeast Asia (including 
+China), as shown in Table 14.11. Overall, FDI accounts for about 10% of total investment in devel-
+oping countries and roughly 2% of GDP. In discussing the costs and benefits of FDI, the relatively 
+small contribution of FDI to economic activity in the majority of developing countries needs to 
+be borne in mind.
+456
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Research into the determinants of FDI shows that cost structures, differential returns, mar-
+ket growth, and the institutional characteristics of the host country are of prime importance. 
+Companies wishing to invest overseas are looking for a favourable trade and investment regime, 
+good infrastructure, property rights, political stability, macroeconomic stability, and an educated 
+and committed workforce. Much depends on the capacity of the country to absorb the invest-
+ment, which, in turn, depends on its growth prospects and ability to export.
+FDI brings many advantages to recipient countries, but there are also many potential dangers 
+and disadvantages from a development point of view. We shall first list the advantages:
+1.	 FDI raises the investment ratio above the domestic savings ratio, which is good for growth if 
+nothing adverse happens to the productivity of investment.
+2.	 The investment brings with it knowledge, technology and management skills, which can have 
+positive externalities on the rest of the economy. Foreign investment can often be a catalyst for 
+domestic investment in the same or related fields.
+3.	 It requires the training of labour, which is another positive externality. It is estimated that over 
+40 million workers are employed directly or indirectly by multinational corporations in devel-
+oping countries.
+4.	 A great deal of FDI goes into the tradable goods sector of the recipient countries, which improves 
+the export performance of these countries and earns them valuable foreign exchange.
+Recent research shows a positive relation between FDI, domestic investment and the growth 
+of GDP. Bosworth and Collins (1999) take a sample of 58 developing countries over the period 
+1978–95 and find that FDI brings about a one-to-one increase in domestic investment, while 
+capital inflows as a whole increase domestic investment by only half the amount. Coe et al. (1997) 
+examine the empirical evidence between international research and development (R&D) spill­
+overs and economic growth for a sample of 77 countries. They find that the variation in total factor 
+productivity growth between countries is related to the foreign stock of R&D capital, and that 
+East Asian countries have benefited most from foreign R&D. It has been estimated by Borensztein 
+et al. (1995) that a 1 percentage point increase in the ratio of FDI to GDP in developing countries 
+over the period 1971–89 was associated with a 0.4–0.7 percentage point increase in the growth 
+of per capita GDP, with the impact varying positively with educational attainment as an indicator 
+Table 14.11  FDI net inflows to top ten developing countries, 2014
+Total ($ million)
+China
+289,097
+Brazil
+96,895
+Singapore
+67,523
+India
+33,871
+Indonesia
+26,349
+Mexico
+24,154
+Chile
+22,002
+Colombia
+16,151
+Turkey
+12,765
+Malaysia
+10,609
+Source: World Bank, 2015.
+457
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+of a country’s ability to absorb technology. But there is also evidence of bidirectional causality 
+(see de Mello, 1997). FDI affects growth positively, at least above a certain threshold, but growth 
+also affects FDI positively; another example of a virtuous circle. Pacheco-López (2005) also finds 
+evidence of bidirectional causality in a study of FDI in Mexico.
+Now let us turn to some of the potential dangers of FDI. As we have indicated, investment by 
+multinational corporations with headquarters in developed countries involves not only a trans-
+fer of funds (including the reinvestment of profits) but also a whole package of physical capital, 
+techniques of production, managerial and marketing expertise, products, advertising, and busi-
+ness practices for the maximization of global profits. There is no doubt that such investment aug-
+ments real resources directly; the question is whether such investment contributes to the broader 
+aspects of development relating to the pattern of development and the distribution of income.
+The activities of the multinationals come under attack on a variety of grounds. First, because 
+they tend to locate in urban areas, they widen the income gap between urban and rural sectors, 
+thus perpetuating dualism. This criticism, however, cannot be levelled exclusively against multi-
+nationals because any new industrial activity establishing in existing urban centres will have the 
+same effect.
+A second and more serious criticism is the way in which they encourage and manipulate con-
+sumption. Not only do they tend to cater for the tastes of the already well-to-do, which itself 
+acts as a divisive force, but also they tend to encourage forms of consumption among the broad 
+mass of people, particularly in urban areas, that are inappropriate to the stage of development 
+and often nutritionally damaging. Prime examples are powdered baby milk and Coca-Cola. These 
+tendencies are not only wasteful, but they encourage acquisitiveness, reduce domestic saving, and 
+can worsen balance of payments difficulties by encouraging expensive tastes.
+A third criticism, which we have already dealt with in Chapter 6, is that they may introduce 
+inappropriate technology and retard the development of an indigenous capital goods industry. 
+Related to this is the possibility that the multinationals may stifle indigenous entrepreneurship 
+and destroy domestic firms, so that the net addition to capital accumulation is much less than the 
+investment provided by the multinationals themselves.
+Another aspect of the multinationals is that because of their large size and the power they 
+wield, developing countries in which they operate lose aspects of their national sovereignty and 
+control over economic policy. The companies may easily avoid the effects of domestic mon-
+etary policy because of easy access to foreign capital markets and their own internal resources. 
+They can avoid tax by shifting profits abroad. Countries may wish a multinational company to 
+do one thing, but it may not readily comply because the action may conflict with the global 
+profit objectives of the company as a whole. Firms may exploit resources more quickly than is 
+desirable, and exploit consumers and workers through the exercise of monopoly and monop-
+sony power.
+There is also the question of the repatriation of profits. FDI has the potential disadvantage, 
+even compared with loan finance, that there may be an outflow of profits that lasts much longer 
+than the outflow of debt service payments on a loan of equivalent amount. While a loan only 
+creates repayment obligations for a definite number of years, FDI may involve an unending com-
+mitment. This has serious implications for the balance of payments and for domestic resource 
+utilization if foreign exchange is a scarce resource. We can show with a numerical example that, in 
+the long run, if profits are repatriated, the impact of continuous FDI on the balance of payments 
+must be negative unless the gross inflow of foreign investment grows substantially from year to 
+year. This, of course, then increases the power and influence of the foreign interests within the 
+country concerned.
+458
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Suppose that there is a steady gross inflow of 100 units of foreign capital per annum, that the 
+productivity of capital is 20%, and that one-half of the profits are reinvested and the other half are 
+repatriated. Table 14.12 shows that, on these assumptions, the balance of payments effect turns 
+negative after the eighth year. To keep the net inflow of resources positive requires a steadily rising 
+gross flow of private foreign investment, with all the implications this may have for the pattern of 
+development in the future.
+It is extremely difficult to measure the full impact and real costs of multinational investment 
+using economic calculus alone, but this is what developing countries must do. What would be the 
+real income gains and losses of controlling the free mobility of FDI? Other ways of taking advan-
+tage of FDI might be actively explored, including joint ventures and turnkey projects, whereby 
+the foreign investor pays for and builds the project in collaboration with the host country, which 
+is then run by host country nationals. There is already evidence that this is the direction in which 
+developing countries are moving. Developing countries must lay down very clearly the conditions 
+under which they will accept multinational investments and monitor the companies’ operations 
+so that distorted development and exploitation are avoided.
+International debt and debt service problems
+Developing countries not only borrow from donor countries and multilateral agencies but also 
+commercially from the international banking system. All borrowing, whether official or private, 
+involves repayment obligations, unless the loans are gifts or written off. First, the loan has to be 
+repaid over a certain number of years (amortization repayments), and second, interest pay-
+ments will be charged on the loan. Amortization and interest payments constitute debt service 
+payments. All loans that have to be repaid with interest are debt-creating flows.
+There has been a massive increase in debt-creating flows to developing countries since the early 
+1970s, caused by growing payments imbalances between countries. The total volume of debt in 
+2014 and the debt burden measured by various indicators – such as the debt–export ratio, the 
+debt to national income ratio, and the ratio of debt service payments to export earnings (the 
+debt–service ratio) – is shown in Table 14.13 for various groups of countries. The total debt of low- 
+and middle-income countries is now a colossal $5,400 billion (or roughly $1,300 per head of popu-
+lation) and debt service payments absorb $250 billion of foreign exchange or nearly 10% of total 
+export earnings. The debt–service ratio is particularly crucial because this measures the amount of 
+Table 14.12  Balance of payments effects of private foreign investment 
+Year
+Gross inflow
+Foreign investment at 
+beginning of period
+Foreign investment 
+at end of period
+Outflow of 
+profits
+Net inflow
+1
+100
+100.0
+110.0
+10.0
+90.0
+2
+100
+210.0
+231.0
+21.0
+79.0
+3
+100
+331.0
+364.1
+33.1
+66.9
+4
+100
+464.1
+510.5
+46.4
+53.6
+5
+100
+610.5
+671.6
+61.1
+38.9
+6
+100
+771.5
+848.7
+77.2
+22.8
+7
+100
+948.7
+1, 043.6
+94.9
+5.1
+8
+100
+1, 143.6
+1, 258.0
+114.4
+−14.4
+459
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+foreign exchange earnings that cannot be used to purchase imports and is therefore some measure 
+of the extent to which a country might decide to default on its repayment obligations. The greater 
+the debt service payments, the more that development is thwarted. Some of the largest debtor 
+countries of the world, such as Brazil and Turkey, have the highest debt–service ratios.
+To judge whether a country’s level of debt is sustainable, the World Bank takes a debt–export 
+ratio of 220%. This is the main criterion for relief under the HIPC Initiative (see below). By this cri-
+terion, it is mainly African countries that constitute the severely indebted low-income countries 
+with debt–export ratios of 200% or more in some cases.
+Before turning to the origins of this massive volume of debt, however, let us consider in more 
+detail the nature of the debt-servicing problem. At the beginning of the chapter, it was shown that 
+it is profitable for a country to borrow as long as the rate of return on the borrowing exceeds the 
+rate of interest. In these circumstances, the rate of growth of income is higher than it would other­
+wise be. This gives no indication, however, of whether the borrowing can be serviced or repaid, 
+since the loan must be repaid with interest in foreign currency. Thus, the profitability of borrowing 
+and the capacity to service debt are conceptually distinct. The ability to service debt depends on 
+whether additional foreign exchange can be earned or saved by the borrowing. This depends on 
+the domestic economic policy pursued by the country concerned and the ability to export, which 
+depends, to a large extent, on world economic conditions.
+The debt-servicing difficulties that have arisen in recent years have had as much to do with 
+deteriorating world economic conditions, which have depressed the foreign exchange earnings 
+of developing countries, as with the miscalculation of rates of return on investment, the misuse 
+of investment funds, or the use of capital inflows to increase present consumption. There was a 
+parallel in the 1980s with the Great Depression of the 1930s when the collapse of world prices of 
+key commodities and a general shrinkage of world trade caused major debt defaults, which sub-
+sequently dried up the flow of private capital to developing countries for the next 40 years. The 
+trouble started in 1982 when the volume of world trade fell by 2.5%, and the terms of trade for 
+developing countries as a whole deteriorated by over 10%.
+Table 14.13  The debt burden of developing countries, 2014
+Total external debt
+Total debt service
+$ millions
+% of GNI
+% of exports of 
+goods and services
+% of exports of goods  
+and services
+Low income
+  167,105
+26.6
+164.0
+..
+Middle income
+5,224,360
+22.1
+79.7
+8.9
+Lower middle income
+1,527,246
+27.8
+104.6
+14.5
+Upper middle income
+3,697,114
+20.4
+72.5
+7.4
+Low and middle income
+5,391,465
+22.2
+80.9
+8.9
+East Asia and Pacific
+1,816,587
+14.6
+25.7
+3.8
+Europe and Central Asia
+1,023,990
+58.0
+10.5
+        22.8
+Latin America and Caribbean
+1,346,821
+29.5
+95.5
+15.6
+Middle East and North Africa
+   187,878
+15.3
+12.5
+5.5
+South Asia
+   613,379
+23.5
+107.0
+17.5
+Sub-Saharan Africa
+   402,811
+24.5
+88.8
+7.3
+Source: World Bank, 2015.
+460
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Not even the most prudent borrower or cautious lender can foresee such events, which may 
+occur halfway through the life of a loan commitment that was entered into under quite different 
+economic circumstances. Lenders and borrowers can allow for risk – that is, the statistical prob-
+ability that the expected outcome will not materialize – but not uncertainty, and what happened 
+in the world economy in the 1980s was a whole shift in the probability distribution of outcomes 
+that could not be insured against. When such unforeseen events occur, beyond the borrower’s 
+control, which make it difficult for loans to be repaid and serviced without severe economic dis-
+ruption, two questions arise: What is the optimal degree of debt rescheduling? Who should bear 
+the cost?
+It is naturally in the interests of private banks that loans be repaid on schedule, but it is not 
+necessarily in the global interest if this leads to a contraction of imports by the borrowing coun-
+tries, which then reduces the exports of other (lending) countries, leading to a deflationary spiral 
+in the whole world economy.
+Optimal borrowing and sustainable debt
+The benefits of borrowing to individual countries, and to the world economy at large, are clear. 
+The question is: How far should borrowing go? Is it possible that after a certain point, even though 
+a developing country still requires resources for development, the disadvantages of further bor-
+rowing outweigh the advantages? This raises the question of optimal borrowing and the sustain-
+ability of debt. Reasonable levels of debt are likely to enhance growth in countries short of capital 
+if borrowing is used productively and earns foreign exchange so that debt can be serviced without 
+deflating the economy to save imports. Debt becomes unsustainable when it accumulates at a 
+faster rate than the borrower’s capacity to service it. Expected debt service costs then discourage 
+domestic and foreign investment, because potential investors fear the economy will be deflated 
+or that they will be ‘taxed’ to service the debts.
+Working out what level of debt is sustainable requires an assessment of how outstanding 
+stocks of debt are likely to evolve over time, together with forecasts about the future interest rates, 
+exchange rates and foreign exchange earnings. The IMF has recently developed a standardized 
+framework for assessing debt sustainability, which takes account of a country’s future growth rate, 
+interest rate and exchange rate, and applies sensitivity analysis based on each country’s history.
+Several debt indicators and measures of sustainability can be used. One is the ratio of debt to 
+GDP. There has been a progressive rise in the ratio of debt to GDP among developing countries, 
+from less than 20% in the early 1970s to nearly 30% today, but it is not clear what economic sig-
+nificance should be attached to this ratio as a measure of the ability to service debt and therefore 
+as a measure of debt sustainability. It is true that to service more and more debt, export earnings 
+as a proportion of national income should rise, but this suggests more direct measures of sus-
+tainability: either the debt–export ratio or the debt–service ratio, which measures the ratio of 
+amortization and interest payments to export earnings.
+To answer the question of the sustainability of debt, Kraay and Nehru (2006) at the World 
+Bank take 132 low- and middle-income countries over the period 1970–2002, and use probit 
+analysis to predict debt distress defined as the inability to service debt from the Paris Club of 
+OECD countries and from the IMF. They find that the debt–export ratio is one important factor, 
+but that the level of debt that can be sustained depends on the quality of country institutions 
+and policies. For a country with an average institutional/policy score, a 100% debt–export ratio 
+would be sustainable, with a 39% probability of distress (the mean of the sample for low-income 
+461
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+countries), while for countries with very good institutions and policies, a debt–export ratio of 
+400% would be sustainable.
+On the relationship between the debt–export ratio and the growth of per capita income, 
+Patillo et al. (2002) find a nonlinear relation. They take a sample of 93 developing countries over 
+the period 1969–98 and, controlling for other variables, find that the per capita income growth 
+of countries is maximized when the debt–export ratio is approximately 80%, and debt impacts 
+negatively on growth when the debt–export ratio exceeds 160% – as shown in Figure 14.4. The 
+growth differential between countries with low indebtedness (with an export–debt ratio , 100%) 
+and those with high indebtedness (with an export-debt ratio . 367%) is, on average, more than 
+2 percentage points. It appears that the relationship between debt and growth is nonlinear (an 
+inverted U-shape) and that the level of sustainable debt is, on average, close to the ratio of 150% 
+of export earnings, which is below the ratio at which countries become eligible for debt relief 
+under the HIPC Initiative launched by the World Bank in 1996 (see later).
+These results have been corroborated by Bhattacharya and Clements (2004), who take 55 low-
+income countries over the period 1970–99 and find a positive relation between the debt–export 
+ratio and per capita income growth up to a ratio of nearly 200% (and for the debt–GDP ratio up to 
+50%). They calculate that if the net present value of debt–GDP ratio for the most heavily indebted 
+countries was reduced from, say, 100% to 50%, this could raise the annual growth of per capita income 
+by 2.8 percentage points. They also calculate that a 1 percentage point reduction in the debt–service 
+ratio could raise the investment to GDP ratio of countries by about 0.2 percentage points.
+The debt crisis of the 1980s
+The world debt crisis (useful texts on this subject include Cline,1984, 1995, Claudon, 1986, Lomax, 
+1986, Lever and Huhne, 1985 and Griffith-Jones and Sunkel, 1986) erupted in the summer of 
+1982, when Mexico became the first country to suspend the repayment of loans due to the 
+private banking system and sovereign lenders. The crisis has smouldered ever since, with more 
+and more countries, particularly in Africa, finding it difficult to service accumulated debts out of 
+foreign exchange earnings. In 1987, Brazil became the first country to suspend interest payments 
+to foreign creditors.
+Contribution of debt
+to annual per capita
+output growth (%)
+HIPC debt target
+–0.5
+0
+1.0
+1.5
+A
+B
+150
+300
+~165
+–1.0
+–1.5
+Net present
+value of
+debt –exports
+(%)
+Figure 14.4  Debt–export ratio and growth
+462
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+The ‘crisis’ aspects of debt can be looked at from different standpoints: from the point of 
+view of the individual borrowing countries, the lenders (private and sovereign governments), or 
+the entire world economy. As far as borrowers are concerned, when the crisis first erupted, there 
+were essentially two types of ‘problem’ countries. First, there were a number of poor commodity-
+dependent countries, mainly in Africa but also elsewhere, where private banks were not heavily 
+involved. It became a crisis for these countries when they had to cut back on essential imports in 
+order to service their debts, but not a crisis for the banking system or the world economy, even if 
+they had defaulted.
+Second, there was a set of large newly industrializing countries, mainly in Latin America, which 
+borrowed from the commercial banking system at floating rates of interest, but then their export 
+markets became depressed. The sums of money involved were huge. In the early 1980s, 16 coun-
+tries accounted for over half of the total debt of nearly $1,000 billion and for nearly 90% of the debt 
+owed to the private banking system. In this case, the non-repayment of debt would have caused 
+a crisis for the private banking system (which, in retrospect, had clearly overextended itself), and 
+a crisis for individual countries if the threat of default had dried up the flow of new capital. There 
+would also have been a crisis for the world economy if there had been a major default that led to a 
+massive contraction of bank lending throughout the system; but this did not happen. Lending did 
+contract sharply in the early 1980s, but then rose again as the difficulties were resolved by various 
+forms of international cooperation and the rescheduling of debt.
+The origin of the current debt difficulties of many developing countries is no mystery. Massive 
+balance of payments surpluses arose in the early 1970s in the oil-exporting countries, with 
+counter­
+part deficits elsewhere. The factors that caused the supply of capital to increase created its 
+own demand. Private banks were anxious to lend and there was no shortage of demand. Demand 
+was particularly strong because commodity prices were generally high, exports were buoyant 
+and inflation had reduced the real rate of interest on loans to virtually zero. Credit looked cheap 
+and borrowers looked like good risks from the lenders’ point of view. But these circumstances 
+suddenly changed. Depression in the developed countries, mainly self-inflicted to reduce the rate 
+of inflation, caused world commodity prices to tumble, exports to languish and real interest rates 
+to rise. On top of this, nominal interest rates floated upwards and the dollar appreciated. At the 
+height of the debt crisis (in 1986) the debt–service ratio reached a peak of 30%. This has since 
+fallen back to under 20%, partly because of lower interest rates and debt rescheduling and partly 
+because of increased export earnings following the recovery of the world economy.
+The world debt problem is a foreign exchange problem. It represents the inability of debt-
+ors to earn enough foreign exchange through exports to service foreign debts, and at the same 
+time to sustain the growth of output (which requires foreign exchange to pay for imports). Either 
+debt service payments have to be suspended or growth curtailed, or a combination of both. 
+Unfortunately, for many debtor countries, it is living standards that have suffered. Many indebted 
+developing countries have stagnated under a total burden of debt that has now reached $5,500 
+billion, with resource transfers to service the debt close to $250 billion per annum.
+All this is part of the transfer problem analysed by Keynes in 1919 in the wake of the contro-
+versy over the reparation payments imposed on Germany after the First World War by the Treaty 
+of Versailles in 1919 (Keynes, 1919). Keynes mocked the folly and futility of the whole exercise on 
+the grounds that it was likely to be self-defeating, and so it turned out to be.
+There are two aspects of the transfer problem: the budgetary problem for governments of 
+acquiring domestic resources for the repayment of debt, and the problem of turning the resources 
+into foreign exchange – or the pure transfer problem as Keynes called it. The transfer burden is the 
+export surplus that has to be generated to acquire the necessary foreign exchange, plus the possibility 
+463
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+of a deterioration in the terms of trade if, in order to sell more exports, prices must be reduced. Even 
+if prices do fall, there is still no guarantee that export earnings will increase if the quantity sold does 
+not rise in proportion to the fall in price. In these circumstances, the transfer becomes impossible 
+without a contraction of domestic output to compress imports. There is substantial evidence that 
+the indebted countries collectively are caught in this trap, since for a large part of their trade they 
+compete with each other; and competitive price reductions leave total earnings unchanged. It is the 
+contraction of living standards that generates the export surplus by reducing the import bill. This is 
+not good for developing countries, or for the health of the world economy.
+The debt crisis of the early 1980s has subsided, but the debt problem has not gone away. 
+Lenders have been as irresponsible as borrowers. The developed countries must accept a large 
+share of the responsibility for the world recession of the 1980s, as should the private banks for 
+voluntarily overextending themselves. Shared blame requires shared solutions.
+Debt relief
+Debt, in many ways, is like a cancer, once it gets a grip on a country it is very hard to eradicate and 
+may spread unless the rest of the economy can be reinforced to overcome it.
+There are no easy solutions to the debt-servicing problem short of a massive programme of 
+debt forgiveness, which leaves a manageable debt that the debtors can service. There has to be 
+debt relief if there is to be any easing of the transfer burden. Without relief, further borrowing 
+increases the size of the debt service payments and simply makes matters worse, creating what 
+might be called a debt trap. Since lenders, borrowers and the whole world community have 
+bene­
+fited from the debt creation process, there is a strong case for saying that the same three 
+parties should share the burden of relief. It is not fair that the debtor countries (the borrowers) 
+should bear the whole of the adjustment burden. Up to now, the world community (including 
+the creditor countries) has done very little to ease the debtors’ plight, although there are three 
+reasons why it should:
+1.	 The world community received an external benefit when the debt was created by the lending 
+process in the 1970s, preventing output contraction in countries with balance of payments 
+deficits, and thereby avoiding a world slump.
+2.	 Much of the debt problem arose in the first place through no fault of the developing countries 
+themselves, but as a result of events in the world economy – rising oil prices, rising interest 
+rates, world recession, and falling commodity prices.
+3.	 Relief could actually confer a global benefit by easing the deflationary forces associated with 
+the huge debt overhang.
+Heavily Indebted Poor Country (HIPC) Initiative
+The most recent and publicized global scheme for debt relief is the Heavily Indebted Poor 
+Country (HIPC) Initiative launched by the World Bank in 1996, designed to help the world’s 
+poorest indebted countries. The World Bank has always been hostile to the write-off of debt, but 
+the share of debt service payments going to multilateral creditors has increased in recent years 
+and now accounts for over 50% of debt service payments by some African countries. This World 
+Bank initiative therefore marked a radical departure in thinking and attitude. At the time, James 
+Wolfensohn, president of the bank, described the initiative as ‘a breakthrough – it deals with 
+464
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+debt in a comprehensive way to give countries the possibility of exiting from unsustainable debt. 
+It is very good news for the poor of the world.’ To qualify for debt relief, a country had to have a 
+debt–export ratio in excess of 220% or a debt to government revenue ratio of more than 280%. 
+Forty-one countries, mainly in Africa, originally met the criteria, with a combined debt of nearly 
+$200 billion. In the first three years of the initiative, however, progress was painfully slow. Only 
+seven countries satisfied the stringent conditions laid down by the World Bank in order to receive 
+help, and only $10 billion of relief was dispensed.
+Dissatisfaction with the original initiative led the Group of Seven (G7) rich industrialized coun-
+tries to launch an Enhanced HIPC Initiative in Cologne in 1999, later endorsed by the World Bank 
+and the IMF, which, according to the World Bank, was intended to be ‘deeper, broader and faster’. 
+Then, in 2005, to help accelerate progress towards the UN’s Millennium Development Goals, the 
+HIPC Initiative was supplemented by the Multilateral Debt Relief Initiative (MDRI), which allows 
+for 100% relief on eligible debts to the World Bank, the IMF and the African Development Bank.
+To be considered for HIPC Initiative assistance, a country must fulfil the following four 
+conditions:
+1.	 Be eligible to borrow from the World Bank’s International Development Agency (IDA), which 
+provides interest-free loans and grants to the world’s poorest countries, and from the IMF’s 
+Poverty Reduction and Growth Trust (formerly the Enhanced Structural Adjustment Facility) 
+(see Chapter 16), which provides loans to low-income countries at subsidized rates.
+2.	 Face an unsustainable debt burden that cannot be addressed through traditional debt relief 
+mechanisms.
+3.	 Have established a track record of reform and sound policies through IMF- and World Bank-
+supported programmes.
+4.	 Have developed a Poverty Reduction Strategy Paper (PRSP) through a broad-based participa-
+tory process in the country (see Case example 14.7).
+Once a country has met or made sufficient progress in meeting these four criteria, the executive 
+boards of the World Bank and IMF formally decide on its eligibility for debt relief, and the inter-
+national community commits to reducing debt to a level that is considered sustainable. This first 
+stage under the HIPC initiative is referred to as the decision point. Once a country reaches this 
+point, it may immediately begin to receive interim relief on its debt service falling due. In order to 
+receive complete debt relief, a country must:
+•
+• Establish a further track record of good performance under programmes supported by loans 
+from the World Bank and the IMF.
+•
+• Implement satisfactorily key reforms agreed at the decision point.
+•
+• Adopt and implement its PRSP for at least one year.
+Once a country has met these criteria, it can reach its completion point, which allows it to receive 
+the full debt relief committed at the decision point.
+The total cost to the 39 countries currently eligible or potentially eligible for debt relief under 
+the Enhanced HIPC Initiative is about $75 billion at 2013 prices. Uganda was the first country to 
+receive debt relief under the Enhanced HIPC Initiative in May 2000 based on several years of pro-
+gress in implementing poverty relief programmes (see Case example 14.7).
+The pre-decision point countries face common challenges, including preserving peace and 
+stability, and improving governance and the delivery of basic services. Addressing these challenges 
+requires continued efforts from these countries to strengthen policies and institutions, and 
+support from the international community.
+465
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+Improving the overall allocation of resources, including those from debt relief, through 
+more poverty-oriented and transparent budgets, is fundamental in the fight against 
+poverty. There are many ways of achieving this end, and in Uganda a special fund to use 
+the savings from debt relief is proving useful.
+The government created the Poverty Action Fund (PAF) as a conduit for the sav-
+ings from debt relief under the HIPC Initiative (about $37 million a year; the Enhanced 
+HIPC Initiative is expected to double this amount). The fund has been earmarked 
+to address the poverty and social conditions highlighted in the poverty eradication 
+action plan adopted in 1997. The plan emphasizes maintaining macroeconomic stabil-
+ity while increasing the incomes and the quality of life of poor people by developing 
+rural infrastructure, promoting small businesses and microenterprises, creating jobs 
+and improving health services and education. The PAF focuses on schools, rural feeder 
+roads, agricultural extension, and district-level water and sanitation. Specific outcome 
+targets have been identified, such as the construction of 1,000 additional classrooms to 
+support the primary education programme.
+Two crucial features of the PAF are its integration into the overall budget and the 
+Ugandan government’s effort to create a transparent and accountable structure of man-
+agement. Reports on financial allocation are released at quarterly meetings attended by 
+donors and NGOs. The Inspector General’s office monitors the use of funds at district 
+and national levels. This self-imposed conditionality reflects the government’s strong 
+commitment to tackling corruption. But it is also an attempt to address creditor con-
+cerns about the capacity of a debtor country to link debt relief to poverty reduction. 
+Several measures have been proposed for improving monitoring, ranging from includ-
+ing district-level officials in the quarterly meetings to having local NGOs do commu-
+nity-based monitoring of the poverty fund’s spending.
+Case example 14.7
+How debt relief fits into a poverty reduction strategy:  
+Uganda’s Poverty Action Fund
+Apart from bold, imaginative, global schemes of debt relief, there have been a number of piece-
+meal, case-by-case initiatives in which the burden on the debtor developing countries has been 
+ameliorated.
+Debt rescheduling
+The initial US response to the 1980s debt crisis was to attempt to increase liquidity, to give devel-
+oping countries more breathing space to ‘grow out’ of their debt problems. This was the think-
+ing behind the so-called Baker Plan of October 1988, which made provision for $20 billion of 
+additional lending from the commercial banks and $9 billion of multilateral lending to the 15 or 
+so most severely indebted countries, contingent on market-friendly, growth-oriented structural 
+adjustment programmes being adopted. There was no acceptance of debt reduction by banks, 
+and the sums of money were a drop in the ocean. In the event, most of the money was not lent 
+because of the continued vulnerability of the banks and the deteriorating external situation.
+The abortive Baker Plan was followed by the so-called Brady Plan of 1989, which did accept 
+debt reduction and was more successful. The two main elements of the plan were:
+1.	 Providing funds via the IMF and the World Bank for various forms of debt relief to those 
+middle-income debtor countries that were willing to adopt policy reforms.
+466
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+2.	 Encouraging countries to buy back debt from banks at a discount, thereby reducing future 
+obligations.
+One possibility was for countries to swap old loans for new long-term (30-year) bonds at a dis-
+count of some 35% and an interest rate only marginally above the market rate – the bonds were 
+guaranteed by the IMF. Agreements of this type were reached with Mexico, the Philippines, 
+Costa Rica, Venezuela and Uruguay. The deal with Mexico relieved it of $20 billion of debt service 
+payments.
+Other multilateral initiatives focused on the poorest debtor countries. The governments 
+of OECD countries representing the so-called Paris Club adopted two major initiatives – the 
+Toronto Terms in September 1988 and the Trinidad Terms in September 1990. These initiatives 
+were related to official debt (that is, debt owed to governments) and made provision for the 
+cancellation of a substantial proportion of the debt. For the remainder of the debt, substantial 
+restructuring was offered.
+Under the Toronto Terms, eligible countries were those receiving concessional assistance from 
+the International Development Association, the soft loan affiliate of the World Bank, and a dis-
+tinction was made between official development assistance (ODA) and non-ODA. For ODA, 
+countries were given 25 years to pay with a grace period of 14 years, with no change in the interest 
+rate. For non-ODA, three options were offered of different combinations of rescheduling, relief 
+and interest rates.
+Under the Trinidad Terms, heavily indebted countries with a per capita income of less than 
+$1,195 were eligible. For ODA, countries were given 20 years to pay with a grace period of 10 years. 
+For non-ODA, countries were given 15 years to pay with a grace period of 8 years and a market 
+rate of interest.
+In 1996 and 1999, the HIPC Initiatives were launched, as discussed above, which concentrate 
+more on debt relief than debt rescheduling.
+Apart from these official initiatives, a great deal of other debt rescheduling has been arranged 
+privately between individual countries and the creditor banks. These ease the short-term pres-
+sure but do not reduce future repayment obligations, unless the rescheduled debt is on softer 
+terms.
+Debt service capping
+Several schemes have been suggested to prevent debt service payments becoming excessive. One 
+is for variable maturity loans to be issued, so that debt service payments would remain un­
+altered 
+as interest rates floated upwards on private debt (rather like mortgage loans are variable in the 
+housing market). Alternatively, maturities could be varied automatically in order to keep the 
+debt–service ratio unchanged. This would also accommodate fluctuations in foreign exchange 
+receipts from exports. These schemes are equivalent to capping interest payments above a certain 
+level. In 1985, Peru unilaterally imposed a 10% ceiling on debt service payments as a proportion 
+of export earnings.
+Another possibility is to offer zero coupon bonds, which would delay interest payments until 
+a loan had matured. This would reduce the present value of interest payments, but, more import­
+antly, it would allow investment to be fully productive before there was any commitment of 
+foreign exchange. It would not insure, however, against the bunching of repayment commitments 
+when foreign exchange earnings might be low.
+467
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+Debt buybacks and debt swaps
+Another solution to the debt service problem that has gained favour in recent years is for coun-
+tries to buy back their debt at a discount, or to exchange the debt in various ways that fully or 
+partially relieve the burden of interest and principal repayments. Developing countries’ debt 
+trades in a secondary market, where some countries’ debts can be bought at a discount of more 
+than 50%. At one time, Sudanese debt could be bought in the secondary market for $2 per $100. 
+If Sudan had been able and willing to use its foreign exchange reserves to buy its own debt, it 
+could have wiped out, say, $1 million of debt for as little as $20,000. The secondary market, how-
+ever, is generally thin, and heavy buying is likely to raise the price considerably. Even so, the use of 
+foreign exchange reserves to buy back debt at a discount of 20–30% can make a useful contribu-
+tion to debt relief. In 1995, Peru spent $600 million in the secondary market, buying $1.2 billion 
+of its debt accumulated in the late 1970s and early 1980s at an estimated saving of $1 billion in 
+interest payments.
+Debt/equity swaps are a way of eliminating debt service payments altogether. In a debt/
+equity swap, the debt held by the creditor is converted into an equity stake in enterprises 
+within the debtor country. The creditors have a claim on future profits, but the debtor coun-
+tries are relieved of interest payments. Such swaps can be profitable to all parties involved. A 
+classic example was the Nissan motor company’s purchase of Mexican debt for investment in 
+its Mexican subsidiary in 1982. Nissan bought $60 million of Mexican debt held by the Citicorp 
+Bank at a price of $40 million – a discount of one-third. Nissan redeemed the debt certificates 
+at the Mexican central bank for $54 million in Mexican pesos, which were then invested in its 
+subsidiary. The bank unloaded its debt at the ‘market’ price, Nissan made a profit in dollars, and 
+Mexico was relieved of interest payments in foreign currency. There have been several other 
+debt/equity swaps since 1986, and they are increasingly linked to privatization programmes in 
+debtor countries, but the absolute magnitude of the sums involved is still relatively small in rela-
+tion to the size of the debt burden.
+Debt for nature and debt for development swaps work in the same way as debt/equity 
+swaps, except the debt is bought by a governmental or charitable organization and the pro-
+ceeds are used for environmental or developmental purposes within the debtor country. The 
+World Wide Fund for Nature has bought developing countries’ debt at a considerable dis-
+count and exchanged it for local currency for use on environmental projects within develop-
+ing countries. In 1988, UNICEF bought Sudanese debt from the Midland Bank, and this was 
+redeemed by the Sudanese government to finance water sanitation programmes in central 
+Sudan.
+Debt for bonds is a swap scheme whereby debtor countries offer fixed interest, long-term 
+bonds in exchange for debt held by the banks. They can be advantageous if the debt can 
+be exchanged at a discount at a more favourable rate of interest. In 1988, Mexico launched 
+a scheme offering $10 billion of bonds to its creditor banks, hoping to sell at a discount of 
+50%. The sale turned out to be disappointing, however. Only 100 out of the 500 banks bid for 
+the bonds, and the debt was discounted by only 30%. Even so, some saving was made by the 
+Mexican government.
+Exit bonds are a particular type of bond that give a bank a lower rate of interest than on the 
+original debt, but end the bank’s liability to provide new money. One way of encouraging this type 
+of arrangement would be for the IMF to guarantee interest payments on the exit bonds, which 
+would encourage the banks to swap debt for this type of bond.
+468
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Long-term solutions
+On a longer term basis, developed countries might set up machinery to guarantee loans from 
+private sources (in addition to export credit guarantees) and establish a fund from which com-
+mercial interest rates could be subsidized. Such a scheme would mean that private lenders would 
+not be deterred from lending through fear of default, developing countries would receive cheaper 
+credit, and the donor’s contribution in the form of payments to private lenders would not burden 
+the balance of payments (if this was regarded as an obstacle to a higher level of official assistance).
+Second, ODA might be given as grants rather than loans. The grant element of official assist­
+ance is already high, and this further step would not only give extra marginal help but would also 
+eliminate the need to haggle over debt renegotiations if the need for rescheduling arose.
+Finally, there is an urgent need to devise schemes to stabilize the price or terms of trade for 
+primary commodities. A large part of the 1980s debt crisis resulted from the collapse of primary 
+product prices, and large fluctuations in primary product prices continue to pose problems for 
+poor countries today (see Chapter 15).
+To stabilize the terms of trade, indexation may be appropriate for some commodities, for 
+example oil. For other primary commodities, credit creation to finance merchants’ stocks would 
+assist. Special Drawing Rights (see Chapter 16) might play a useful role here for buying up surplus 
+stocks of primary commodities that are storable, or for income compensation for commodities 
+that are not. It seems incredible that so many years have passed since Keynes’ wartime plan for 
+an international agency for stabilizing commodity prices (see Thirlwall, 1987; and see Chapter 15 
+for partial schemes already in existence), yet the world still lacks the requisite international agree-
+ment and institutional structures for greater stability and a fairer deal for developing countries 
+that live by exporting primary commodities.
+Summary
+•
+• Domestic saving and investment for growth and development can be supplemented by various 
+types of foreign resource inflows such as loans from bilateral and multilateral sources, pure aid, 
+FDI and remittances.
+•
+• The amount of foreign resource inflows required to support a particular target rate of economic 
+growth can be estimated using dual-gap analysis.
+•
+• Foreign borrowing will raise the growth of national income if the productivity of capital imports 
+is greater than the rate of interest on loans, and will raise the growth of national output if new 
+foreign borrowing exceeds the loss of domestic saving to pay interest on past borrowing.
+•
+• The total amount of foreign resource inflows into developing countries is approximately $1000 
+billion, including $140 billion of aid, $400 billion of FDI and $600 billion of remittances.
+•
+• The motives for aid giving are humanitarian and economic, but there are many critics of aid 
+who argue that it weakens the domestic savings effort and fosters a ‘dependency’ culture.
+•
+• The macroeconomic impact of aid depends on whether it is spent directly on imports or 
+whether the government sells the foreign exchange to the central bank and then uses the local 
+currency to buy domestic goods.
+•
+• The World Bank is a major multilateral lender to developing countries, but its structural adjust-
+ment programmes have been criticized for being too deflationary and ‘anti-developmental’.
+469
+1 4  •  F O R E I G N  A S S I S TA N C E ,  A I D ,  D E B T  A N D  D E V E L O P M E N T
+•
+• Foreign direct investment has benefits, particularly knowledge spillovers, but it also has costs 
+in terms of continual profit outflows and the use of inappropriate techniques of production.
+•
+• Migrant remittances are now greater than official aid, and are non-debt-creating.
+•
+• Loans create debt that has to be repaid in foreign currency. The debt burden of developing 
+countries is a foreign exchange problem. The volume of international debt is approximately 
+$5,500 billion.
+•
+• Empirically, the optimal level of country debt seems to be about 80% of the value of exports, 
+and the impact of debt on growth becomes negative if debt grows to 160% of exports.
+•
+• The debt crisis of the 1980s, which still lingers today, was largely caused by unfavourable 
+external circumstances, including a collapse of commodity prices and a doubling of interest 
+rates.
+•
+• There is no solution to the debt burden of the highly indebted countries without debt forgive-
+ness. Some poor countries qualify for the World Bank’s HIPC Initiative, which allows debt to be 
+written off if the proceeds are used for poverty reduction programmes approved by the World 
+Bank.
+1.	 What is the distinctive contribution of dual-gap analysis to the theory of 
+­
+development?
+2.	 Under what circumstances will foreign borrowing raise the rate of growth of 
+income, and raise the rate of growth of output?
+3.	 What are the characteristics of the different types of financial flow to developing 
+countries?
+4.	 What factors determine the grant element of a financial flow?
+5.	 How might the flow of resources to developing countries be augmented, and 
+what criteria should govern their distribution between countries?
+6.	 What is the purpose of World Bank structural adjustment lending, and how 
+­
+successful has it been?
+7.	 What are the advantages and disadvantages of FDI to developing countries?
+8.	 Discuss the view that foreign lending is merely a pernicious device for transferring 
+resources from poor to rich countries.
+9.	 Can countries borrow too much? What is the sustainable level of borrowing?
+10.	 What is the nature of the debt problem in developing countries?
+11.	 What imaginative schemes can you think of to relieve the debt-servicing burden 
+of developing countries?
+12.	 How successful have the World Bank’s HIPC debt relief programmes been?
+Discussion questions
+Chapter 14
+470
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Websites on aid, remittances, debt and FDI
+Aid
+International Aid Transparency Initiative www.aidtransparency.net
+International migration and remittances
+International Organization for Migration www/iom/int
+Global Commission on International Migration www.iom.int/global-commission-international- 
+migration
+Migration Observatory, University of Oxford www.migrationobservatory.ox.ac.uk
+Debt
+World Bank, Global Financial Development Report www.worldbank.org/en/publication/gfdr
+OECD, Development Co-operation Directorate www.oecd.org/dac
+HIPC Initiative www.worldbank.org/hipc
+Make Poverty History www.makepovertyhistory.org/takeaction/
+Foreign direct investment
+UNCTAD www.unctad.org/en/Pages/Home.aspx
+International Trade Centre, Investment Map www.investmentmap.org
+Nongovernmental organizations
+NGO Global Network www.ngo.org
+Jubilee Debt Campaign http://jubileedebt.org.uk
+

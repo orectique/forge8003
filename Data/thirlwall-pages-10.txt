@@ -1,0 +1,1052 @@
+283
+•
+• Introduction
+•
+• Dualism
+•
+• The process of cumulative causation
+•
+• Regional inequalities
+•
+• International inequality and centre–periphery models
+•
+• Two models of ‘regional’ growth rate differences: Prebisch and Kaldor
+•
+• The new economic geography
+•
+• Theories of dependence and unequal exchange
+•
+• Unequal exchange
+•
+• Summary
+•
+• Discussion questions
+•
+• Notes
+DUALISM, CENTRE–PERIPHERY 
+MODELS AND THE PROCESS 
+OF CUMULATIVE CAUSATION
+10
+284
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+Introduction
+It is easy to argue that poverty and backwardness are due to a general shortage and inefficient 
+use of the key factors of production; it is much harder to determine precisely why there should 
+be a dearth of some factors and an abundance of others, and why development may be a slow 
+and lengthy process. It is certainly impossible to explain current international discrepancies in 
+the level of development with reference to initial differences in factor endowments. The present 
+development gap in the world economy has arisen largely through industrial development in 
+certain selected areas of the world, which, in turn, has generated its own factor endowments. The 
+purpose here, however, is not to consider why some countries were able to industrialize sooner 
+than others, but rather to consider some of the mechanisms through which divisions in the world 
+economy, and unequal advantage between developed and developing countries, are perpetuated.
+First, the dualistic structure of developing countries will be considered. Then we shall exam-
+ine Gunnar Myrdal’s model of the process of circular and cumulative causation, which can be 
+applied to regions and countries alike (Myrdal, [1957] 1963). We shall see that Myrdal’s model 
+is one of many that can be used to understand the perpetuation of the development gap and 
+divergences between North and South or between the ‘centre’ (industrialized) countries and the 
+‘periphery’ (primary producing) countries.
+The pioneering models of Raúl Prebisch and Nicholas Kaldor will be examined in this context, 
+and their similarities emphasized. We will then discuss the new economic geography, which has 
+links with the model of cumulative causation, and the role of geographic factors that seem to be 
+associated with divisions in the world economy. Finally, we shall briefly discuss models of unequal 
+exchange and dependency, which emphasize alternative institutional and economic mechanisms 
+making for international inequality in the world economy.
+Dualism
+The term ‘dualism’ describes a condition in which developing countries usually find themselves 
+in the early stages of development, which can have implications for the future pattern and pace 
+of development. There are a number of possible definitions and interpretations of ‘dualism’, but 
+the term is used mainly to refer to the economic and social divisions in an economy, such as 
+differences in the level of technology between sectors or regions, differences in the degree of 
+geographic development, and differences in social customs and attitudes between the rural and 
+urban sectors of developing countries.
+Dualism in all its aspects is a concomitant of the growth of a money economy, which, as we saw in 
+Chapter 5, may either arise naturally as a result of specialization or be imposed from outside. Basically, 
+therefore, a dual economy is characterized by a difference in social customs between the subsistence 
+and exchange sectors of the economy, by a gap between the levels of technology in the rural subsist-
+ence sector and the industrial monetized sector, and often by a gap in the level of per capita income 
+between regions of a country if the money economy and industrial development are geographically 
+concentrated. In fact, it is not unusual for geographic, social and technological dualism to occur 
+together, with each type of dualism tending to reinforce the other. Also, the more ‘progressive’ sec-
+tors typically have favourable access to scarce factors of production, which is a major cause of the 
+persistence of dualism. Urban bias plays an important part in this process (Lipton, 1977).
+The first question to ask is: What development problems does the existence of dualism pose 
+for an economy, and how can dualism impede and retard development? As far as social dualism 
+285
+1 0  •  D U A L I S M ,  C E N T R E – P E R I P H E R Y  M O D E L S
+is concerned, the obstacles are similar to those presented by a traditional society with no mod-
+ern exchange sector at all. The task is one of providing incentives in the subsistence sector and 
+drawing the subsistence sector into the money economy. The fact that the indigenous subsist-
+ence sector may be reluctant to alter its traditional way of life and respond to incentives is not 
+peculiar to a dual economy. It is therefore true that underdevelopment tends to be associated 
+with social dualism, but it would be misleading to regard social dualism as an underlying cause 
+of backwardness and poverty. It is difficult to argue that development would be more rapid in 
+the absence of a monetary sector, from which the existence of dualism stems. Even if the growth 
+of the exchange sector makes little impact on attitudes in the indigenous sector, it is difficult to 
+envisage any progress without the growth of the money economy. In short, it seems more realistic 
+to regard social dualism as an inevitable consequence of development rather than as a basic cause 
+of underdevelopment itself.
+Similar reservations can be raised over whether it is accurate to describe technological dual-
+ism as a cause of underdevelopment. As with social dualism, it is probably more realistic to regard 
+it as an inevitable feature of the development process. Two disadvantages are commonly associ-
+ated with technological dualism. The first is that where technological dualism is the result of a for-
+eign enclave, a proportion of the profits generated in the industrial sector will be remitted to the 
+home country, reducing the level of saving and investment below what it might have been. The 
+second disadvantage is more fundamental, but difficult to avoid. If in the rural, or non-monetized, 
+sector of the economy, production processes are characterized by labour-intensive techniques 
+and variable technical coefficients of production, while production processes in the industrial, 
+technologically advanced sector are capital-intensive and possess relatively fixed technical coef-
+ficients, it is possible that the technology of the industrial sector may impede the progress of the 
+rural agricultural sector. First, relatively fixed technical coefficients (that is, a low elasticity of sub-
+stitution between factors) means that labour can be absorbed from agriculture into industry only 
+as fast as the growth of capital, and second, capital intensity itself will restrict employment oppor-
+tunities in the industrial sector, contributing to urban unemployment and perpetuating under-
+development in the rural sector. Hence, productivity growth in the agricultural sector, which is 
+recognized as being necessary to establish a secure basis for take-off into sustained growth, may 
+be slowed down.
+It is true that if the technology of the modern sector (imported or otherwise) does embody 
+fixed technological coefficients, it may be difficult for an economy to use the socially optimum 
+combination of factors, but this disadvantage must be weighed against the favourable impact on 
+productivity stemming from the more advanced technology. If capital accumulation and technical 
+progress, and the development of an industrial sector – in addition to agricultural development – 
+are essential for raising the level of per capita income, it is difficult to see how technological dual-
+ism can be avoided, at least in the early stages of development. The best that can be done is, first, 
+to encourage the widespread application and rapid assimilation of technical progress throughout 
+all sectors of the economy, and, second, to ensure the ‘proper’ pricing of factors of production to 
+prevent the introduction of a technology that may be profitable to private individuals but does 
+not maximize the returns to society at large because factor prices do not adequately reflect rela-
+tive factor endowments. But even a technology that is socially optimal in this sense may not be 
+the technology that provides the soundest basis for sustained growth in the long run. The ques-
+tion of the choice of techniques was discussed in detail in Chapter 6, and the issue of the ‘social’ 
+pricing of factors of production can be found on this book’s website (www.palgravehighered.
+com/Thirlwall-Econ-Of-Dev-10e).
+286
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+The process of cumulative causation
+The hypothesis of cumulative causation as an explanation of the backwardness of developing 
+nations is associated with Gunnar Myrdal ([1957] 1963), the well-known Swedish economist who 
+won the Nobel Prize for Economics in 1974. Basically, it is a hypothesis of geographic dualism, 
+applicable to nations and regions within nations, which can be advanced to account for the per-
+sistence of spatial differences in a wide variety of development indices, including wage rates, per 
+capita income, employment growth rates and levels of unemployment. As such, the process of 
+cumulative causation is a direct challenge to static equilibrium theory, which predicts that the 
+working of economic and social forces will cause spatial differences to narrow.
+Myrdal ([1957] 1963) contends that, in the context of development, economic and social 
+forces produce tendencies towards disequilibrium, and that the assumption in economic the-
+ory that disequilibrium situations tend towards equilibrium is false. If this were not so, how 
+can we explain the tendency for international and regional differences in living standards 
+to widen? Thus, Myrdal replaces the assumption of stable equilibrium with what he calls 
+the hypothesis of circular and cumulative causation, arguing that the use of this hypothesis 
+can go a long way towards explaining why international differences in levels of development, 
+and interregional differences in development within nations, may persist and even widen 
+over time.
+Myrdal ([1957] 1963) first considers the hypothesis in the context of a geographically dual 
+economy, describing how, through the mechanisms of labour migration, capital movements 
+and trade, the existence of dualism not only retards the development of backward regions but 
+can also slow up the development of the whole economy. To describe the process of circular 
+and cumulative causation, let us start off with a country in which all regions have attained the 
+same stage of development, as measured by the same level of per capita income, or by similar 
+levels of productivity and wages in the same occupations. Then assume that an exogenous 
+shock produces a disequilibrium situation, with development proceeding more rapidly in one 
+region than another. The proposition is that economic and social forces will tend to strengthen 
+the disequilibrium situation by leading to cumulative expansion in the favoured region at the 
+expense of other regions, which then become comparatively worse off, retarding their future 
+development.
+Gunnar Myrdal
+Born 1898, Skattungbyn, Sweden. Died 1987. Politician, economist 
+and prolific writer in several fields of economics. One of the architects 
+of the Swedish welfare state in the 1930s. His early work in macroeco-
+nomics anticipated Keynes’ General Theory. In development econom-
+ics, best known for his challenge to equilibrium theory, and the notion 
+of ‘circular and cumulative causation’, in books such as An American 
+Dilemma: The Negro Problem and Modern Democracy (1944) and 
+Economic Theory and Underdeveloped Regions (1957). Also wrote a 
+massive three-volume tome, Asian Drama: An Inquiry into the Poverty 
+of Nations (1968). Awarded the Nobel Prize for Economics, 1974.
+287
+1 0  •  D U A L I S M ,  C E N T R E – P E R I P H E R Y  M O D E L S
+This contrasts with neoclassical equilibrium theory, which assumes that, through the process 
+of factor mobility, wage rates and the rate of profit will equalize across regions. According to neo-
+classical theory, in places where labour is scarce and capital is abundant, labour will flow in and 
+capital will flow out, thus reducing wages and raising the rate of profit, while in less prosperous 
+areas where labour is abundant, labour will flow out and capital will flow in, raising wages and 
+reducing the rate of profit.
+In contrast, what Myrdal ([1957] 1963) has in mind is a type of multiplier–accelerator mech­
+anism producing increasing returns in the favoured region. Instead of leading to equality, the 
+forces of supply and demand interact with each other to produce cumulative movements away 
+from spatial equilibrium. Since the wage level is the basic determinant of per capita income, let us 
+take the example of wages and wage differences to illustrate the kind of process that Myrdal has 
+in mind. Take two regions, A and B (for example, northern and southern Italy), and assume that 
+wages are determined by supply and demand, as in Figures 10.1 and 10.2.
+Suppose to start with that wage levels are identical in the two regions, that is, WA 5 WB. Then 
+assume that a stimulus of some sort causes the demand for labour, and therefore wages, to rise 
+in region A relative to region B; that is, the demand curve for labour in region A shifts to D1D1, 
+causing wages to rise to WA1. Since labour tends to respond to differences in economic opportun­
+ities of this sort, the wage discrepancy may be assumed to induce labour migration from region 
+B to region A. Equilibrium theory then predicts that there will be a tendency for wage levels to 
+be equalized once more through a reduction in labour supply in region B from SS to S1S1 and an 
+WA1
+D1
+D
+D2
+D2
+S
+S1
+D1
+D
+S1
+S
+WA2
+WA
+Wages
+0
+Supply of and
+demand for
+labour
+Figure 10.1  Region A
+Figure 10.2  Region B
+WB1
+D1
+D
+S
+S1
+D1
+D
+S1
+S
+WB
+Wages
+0
+Supply of and
+demand for
+labour
+288
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+increase in labour supply in region A from SS to S1S1, giving a wage in region A of WA2, equal to a 
+wage in B of WB1.
+According to the hypothesis of cumulative causation, however, changes in supply may be 
+expected to react on demand in such a way as to counteract the tendency towards equilibrium. 
+Migration from region B denudes the area of human capital and entrepreneurs, and depresses 
+the local demand for goods and services and factors of production, while movements into region 
+A, on the other hand, will tend to stimulate enterprise and the demand for products, adding to 
+the demand for factors of production. In short, migration from region B will cause the demand 
+curve for labour to shift to the left, say to D1D1, and migration into region A will cause the demand 
+curve for labour to shift further to the right, say to D2D2, causing the initial wage discrepancy at 
+least to persist, if not widen (if the shifts in demand are greater than those assumed). Thus, once 
+development differences appear, a chain of cumulative expansion in the favoured region is set in 
+motion, and this has what Myrdal ([1957] 1963) calls a backwash effect on other regions, causing 
+development differences in general to persist or even diverge.
+Capital movements and trade also play a part in the process of cumulative causation. In a 
+free market, capital, like labour, will tend to move to where the prospective return is highest, and 
+this will be to the region where demand is buoyant (not necessarily the region where the wage 
+is lowest, as in neoclassical theory). Capital, labour and entrepreneurship will tend to migrate 
+together. The benefits of trade will also accrue to the host region. Regions within a nation using 
+a common currency cannot have balance of payments difficulties in the normal sense, but the 
+maintenance of employment depends on the ability to export, otherwise unemployment will 
+appear. If production is subject to increasing returns, the region experiencing the rapid growth of 
+factor supplies will be able to increase its competitive advantage over the relatively lagging regions 
+containing smaller scale industries, and increase its real income accordingly. In this same way, the 
+general freeing and widening of international markets and the expansion of world trade will tend 
+to favour the more rapidly growing regions within nation-states.
+The impact of immigration into the expanding region is also likely to induce improvements 
+in transport and communications and education and health facilities, improving efficiency and 
+productivity and widening still further the competitive advantage of the growing region over the 
+lagging regions experiencing emigration of the factors of production.
+Such is the potential strength of the backwash effects of the process of circular and cumulative 
+causation that Albert Hirschman (1958), eminent development economist, once suggested that lag-
+ging regions may possibly be better off if they became sovereign political states. If a lagging area was 
+an independent ‘country’, the mobility of factors of production could be more easily controlled, 
+competition between the leading and lagging regions could be reduced, each region could more 
+easily concentrate on producing goods in which it possessed a comparative cost advantage, separate 
+exchange rates could be fixed for the two regions, and regions could more easily protect themselves.
+Despite these potential advantages of nationhood for a backward region, Hirschman (1958) 
+argues against sovereignty because he believes that the forces making for the interregional trans-
+mission of growth are likely to be more powerful than those making for ‘international’ transmission.
+Hirschman (1958) recognizes, however, the continued existence of backwash effects and 
+argues that, to offset them, a nation that is concerned with developing its backward regions 
+should provide certain equivalents of sovereignty, such as a separate tax system and the right 
+to protect certain activities. Policies must be designed to reduce what he calls the polarization 
+effects of interregional differences in development and to strengthen the trickle-down effects. 
+The ‘trickle-down’ effects are the favourable repercussions on backward regions emanating from 
+expanding regions, which Myrdal ([1957] 1963) calls spread effects. These trickle-down or spread 
+289
+1 0  •  D U A L I S M ,  C E N T R E – P E R I P H E R Y  M O D E L S
+effects consist mainly of an increased demand for the backward areas’ products and the diffusion 
+of technology and knowledge. In Myrdal’s view, the spread effects are weaker than the backwash 
+effects, and if interregional differences are to be narrowed, nations must rely on state interven-
+tion through regional policies. The only alternative is to wait for a natural end to the process of 
+cumulative causation.
+A time must eventually come when increasing costs in the expanding region will halt expan-
+sion. The higher costs of living, and the external diseconomies produced by congestion, will ulti-
+mately outweigh the benefits of greater efficiency and higher money returns to the factors of 
+production. The process of migration will then be halted, and possibly reversed. This stage has 
+now been reached in some developed countries. The question for governments with certain 
+growth and welfare objectives is whether they can afford to let the process take its natural course, 
+and to tolerate the inequalities that may arise before the process ends. High levels of inequality 
+can lead to negative social, economic and political consequences that have a destabilizing effect 
+on societies, causing insecurity and social unrest. In practice, governments in many advanced 
+countries have taken active steps for many years to redress regional imbalances, and this is one 
+reason why regional disparities tend to be less in advanced countries than in developing countries. 
+In developing countries, however, Myrdal ([1957] 1963) was of the view that, far from lessening 
+regional inequalities, the state has been a positive force in their persistence: ‘In many of the poorer 
+countries the natural drift towards inequalities has been supported and magnified by built-in feu-
+dal and other inegalitarian institutions and power structures which aid the rich in exploiting the 
+poor.’ This is still true in many poor countries today.
+Regional inequalities
+The international cross-section evidence on regional inequalities, and time-series evidence for indi-
+vidual countries, suggests that the degree of inequality follows an inverted U-shaped curve; that is, 
+regional inequalities first rise with the level of development and then decrease. This pattern is not 
+hard to explain. Very poor countries are uniformly poor. Regional differences then first emerge as a 
+result of some favourable shock to one region or set of regions – for example an export enclave or 
+the establishment of industrial activities. Once a difference has emerged, it will tend to be widened 
+by the processes already described. In the early stages of development, migration from poor to richer 
+regions will tend to be selective because only those with skills and education will be able to afford 
+to migrate. Capital will tend to locate in the more dynamic region(s). Spread effects emanating from 
+prosperous regions will be weak, owing to a general lack of political and economic integration.
+The factors that accentuate differences in the early stages of development, however, will tend 
+to weaken with time as countries get richer:
+•
+• migration will become less selective
+•
+• the spread effects will become more powerful
+•
+• industrialization will tend to spread and the size of the agricultural sector shrink
+•
+• external diseconomies of expansion and congestion in expanding regions will worsen, curbing 
+capital and labour migration from poor to rich regions
+•
+• governments may also attempt to rectify imbalances through the implementation of regional 
+policies.
+The empirical evidence shows that regional disparities in output and income per head are much 
+more unequal in developing countries than in developed countries.
+290
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+The experience of developing countries contrasts with what is happening in most developed 
+countries, including the USA and the European Union. In the USA, Barro and Sala-í-Martin (1992) 
+show that a process of regional per capita income convergence has been going on over the past 
+100 years. Taking personal income data, they find an inverse relation across US states between the 
+average growth of per capita income over the period 1880–1988 and the initial (1880) level of per 
+capita income. Only two subperiods, 1920–30 and 1980–88, show evidence of divergence.
+In Europe, the evidence is more mixed. Across the regions of Europe, there is some evidence 
+of per capita income convergence in the postwar years up to 1980, but not thereafter. Regional 
+unemployment rate differences, however, both within Europe as a whole and within industrial 
+countries, have remained very stubborn. Fagerberg and Verspagen (1996) took 70 regions in six 
+EU countries and showed income convergence up to 1980, but not since. The authors argued 
+that the scope for convergence is not exhausted, but other factors in the 1980s pushed towards 
+divergence, particularly differences in unemployment and the R&D effort between industrial and 
+agricultural regions.
+Indeed, it appears to be the case from a further study by Fagerberg et al. (1996) that regional 
+differences in per capita income are systematically related to differences in unemployment rates. 
+They took 64 regions in Germany, France, Italy and Spain over the period 1980–90 and found 
+India comprises 28 states and 4 union territories. There are huge regional differences 
+in living standards measured by per capita income, ranging from 12,000 rupees a year 
+in Bihar (the poorest state) to nearly 100,000 rupees per capita in Goa. These are the 
+product of history and past growth experience.
+Regional differences in living standards can have serious implications for the eco-
+nomic and political functioning of national economies. Inflationary pressure in pros-
+perous regions can spread to poorer regions reducing real living standards. Political 
+resentment can arise and disillusionment with the political process, leading to social 
+unrest.
+Over the period 1999–2011, regional disparities in India have widened, as measured 
+by the standard deviation of per capita incomes, from 0.18 to 0.23 (see Chapter 2 for 
+how standard deviation is measured). The growth of these divisions is related mainly to 
+the higher share of agriculture in the poorer regions, the faster growth of population, 
+and the lower rate of investment in physical and human capital. What is happening in 
+India is supportive of Myrdal’s model of circular and cumulative causation, and bodes 
+ill for the large percentage of the Indian population that lives in the poorest states 
+where life is already wretched.
+Source: Cherodian and Thirlwall, 2015.
+Case example 10.1
+Regional disparities in per capita income in India
+Shankar and Shah (2003) look at trends in regional inequality over time in 14 developing coun-
+tries and find inequalities increasing – or moving up an inverted U-shaped curve. Rodriguez-Pose 
+and Gill (2006) also show this in a study of India, China and Mexico since 1980, and find that the 
+growth of regional inequalities is significantly related to the shift of trade from primary to manu-
+factured exports. This trade effect is greater, the larger the share of trade in GDP and the greater 
+the shift. Regional inequalities continue to rise in India – see Case example 10.1.
+291
+1 0  •  D U A L I S M ,  C E N T R E – P E R I P H E R Y  M O D E L S
+that the growth in poor regions was hampered by unfavourable industrial structure and weak 
+R&D effort. There was evidence of convergence, but only after allowing for differences in indus-
+trial structure, R&D effort, population density and migration. Interestingly, labour migration was 
+found to have a strong positive impact on per capita income growth, indicating that migration 
+was disequilibrating during this period. The policy implications are that the predominance of 
+agriculture is a barrier to growth in poor regions, mainly because the scope for scale economies 
+and R&D is less than in industry. Greater regional balance requires structural change in favour of 
+industrial activities, but this, in turn, requires an appropriate physical infrastructure and the provi-
+sion of human capital.
+International inequality and centre–periphery models
+The process of circular and cumulative causation is also used by Myrdal ([1957] 1963) in an 
+attempt to explain widening international differences in the level of development from 
+similar initial conditions. Through the mechanisms of labour migration, capital movements 
+and trade, international inequalities are perpetuated in exactly the same way as regional 
+inequalities within nations. Myrdal argues that, through trade, the developing countries have 
+been forced into the production of goods, notably primary products, with inelastic demand 
+with respect to both price and income. This has put developing countries at a grave dis-
+advantage compared with developed countries with respect to balance of payments and 
+availability of foreign exchange. Moreover, with the tendency for the efficiency wage (that is, 
+the money wage in relation to labour productivity) to fall in faster-growing areas relative to 
+other areas, developed countries have gained a cumulative competitive trading advantage, 
+especially in manufactured commodities. Myrdal, of course, is not alone in this view, and we 
+shall elaborate below on other models that stress the unequal gains and balance of payments 
+effects of trade as the main mechanisms through which international differences in develop-
+ment are perpetuated, including the contribution of the new economic geography pioneered 
+by Krugman (1991).
+Williamson argues, in his book Trade and Poverty: Why the Third World Fell Behind (2013), that 
+divergence in the world economy between ‘centre’ and ‘periphery’ coincided with globalization in 
+the nineteenth century that led to increased specialization of manufacturing industry in Europe 
+and the USA, combined with increased specialization in primary products in the rest of the world. 
+In the periphery, industrialization was thwarted by the rent-seeking behaviour of landowners, and 
+price and income volatility slowed its growth compared to the ‘centre’. Trade benefited the centre 
+at the expense of the periphery.
+In the case of capital movements, Myrdal ([1957] 1963) argues in the same vein; because the 
+risks associated with investment tend to be higher in developing countries, the natural tendency 
+will be for developing countries to be net exporters of capital. In practice, because of the large 
+volume of capital from international lending organizations, and the favourable tax treatment of 
+foreign direct investment, developing countries are generally net importers of long-term capital, 
+although the short-term capital account tends to be adverse. The fact remains, however, as Lucas 
+(1990) points out, that capital flows mainly to regions already rich. With regard to foreign direct 
+investment, the richest countries receive over 80% of flows, while the poorest countries (exclud-
+ing China) receive less than 5%.
+The potential weakness of Myrdal’s hypothesis at the international level concerns the effects 
+of labour migration. The international migration of labour from developing to developed 
+292
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+countries can have beneﬁcial as well as harmful eﬀects on backward economies. The greatest 
+deleterious eﬀect on backward economies is the obvious one of possible loss of human capital, 
+although even here, if the human capital is unemployed, migration may not be a serious loss. 
+But it is not only the skilled and educated that may be induced to leave their native lands. 
+Unskilled labour may also respond to the existence of better employment opportunities 
+elsewhere. If it is argued that developing countries suﬀer from underemployment, and that 
+productivity is low owing to surplus labour, the emigration of unskilled labour could be a 
+substantial beneﬁt to developing countries. It is possible, for example, that emigration has 
+helped to raise per capita income in some countries, such as Mexico, Pakistan and Bangladesh, 
+while improving the balance of payments through remittances by emigrants to their home 
+countries. Migrant remittances now amount to over $500 billion a year, exceeding the level 
+of oﬃcial development assistance to developing countries (see Chapter 15). In this important 
+respect, generous immigration policies in developed countries can provide a valuable means of 
+development assistance.
+Even so, any potential gain from unrestricted labour mobility is unlikely to offset the inter-
+national backwash effects arising from trade and international capital movements. Even with 
+unrestricted migration, therefore, there would still be a tendency for international differ-
+ences in the level of development to widen through trade and the free movement of capital. 
+The existence of international spread effects gives no reason for modifying this conclusion. 
+*OUFSOBUJPOBMTQSFBEFGGFDUTBSFSFMBUJWFMZXFBLoDFSUBJOMZXFBLFSUIBOUIFTQSFBEFGGFDUT
+within nations.
+What, then, should be our verdict on the hypothesis of cumulative causation? Given that the 
+hypothesis assumes free trade and free mobility of the factors of production, it perhaps con-
+tains more force with respect to interregional diﬀerences in development within countries than 
+international diﬀerences between countries. On the other hand, it cannot be dismissed lightly 
+when discussing the development gap in the world economy. In view of the fact that there has 
+been no tendency in the recent past for international per capita income levels to converge (see 
+Chapters 2 and 4), the hypothesis is not refuted by the evidence. In particular, the present inter-
+national trading and payments position of developing countries does not inspire conﬁdence that 
+the total gains from trade between developed and developing countries are distributed equitably 
+(see Chapters 15 and 16).
+The contribution of the hypothesis of cumulative causation to an understanding of develop-
+ment and underdevelopment is its emphasis on economic and social development as a cumula-
+tive phenomenon and, more important, its challenge to static equilibrium theory; that is, that 
+regions or nations that gain an initial advantage may maintain that advantage to the detriment 
+of development elsewhere. At its root is the phenomenon of increasing returns, deﬁned broadly 
+as the accumulation of productive advantages of the type discussed in Chapter 6 relating to how 
+societies progress technologically.
+Two models of ‘regional’ growth rate diﬀerences:  
+Prebisch and Kaldor
+While the Myrdal model of centre and periphery emphasizes the process of cumulative caus-
+ation working through increasing returns and competitiveness in favoured regions, other cen-
+USFoQFSJQIFSZNPEFMTTUSFTTUIFCBMBODFPGQBZNFOUTJNQMJDBUJPOTPGUIFQBSUJDVMBSQBUUFSOPG
+293
+1 0  •  D U A L I S M ,  C E N T R E – P E R I P H E R Y  M O D E L S
+The Prebisch model1
+Consider a two-country, two-commodity model in which the advanced centre produces and 
+exports manufactured goods with an income elasticity of demand2 greater than unity, and the 
+backward periphery produces and exports primary commodities with an income elasticity of 
+demand less than unity. Let us suppose that the income elasticity of demand for manufactures 
+(em) is 1.3, and the income elasticity of demand for primary commodities (ep) is 0.8. Assume to 
+start with that the growth rates of income of both centre and periphery are equal to 3%, that is, 
+gc 5 gp 5 3.0. What will be the growth of exports (x) and imports (m) in the centre and periphery? 
+For the centre, we have:
+xc 5 gp 3 em 5 3.0 3 1.3 5 3.9%
+mc 5 gc 3 ep 5 3.0 3 0.8 5 2.4%
+and for the periphery, we have:
+xp 5 gc 3 ep 5 3.0 3 0.8 5 2.4%
+mp 5 gp 3 em 5 3.0 3 1.3 5 3.9%
+With imports growing faster than exports in the periphery, this is not a sustainable position, 
+unless the periphery can finance an ever-growing balance of payments deficit on the current 
+account by capital inflows. If it cannot, and balance of payments equilibrium on the current 
+account is a requirement, there must be some adjustment to raise the rate of growth of exports 
+or reduce the rate of growth of imports. Now suppose we rule out the possibility that relative 
+Raúl Prebisch
+Born 1901, Tucuan, Argentina. Died 1986. Argentina’s most famous 
+economist; mixed economics and politics on the national and inter-
+national stage. Architect and first president of the Central Bank 
+of Argentina in his early thirties; first director of the Economic 
+Commission for Latin America, 1948, and first secretary-general of 
+UNCTAD, 1964. ‘Father’ of Latin American structuralist thinking; 
+worked tirelessly for a fairer deal for poor countries in the world trad-
+ing system. First to document, with Hans Singer, the historical decline 
+in terms of trade of primary commodities: the Prebisch–Singer thesis.
+production and trade between rich and poor countries, which arise from the fact that industrial 
+goods produced and traded by rich countries have a higher income elasticity of demand than 
+goods produced and traded by poor countries. One of the earliest models, powerful in its simpli­
+city, is that of Raúl Prebisch, well-known Argentinian economist (1901–86).
+294
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+prices measured in a common currency (or real exchange rate) can change as an adjustment 
+mechanism, the only adjustment mechanism left (barring protection) is a reduction in the 
+periphery’s growth rate to reduce the rate of growth of imports in line with the rate of growth 
+of exports. From the model, we can solve for the necessary growth rate of the periphery to 
+keep trade balanced. On the assumptions outlined, we must have mp 5 xp or gpem 5 xp and 
+therefore:
+gp 5  XP
+em
+ 5  2.4
+1.3  5 1.846
+Thus, the growth rate of the periphery is constrained to 1.846%, compared with 3% in the centre. 
+In these circumstances, both the relative and the absolute gap in income between periphery and 
+centre will widen. Notice, in fact, that since the growth of the periphery’s exports is equal to gc 3 
+ep, we can write the above equation as:
+gp 5  
+gc 3 ep
+em
+and dividing through by gc, we reach the interesting result that the relative growth rates of the 
+periphery and centre will equal the ratio of the income elasticity of demand for the two countries’ 
+commodities:
+gp
+gc
+  5   
+ep
+em
+This result will hold as long as current account equilibrium on the balance of payments is a 
+requirement, and relative price adjustment in international trade is either ruled out as an adjust-
+ment mechanism to rectify balance of payments disequilibrium or does not work. To avoid the 
+consequences of this model, Prebisch (1959) argued the case for protection and import substitu-
+tion, which, in effect, is a policy to reduce em, which for the periphery is the propensity to import 
+manufactured goods. We reserve discussion of the relative merits of protection until Chapter 15 
+on trade policy.
+Kaldor’s model of regional growth rate differences
+It is possible to combine the ideas of Myrdal with the insights of Prebisch in a single model, which 
+focuses on the role of export growth in the development process in an open economy and in which 
+the Prebisch result emerges as a special case if relative prices are fixed and trade is balanced. Kaldor’s 
+model (1970) is applicable to regions and open developing economies alike.3 It takes as its starting 
+point the not unreasonable assumption that the output of an open economy is demand-deter-
+mined, not supply-constrained, and that it is the long-run growth of autonomous demand that 
+governs the long-run rate of growth of output. The main component of autonomous demand in 
+an open economy is, in turn, demand coming from outside the region; that is, the demand for the 
+region’s exports. The model is a variant of export-base models of development, which stress the 
+importance of exports as a leading sector. The hypothesis is that once a region obtains a growth 
+advantage, it will tend to sustain it at the expense of other regions because faster growth leads to 
+faster productivity growth (the so-called Verdoorn effect, see Chapter 3), which keeps the region 
+295
+   t  % 6 " - * 4 .   $ & / 5 3 & o 1 & 3 * 1 ) & 3 :  . 0 % & - 4
+competitive in the export of goods that gave the region its growth advantage in the ﬁrst place. 
+Success breeds success, and failure breeds failure. In this section, attention will be conﬁned to out-
+lining the model. An examination of the international evidence of the relation between the growth 
+of exports and the growth of output in developing countries will be left until Chapter 15.
+Let:
+gt 5 g(xt) 
+(10.1)
+where gt is the rate of growth of output in time t, xt is the rate of growth of exports in time t, g is the 
+(constant) elasticity of output with respect to export growth (5 1 if exports are a constant pro-
+portion of output) and t is time. Apart from the theoretical considerations underlying the speci-
+ﬁcation of equation (10.1), that the rate of growth of the economy as a whole will be governed 
+by the rate of growth of autonomous demand, there are a number of practical consider 
+ations 
+that make export demand for highly specialized regions (or countries) extremely important for 
+demand and supply. For most industries in a region, local demand is likely to be trivial compared 
+with the optimum production capacity of the industries. The viability of regional enterprise must 
+largely depend on the strength of demand from outside the region.
+There are also a number of important reasons why export demand may be a more potent 
+HSPXUIJOEVDJOHGPSDFUIBOPUIFSFMFNFOUT PG EFNBOE FTQFDJBMMZ JO PQFO CBDLXBSE BSFBT o
+regions or countries:
+1. Exports allow regional specialization, which may bring dynamic as well as static gains.
+2. Exports permit imports, and imports may be important in developing areas that lack the cap-
+acity to produce development goods themselves.
+3. If the exchange of information and technical knowledge is linked to trade, exporting facilitates 
+the ﬂow of technical knowledge, which can improve the area’s supply capacity.
+Now let us consider the determinants of export demand and the form of the export demand 
+function. It is conventional to specify exports as a multiplicative (or constant elasticity) function 
+of relative prices measured in a common currency and foreign income. Thus:
+Xt 5 a Pdt
+Pft
+ b
+h
+ Zt
+P 
+(10.2)
+ 
+xt 5 h(pdt − pft) 1 e(zt) 
+(10.3)
+where the lower-case letters represent the rates of growth of the variables. The rate of growth of 
+income outside the region (z) and the rate of change of competitors’ prices (pf) may both be taken as 
+exogenous to the region. The rate of growth of domestic (export) prices will be endogenous, however. 
+Let us assume that prices are formed on the basis of a constant ‘mark-up’ on unit labour costs, so that:
+Pdt 5 a W
+R  b
+t
+(Tt) 
+(10.4)
+where X is the quantity of exports in time t, Pd is the domestic price in time t, Pf is the foreign price 
+measured in domestic currency in time t, Z is foreign income in time t, h is the price elasticity
+of demand for exports (< 0) and e is the income elasticity of demand for exports (> 0). Taking 
+logarithms of the variables and  
+differentiating with respect to time gives:
+296
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+where Pd is the domestic price, W is the level of money wages, R is the average product of labour 
+and T is 11 percentage mark-up on unit labour costs. From equation (10.4), we can write:
+pdt 5 wt − rt 1 tt
+(10.5)
+where the lower-case letters stand for the rates of change of the variables.
+The model becomes ‘circular and cumulative’ by specifying the growth of labour productivity 
+(r) as partly a function of the growth output itself (Verdoorn’s law). If the function is linear, we 
+may write:
+rt 5 rat 1 l gt
+(10.6)
+where rat is the rate of autonomous productivity growth at time t, and l is the Verdoorn coef-
+ficient (. 0). Equation (10.6) provides the link between exports and growth via productivity 
+growth and prices. Fast export growth leads to fast output growth, and fast output growth leads 
+to fast export growth by making goods more competitive. Combining equations (10.1), (10.3), 
+(10.5) and (10.6) to obtain an expression for the equilibrium growth rate gives:
+gt 5
+g3h(wt 2 rat 1 tt 2 pft) 1 P(zt)4
+1 1 ghl
+ 
+(10.7)
+Remembering that h , 0, the growth rate is shown to vary positively with ra, z, e, pf, z and g, and 
+negatively with w and t. The effect of h is ambiguous since it appears in both the numerator and 
+the denominator of the equation. It is clear that it is the assumed dependence of productivity 
+growth on the growth of output that gives rise to the possibility that once a region obtains a 
+growth advantage, it will keep it. Suppose, for example, that a region obtains an advantage in the 
+production of goods with a high income elasticity of demand (e), which causes its growth rate to 
+rise above that of another region. Through the so-called ‘Verdoorn effect’, productivity growth 
+will be higher, the rate of change of prices lower (other things being the same) and the rate of 
+growth of exports (and hence the rate of growth of output) higher and so on. Moreover, the fact 
+that the region with the initial advantage will obtain a competitive advantage in the produc-
+S
+x
+g
+E
+r = f3 (g) 
+r
+–pd  = f4(r)
+x  = f2 (–pd )
+g = f1(x)
+–pd  
+Figure 10.3  Convergent–divergent growth
+297
+1 0  •  D U A L I S M ,  C E N T R E – P E R I P H E R Y  M O D E L S
+tion of goods with a high income elasticity of demand will mean that it will be difficult for other 
+regions to establish the same activities. This is the essence of the theory of cumulative causation, 
+of divergence between ‘centre’ and ‘periphery’ and between industrial (developed) and agricul-
+tural (developing) regions (countries). Figure 10.3 illustrates the model graphically.
+The distance of each of the linear functions from the origin reflects factors affecting each vari-
+able other than the variable specified in the functional relation. From the initial condition, S, the 
+growth rate is shown converging to its equilibrium value E, as determined in equation (10.7).4 
+The link that the Verdoorn relation provides between exports and growth via productivity and 
+prices, and its sustaining influence, is clearly seen. And the greater the dependence of productivity 
+growth on the growth of output (that is, the higher l), the higher the equilibrium growth rate will 
+be and the greater the divergence between regional growth rates for given differences between 
+regions in the other variables and parameters.
+An important implication of the model we have developed is that an autonomous shock 
+will not be sufficient to raise a lagging region’s growth rate permanently unless the autono-
+mous shock favourably affects the parameters and variables of the model, or is a sustained 
+shock. On these grounds, the relevance of policies of devaluation in a national context, or 
+wage subsidies in a regional context, for improving a region’s growth rate may be called into 
+question. What is likely to be required is structural change, in particular structural change to 
+improve the demand characteristics of exports. It is recognition of this point that accounts, 
+among other things, for the emphasis placed by developing countries on industrialization 
+and the restructuring of world trade to provide their manufactured goods with easier access 
+to world markets (see Chapter 15).
+Note that it is also a property of the model that if relative prices measured in a common cur-
+rency do not change (that is, pdt 2 pft 5 0), then export growth is determined solely by income 
+growth outside the region or country, and equation (10.7) would reduce to:
+gt 5 ge(zt)
+(10.8)
+and if balanced trade is a requirement so that the growth of imports (m) is equal to the growth 
+of exports (m 5 x), we have:
+gtπ 5 e(zt)
+(10.9)
+where π is the income elasticity of demand for imports.
+Thus, with relative prices fixed, the growth elasticity with respect to exports (g) in equation 
+(10.1) must equal the reciprocal of the income elasticity of demand for imports (π) in a balanced 
+trade model such as Prebisch’s. Again, we end up with the simple rule that one country’s growth 
+rate (g) relative to that of others (z) depends on the ratio of the income elasticity of demand for 
+the country’s exports relative to its imports (or the other country’s exports in a two-country 
+model), that is, from equation (10.9):
+gt
+zt
+   5   e 
+p 
+(10.10)
+At the country level, there is substantial empirical support for this simple growth rule, 
+which is discussed more fully in Chapter 16 in connection with the balance of payments 
+and economic development. This growth rule is also known in the literature as Thirlwall’s 
+298
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+law, and Krugman’s 45-degree rule, after Thirlwall first showed how well the model fitted 
+the growth experience of many countries in the postwar years, and Paul Krugman (1989) 
+showed independently that relative price changes have not been an efficient balance of pay-
+ments adjustment mechanism and that countries’ growth rates relative to others have been 
+equiproportional to the ratio of the income elasticities of demand for imports and exports.5
+The new economic geography
+The new economic geography, pioneered by Krugman (1991, 1995, 1998), who received the 
+Nobel Prize in Economics for his contribution, is also an attempt to explain the geographic pat-
+tern of economic development between countries, and between regions within countries, in 
+terms of centripetal forces, which lead to industrial concentration, and centrifugal forces, which 
+lead to industrial dispersal. In this sense, there is an affinity with the cumulative causation model 
+of Myrdal, but in the new economic geography, distance and transport costs play a key role.
+There is always a tug of war between centripetal forces, which promote geographic concentra-
+tion of activities, and centrifugal forces, which oppose it. The centripetal forces, acting as mag-
+nets for activity, are mainly the different types of external economies associated with the size of 
+markets and linkages between activities, labour market externalities (pools of skilled labour) and 
+pure externalities such as knowledge spillovers. The centrifugal forces, resisting concentration, are 
+factors such as the immobility of factors of production, high rents in concentrated areas, and pure 
+external diseconomies, such as congestion costs.
+Within this framework, the emergence of a ‘centre’ and ‘periphery’, and shifts in the geographic 
+pattern of development, can be explained in terms of the changing balance between the pull of 
+the market on the one hand and transport costs on the other. As in the Myrdal model, consider 
+first two identical regions. If transport costs are very high, each region will be more or less self- 
+sufficient. Activity will be widely dispersed serving local markets because it is too costly to trans-
+port inputs and outputs elsewhere.
+Now suppose that transport costs start to fall. It becomes more economical for some regions to 
+supply the needs of others. Those regions with some small initial advantage, as a result of geography 
+or historical accident, will tend to capitalize on that advantage, exporting to the less favoured region 
+and driving out business. Activity becomes concentrated in a core (or centre), leaving a run-down 
+Nicholas Kaldor
+Born 1908, Budapest, Hungary. Died 1986. Lecturer and Reader at the London 
+School of Economics 1931–49; then a Fellow of King’s College, Cambridge 
+from 1950 and Professor of Economics from 1966. Economic adviser to three 
+British chancellors of the exchequer between 1964 and 1979; tax adviser to 
+many developing countries. Joint architect with Joan Robinson, Richard Kahn 
+and Luigi Pasinetti of post-Keynesian growth and distribution theory, and 
+strong critic of neoclassical equilibrium economics. Famous for his sectoral 
+approach to explaining why growth rates differ between countries. Given a 
+peerage in 1974 as Baron Kaldor of Newham in the city of Cambridge.
+299
+1 0  •  D U A L I S M ,  C E N T R E – P E R I P H E R Y  M O D E L S
+­
+‘periphery’ with only agricultural and service-type activities. A small initial difference between regions 
+leads to a much larger difference in outcomes through the forces of cumulative causation based on 
+external economies associated particularly with market size (agglomeration economies). At the 
+regional level, Italy is a good case study. When the railway was introduced and transport costs fell, this 
+made it possible for the factories of northern Italy to supply the needs of less competitive southern Italy, 
+causing the heavy concentration of industrial activity in the north and deindustrialization of the south.
+The periphery, however, will tend to have low production costs, particularly low wage costs 
+because of high unemployment and underemployment. At some point, if transport costs fall even 
+more, it may become economical to shift production from the centre to the periphery because 
+low production costs now outweigh the cost of transport to the market. This is one important 
+reason why, in recent years, there has been a major shift of the world’s manufacturing base from 
+the core of Europe and North America to the periphery of Southeast Asia.
+This set of ideas outlined above helps to explain the historical evolution of divisions between 
+regions and countries of the world, which can spontaneously emerge with better communica-
+tions, and then go into reverse when transport costs fall even lower (Krugman and Venables, 
+1995). It is not, however, an equilibrium world; it is an ever-changing world in which economic 
+development in some regions or countries may be precluded altogether.
+The World Bank’s (2009) World Development Report 2009: Reshaping Economic Geography is 
+devoted to this topic and argues that even though in the present circumstances of the world 
+economy, economic growth will be unbalanced (leading to divergence), development can still be 
+inclusive but governments must promote integration through spatially connective infrastructure, 
+spatially targeted incentives and appropriate institutions. The disadvantaged regions (countries) 
+are those that are too small to reap internal and external economies of scale and to attract invest-
+ment in labour-intensive manufacturing specializing in some part of the productive chain.
+Attempts have been made to quantify the impact of distance and transport costs on the level 
+and growth of per capita income of countries across the world, as well as the effect of other geo-
+graphic variables (e.g. Gallup et al., 1998). Looking at a map of the world by income, two striking 
+relationships are apparent:
+1.	 Countries located close to the sea have higher per capita incomes (PCY) than landlocked 
+countries.
+2.	 Countries located in the tropics are poorer than countries outside the tropics.
+3.	 A third fact (although not visible) is that the coastal, temperate regions of the northern hemi-
+sphere have the highest income per square kilometre (km) of land (i.e. PCY 3 population ­
+density).
+The regions of North America, Western Europe (and parts of East Asia) that lie within 100 km of the 
+sea contain 13% of the world’s population and produce 32% of the world’s output of goods and ser-
+vices. The explanation lies in the factors discussed above. Regions near the sea have lower transport 
+costs so they can benefit from greater trade and specialization, and the greater densities of population 
+lead to agglomeration economies and increasing returns. Today, the fastest-growing developing coun-
+tries have based their growth on labour-intensive manufactured exports located in coastal regions.
+Gallup et al. (1998) run regressions across a large sample of countries of the level and growth 
+of PCY against several geographic variables, including:
+•
+• the percentage of land in the tropics
+•
+• the proportion of the population within 100 km of the coast
+•
+• the minimum distance of a country to one of three core ‘regions’ (New York, Rotterdam and Tokyo)
+•
+• the incidence of malaria
+300
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+•
+• transport costs of a country, measured (imperfectly) as the difference between the cost of im-
+ports free on board and their cost including insurance and freight charges.
+The level of PCY is found to be negatively related to location in the tropics, malaria, distance and 
+transport costs; and positively related to the proportion of the population close to the sea. The 
+growth of income (holding other variables constant such as education, trade openness) is shown 
+to be 0.9 percentage points (p.p.) less in tropical countries than non-tropical countries; 1.2 p.p. 
+less in countries severely affected by malaria; and 1.0 p.p. less in landlocked countries compared 
+with coastal countries. Distance also significantly reduces growth if the trade openness variable is 
+excluded from the equations.
+Given these findings, it is hardly surprising that Africa has some of the poorest and most stag-
+nant economies in the world. Geography is stacked against it.
+Theories of dependence and unequal exchange
+Apart from the ideas of circular and cumulative causation and balance of payments constrained 
+growth, there are also a number of theories and models in the Marxist tradition (many originating 
+from Latin America and France) concerned with dependency, exploitation and unequal exchange. 
+These theories attempt to explain the perpetuation and widening of the differences between centre 
+and periphery, and may be regarded as complementary to, and an integral part of, the mechanisms we 
+have been discussing. For example, part of the dependency and unequal exchange relation is related 
+to the characteristics of trade; but there are many other important dimensions to the argument:
+•
+• the dependence of the periphery on foreign capital and the expropriation of the surplus by the 
+centre
+•
+• the dependence on foreign technology
+•
+• terms of trade deterioration
+•
+• mechanisms that reduce real wages in developing countries to below what they would other-
+wise be
+•
+• various sociocultural aspects of neocolonialism that thwart the drive for independence and 
+self-reliance.
+Pioneer Marxist writers in this tradition include Theotonio dos Santos, Paul Baran, Gunder 
+Frank, Samir Amin and Arghiri Emmanuel. It should be emphasized at the outset that depend-
+ency theory cannot easily be tested empirically; rather, it is designed to provide a framework of 
+ideas to accommodate the many aspects and features of the functioning of the world capitalist 
+economy and the many types of dominance and dependency.
+Dos Santos (1970) defines dependence thus:
+by dependence we mean a situation in which the economy of certain countries is conditioned 
+by the development and expansion of another economy to which the former is subjected. 
+[The relation is such that] some countries (the dominant ones) can expand and can be self-
+sustaining, while others (the dependent ones) can do this only as a reflection of expansion, 
+which can have either a positive or a negative effect on their intermediate development.
+Unequal development must be seen as an integral part of the world capitalist system. Inequality 
+is inevitable because development of some parts of the system occurs at the expense of others. 
+The monopoly power over trade that is exercised by the centre leads to the transfer of the eco-
+nomic surplus from the dependent countries to the centre, and financial relations that are based 
+301
+1 0  •  D U A L I S M ,  C E N T R E – P E R I P H E R Y  M O D E L S
+on loans and the export of capital by the centre ultimately lead to reverse flows and strengthen 
+the position of the dominant country in the dependent country.
+Different forms of dependence can be distinguished, as they have evolved historically:
+1.	 Colonial dependence, based on trade and the exploitation of natural resources.
+2.	 Financial–industrial dependence, which consolidated itself at the end of the nineteenth cen-
+tury and has geared the economic structure of dependent nations to the needs of the centre.
+3.	 Technological–industrial dependence, a new type of dependence that emerged from 1945 
+based on multinational corporations, which began to invest in industries geared to the internal 
+market of developing countries.
+Dos Santos (1970) argues that each of these forms of dependence has so conditioned the internal 
+structure of peripheral countries, that this itself has become part of the dependency relation; for 
+example, the highly dualistic structure, the income inequality and conspicuous consumption of 
+the wealthy classes, a dependency mentality and the ingrained habit of seeking outside help, and 
+the unholy alliance between the domestic ruling elite and foreign interests all conspire to impede 
+internal development. Thus, dos Santos (1973) maintains that dependency is not simply an exter-
+nal phenomenon; it also has to do with the supportive power groups within the poor countries 
+themselves who find the status quo profitable:
+if dependency defines the internal situation and is structurally linked to it, a country cannot 
+break out of it simply by isolating herself from external influence; such action would sim-
+ply provoke chaos in a society which is of its essence dependent. The only solution therefore 
+would be to change its internal structure; a course which necessarily leads to confrontation 
+with the existing international structure.
+Baran (1957), Frank (1967) and Amin (1974) focus their attention more squarely on the trad­
+itional Marxist mechanisms by which capitalism in general, and international capitalism in par-
+ticular, aid the rich in exploiting the poor. Emphasis is placed on the expropriation and transfer of 
+the surplus produced by labour to the owners of capital, which operates at different levels. Think 
+of a cone, the base of which represents the rural poor producing a surplus from their labours in 
+the fields or down the mines. This surplus is first siphoned off by those in the provincial towns, by 
+small employers and merchants. In turn, the wealth of these towns is sapped by the capital cities, 
+and finally, part of this wealth is siphoned away by foreign investors, who repatriate it to the apex 
+of the cone – the rich world. The multinational corporations are seen as the modern instrument 
+for the expropriation of surplus value. Neo-Marxists allow for a residue of surplus, but argue that if 
+it is reinvested in the periphery or left in the hands of local elites, it will not be used appropriately 
+for development purposes. As in dos Santos’s model, the system hinges on the collaboration of 
+the governing elite who live in the capital city, who think like, and identify with, their ex-colonial 
+masters. So, poor countries, despite formal political independence, remain locked into an old 
+system of economic dependence that perpetuates underdevelopment.
+For Frank (1967), like dos Santos, underdevelopment is a natural outcome of the world capital-
+ist system since the development of some countries inevitably means the distorted development 
+or underdevelopment of others. Development itself perpetuates underdevelopment, a process that 
+Frank has called the development of underdevelopment. Frank sees the origins of the process in 
+colonization, which started as a form of economic exploitation and has distorted the economic struc-
+ture of developing countries ever since. Developing countries were forced into the position of being 
+suppliers of raw materials to industrial countries, thus effectively blocking industrial development in 
+the primary producing countries themselves. The whole export orientation and foreign dominance of 
+302
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+these countries has limited the growth of the domestic market and the establishment of basic national 
+industries for widespread development throughout the whole economy. The international, national 
+and local capitalist systems alike generate economic development for the few and underdevelopment 
+for the many. The solution would appear to be nothing short of social and political revolution.
+Unequal exchange
+The theory of unequal exchange owes its name to Arghiri Emmanuel (1972). Exchange is unequal 
+between rich and poor countries because wages are lower in poor countries, and lower than if the 
+rate of proﬁt in poor countries was not as high as in rich countries. In other words, exchange is 
+unequal in relation to a situation where wages would be equalized: ‘Inequality of wages as such, all 
+other things being equal, is alone the cause of the inequality of exchange’ (Emmanuel, 1972). Let 
+us illustrate the model diagrammatically and show its aﬃnity with the ideas of those who stress 
+the terms of trade as the main mechanism through which the gains from exchange are unequally 
+distributed. Let us take two countries and call them ‘centre’ (c) and ‘periphery’ (p). Assume that 
+prices in the two countries are based on a percentage mark-up (r) on unit labour costs, so that:
+Pc 5 wca L
+O b
+c
+a1 1 rcb
+and:
+Pp 5 wpa L
+O b
+p
+ a1 1 rpb 
+where w is the money wage rate, and wL/O is wage costs per unit of output. Now assume that for 
+institutional reasons wc . wp and that the mark-up or rate of proﬁt equalizes between the two 
+countries. The theory of unequal exchange says that because of this, the terms of trade will be 
+worse for the periphery than if wages in the periphery were higher and the rate of proﬁt lower. 
+This can be illustrated diagrammatically, taking the price of the centre’s goods as the numéraire, 
+so that Pc 5 1 (see Figure 10.4).
+In the centre, the given rate of proﬁt (r 
+-) and wage rate (wc) give a constant price (Pc), which acts as 
+numéraire (hence the horizontal line, wc). In the periphery, at a given wage (wp), there is a positive relation 
+wp
+r
+r1
+wc
+P1
+P2
+ 
+wp
+1
+(periphery)
+Rate of
+profit (r )
+(centre)
+Terms of
+trade
+(P = 
+Pp
+ 
+Pc)
+0
+Figure 10.4 The theory of unequal exchange
+303
+1 0  •  D U A L I S M ,  C E N T R E – P E R I P H E R Y  M O D E L S
+between the rate of profit and terms of trade (P), given by the upward-sloping line wp. The equilibrium 
+terms of trade is given at P1. An increase in periphery wages shifts the periphery curve rightwards to wP
+1, 
+giving a new terms of trade, P2, at the same rate of profit. Unequal exchange is measured as the difference 
+between the actual terms of trade (P1) and what it would be if wages were higher in the periphery and 
+the rate of profit was lower at r1. The ‘explanation’ of unequal exchange is unequal wage rates.
+The model does not get us very far, however, without understanding why there are wage differences 
+between centre and periphery. In Emmanuel’s model, the wage differences are institutionally deter-
+mined outside the model, whereas in practice, there are many factors that impinge on wage differ-
+ences within the model itself that need consideration. Moreover, money wage differences may not be 
+the only factor leading to unequal exchange. If money wage differences between centre and periphery 
+reflect differences in labour productivity, the terms of trade between periphery and centre will not be 
+nearly as bad as suggested by money wage differences alone. Indeed, if differences in money wages are 
+exactly matched by differences in productivity, there will be no difference in money wage costs per unit 
+of output and no difference in relative prices ‘caused’ by differences in money wages. There can still be 
+unequal exchange in the Emmanuel sense by virtue of the way Emmanuel (1972) defines the concept, 
+but if the cause of low wages is low productivity, it is not a simple institutional matter to raise them.6
+On the other side of the coin, if there is no good reason why the rate of profit should equal-
+ize between the two countries, a higher rate of profit in the centre could be an independent 
+source of unequal exchange between centre and periphery, and also an explanation of why 
+wages are depressed in the periphery. If account is taken of the characteristics of the goods pro-
+duced by the centre and periphery – manufactured goods in the centre subject to decreasing 
+costs, and primary commodities in the periphery subject to increasing costs – we can predict 
+that oligopolistic structures will develop in the centre, while competitive structures will prevail 
+in the periphery, with a tendency, therefore, for the rate of profit to be higher in the centre. The 
+lower rate of profit in the periphery, and the attempt by capitalists to keep up the rate of profit 
+in the face of competition, leads to the depression of wages in classic Marxist style.
+Summary
+•
+• Disparities in living standards between countries of the world cannot be explained by initial 
+(God-given) differences in factor endowments (natural resources) between countries. Through 
+time, the process of growth has generated its own factor endowments favouring some coun-
+tries more than others.
+•
+• Geographic differences in living standards between countries and between regions within 
+countries are referred to as ‘geographic dualism’.
+•
+• Within most developing countries, there are other forms of dualism. There is ‘social dualism’ 
+between how individuals behave and how markets function in the rural subsistence sector on 
+the one hand and the modern capitalist sector on the other. There is ‘technological dualism’, 
+relating to differences in the level of technology and differences in techniques of production 
+between the rural and modern sectors of the economy.
+•
+• Orthodox theory argues that when economic and social differences arise between sectors or 
+regions, forces will come into play to narrow the differences. That is the equilibrium story.
+•
+• Myrdal’s theory of circular and cumulative causation is a challenge to static equilibrium theory. 
+In particular, in the case of geographic dualism, he argues that the process of labour migration, 
+capital movements and trade tend to widen regional and country differences in income and 
+welfare, by benefiting the already prosperous regions at the expense of the poorer regions.
+304
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+ 
+t Structural diﬀerences between regions and between countries play a big part in the process of 
+DVNVMBUJWFDBVTBUJPOʾFCBTJTPG1SFCJTDITDFOUSFoQFSJQIFSZNPEFMJTUIBUUIFQFSJQIFSZTQFDJBM-
+izes in primary products with unfavourable demand characteristics in world markets and declining 
+terms of trade, while the centre specializes in higher value-added industrial and service activities.
+ 
+t The export-led growth model of Kaldor has cumulative features, which shows how once a region 
+or country gets an advantage in the production and export of particular goods with favourable 
+characteristics, it will sustain it through the impact that growth has on induced productivity 
+growth and competitiveness (Verdoorn’s law).
+ 
+t The new economic geography pioneered by Krugman shows how centripetal forces (which 
+work towards the spatial concentration of industrial activities) and centrifugal forces (which 
+work towards dispersal) depend on the balance between transport costs of importing inputs 
+and exporting output on the one hand, and increasing returns to geographic specialization (ag-
+glomeration economies) on the other.
+ 
+t The dependence of poor countries on the rich is another explanation given for divisions in the 
+world economy. Dependency theorists focus on various forms of exploitation of poor countries 
+by rich ones: in the old days by colonialism, and today by industrial and ﬁnancial imperialism. 
+Multinational corporations are criticized for siphoning oﬀ proﬁts from the periphery to the 
+centre, and the world’s banking system is attacked for serving the needs of global ﬁnance rather 
+than global development. Trade can also lead to unequal exchange through a deterioration in 
+the terms of trade between primary commodities and industrial goods.
+1. What do you understand by the terms ‘technological dualism’, ‘social dualism’ and 
+‘geographic dualism’?
+2. Is dualism avoidable in the development process?
+3. In what ways might dualism impede the functioning of the total economy?
+4. In what senses is Myrdal’s theory of circular and cumulative causation a challenge 
+to static equilibrium theory?
+5. What are the mechanisms through which the process of circular and cumulative 
+causation work?
+6. If backward regions suﬀer ‘backwash’ eﬀects from regions of expansion, would 
+they be better oﬀ as sovereign states?
+7. What is the so-called ‘Verdoorn eﬀect’ and what is its importance in the process 
+of circular and cumulative causation?
+8. 8IBUEPUIFDFOUSFoQFSJQIFSZ	PS/PSUIo4PVUI
+NPEFMTCZ1SFCJTDI%JYPOBOE
+Thirlwall, and Kaldor all have in common?
+9. How does distance, and transport costs, aﬀect the geographical pattern of eco-
+nomic development?
+10. What are the various ‘Marxist’ explanations of the divergence between rich and 
+poor countries?
+11. What do you understand by the theory of unequal exchange?
+Discussion questions
+Chapter 10
+304
+305
+1 0  •  D U A L I S M ,  C E N T R E – P E R I P H E R Y  M O D E L S
+Notes
+1.  First hinted at in Prebisch (1950) and developed in Prebisch (1959).
+2.  The income elasticity of demand for goods measures the proportionate change in demand for a 
+good with respect to a proportionate change in income, holding other things constant.
+3.  The model is discussed more fully in Dixon and Thirlwall (1975) and Thirlwall (2014).
+4.  Under certain circumstances, the growth rate may not converge to its equilibrium level. This 
+depends on the behaviour of the model out of equilibrium. See Dixon and Thirlwall (1975).
+5.  Krugman, however, reverses the direction of causation. In the model presented here, it is differences 
+in income elasticities that determine differences in growth rates, while in Krugman, it is unexplained 
+differences in growth rates that cause divergences in income elasticities. For a comprehensive 
+review and discussion of the models, see McCombie and Thirlwall (1994, 2004) and Soukiakis and 
+Cerqueira (2012).
+6.  Within this framework, movements in the terms of trade can be seen as the outcome of differences 
+in the movement of productivity on the one hand and whether money wage changes fully match 
+productivity changes on the other. If money wage increases fail to match productivity increases in 
+the periphery, for example, so that real wages do not rise as fast as productivity, whereas they do 
+in the centre, there will be a steady deterioration in the terms of trade of the periphery. This is the 
+essence of the Prebisch argument (see Chapter 15).
+

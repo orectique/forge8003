@@ -1,0 +1,2366 @@
+209
+•
+• Introduction
+•
+• Education
+•
+• Estimating the rate of return to education
+•
+• Measuring the contribution of education to economic growth
+•
+• The role of women in economic development
+•
+• Women’s education
+•
+• Women’s health
+•
+• Mothers’ Index
+•
+• Policies to reduce gender gap
+•
+• Nutrition
+•
+• Water
+•
+• Health
+•
+• Killer diseases
+•
+• Other diseases and health expenditure
+•
+• The impact of ill health on growth and development
+•
+• Summary
+•
+• Discussion questions
+•
+• Notes
+•
+• Websites on education, women, nutrition and health
+Human Capital: Education, 
+the Role of Women,  
+Nutrition and Health
+7
+210
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Introduction
+This chapter focuses on human capital formation in developing countries, and discusses the 
+effects of education, the role of women, nutrition and health on the process of economic and 
+social development. For a poor country to experience a faster pace of economic and social devel-
+opment, it requires educated and literate people, an equitable participation of women and men 
+in the labour force, and, above all, well-nourished, healthy people free from the debilitating dis-
+eases that adversely affect the lives and productivity of so many people in poor countries.
+Investment in human capital takes many different forms, including expenditure on formally 
+organized education (both public and private expenditure), on-the-job and institutional training 
+and retraining, study programmes and adult education, publicly funded nutrition programmes to 
+keep people healthy and productive during their working lives, and expenditure on health facil­
+ities for the prevention and treatment of illness.
+First, we consider the participation in education at the primary, secondary and tertiary levels, 
+and expenditure on education as a proportion of total government expenditure and gross domes-
+tic product (GDP). Primary school enrolment is virtually universal across regions of the world, but 
+at the secondary level, enrolment is less than half the age group in low-income countries (particu-
+larly in sub-Saharan Africa), and tertiary enrolment is less than 10% of the age group. The ratios 
+of educational expenditure to total government expenditure and GDP are similar across regions, 
+but per capita expenditure is much lower in low-income countries: only $100 compared to nearly 
+$7,000 per head in high-income countries.
+Second, we look at the rates of return to education and show that the private returns exceed 
+10% for males and even higher for females (because the opportunity cost of education is lower). 
+The highest returns come from investment in tertiary education. Third, we show the different 
+ways in which the contribution of education to economic growth can be measured. With regard 
+to the role of women in the development process, we highlight how women are disadvantaged 
+as far as educational and employment opportunities are concerned, and the discrimination and 
+burden they face in many developing countries.
+Finally, we focus on nutrition and health, and highlight the link between poor nutrition and 
+poor health. Evidence is provided on the benefits of improved nutrition in terms of improved 
+productivity and reduction in the number of working days lost, and on how poor health hurts the 
+functioning of economies. The three major ‘killer’ diseases in poor countries are malaria, tubercu-
+losis and HIV/AIDS, and we discuss the various campaigns that exist to combat these and other 
+diseases.
+Education
+The education of a population, male and female, from primary through secondary to tertiary 
+education can overcome many of the characteristics of the labour force that act as impediments 
+to social and economic progress, such as illiteracy, fear of change, unreceptiveness to new know­
+ledge, a lack of incentive, and immobility. Improvements in the education and skills of labour can 
+considerably increase the productivity and earnings of labour, and may be preconditions for the 
+introduction of more sophisticated, advanced technology applied to production. The capacity 
+to absorb and use physical capital may be limited by, among other things, investment in human 
+capital. It is in this respect that there may be a close association between education and the main-
+springs of technical progress.
+211
+7  •  H u m a n  C a p i ta l
+Two main international bodies have recognized education as a basic human right: the UN’s 
+Convention on the Rights of the Child in 1989 and UNESCO’s World Declaration on Education 
+for All in 1990. Then, in 2000, representatives of the international community met at the World 
+Education Forum in Dakar, Senegal, under the auspices of UNESCO, and produced what is called 
+the Dakar Framework for Action, comprising six goals to be achieved by 2015. The goals, and a 
+brief assessment of each of these, are presented in Table 7.1. It can be seen from Table 7.1 that 
+some progress has been made towards the goals set down, but still some poor countries have 
+been unable to guarantee primary education to all school-age children, gender disparities still 
+exist, and progress in adult literacy has been below target. The poor quality of education has 
+effects on the well-being of children, their families and communities.
+Table 7.2 shows clearly the underprovision of educational facilities and opportunities in 
+many poor countries, and the low rate of literacy in the poorest countries. In low-income 
+countries, the secondary school enrolment rate is less than 50%, and the tertiary enrolment 
+rate is only 9%. The figures mirror the statistics for sub-Saharan African countries, which 
+constitute the majority of low-income countries. Literacy rates are correspondingly low in 
+low-income countries and Africa, barely reaching 50% for females. Note that for primary 
+education, the enrolment ratio exceeds 100% in all regions. This is because the ratio is total 
+enrolment, regardless of age, as a percentage of the population of the age group that corres­
+ponds to that level of education. So, the primary school age group may be 5–11 years, but 
+children older than that are attending. Also note that the enrolment rate is not the same as 
+the completion rate, which is only 71% in low-income countries, and 69% in Africa. Moreover, 
+enrolment and completion do not necessarily mean receiving a good education. For eco-
+nomic development, it is not just the quantity of education that is important, but also its 
+quality. Case example 7.1 provides a study of primary education in India, which highlights 
+this fundamental difference.
+Table 7.1  Education for All 2000–15: goals and their assessment
+Goal
+Assessment
+Goal 1: Expanding and improving comprehensive early childhood 
+care and education, especially for the most vulnerable and 
+disadvantaged children
+Progress in early childhood care and education was 
+rapid but from a low base and highly inequitable
+Goal 2: Access to and complete free primary education of good quality
+Universal primary education was not reached in 2015
+Goal 3: Equitable access to appropriate learning and life skills 
+programmes
+More adolescents received secondary education but 
+measuring skill acquisition among youths and adults 
+remains limited
+Goal 4: Achieving a 50 per cent improvement in levels of adult 
+literacy by 2015, especially for women, and equitable access to basic 
+and continuing education for all adults
+Progress in adult literacy was below the target
+Goal 5: Eliminating gender disparities in primary and secondary 
+education by 2005, and achieving gender equality in education by 
+2015, with a focus on girls’ full and equal access to and achievement 
+in basic education of good quality
+Many countries have not achieved gender parity and 
+obstacles to equality remain
+Goal 6: Improving all aspects of the quality of education and ensuring 
+excellence of all so that recognized and measurable learning outcomes 
+are achieved by all, especially in literacy, numeracy and essential life skills
+There has been increased attention to issues of quality
+Source: UNESCO, 2015.
+212
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Table 7.2  Participation in education, 2010 and 2013
+School gross enrolment ratio % of relevant age group
+Adult literacy rate % ages 15 
+and older
+Primary 2013
+Secondary 2013
+Tertiary 2013
+Female 2010
+Male 2010
+World
+108
+75
+33
+80
+89
+Low income
+107
+45
+9
+54
+68
+Middle income
+109
+77
+29
+78
+88
+Lower middle income
+106
+67
+23
+62
+79
+Upper middle income
+116
+92
+37
+92
+96
+Low and middle income
+109
+71
+26
+75
+86
+East Asia and Pacific
+118
+85
+30
+92
+97
+Europe and Central Asia
+102
+99
+55
+97
+99
+Latin America and Caribbean
+105
+93
+43
+92
+93
+Middle East and North Africa
+110
+76
+35
+70
+85
+South Asia
+111
+66
+21
+50
+73
+Sub-Saharan Africa
+100
+43
+9
+51
+68
+High income
+102
+104
+73
+–
+–
+Source: World Bank, 2010, 2013.
+During the period 2005–15, 350,000 new primary schools were built in India. Today, over 
+95% of villages have a state primary school and enrolment is universal. A 2002 constitu-
+tional amendment established primary education as a ‘fundamental right’ for every child 
+aged 6–14. However, teaching and learning standards are very poor. Although the facilities 
+have been provided, the quality of the teaching and learning process has been neglected. 
+Over the past decade, 100 million children completed primary school but without at-
+taining basic reading and maths skills. Many rural primary schools have just one or two 
+teachers running mixed classrooms, with students of all ages and competency levels sitting 
+together in a single room. Most teachers end up focusing on the students best able to keep 
+pace, while the rest are left behind. Pupil and teacher absenteeism is very high. Children 
+leave school during the harvest season, when they have to help their families. Whatever 
+they have learnt, they forget. Attendance at government primary schools averages about 
+70%, but it is less than 35% in many states. Also, high teacher absenteeism (15–25% of 
+appointed teachers are absent on any given day) hinders the performance of pupils. State 
+governments request teachers for large-scale tasks such as surveys and elections.
+The difference between the targets and the results is a consequence of an ambitious 
+national curriculum. It expects that students will read fluently by the end of the first 
+year of school, without considering their limited exposure to books or written material. 
+Teachers are expected to transfer vast quantities of factual information to students, 
+regardless of their comprehension.
+This situation in Indian education acts as a serious constraint on the performance 
+of individuals and on Indian society. Most newly created jobs are in services, which 
+require basic literacy and numeracy. Young people who lack these fundamental skills 
+are likely to get jobs that don’t pay enough to raise them out of poverty.
+Case example 7.1
+Primary education in India
+213
+7  •  H u m a n  C a p i ta l
+Developing countries neglect educational provision at their peril. Research shows a strong 
+association across countries between levels of human capital formation, growth performance and 
+poverty reduction. For example, Baldacci et al. (2005) find, using a panel dataset of 120 develop-
+ing countries over the period 1975–2000, that an increase in education spending of 1% of GDP is 
+associated, on average, with three years of extra schooling and an increase in annual GDP growth 
+of 1.5 percentage points after 15 years. This reduces the poverty head count by 17%.
+Table 7.3 gives information on educational spending as a proportion of total government 
+expenditure and GDP.
+It can be seen that these ratios of educational expenditure in poor countries are not much 
+different from rich countries, but because government expenditure and GDP are much lower 
+in poor countries, the expenditure per capita is much less. In sub-Saharan Africa and South 
+and West Asia, expenditure is particularly low, which is reflected in the very poor educational 
+facilities for teaching and learning; large class sizes; lack of equipment; lack of books and other 
+learning media; and often the poor quality of teachers. Moreover, it is clear from comparing fig-
+ures between 1999 and 2012 that not much progress, if any, has been made in shifting resources 
+towards education.
+Estimating the rate of return to education
+The main way of estimating the private rate of return to education is the method origin­
+ally adopted by Mincer (1974), where the log of earnings (Ln wi) is regressed on the num-
+ber of  years schooling (Si), controlling for the potential experience of an individual (Xi) 
+Table 7.3  Public spending on education, by region and income level, 1999 and 2012
+Region
+Public education spending
+% of GNP
+% of government 
+expenditure on education
+Per capita, primary education, 
+ 
+PPP constant 2011 prices, US$
+1999
+2012
+1999
+2012
+2012
+World
+4.5
+5.0
+13.8
+13.7
+1,337
+Low Income
+3.2
+4.0
+14.7
+14.9
+100
+Lower middle income
+4.4
+4.9
+15.0
+15.6
+467
+Upper middle income
+5.0
+5.1
+14.8
+14.9
+–
+High income
+4.9
+5.4
+12.4
+12.3
+6,805
+Arab States
+5.3
+–
+16.9
+–
+–
+Central and Eastern Europe
+4.4
+4.9
+12.7
+11.7
+4,478
+Central Asia
+4.0
+3.4
+–
+13.0
+–
+East Asia and the Pacific
+5.1
+3.4
+13.8
+17.5
+–
+Latin America and Western Europe
+4.5
+4.9
+14.8
+–
+1,187
+North America and Western Europe
+5.2
+6.0
+12.3
+12.5
+7,943
+South and West Asia
+3.6
+3.9
+16.6
+12.6
+240
+Sub-Saharan Africa
+3.9
+4.9
+14.8
+18.4
+136
+Source: UNESCO, 2015.
+214
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+(estimated as agei –Si–6) and potential experience squared (Xi)2 (to allow for the diminishing 
+returns to experience). Therefore:
+Ln wi 5 a 1 b1 (Si) 1 b2 (Xi) 1 b3 (Xi)2 1 µi
+(7.1)
+where µi is a random disturbance term reflecting unobserved abilities and b1 is the average mon-
+etary return to years of schooling.
+This earnings function method can be used to estimate returns to different levels of schooling 
+by converting the continuous years of schooling variable (Si) into a series of dummy variables, say 
+DP, DS, DT, where DP is primary schooling, DS is secondary schooling, and DT is tertiary education, 
+that is:
+Ln wi 5 a 1 bP (DPi) 1 bS (DSi) 1 bT (DTi) 1 b2 (Xi) 1 b3 (Xi)2 1 µi
+(7.2)
+The returns to primary (rp), secondary (rs), and tertiary (rt) education are then:
+rp 5 bp/Sp;  rs 5 (bs 2 bp) (SS 2 SP) and rt 5 (bT 2 bS) (ST 2SS)
+where SP, SS and ST stand for the total number of years of schooling for each educational level.
+The costs of education at different levels are the opportunity cost of not earning, tuition fees 
+(if any), and expenses incurred in going to school.
+The traditional consistent findings on rates of return to education when extra earnings and 
+costs are considered are:
+•
+• private returns are positive, averaging 10% a year
+•
+• returns are higher in low- and middle-income countries than high-income countries
+•
+• returns are higher for primary schooling than for secondary education
+•
+• returns are higher for women than for men
+•
+• returns to education have declined slightly over time because, despite rising levels of average 
+school attainment, the supply of schooling and educated people has responded to demand.
+A new meta-study by Montenegro and Patrinos (2014) for the World Bank confirms all these con-
+clusions, except that they find that the return to tertiary education is now the highest, and not 
+the return to primary education. The new study uses data for 139 countries, with a total of 819 
+harmonized household surveys over the period 1970–2013 (with 75% of estimates coming from 
+the period 2000–13), covering 92% of world population.
+The basic earnings functions in equations (7.1) and (7.2) are first applied to three different 
+groups: the total sample, males, and females. The results are shown in Table 7.4. The average pri-
+vate rate of return to another year of schooling is 10.1%. For males, the return is 9.6%, and for 
+females it is higher at 11.7%. The returns are also estimated for levels of schooling, as shown in 
+Table 7.4. The rate of return to primary education is 10.6%, while for secondary education it is 7.2% 
+and for tertiary it is the highest at 15.2%. At all stages of education, the return for females is higher 
+than for males because foregone earnings (opportunity costs) are less.
+Montenegro and Patrinos also calculate rates of return to education across different regions of 
+the world. Table 7.5 shows the results, and also the average years of schooling in different regions.
+The returns do not differ much across regions, but are clearly highest in sub-Saharan Africa for 
+both males and females. This is also true when the rates of return are estimated according to the 
+level of education, shown in Table 7.6. The returns to primary, secondary and tertiary education in 
+215
+7  •  H u m a n  C a p i ta l
+Table 7.4  Summary statistics of the returns to schooling
+Variable
+Mean (%)
+Standard deviation
+Number
+Years of schooling total
+10.1
+(3.3)
+819
+Years of schooling male
+9.6
+(3.2)
+819
+Years of schooling female
+11.7
+(3.3)
+819
+Primary schooling total
+10.6
+(6.4)
+547
+Secondary schooling total
+7.2
+(3.6)
+619
+Tertiary schooling total
+15.2
+(5.8)
+762
+Primary schooling male
+10.0
+(6.6)
+543
+Secondary schooling male
+7.1
+(3.8)
+614
+Tertiary schooling male
+15.2
+(5.8)
+745
+Primary schooling female
+10.9
+(7.6)
+519
+Secondary schooling female
+8.7
+(4.6)
+607
+Tertiary schooling female
+16.8
+(6.1)
+738
+Source: Montenegro and Patrinos, 2014.
+Africa are higher than in many other regions. There is only one conclusion, which is that there is 
+massive underinvestment in education in Africa – the poorest continent on the planet.
+Finally, we can look at the rates of return to education over time. Since 1980, there has been 
+a big expansion in school attainment. In the early 1980s, the average years of schooling was 
+only 6.6 compared to 11.6 in 2011–13. As schooling increases, the return to schooling tends 
+to decrease, as Table 7.7 shows. In the period 1980–85, the return was 13.3 and fell to 10.0 in 
+2011–13. The returns have declined by 3.3 percentage points over a 30-year period; in other 
+words, another year of schooling leads to a reduction in the returns to schooling by 0.1 percent-
+age point.
+The statistics and discussion above relate to the private return to education. The return to soci-
+ety, or social return, also depends on the costs to government of providing schools and teachers, 
+Table 7.5  Average returns to schooling (latest period for each country)
+Region
+Average returns to  schooling (%)
+Average years of schooling
+Total
+Male
+Female
+Total
+Male
+Female
+N
+High Income economies
+10.0
+9.5
+11.1
+12.9
+12.7
+13.1
+33
+East Asia & Pacific
+9.4
+9.2
+10.1
+10.4
+10.2
+10.7
+13
+Europe & Central Asia
+7.4
+6.9
+  9.4
+12.4
+12.2
+12.7
+20
+Latin America & Caribbean
+9.2
+8.8
+10.7
+10.1
+9.5
+10.9
+23
+Middle East & North Africa
+7.3
+6.5
+11.1
+9.4
+9.2
+11.0
+10
+South Asia
+7.7
+6.9
+10.2
+6.5
+6.5
+6.4
+7
+Sub-Saharan Africa
+   12.4
+11.3
+14.5
+8.0
+8.1
+8.1
+33
+All economies
+9.7
+9.1
+11.4
+10.4
+10.2
+10.8
+139
+ Source: Montenegro and Patrinos (2014).
+216
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+and on the positive externalities to society that education provides. There are two main types of 
+positive benefits or externalities that can be distinguished:
+1.	 the effect of human capital on current productivity (static externalities)
+2.	 the effect of learning and technological change (dynamic externalities).
+The primary static human capital externality is that an individual’s human capital enhances the 
+productivity of other factors of production, such as physical capital and the human capital of oth-
+ers. The main dynamic externalities relate to learning by doing and the adoption of new technolo-
+gies being more effective at higher levels of education. Whether the social return to investment in 
+education is higher or lower than the private return depends on the balance between the costs to 
+governments of providing educational facilities and the various static and dynamic externalities. 
+Empirical evidence is scarce, but an early study by Pascharoupolos (1994) shows social returns to 
+primary, secondary and tertiary education lower than private returns but still positive.
+Likewise, Ram (1996) has fitted the Mincer equations (7.1 and 7.2) to pooled time-series and 
+cross-section data for 45 countries using real GDP per worker (not earnings) as the dependent 
+variable, so that the coefficient on the years of schooling per person variable measures the social 
+returns to education rather than simply the private returns. Separate regressions are run for the 
+Table 7.6  Average returns to schooling by levels 
+Region
+Total (%)
+Male (%)
+Female (%)
+Primary
+Secondary
+Tertiary
+Primary
+Secondary
+Tertiary
+Primary
+Secondary
+Tertiary
+High Income
+4.9
+6.6
+11.1
+3.3
+7.5
+10.7
+7.2
+5.2
+12.3
+East Asia
+13.6
+5.3
+14.8
+12.6
+5.8
+15.0
+9.5
+6.4
+15.8
+Europe/Central Asia
+13.9
+4.7
+10.3
+12.1
+4.2
+9.8
+11.9
+6.4
+12.2
+Latin America
+7.8
+5.4
+15.9
+7.9
+5.3
+15.7
+8.7
+6.5
+17.4
+Middle East/N. Africa
+16.0
+4.5
+10.5
+12.7
+4.3
+10.2
+21.4
+7.4
+13.5
+South Asia
+6.0
+5.0
+17.3
+4.7
+3.9
+16.6
+4.8
+6.2
+23.3
+Sub-Saharan Africa
+14.4
+10.6
+21.0
+12.5
+10.1
+21.0
+17.5
+12.7
+21.3
+All economies
+11.5
+6.8
+14.6
+10.1
+6.7
+14.4
+13.2
+8.2
+16.1
+Source: Montenegro and Patrinos (2014).
+Table 7.7  Returns to schooling and average years of schooling by period
+Returns to schooling (%)
+Average years of schooling
+Number of surveys
+1980–85
+13.3
+6.6
+12
+1986–90
+12.7
+8.1
+23
+1991–95
+11.0
+8.0
+58
+1996–2000
+10.1
+8.8
+109
+2001–05
+9.9
+10.1
+228
+2006–10
+9.6
+10.9
+238
+2011–13
+10.0
+11.6
+149
+Source: Montenegro and Patrinos, 2014.
+217
+7  •  H u m a n  C a p i ta l
+full sample of countries – developed, developing low-income and middle-income countries. The 
+average rate of return is 13%, which is higher than the private returns estimated by Montenegro 
+and Patrinos (2014). The highest social return is 16.2% in the middle-income countries.
+Measuring the contribution of education to economic growth
+There are three main ways in which education can improve growth performance:
+1.	 Education improves the quality of labour, and also the quality of physical capital through the 
+application of knowledge.
+2.	 Education has spillover effects (externalities) on other sections of society, which offset dimin-
+ishing returns to physical capital.
+3.	 Education is one of the most important inputs into R&D and for attracting FDI.
+There are three main methods of estimating the contribution of education to growth:
+1.	 Measuring the contribution that education makes to the difference in earnings of individuals.
+2.	 The production function approach.
+3.	 The use of macrodeterminants of growth equations.
+The first method involves constructing a quality-weighted index of the labour force, where quality 
+is measured by the contribution that education makes to the difference in the earnings of indi-
+viduals as a measure of productivity. The approach, pioneered by Denison (1962), involves two 
+steps. The first entails gathering information on the distribution of the labour force by amounts 
+of schooling at different dates. The second step involves collecting information on income differ-
+ences between education cohorts with different amounts of schooling embodied in them, which 
+are then used as weights to derive an index of the improvements in the quality of labour due to 
+education, on the assumption that a certain percentage of differences in earnings is due to differ-
+ences in the amount of education.
+Suppose, for instance, that the earnings differential between those with eight years’ schooling 
+and those with ten years’ schooling is 20%, that one-half of the difference is assumed to be due 
+to the extra two years’ schooling, and that a person with eight years’ schooling is treated as one 
+unit; then the person with ten years’ education counts as 1 1 (0.5 3 0.2) 5 1.1 units. The growth 
+of the quality of labour due to education over a given period can then be estimated and its con-
+tribution to measured growth calculated. For example, suppose that the growth in the quality of 
+labour is estimated to be 1% per annum, the elasticity of output with respect to labour is 0.7, and 
+the annual average growth rate of the economy is 3%. This gives a contribution of education to 
+measured growth of 23%, that is, (0.7 3 1.0)/3.0 5 0.23.
+The approach is not without its difficulties. The proportion of earnings differences assumed 
+to be due to differences in the amounts of education between individuals is arbitrary, and if 
+the figure is too high, this will give an upward bias to the contribution of education. On the 
+other hand, there are other reasons why the approach underestimates the contribution of 
+education:
+•
+• The methodology employed ignores the role of education in maintaining the average quality 
+of the labour force.
+•
+• No allowance is made for improvements in the quality of education.
+•
+• There are the externalities or ‘spillovers’ from education to consider, such as the contribution of 
+education to knowledge and its diffusion throughout society.
+218
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+The second method for estimating the contribution of education to growth, and also the rate 
+of return to educational expenditure, is to use the production function approach outlined in 
+Chapter 4 (see equation (4.22)). All that is required is a measure of education expansion to include 
+in the production function. The contribution of education to measured growth is then the rate of 
+growth of the education variable multiplied by the elasticity of output with respect to the educa-
+tion variable. In estimating form, the production function with the growth of education included 
+is written as:
+ry 5 rT 1 ark 1 brL 1 grE.
+(7.3)
+where rE is the rate of growth of education, and g is the elasticity of output with respect to edu-
+cation. Suppose, for example, that the growth of educational expenditure (rE 5 ΔE/E) is 10% per 
+annum and the elasticity of output with respect to education (g) is 0.01, then the contribution 
+of education to measured growth would be (10)(0.01) 5 0.1 percentage point. If the average 
+growth of GDP is 2% per annum, the contribution of education to economic growth would be 
+0.1/2 5 5%.
+The average social rate of return to education can also be measured independently using equa-
+tion (7.3). Since g 5 (ΔY/Y)/(ΔE/E), we can write:
+DY
+DE 5 g Y
+2
+E .
+(7.4)
+where Y
+– 
+and E
+–are the mean levels of output and the education variable, respectively. For example, 
+suppose that the mean level of output over a period was £100 million, the mean level of expend­
+iture on education was £5 million, and the elasticity of output with respect to education (g) was 
+0.01. The rate of return would then be 0.2 or 20%, that is, (0.01)(100/5) 5 0.2 or 20%.
+The third method for estimating the contribution of education to growth comes from new 
+growth theory, discussed in Chapter 4, in which the stock of education (measured by enrolment 
+rates, or number of years of schooling) is included as a variable to explain differences in growth 
+rates between countries using large samples of countries. A simple cross-section estimating equa-
+tion would be of the form:
+g 5 a 1 b (PCY) 1 c (education). 
+(7.5)
+where g is the average growth rate of countries over, say, a 20-year period; PCY is the initial level 
+of per capita income of countries, and (education) measures the proportion of the age group 
+enrolled in primary or secondary schools in each country, or the average years of schooling. 
+The coefficient, c, then measures the contribution of a 1 percentage point difference in school 
+enrolment rates, or years of schooling, to the difference in growth rates between countries. 
+Barro’s (1991) pioneer study using this approach, and adopted by others (see Table 4.5), sug-
+gested that each additional year of schooling was associated with a 0.3 percentage point faster 
+growth of per capita income over the period 1960–85. These so-called ‘macrodeterminants of 
+growth’ studies also include a number of other variables, and the contribution of education 
+to growth sometimes remains a significant variable and sometimes not. The fast growth of 
+the East Asian economies in recent decades is often attributed to their heavy investment in 
+education.
+219
+7  •  H u m a n  C a p i ta l
+But highlighting the role of education in the growth process predates new growth theory. 
+In the postwar years, it was Denison and T.W. Schultz (1961), in his presidential address to the 
+American Economic Association in 1961, who first drew attention to the importance of educa-
+tion for growth with quantitative evidence. According to Schultz, the stock of education in the 
+USA rose by approximately 850% between 1900 and 1956 compared with an increase in repro-
+ducible capital of 450%. He acknowledged the difficulties of estimating the rate of return to edu-
+cation, but argued that even when every conceivable cost is considered, and all expenditure is 
+treated as investment and none as consumption,1 the return on investment in education is at least 
+as high as, if not higher than, the return on investment in non-human capital. Denison estimated 
+a contribution of education to the growth of per capita income of 40%.
+It is the apparent importance of education in the historical growth process of developed coun-
+tries that has invoked the response that investment in human capital may be as important as 
+investment in physical capital in developing countries. The empirical evidence seems to support 
+this view. A World Bank (1980) survey concluded that ‘studies have shown that economic returns 
+on investment in education seem, in most instances, to exceed returns on alternative kinds of 
+investment, and that developing countries often have higher returns than the developed ones’. 
+The figures presented in Tables 7.4–7.6 certainly suggest that investment in education yields a rate 
+of return as high, if not higher, as investment in alternative assets. This is, of course, in addition to 
+the intrinsic satisfaction to the individual of education itself.
+The role of women in economic development
+Women play a vital role in the development process as mothers, workers, entrepreneurs and 
+agents for change; but in many poor developing countries, their role is not fully utilized and 
+appreciated, and they face discrimination in many areas of life, such as in education, in the work-
+force and in the ability to express their voice. Gender equality should be an integral part of the 
+process of economic development. Gender equality can enhance the overall productivity of an 
+economy, improve development outcomes for future generations, and make institutions more 
+representative. Both men and women benefit when women’s welfare is improved. Women now 
+account for 40% of the global labour force. However, the increased participation of women in 
+the labour market has not been accompanied by equal employment opportunities or earnings 
+with men. Women are more likely than men to engage in low-productivity activities, and, on 
+average, women earn 10–30% less than men for the same work/responsibilities. There exists a 
+serious gender pay gap. Likewise in the field of education, there are far fewer women in second-
+ary and tertiary education, which is reflected in much lower literacy rates for females than men. 
+Many factors explain the discrimination against women in poor countries, which differ from 
+country to country, but the major factors would include: cultural traditions and the perception 
+of women’s role in everyday life; gender differences in time use; unequal access to credit and 
+assets; and institutional discrimination in the private and public sector (see Klugman et al., 2014; 
+UN Women, 2015).
+The World Bank’s (2012) World Development Report 2012 was devoted to the topic of gen-
+der equality. The report is evidence-based, drawing on qualitative field research covering over 
+4,000 men and women in 98 communities from nineteen developing countries, exploring how 
+gender affects the everyday lives of women, as well as their aspirations, education, job choices, 
+­
+decision-making, and other aspects of welfare. The report argues that gender equality matters for 
+220
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+two types of reasons. First, it matters intrinsically because it gives equal freedom to both women 
+and men, and freedom is the ultimate goal of development (Sen, 1999). Second, it matters instru-
+mentally because it contributes to economic efficiency and the achievement of other development 
+goals. Three main channels are identified through which gender equality promotes development:
+•
+• A more efficient allocation of resources by reducing barriers to women accessing education and 
+skills, thereby raising productivity.
+•
+• Improving women’s opportunities, human capital and voice has positive externalities for 
+children by increasing investment in their health, nutrition and education.
+•
+• Improving women’s voice can improve the quality and effectiveness of institutions that benefit 
+the economy and society as a whole. For example, where women have greater power, there is 
+less corruption in public life. Giving power to women often increases the supply of public goods 
+such as water supply and sanitation.
+Some gender gaps have shrunk in recent years, but others have not. Most progress has been 
+made in the following areas:
+•
+• Life expectancy is now as high for women as it is for men in all regions of the world.
+•
+• Fertility has declined dramatically (see Chapter 11).
+•
+• Primary school enrolment rates are equal for girls and boys.
+•
+• Participation of women in the labour force has increased.
+But many gender gaps still persist and are rooted in deeply entrenched gender roles and social 
+norms relating to who is responsible for the household, and what it is acceptable for girls and 
+women to study. In general, the poorer the country, the greater the gender gap. Forms of hori-
+zontal inequality such as ethnicity, race, religion and disability all adversely affect gender equality.
+There are three main areas in which gender inequality still exists:
+1.	 The mortality rate for girls and women is higher than for men. This gap is often referred to as 
+the missing girls and women. Globally, it is estimated that 4 million females below the age of 
+60 are ‘missing’: 40% are never born (because of the preference for males); 20% go missing in 
+infancy and childhood; and 40% go ‘missing’ in the 15–59 age group because maternal mortal-
+ity is much higher in poor countries than in rich.
+2.	 There is a serious gender gap in earnings and asset ownership. Women are still concentrated 
+in low-productivity activities where earnings are lower. In agriculture, women tend to operate 
+smaller plots of land. In more dynamic sectors of the economy, there are fewer females in posi-
+tions of responsibility and fewer entrepreneurs. Household duties still predominate for most 
+women. Women have less access to credit because they lack collateral, and they possess far 
+fewer assets. The IMF addresses this issue of women and work in its 2015 Annual Report (see 
+Case example 7.2).
+3.	 Women have much less agency or voice; that is, they are less represented in politics, law and 
+the judiciary. They also suffer domestic violence.
+Gender inequality tends to get reproduced over time. Attitudes are passed on from generation to 
+generation, or change only slowly. If women as mothers do not work outside the home, the daugh-
+ters are less likely to work. All institutions have inertia, where norms, customs and traditions prevail.
+Now let us consider in more detail the current situation with regard to the education and 
+health of women.
+221
+7  •  H u m a n  C a p i ta l
+Women’s education
+Women’s education brings a wide range of benefits not only for women themselves but also 
+for their families and communities, and hence for society at large. There are many positive 
+externalities to female education. More educated women tend to be healthier, participate 
+more in the formal labour market, earn more income, have fewer children, and provide better 
+education and healthcare for their offspring. The United Nations Girls’ Education Initiative, 
+launched in 2000, was the first global partnership to specifically promote girls’ education and 
+raise awareness of gender equality issues in education. Providing essential educational infra-
+structure attracts girls to school. Building schools in underserved communities has helped 
+overcome barriers to girls’ education. For example, a study in Ghor, Afghanistan, where vil-
+lages were randomly selected to receive a primary school building, found that girls’ enrol-
+ment increased by 17 percentage points more than boys, eliminating an existing gender gap 
+(Burde and Linden, 2012). Target 4 of the MDGs laid down in 2000 was to eliminate gender 
+disparities in primary and secondary education, and Table 7.8 gives the data for enrolment 
+in 2013 compared to 1990. It can be seen that substantial progress has been made, although 
+there is still some disparity between boys and girls in secondary school enrolment in sub-
+Saharan Africa. Two of the new Sustainable Development Goals (SDGs: see Chapter 1), to be 
+achieved by 2030, are ‘Ensure inclusive and equitable quality education and promote lifelong 
+learning opportunities for all’ (Goal 4) and ‘Achieve gender equality and empower all women 
+and girls’ (Goal 5).
+A crucial element of jobs and inclusive growth is the role of women in the workplace. 
+Women make up more than half the world’s population, but their contributions to 
+measured activity, growth and well-being fall short of potential. This has serious conse-
+quences in terms of losses to an individual country’s GDP.
+Despite significant progress in recent decades, labour markets across the world re-
+main divided along gender lines and progress towards gender equality seems to have 
+stalled. In a keynote speech in Tokyo in September 2014 on ‘The Economic Power of 
+Women’s Empowerment’, Christine Lagarde, IMF managing director, described the 
+barriers working women face worldwide: ‘When women do participate, they tend to 
+be stuck in low-paying, low-status jobs. Globally, women earn only three-quarters as 
+much as men – this is true even with the same level of education and in the same 
+­
+occupation.’
+Building on the Working Paper ‘Can Women Save Japan?’ (Steinberg and Nakane, 
+2012), analysis on women and work has expanded rapidly. Area departments of the 
+IMF have put in place pilot assessments of the issues related to working women in 
+the context of Article IV consultations across a range of countries, with the goal 
+of building expertise, facilitating collaborations with other institutions and sharing 
+knowledge.
+Source: IMF, 2015.
+Case example 7.2
+Women and work
+222
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Women’s health
+Women’s health is best analysed according to their age group. The World Health Organization 
+(WHO) refers to four main age groups and their main causes of ill health and the fatal conse-
+quences of deaths:
+1.	 Infancy and childhood (0–9 years): The main causes of deaths are birth asphyxia, infections 
+and diarrhoea. Nearly half of deaths in children aged under five is attributed to malnutrition.
+2.	 Adolescent girls (10–19 years): This group suffers from depressive disorders, the leading cause of 
+ill health. Globally, adolescent girls and young women are twice as likely to be at risk of HIV infec-
+tion compared to young men in the same age group. Pregnant adolescents are more likely than 
+adults to have unsafe abortions, leading to lasting health problems and maternal deaths. Alcohol 
+and tobacco use endangers young women’s health in later life. In half of the countries with avail-
+able data, over a third of girls aged 16–19 years are anaemic. Girls and women are most vulnerable 
+to anaemia due to insufficient iron in their diets, menstrual blood loss and growth spurts.
+3.	 Reproductive age (15–44 years) and adult women (20–59 years): Depression is the lead-
+ing cause of ill health for women. Depression following childbirth affects 20% of mothers in 
+low- and lower middle-income countries. Women who have been physically or sexually abused 
+have higher rates of mental ill health, unintended pregnancies, abortions and miscarriages than 
+non-abused women. For women aged 15–44, HIV/AIDS is the leading cause of death world-
+wide (see below). Maternal deaths are the second biggest killer of women of reproductive age. 
+Tuberculosis is among the five leading causes of death. Cervical cancer is the second most com-
+mon type of cancer in women. Due to poor access to screening and treatment services, more 
+than 90% of deaths occur in women living in low- and middle-income countries. One-third of 
+chronic obstructive pulmonary disease in women is caused by exposure to indoor smoke from 
+cooking with open fires or inefficient stoves.
+4.	 Older women (60 years and over): This group is affected by cardiovascular diseases and cancers 
+and, to a lesser extent, by chronic respiratory conditions. It is important to highlight that much of 
+Table 7.8  Contrasting enrolment in primary and secondary schools between female and male pupils, 1990 and 
+2013
+Region
+Primary (%)
+Secondary (%)
+Female
+Male
+Female
+Male
+1990
+2013
+1990
+2013
+1990
+2013
+1990
+2013
+Arab world
+74.9
+96.1
+91.7
+103.2
+45.1
+68.7
+60.3
+73.4
+East Asia and Pacific
+115.1
+117.1
+124.9
+118.3
+34.4
+85.6
+43.6
+84.6
+Europe & Central Asia
+100.7
+101.8
+104.5
+102.2
+82.4
+98.0
+87.9
+100.3
+Latin America and Caribbean
+115.0
+103.3
+116.2
+105.8
+76.1
+95.8
+71.4
+90.0
+Least developed countries
+59.3
+101.2
+75.3
+108.5
+13.5
+39.1
+23.0
+44.5
+South Asia
+73.2
+111.7
+100.3
+111.3
+25.9
+63.4
+44.8
+67.5
+Sub-Saharan Africa
+65.9
+95.9
+79.4
+103.2
+20.3
+39.5
+26.7
+46.1
+Small states
+100.9
+106.0
+102.2
+109.0
+48.1
+68.6
+47.3
+66.3
+Note: Gross enrolment ratio can exceed 100% due to the inclusion of over-aged students relative to the age group of primary 
+students. 
+Source: World Bank, 1990, 2013.
+223
+7  •  H u m a n  C a p i ta l
+the poor health faced by women in older age is the result of exposure to risk factors in adolescence 
+and adulthood, such as smoking, sedentary lifestyles and unbalanced diets. Older women experi-
+ence more disability than men, reflecting broader factors contributing to poor health through 
+their lifetime, such as the unequal treatment of women in the household and the workplace.
+The state of women’s health in poor countries is most clearly reflected in the maternal mortal-
+ity rates across the world. Table 7.9 gives the maternal mortality ratios measured as the number of 
+deaths due to pregnancy-related causes per 100,000 live births. It can be seen that the mortality 
+rate is highest in sub-Saharan Africa, followed by the least developed countries (which includes 
+many African countries) and South Asia. In countries such as Afghanistan, Chad, Guinea-Bissau, 
+Liberia, Mali, Niger, Sierra Leone and Somalia, at least 1 out of every 25 women die from com-
+plications relating to pregnancy and childbirth. A larger fraction of women also suffer adverse 
+long-term health consequences from giving birth. Target 6 of the Millennium Development Goals 
+(MDGs; see Chapter 1) was to ‘reduce by three-quarters between 1990 and 2015, the maternal 
+mortality ratio’. The goal was not met. A number of measures can still be taken to improve the 
+situation, including new maternity clinics, training more maternal health nurses and providing 
+poor women with cash transfers conditional on seeking pre- and postnatal care. Transport facil­
+ities also need improving to facilitate the process of getting pregnant women to hospital.
+Mothers’ Index
+State of the World’s Mothers (Save the Children, 2015) shows that one of the worst places to be a 
+mother is in an urban slum. Poverty, and the social exclusion that goes with it, leaves the urban 
+poor trapped in overcrowded, makeshift or decrepit housing. Pregnancies occur too early in 
+life and too often. Save the Children, a charitable organization, publishes a Mothers’ Index, 
+which assesses the well-being of mothers and children. Five indicators are taken into account 
+to construct the index:
+•
+• maternal health – lifetime risk of maternal death
+•
+• children’s well-being – under-five mortality rate
+•
+• educational status – expected number of years of formal schooling
+•
+• economic status – GDP per capita
+•
+• political status – participation of women in national government.
+Table 7.9  Maternal mortality ratio (number of deaths due to pregnancy-related causes per 100,000 
+live births)
+Regions
+2010
+Arab states
+164
+East Asia and the Pacific
+72
+Europe and Central Asia
+31
+Latin America and the Caribbean
+74
+South Asia
+202
+Sub-Saharan Africa
+474
+Least developed countries
+389
+Small island developing states
+195
+Source: UNDP, 2014.
+224
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+In 2015, 179 countries were ranked. The top, middle and bottom ten countries are given in Table 7.10. 
+The Nordic countries of Norway, Finland, Iceland, Denmark and Sweden come top, where mothers 
+and children attain very high scores in health, educational, economic and political status.
+By contrast, the condition of mothers and children in the bottom ranked countries (all in 
+Africa except Haiti) is grim. On average, 1 woman in 30 dies from pregnancy-related causes, 
+and one child in eight dies before their fifth birthday. There are, however, interesting anomalies. 
+Rwanda, for example, is the top country for political status, with the highest proportion of women 
+in parliament (57.5%), yet it ranks only 121 when the other four indicators are taken into account.
+Another measure of the gender gap is the Gender Inequality Index, published by the UNDP 
+(United Nations Development Programme), which considers three indicators: maternal mortality 
+ratio (deaths per 100,000 live births); adolescent birth rate (births per 1,000 women aged 15–19); 
+and share of seats in parliament held by women. The top, middle and bottom ten are shown in 
+Table 7.11, out of a total of 151 countries. Again, all the countries in the bottom ten are African.
+Table 7.10  Mothers’ Index rankings, 2015
+Top 10
+Middle 10
+Bottom 10
+Rank
+Country
+Rank
+Country
+Rank
+Country
+1
+Norway
+84
+Iran
+169
+Haiti/Sierra Leone
+2
+Finland
+85
+Cape Verde
+171
+Guinea-Bissau
+3
+Iceland
+86
+Georgia/St. Vincent and the Grenadines
+172
+Chad
+4
+Denmark
+88
+Belize/Bolivia
+173
+Cote d’Ivoire
+5
+Sweden
+90
+Azerbaijan
+174
+Gambia
+6
+Netherlands
+91
+Namibia
+175
+Niger
+7
+Spain
+92
+Jamaica/Maldives/Sri Lanka
+176
+Mali
+8
+Germany
+93
+Dominican Republic
+177
+Central African Republic
+9
+Australia
+96
+Fiji
+178
+DR Congo
+10
+Belgium
+97
+Mongolia
+179
+Somalia
+Source: Save the Children, 2015.
+Table 7.11  Gender Inequality Index rankings, 2013
+Top 10
+Middle 10
+Bottom 10
+Rank
+Country
+Rank
+Country
+Rank
+Country
+1
+Slovenia
+63
+Costa Rica
+142
+Mauritania
+2
+Switzerland
+64
+Kyrgyzstan
+143
+Cote d’Ivoire
+3
+Germany
+66
+Barbados
+144
+Central African Republic
+4
+Sweden
+68
+Chile
+145
+Liberia
+5
+Denmark/Austria
+69
+Turkey
+146
+Mozambique
+7
+Netherlands
+70
+Uruguay/Thailand
+147
+Congo
+8
+Italy
+72
+Mauritius
+148
+Mali
+9
+Norway
+73
+Mexico
+149
+Afghanistan
+10
+Belgium
+74
+Argentina
+150
+Chad
+151
+Niger
+Source: UNDP, 2014.
+225
+7  •  H u m a n  C a p i ta l
+Policies to reduce gender gap
+Let us now turn to policies that could be implemented to help reduce the gender gap. The World 
+Development Report 2012 (World Bank, 2012) argues for increasing women’s individual and collect­
+ive agency, that is, the ability of women to make choices and transform them into desired actions 
+and outcomes. Empowering women as political and social actors can change policy choices and 
+make institutions more representative. The report identifies five priority areas:
+1.	 Reducing maternal mortality and closing education gaps where they remain.
+2.	 Improving economic opportunities for women.
+3.	 Closing earnings and productivity gaps between men and women.
+4.	 Increasing women’s voice and agency in the household and in society.
+5.	 Limiting the transmission of gender inequality across generations.
+Reducing maternal mortality requires not only more clinics and trained nurses, but also health-
+related policies, such as the provision of clean water at the point of use and sanitation, waste dis-
+posal and drainage; in other words, a cleaner, safer environment in which to live and raise a family. 
+Closing the education gap requires getting girls into school and staying there. Conditional cash 
+transfers can help. Evidence from a range of countries shows that increasing the share of house-
+hold income controlled by women through cash transfers or their own earnings change spending 
+in ways that benefit children. Policies that discourage child marriage and school-related, gender-
+based violence also need to be strengthened.
+In terms of improving access to economic opportunities for women, and closing the earn-
+ings gap, female farmers and entrepreneurs have less access to land and credit than their male 
+counterparts. It is necessary to improve the functioning of credit markets, in the way that some 
+microcredit schemes have helped women to access small-scale credits and build up a track 
+record of borrower performance (e.g. the Grameen Bank, see Chapter 13). Differences in access to 
+opportun­
+ities for women also partly arise from differences in time available because women have 
+responsibility for the care of children and housework. Anything that saves time for women will 
+improve their economic opportunities.
+Increasing women’s voice and agency in the household and society requires a change in atti-
+tude towards women, and removing discriminatory laws and regulations. In over 120 developing 
+countries, the law treats men and women differently, making it impossible, for example, for a 
+woman to obtain independently an identity card or to own property and have access to credit. 
+Control of fertility is also important, which requires family planning services to suit women.
+Finally, limiting the transmission of gender inequality across generations must be addressed, 
+and tackled early in life before ideas and norms of behaviour are moulded. The culture and educa-
+tion in households and schools must shift towards empowering women. Everyday tasks such as 
+carrying water or caring can be redistributed within the family to give more time to women.
+All these reforms and changes are more likely to succeed if there is broad-based support, par-
+ticularly support from men. This is where the challenge lies. Discrimination against women is a 
+waste of human capital.
+Nutrition
+For individuals to achieve their full potential and lead healthy and productive lives, they need the 
+right nutrition from birth. The sad fact is, however, that millions of people in the poorest develop-
+ing countries are malnourished and may have been from birth. This has serious consequences for 
+226
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+the individual and for society at large, which has to cope with the health consequences of mal-
+nourishment and proneness to disease. It has been estimated by the UN’s Food and Agriculture 
+Organization (FAO), which is based in Rome, that over 3 billion people worldwide suffer from 
+various types of malnutrition, including over half the world’s 1.5 billion children. One billion peo-
+ple suffer protein-energy malnutrition, 1.3 billion suffer from anaemia (iron deficiency), 1 billion 
+people have iodine deficiency, and 30 million children have vitamin A deficiency, causing blind-
+ness and death. Nearly 1 billion people have no reliable access to safe drinking water, and nearly 
+ 
+2 billion people have no access to proper toilet facilities, including half the population of India 
+(Drèze and Sen, 2013). Nearly half the population of poor countries suffer from water-related dis-
+eases. Diarrhoea caused by unclean water claims the lives of 1.5 million children a year. This weakens 
+the body, and the weaker and more undernourished children are, the more prone they are to infec-
+tion and disease; and the more infections, the greater the undernourishment due to loss of appe-
+tite, the difficulties of eating and the low absorption rate of food during digestion. Malnutrition 
+among children is particularly serious because it stunts growth and mental development, and adds 
+another twist to the vicious circle of poverty. Malnutrition is also a major cause of infant mortality, 
+the rate of which is almost ten times higher in developing countries than in developed countries.
+In his monumental, path-breaking book An Inquiry into Well-Being and Destitution (1993), 
+well-known Indian economist Partha Dasgupta attempts to understand the common circum-
+stances in which people are born in poor countries and in which they live and die in rural com-
+munities in these countries. He pays a lot of attention to the question of nutrition and its effects 
+on health and work effort. The relation between low income and food intake is, of course, a 
+two-way one. Low income is the major cause of malnutrition, which, in turn, is a cause of low 
+income as it impairs work efficiency and productivity. Indices or measures of malnutrition can be 
+based either on nutritional requirements, in terms of different kinds of food, or on food energy. 
+Both affect labour productivity. The food requirements that nutritionists consider necessary for 
+efficient working and healthy living are far greater than the levels achieved by the vast mass of the 
+population living in developing countries. Calorie deficiency causes loss of body weight, tiredness, 
+listlessness and a deterioration of mental faculties. Calories are also required for the absorption of 
+protein: if the calorie requirement is met, the protein requirement is normally met too, but not 
+always. Kwashiorkor – a condition associated with the bloated stomachs and staring eyes of the 
+starving or malnourished children we often see on our television screens – arises from protein 
+deficiency because the calorie intake is in the form of low-protein tubers such as cassavas and 
+yams. Protein is particularly important for brain development in the first three years of life, dur-
+ing which time the brain grows to 90% of its full size. Maternal nutrition is crucial for the health 
+of babies. Once babies are born, the damage that malnutrition does in the first 1,000 days of life 
+is irreversible. According to research published in the Lancet (Utzinger and Tanner, 2013), mal-
+nourished children are less likely to go to school, less likely to remain at school, and more likely 
+to struggle academically. The consequences go beyond school performance. They earn less than 
+their well-nourished peers over their lifetime, marry poorer spouses and die earlier. Malnutrition 
+is responsible for the deaths of some 3 million children a year (te Lintelo and Nisbett, 2015).
+Of the 40 nutrients people need, four are in chronically short supply: iron, zinc, iodine and 
+vitamin A. Lack of vitamin A causes half a million children to go blind every year. Zinc deficiency 
+impairs brain and motor function and causes some 400,000 deaths a year. Shortage of iron weak-
+ens the immune system and can badly affect women of childbearing age. Iodine deficiency causes 
+goitre and mental retardation.
+When it comes to the relation between nutrition and the capacity for physical effort, nutri-
+tion is generally defined in terms of the energy requirement. In this context, Dasgupta (1993) 
+227
+7  •  H u m a n  C a p i ta l
+defines undernourishment as ‘a state in which the physical functioning of a person is impaired 
+to the point where she cannot maintain an adequate level of performance at physical work, or at 
+resisting or recovering from the effects of any of a … variety of diseases’. The minimum amount of 
+energy or maintenance requirement (r) is the daily calorie requirement when a person is engaged 
+in the minimal activities of eating and maintaining essential hygiene, with no allowance for work 
+and play. According to nutritionists, r is 1.4 times the basal metabolic rate. The relation between 
+productivity and energy intake is shown in Figure 7.1.
+The interesting thing in Figure 7.1 is that the slope of the line is decreasing, but it could be 
+linear or even increasing over certain ranges. When Bliss and Stern (1978) surveyed the litera-
+ture, they found the line to be linear in the region slightly to the right of r. More recent research 
+confirms this (see Behrman, 1993, for a comprehensive survey) and shows substantial economic 
+and social returns to investment in nutrition and health, in terms of increased productivity 
+on the job, increased productivity of time spent in school, and cost savings from treating the 
+consequences of malnutrition and poor health. The costs of treating various forms of malnutri-
+tion are trivial relative to the tangible benefits and the costs of treating the consequences. To 
+prevent malnutrition in children from the age of six months to three years, which is a child’s 
+most vulnerable period, can cost as little as $100 at current prices. The annual cost of prevent-
+ing malnutrition is no more than the daily cost of treating its effects. Vitamin A deficiency is 
+a cause of blindness. The annual cost of supporting a blind person is at least 1,000 times the 
+annual ingredient cost of the vitamin A needed for prevention. Iodine deficiency is a cause of 
+hypothyroidism (goitre), which leads to cretinism and deaf-mutism. The cost of iodized salt to 
+prevent this is less than $0.02 per person per year. And so one could go on. Prevention is better 
+than cure not only for the individual but also in a very real economic sense for the welfare of 
+society as a whole.
+The FAO is the major international organization concerned with ensuring food and nutrition 
+security for the people of the world. Case example 7.3 gives its mission statement.
+Productivity
+0
+r
+Energy intake
+Figure 7.1  Relation between productivity and energy intake
+FAO’s mission is to ensure food and nutrition security for all people, to improve di-
+ets and to combat micronutrient deficiencies and all forms of malnutrition. It works 
+to protect, promote and improve food systems – the way we produce, collect, store, 
+transport, transform and distribute foods – as the sustainable solution to hunger and 
+Case example 7.3
+Food and Agricultural Organization (FAO) mission statement
+continued overleaf
+228
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+The member states of the WHO have endorsed a comprehensive implementation plan on 
+maternal, infant and young child nutrition, which includes six global nutrition targets to be 
+achieved by 2025 (WHO, 2014a). The six targets are:
+1.	 Stunting: 40% reduction in the number of children under-five who are stunted. Childhood 
+stunting is one of the most significant impediments to human development, globally affecting 
+approximately 162 million children under the age of five. Estimates indicate that stunting can 
+reduce a country’s GDP by up to 3% a year (see Case example 7.4).
+2.	 Anaemia: 50% reduction of anaemia in women of reproductive age. Anaemia affects half a 
+billion women of reproductive age worldwide. The highest prevalence of anaemia is in Asia 
+and Central and West Africa. Improvements have been seen around the world; for example, 
+Burundi (64.4% down to 28% in 20 years), Nepal (65% down to 34% in 8 years) and Nicaragua 
+(36.3% down to 16% in 10 years).
+3.	 Low birth weight: 30% reduction in low birth weight. It is estimated that 15–20% of all births 
+worldwide have low birth weight. Affordable, accessible and appropriate healthcare is critical 
+for preventing and treating low birth weight.
+4.	 Childhood overweight: No increase in childhood overweight. The prevalence of childhood 
+overweight is increasing in all regions of the world, particularly in Africa and Asia. It is predicted 
+that the prevalence of overweight children under 5 years old will rise to 11% worldwide by 
+2025, up from 7% in 2012.
+5.	 Breastfeeding: Increase the rate of exclusive breastfeeding in the first six months up to at least 
+50%. Exclusive breastfeeding has the single largest potential impact on reducing child mortal-
+ity of any preventive intervention. Globally, only 38% of infants aged 0–6 months are exclu-
+sively breastfed. Sri Lanka, Cambodia and Malawi have all seen dramatic increases in rates of 
+exclusive breastfeeding.
+6.	 Wasting: Reduce and maintain childhood wasting to less than 5%. Wasting is a reduction of 
+body weight in relation to height. It is estimated that 52 million children under 5 years old 
+are wasted, with 17 million of those estimated to be severely wasted. The majority of wasted 
+children live in Asia. India accounts for approximately one-half of the global burden of wasting.
+There are links between the global nutrition targets. For example, stunting is linked with anaemia 
+in women of reproductive age, low birth weight, childhood overweight, not enough exclusive 
+breastfeeding and wasting.
+Case example 7.3
+Food and Agricultural Organization (FAO) mission statement – continued
+malnutrition. It ensures that agricultural development is people-centred and leads to 
+improve availability, access to and consumption of safe and diverse foods for better 
+nutrition. To improve nutrition, the FAO:
+•
+• Facilitates high-level dialogue between sectors and nations seeking a common agenda 
+on nutrition, agriculture, sustainable food systems and healthy diets.
+•
+• Helps countries to devise policies and run programmes that will improve nutrition.
+•
+• Shares knowledge to help implement food-based nutrition policies through nutri-
+tion education and consumer awareness.
+•
+• Reviews evidence, offers guidance and scientific advice on all aspects of nutrition.
+Source: www.fao.org/nutrition.
+229
+7  •  H u m a n  C a p i ta l
+Nutrition offers one of the best returns on investment. It has been estimated that every US$1 
+invested in nutrition generates US$138 in better health and increased productivity. Conversely, 
+not investing in nutrition perpetuates economic losses, at an estimated cost of up to 11% of 
+annual GDP in lost production. On average, governments and donors spend 1–2% of their budgets 
+ 
+on nutrition. They need to double the resources devoted to improve nutrition if global nutrition 
+targets are to be met by 2025 (IFPRI, 2015).
+Case example 7.4
+Childhood stunting
+Stunting is an enormous drain on economic productivity and growth. Economists es-
+timate that it can reduce a country’s GDP by up to 3% a year. Among many other 
+international organizations, the WHO has been making efforts to ameliorate the prob-
+lems related to malnutrition. In 2012, the WHO’s Assembly endorsed a comprehen-
+sive implementation plan on maternal, infant and young child nutrition, which stated 
+six global nutrition targets for 2025. The first target is to reduce by 40% the number 
+of stunted children under 5 years. Childhood stunting is one of the most significant 
+impediments to human development. It has long-term effects on people, including: 
+diminished cognitive and physical development; poor health and reduced productive 
+capacity, and an increased risk of degenerative diseases such as diabetes. Currently, it 
+affects about 162 million children under the age of 5 years, and the target is to decrease 
+it to 100 million by 2025.
+There is a suggested framework for action to achieve the stunting target, which 
+focuses on tackling the causes of stunting. It focuses on the 1,000-day window from a 
+woman’s pregnancy to her child’s second birthday. Policy-makers should consider the 
+following actions:
+•
+• improve the identification, measurement and understanding of stunting and 
+scale up coverage of stunting-prevention activities;
+•
+• enact policies and/or strengthen interventions to improve maternal nutrition 
+and health, beginning with adolescent girls;
+•
+• implement interventions for improved exclusive breastfeeding and comple-
+mentary feeding practices;
+•
+• strengthen community-based interventions, including improved water, sani-
+tation and hygiene (WASH).
+Bolivia, Brazil, India and Peru are examples of countries that have implemented 
+successful multisectoral approaches to effectively address stunting; for example, edu-
+cation policies that keep girls at school throughout adolescence; laws curtailing the 
+marketing of breast milk substitutes; labour laws that provide maternity protection in 
+support of exclusive and continued breastfeeding; and agriculture and food policies 
+designed to improve household food security.
+Source: WHO, 2014b.
+Some countries have made significant progress in reducing the incidence of malnutrition: 
+examples are Bangladesh, Brazil, Colombia, Peru, Vietnam, Egypt, Ethiopia, Kenya and Tanzania. 
+These countries have made progress by creating a political environment conducive to nutrition-
+improving action, investing in high-impact, cost-effective nutrition intervention, and adopting 
+policies in a wide range of economic and social sectors.
+230
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Political commitment to reducing malnutrition is so important that the Institute of 
+Development Studies at the University of Sussex now produces a Hunger and Nutrition 
+Commitment Index (HANCI), which ranks governments on their political commitment to 
+tackling hunger and malnutrition. The HANCI compares 45 developing countries for their per-
+formance on 22 indicators relating to three areas of action: legal framework, policies and pro-
+grammes, and public expenditure. In 2014, Peru topped the index followed by Guatemala. Sudan, 
+Angola and Guinea-Bissau were at the bottom of the ranking (te Lintelo and Lakshman, 2015).
+The MDG Target 1c of halving the share of the chronically undernourished of the world’s 
+popu­
+lation by the end of 2015 was almost met. Goal 2 of the new SDGs is to ‘end hunger, achieve 
+food security and improve nutrition, and promote sustainable agriculture’, with the aim of 
+ 
+ending malnutrition by 2030. Interestingly, out of the 17 goals, with 169 targets between them, 
+this is the only one that mentions nutrition, with no reference to obesity at all. To downplay the 
+role of nutrition is a mistake.
+Water
+Water is a basic ‘nutrient’, essential for human existence. Access to clean water at the point of use 
+should be considered as a basic human right, yet three-quarters of a billion people are denied 
+it. Fresh water is extremely important for health. The biggest single cause of child deaths is diar-
+rhoea and other waterborne diseases. Acknowledging the importance of access to clean water 
+for health and sanitation, one of the UN’s MDGs was to halve by 2015 the proportion of people 
+without sustainable access to safe drinking water and basic sanitation. In 2012, 748 million people 
+remained without access to safe drinking water. Dirty water and poor sanitation kill over 500,000 
+children a year.
+Women bear the brunt of providing fresh water for their families in many of the poorest coun-
+tries of the world. In sub-Saharan Africa, only half of households are within 15 minutes of a water 
+source. Women and girls are the primary water carriers for their families. Where rural water sources 
+are distant, women may walk up to two hours a day to collect it. Where urban water is obtained 
+from shared standpipes, they may wait in line for over an hour. Case studies from around the world 
+show that water-related ‘time poverty’ translates into lost income for women and lost schooling for 
+girls. Constantly fetching and carrying water in heavy containers also has severe health implications. 
+In extreme cases, curved spines and pelvic deformities can result, causing problems in childbirth.
+Singapore has been recognized as the best country in the world to manage its water. Little 
+water is wasted. Used water is treated and then safely disposed of, reused for industrial purposes 
+or air-conditioning, or mixed with reservoir water for drinking. Recycled waste and desalinated 
+water are expected to meet 25–30% of demand. There are lessons to be learned from Singapore.
+In Africa, the eThekwini and Sharm El-Sheikh Declarations in 2008 committed countries to 
+spending 0.5% of GDP on sanitation and hygiene, but this has gone almost universally un­
+observed. 
+Countries have a responsibility to provide fresh water for their citizens with the help of the 
+ 
+international community.
+Water Aid is a leading international charity committed to improve access to safe water, sanita-
+tion and hygiene for the poorest and most marginalized people and operates in 26 poor countries. 
+In 2013–14, Water Aid provided 2 million people with safe water: 71% in rural areas, 21% in urban 
+areas and 8% in small towns.
+Water is not evenly distributed. Nine countries account for 60% of all available supplies, and 
+among them only Brazil, Canada, Colombia, Congo, Indonesia and Russia have an abundance of 
+231
+7  •  H u m a n  C a p i ta l
+it. China and India, with over a third of the world’s population between them, have less than 10% 
+of the world’s water. Africa has 35 of the 45 most ‘water-stressed’ countries.
+Water is not only required for human survival but also for many activities, including farming, 
+cattle breeding, manufacturing goods, and as a means of transport, among many others. Fresh 
+water management represents a huge challenge, mainly due to its increasing demand by a growing 
+world population and changes in the climate. Of all the activities that need water, agriculture uses 
+almost 70% of the world’s supply, while industry takes about 22%, and domestic activities account 
+for 8%. There are options to overcome the growing demand for clean water. Desalination is one 
+possibility. Although it is still an expensive alternative, there are various techniques and technolo-
+gies available. The prospect is that solar power will make desalination economic in the future.
+Health
+Human survival depends not only on nutrition but also freedom from infection and disease. This 
+brings us to the topic of the health of people in poor countries, the various diseases that poor 
+people suffer from, and the effect that poor health has on the economies of developing countries 
+in terms of work days lost through illness and low productivity.
+Angus Deaton, the Nobel Prize-winning economist, argues in his masterly book, The Great 
+Escape: Health, Wealth, and the Origins of Inequality (2013), that improvement in the health of 
+humans is the most important measure of economic and social progress and that although man-
+kind has experienced an improvement in health through time, many people have missed out – 
+notably the poor. There is a vicious circle between poverty and ill health. Poverty leads to illness 
+because of poor nutrition, lack of sanitation and clean water. Poor health then leads to poverty by 
+reducing an individual’s productivity and by the potential reduction of assets used to cover the 
+cost of treatment. For Deaton, health is one of the most important components of well-being, and 
+he believes that inequalities in health (between rich and poor countries and rich and poor people) 
+are ‘one of the greatest injustices in the world today’. He takes a moral stance when he says: ‘those 
+of us who are fortunate enough to have been born in the “right countries” have a moral obligation 
+to help reduce poverty and ill health in the world’. Here, we are going to discuss the various dis-
+eases that are prevalent in poor countries, and which still kill millions of children and adults, and 
+the international campaigns that exist to combat them. We shall also consider the research that 
+attempts to measure the effect of ill health on the economic performance of countries.
+Angus Deaton
+Born in Scotland, 1945. Professor of Economics at Princeton University; 
+one of the foremost economists working in development econom-
+ics, with particular focus on the analysis of poverty, the consumption 
+choices of poor people, and their nutrition and health. Latest book is 
+The Great Escape: Health, Wealth, and the Origins of Inequality (2013). 
+Awarded the Nobel Prize for Economics in 2015, with the citation: ‘for 
+his analysis of consumption, poverty and welfare’.
+232
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Killer diseases
+There are three main killer diseases in poor countries that affect their development potential –
+malaria, tuberculosis (TB) and HIV/AIDS. These diseases are preventable, and the first two are 
+curable. In 2013, together they killed over 3.5 million people. Their symptoms while people are 
+alive include high temperature, weight loss, muscle pain and fatigue, all of which affect the qual-
+ity of life and the ability to work productively. Goal 6 of the MDGs was to reverse and then halt 
+the spread of malaria, TB and HIV/AIDS. At the international level, there is a Global Fund to 
+Fight AIDS, Tuberculosis and Malaria.2 This is a private foundation, which raises, manages and 
+disburses private and public funding to support countries in their fight against the three dis-
+eases. The Global Fund is complemented by disease-specific targets set by UNAIDS, the WHO, 
+the Stop TB Partnership and the Roll Back Malaria (RBM) Partnership. The Global Fund spent 
+$8 billion between 2002 and 2013, and it is estimated that total eradication of these diseases by 
+2040 will cost $100 billion – but the total economic benefit would be $2 trillion, which is a very 
+high ­
+benefit–cost ratio. Each disease has been assigned a day to raise international awareness: 25 
+April for malaria, 24 March for TB and 1 December for HIV/AIDS. Table 7.12 provides a summary 
+of the number of people newly infected with malaria, TB and HIV/AIDS, deaths, and progress in 
+prevention.
+SDG 3 continues from MDG 6 and aims to ‘ensure healthy lives and promote well-being for all 
+at all ages’. Specifically, it aims to end the epidemics of malaria, TB and AIDS, and other contagious 
+diseases, by 2030.
+Malaria
+Malaria is a preventable and treatable infectious disease transmitted by mosquitoes, which kills 
+more than half a million people a year, most of them (90%) in sub-Saharan Africa, where malaria 
+is the leading cause of death for children under five. The key interventions to prevent malaria – 
+insecticide-treated nets (ITNs), insecticide spraying, and access to treatments – are well known, but 
+eliminating the disease requires a broader range of actions. Efforts to improve housing and infra-
+structure development, sanitation, agricultural practices, mobility, and nutrition are also needed.
+Malaria transmission continues to affect 97 countries and territories worldwide, inflicting a 
+tremendous burden on countries. Nearly 300 million people in sub-Saharan Africa still lack access 
+to a protective ITN, and at least 15 million pregnant women do not receive the protective treat-
+ment they need to keep themselves and their unborn child safe. The Democratic Republic of 
+Table 7.12  Comparing malaria, TB and HIV/AIDS
+People newly infected
+Mortality
+Prevention
+Malaria
+198 million cases in 2013
+584,000 people in 2013; 90% of malaria 
+deaths occur in sub-Saharan Africa and 
+78% in children under five years
+49% of at-risk population had access 
+to an insecticide treated net in 2013 
+compared to 3% in 2004
+TB
+9 million cases in 2013
+1.5 million people in 2013; 45% decline 
+between 1990 and 2013
+37 million lives saved between 2000 
+and 2013 through effective diagnosis 
+and treatment
+HIV/AIDS
+2 million people infected 
+with HIV in 2014
+1.5 million people in 2013; 35% fewer 
+than when the number peaked in 2005
+143,000 health facilities in 2011 
+provided HIV testing and counselling, 
+21% increase from 2007
+Source: Based on WHO, www.who.int/en.
+233
+7  •  H u m a n  C a p i ta l
+the Congo and Nigeria account for over 40% of global deaths from malaria. In Southeast Asia, 
+the second most affected region of the world, India has the highest malaria burden, followed by 
+Indonesia and Myanmar.
+Malaria takes a high toll on households and healthcare systems, and impedes economic devel-
+opment in endemic countries. A cross-country regression analysis for a 25-year period (1965–90) 
+estimated annual rates of economic growth to be 1.3% lower in countries with a serious malaria 
+burden than in countries with less malaria (Gallup and Sachs, 2001). Malaria also discourages for-
+eign investment, increases people’s out-of-pocket spending on healthcare, and impairs children’s 
+ability to learn for those who survive the illness.
+The Roll Back Malaria (RBM) Partnership was launched in 1998 by WHO, UNICEF, UNDP and 
+the World Bank in an effort to provide a coordinated global response to the disease. The RBM 
+and UNDP convened a Consultation on Developing a Multisectoral Approach to Malaria in July 
+2013. Participants agreed on the development of an action framework and a roadmap to iden-
+tify ways forward for better addressing the socio-environmental determinants of malaria and to 
+engage agencies from non-health sectors. The Multisectoral Action Framework for Malaria was 
+launched alongside the 68th Session of the UN General Assembly in New York in September 2013 
+(RBM and UNDP, 2013). The year 2015 marked a turning point in the treatment of malaria. A global 
+framework Action and Investment to Defeat Malaria (2016–30) organized by RBM placed the 
+management of the disease as a development issue. It complements the WHO’s Global Technical 
+Strategy for Malaria 2016–2030. Today, malaria can be diagnosed, treated and prevented with a 
+combination of available tools. However, global estimates indicate that US$4.2 billion is needed 
+each year to fully fund the fight against malaria. There is hope for the future. Scientists working on 
+the global genome project have unlocked the genetic code of the malaria parasite and the mos-
+quito species that transmits it. This paves the way for a new generation of vaccines, insecticides 
+and repellents to combat malaria – provided, of course, that it is profitable for drug companies 
+to develop them.
+Tuberculosis
+Tuberculosis (TB), like malaria, is also preventable and curable. TB is transmitted by air, through 
+coughing and sneezing. Persons with weak immune systems, such as those living with HIV, malnu-
+trition or diabetes, or people who smoke tobacco, have a much higher risk of getting infected. TB 
+remains a leading cause of death among people living with HIV, accounting for one in five AIDS-
+related deaths globally. Over 95% of cases and deaths are in developing countries. Brazil, Russia, 
+India, China and South Africa account for almost 50% of global TB cases.3 In 2013, there were an 
+estimated 9 million new TB cases and 1.5 million TB deaths (including 400,000 people with HIV). 
+Although most TB cases and deaths occur among men, the burden of the disease among women 
+and children is also high. In 2013, there were an estimated 3.3 million cases and 510,000 TB deaths 
+among women, and 550,000 cases and 80,000 deaths among children. Although the TB mortal-
+ity rate has decreased by 45% since 1990, it is still regarded as serious, given that most deaths are 
+preventable if people can access healthcare for diagnosis and treatment.
+Access to TB care has expanded substantially since 2000. Between 2000 and 2013, 37 million 
+lives were saved through effective diagnosis and treatment. However, there remains a huge gap 
+in services. Of the nearly 9 million people who developed TB in 2012, 3 million of them were 
+not diagnosed and thus not treated. Diagnosis can be difficult, particularly in cases of multi­
+drug resistant forms of the disease. Treatment is also difficult; standard TB involves six months of 
+daily medication, whereas multidrug-resistant (MDR) TB requires up to two years of treatment. 
+234
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+The cost per patient treated for drug-susceptible TB in 2013 was in the range US$100–500. The 
+cost per patient treated for MDR TB ranged from an average of US$9,235 in low-income countries 
+to US$48,553 in upper middle-income countries. Many TB-endemic countries cannot afford to 
+treat their patients; their national healthcare systems are overburdened with the disease, and the 
+infrastructure necessary for TB treatment is extremely costly. The World Bank estimates that, for 
+some countries, the loss of output attributable to TB is 4–7% of their GDP.
+The Millennium Development Goal to reverse the tuberculosis epidemic by 2015 was achieved 
+globally. In 2013, the TB mortality rate had fallen by 45% compared to 1990. The WHO has devel-
+oped a post-2015 global TB strategy – The End TB Strategy. Its goal is to end the global TB epi-
+demic by 2035, with corresponding global targets for a 95% reduction in the number of TB deaths 
+and a 90% reduction in the number of cases compared with the baseline of 2015 (see Table 7.13).
+HIV/AIDS
+In 2014, 1.2 million people died from Human Immunodeficiency Virus (HIV)-related causes. 
+Although there is no cure for HIV, there are effective treatments that can control the virus so that 
+infected people can still lead healthy and productive lives. The most advanced stage of HIV is 
+Acquired Immunodeficiency Syndrome (AIDS). HIV/AIDS has destroyed families, communities 
+and affected the economy of entire nations. As Kofi Annan, former secretary-general of the UN, 
+said when addressing the International AIDS Conference in July 2004 in Bangkok, Thailand: ‘AIDS is 
+far more than a health crisis. It is a threat to development itself.’ Since 2000, when the outlook was 
+dire, the AIDS epidemic has been taken seriously. The Millennium Development Goal 6 played 
+a crucial role in targeting the epidemic. In 2015, the world achieved the AIDS targets of MDG 
+6 – halting and reversing the spread of HIV – according to a comprehensive report published by 
+the Joint United Nations Programme on HIV/AIDS (UNAIDS, 2015). In 2000, fewer than 700,000 
+people were receiving antiretroviral medicines; in 2015, 15 million accessed them. Over the same 
+period, new HIV infections declined by 35%. Table 7.14 summarizes three aspects of HIV/AIDS – 
+people living with HIV, new HIV infections, and AIDS-related deaths, for seven regions in 2014.
+New HIV infections declined steadily between 2000 and 2014. The number of newly infected 
+people in 2014 was 35% lower than in 2000. Likewise, since 2004, when the number of AIDS deaths 
+peaked, the annual number of AIDS-related deaths declined by 42% (see Figure 7.2). In 2014, an 
+estimated 1.2 million people died of AIDS-related causes globally. However, the number of people 
+living with HIV continues to increase. This is because more people have access to antiretroviral treat-
+ment and as a result are living longer, and there is still a high number of new HIV infections each year.
+The most significant gains in reversing the epidemic have been among children under the age 
+of 15. Since 2000, new HIV infections among children have declined by 58%; however, still in 2014, 
+2.6 million children were living with HIV (see Table 7.14 for a regional breakdown). The epidemic 
+Table 7.13  The post-2015 global TB strategy
+Vision
+A TB-free world: zero deaths, other diseases and suffering due to TB
+Goal
+End the global TB epidemic
+Milestones for 
+2025
+75% reduction in TB deaths (compared to 2015)
+50% reduction in TB incidence rate (less than 55 TB cases per 100,000 people)
+No affected families facing catastrophic costs due to TB
+Targets for 2035
+95% reduction in TB deaths (compared with 2015)
+90% reduction in TB incidence rate (less than 10 TB cases per 100,000 people)
+No affected families facing catastrophic costs due to TB
+Source: WHO, 2014b.
+235
+7  •  H u m a n  C a p i ta l
+among children stems from HIV transmission during pregnancy, childbirth or breastfeeding. In 
+2015, Cuba became the first country to be certified by the WHO as having eliminated new HIV 
+infections among children and ending mother-to-child transmission.
+Although 70% of people living with HIV live in only 17 countries, the HIV epidemic remains 
+global, affecting virtually every country in the world and adding substantially to health burdens. 
+Sub-Saharan Africa has been the most affected region, with 25.8 million people living with HIV. In 
+2014, South Africa alone accounted for 18% of all the people living with HIV in the world; followed 
+by Nigeria (9%), Zimbabwe (4%), Mozambique (4%), Tanzania (4%), Uganda (4%) and Kenya (4%). 
+Table 7.14  Regional HIV/AIDS data, 2014
+Region
+People living with HIV
+New HIV infections
+AIDS-related deaths
+Total
+Children
+Total
+Children
+Total
+Sub-Saharan Africa
+25.8 million
+2.3 million
+1.4 million
+190,000
+790,000
+Asia and the Pacific
+5.0 million
+200,000
+340,000
+21,000
+240,000
+Latin America
+1.7 million
+33,000
+87,000
+2,000
+41,000
+Caribbean
+280,000
+13,000
+13,000
+,500
+8,800
+Middle East and North Africa
+240,000
+13,000
+22,000
+2,400
+12,000
+Eastern Europe and Central Asia
+1.5 million
+17,000
+140,000
+1,200
+62,000
+Western and Central Europe and  
+North America
+2.4 million
+3,300
+85,000
+,500
+26,000
+Global
+36.9 million
+2.6 million
+2.0 million
+220,000
+1.2 million
+Source: UNAIDS, 2015.
+5,000,000
+10,000,000
+15,000,000
+20,000,000
+25,000,000
+30,000,000
+35,000,000
+40,000,000
+500,000
+1,000,000
+1,500,000
+2,000,000
+2,500,000
+3,000,000
+3,500,000
+4,000,000
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+People living with HIV
+New HIV infections and AIDS-related deaths
+New HIV infections
+AIDS-related deaths
+People living with HIV
+Figure 7.2  People affected by HIV/AIDS (all ages), 1990–2014
+Source: AIDSinfo, http://aidsinfo.unaids.org/#.
+236
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+When countries are ranked by the incidence of HIV (ratio of people living with HIV to the coun-
+try’s population), in 2014, the following sub-Saharan countries came top: Botswana (18%), South 
+Africa (13%), Zimbabwe (11%), Zambia (8%), Malawi (7%), Mozambique (6%), Uganda (4%), 
+Kenya and Tanzania (3%), and Ivory Coast and Nigeria (2%).
+The global response to HIV is estimated to have averted 30 million new HIV infections and 
+nearly 8 million AIDS-related deaths since 2000, when the MDGs were set. Everyone living with 
+HIV needs access to HIV treatment: this is the promise that world leaders committed to in 2015 
+with the Sustainable Development Goal to end the epidemic by 2030. Two success stories against 
+AIDS are highlighted in Case example 7.5.
+Senegal
+In 2014, Senegal registered 2,400 AIDS-related deaths and 44,000 people living with 
+HIV. It has made major efforts in the past five years to scale up access to HIV preven-
+tion, treatment, care and support services for its population, with a focus on key, higher 
+risk groups. It is one of the few countries in the western and central African region that 
+has collected robust data on hard-to-reach populations, such as sex workers, men who 
+have sex with men and people who use drugs. The country has scaled up access to 
+antiretroviral therapy, and treatment is now widely available in many parts of Senegal. 
+The number of people receiving antiretroviral therapy increased from 5,500 in 2006 
+to nearly 18,000 in 2011. The combination of efforts is having positive results. Accord-
+ing to UNAIDS, HIV prevalence among the general population remains stable at 0.7%, 
+while HIV prevalence among sex workers has decreased from 19.8% in 2006 to 18.5% in 
+2011, and new HIV infections among youth have decreased. The Global Fund highlights 
+Senegal as a model for the response to HIV in the western and central African region.
+Rwanda
+AIDS-related deaths of all ages in Rwanda have decreased significantly since a peak in 
+2002–03, when there were 21,000 deaths, compared to 3,000 in 2014. The number of 
+people living with HIV has fallen moderately from 270,000 in 1999 to 210,000 in 2014. 
+The government of Rwanda continues to scale up HIV services: by the end of 2013, 493 
+out of 495 health facilities in the country provided testing and counselling services, 488 
+provided services to prevent mother-to-child transmission, and 465 provided antiret-
+roviral therapy. TB-related deaths among people living with HIV declined by approxi-
+mately 45% between 2000 and 2010, accompanied by a 70% decline in child mortality 
+and a 60% decline in maternal mortality. This achievement provides a sound example 
+of the way that the benefits of investment in AIDS prevention and other chronic dis-
+eases can extend far beyond the treatment of AIDS itself. Rwanda is piloting an innova-
+tive financing mechanism in partnership with the Global Fund, where grant funds will 
+be used to implement Rwanda’s National Strategic Plan for HIV (2013–18) and TB/HIV.
+Source: UNAIDS, 2015.
+Case example 7.5
+Two success stories against AIDS: Senegal and Rwanda
+Other diseases and health expenditure
+Apart from the big killers of tuberculosis, malaria and AIDS, there are many other tropical diseases 
+that continue to disable tens of millions of people in tropical Asia, Africa and Latin America, 
+such as leprosy, river blindness, Chagas disease and lymphatic filariasis. With modern medicine 
+237
+7  •  H u m a n  C a p i ta l
+and antibiotics, there is now the opportunity to eliminate these diseases. The global registered 
+prevalence of leprosy at the beginning of 2013 stood at 189,018 cases. During 2014, 22 countries 
+reported that more than 112 million people were treated with ivermectin to treat river blindness 
+(onchocerciasis), which is transmitted to humans through bites of infected blackflies. Infected 
+people live in 31 sub-Saharan Africa countries and in some particular places in Latin America and 
+Yemen. Chagas disease is spread by bloodsucking bugs and infects 6 to 7 million people worldwide, 
+mostly in Latin America. Lymphatic filariasis, commonly known as ‘elephantiasis’, is a neglected 
+tropical disease, and 1.1 billion people in 55 countries remain threatened by the disease and require 
+preventive chemotherapy to stop the spread of this infection. In addition, there are waterborne 
+diseases, which include cholera, dysentery, typhoid and worm infection. There are about 1.7 billion 
+cases of diarrhoeal disease every year. It kills around 760,000 children a year under the age of five 
+(for all diseases, see WHO, Global Health Observatory data, www.who.int/gho/database/en).
+Table 7.15 presents some health-related statistics for 2013, including total expenditure on health 
+as a percentage of GDP, health expenditure per head of the population, life expectancy at birth, and 
+the infant mortality rate. Notice the colossal difference in health expenditure per capita in rich and 
+poor countries. While in high-income countries, expenditure is $4,456, in the low-income countries 
+it is only $37. The low expenditure and lack of access to basic health facilities in poor countries is 
+reflected in the much lower life expectancy of only 61 years in low-income countries (and 58 years 
+in Africa) compared to 79 years in high-income countries. There is also a big difference in infant 
+mortality rates, with 53 deaths per 1,000 live births in low-income countries compared with only 6 
+deaths in high-income countries. Baldacci et al. (2005) calculate that an increase in health expend­
+iture of 1% of GDP is associated with an increase of 0.5 percentage points in the survival rate of 
+children under 5 and a 0.5 percentage point increase in per capita income growth.
+Table 7.15  Health indicators
+Health expenditure
+Life expectancy at birth
+Infant mortality rate
+Total
+Per capita
+% of GDP
+$
+years
+per 1,000 live births
+2013
+2013
+2013
+2015
+World
+10
+1,042
+71
+32
+Low income
+6.4
+37
+61
+53
+Middle income
+5.8
+256
+70
+31
+Lower middle income
+4.2
+82
+67
+40
+Upper middle income
+6.3
+466
+74
+15
+Low and middle income
+5.8
+235
+69
+35
+East Asia and Pacific
+5.3
+293
+74
+15
+Europe and Central Asia
+5.9
+413
+72
+18
+Latin America and Caribbean
+8.1
+729
+74
+16
+Middle East and North Africa
+6
+258
+72
+21
+South Asia
+3.9
+56
+68
+42
+Sub-Saharan Africa
+5.7
+101
+58
+56
+High income
+11.9
+4,456
+79
+6
+Source: World Bank, 2015, Tables 2.15 and 2.21.
+238
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+The provision of education, nutrition, health services, water supply, housing and sanitation 
+came to be known in development circles in the 1970s (and supported by the World Bank) as 
+the basic needs approach to economic development. The rationale of the approach was that the 
+direct provision of such goods and services was likely to relieve absolute poverty more immedi-
+ately than alternative strategies, which would simply attempt to accelerate growth or rely on rais-
+ing the incomes and productivity of the poor. Five arguments were used to support this change 
+in strategy:
+1.	 Growth strategies usually fail to benefit those intended.
+2.	 The productivity and incomes of the poor depend in the first place on the direct provision of 
+health and education facilities.
+3.	 It may take a long time to increase the incomes of the poor so that they can afford basic needs.
+4.	 The poor tend not to spend their income wisely, and certain facilities such as water supply and 
+sanitation can only be provided publicly.
+5.	 It is difficult to help all the poor in a uniform way in the absence of the provision of basic needs.
+The basic needs approach has lost none of its rationale in the direct fight against poverty and 
+disease in the world’s poorest countries.
+The impact of ill health on growth and development
+There are several channels through which better health may impact on the economic growth and 
+development of countries:
+•
+• Healthier people are more productive. They can work harder, longer and they can think more 
+clearly.
+•
+• Health improves educational outcomes through better attendance at school and improved 
+cognitive functioning.
+•
+• Lower mortality and higher life expectancy encourage savings for retirement and release re-
+sources for investment.
+Cole and Neumayer (2006) have conducted a major study of the impact of poor health on total 
+factor productivity growth (TFP), taking a panel of 52 developed and developing countries over the 
+period 1965–95. They estimate TFP from a standard neoclassical production function (see equa-
+tion 4.22) and then relate differences between countries to malnutrition, malaria and waterborne 
+diseases. Malnutrition impacts on productivity by sapping the energy of workers and making them 
+more susceptible to infection and disease. Malnutrition used as a causal variable in the analysis is 
+measured by the percentage of the population undernourished. Malaria similarly makes workers 
+feel weak, and impairs cognitive ability. Malaria is measured by an index, which combines the per-
+centage of land area affected and the percentage number of malaria cases. Waterborne diseases 
+are a great health risk in poor countries and include dysentery, cholera and typhoid fever. This also 
+impacts on energy at work, and on school attendance. This is measured for empirical analysis by 
+the percentage of the population without access to safe water. The function estimated is therefore:
+TFP 5 a 1 b1 (incidence of malnutrition) 1 b2 (incidence of malaria) 1  
+b3 (lack of access to safe water) 1 e
+(7.6)
+where the coefficients b1, b2 and b3 measure the effect of these three health variables on the 
+growth of TFP across countries, and e is an error term. The results are significant and striking. The 
+239
+7  •  H u m a n  C a p i ta l
+coefficients on all the health variables are negative. Malnutrition reduces TFP growth by 0.17 per-
+centage points (p.p.), malaria by 0.58 p.p. and lack of access to safe water by 0.1 p.p.
+Another way of estimating the effect of poor health on the macroeconomic performance of 
+countries is to calculate the number of working days lost through ill health. This is the preferred 
+approach of the World Health Organization (WHO, 2008), which calculates what they call disabil-
+ity-adjusted life years (DALYs), which adds up the number of years lost as a result of poor health 
+or disability, and is measured as the difference between an individual’s current health status and 
+an ideal health situation where the entire population lives to an advanced age, free of disease and 
+disability.4
+Table 7.16 gives the 20 leading causes of work years lost through ill health. Heart disease 
+(which is not infectious) comes top, but malaria, TB, HIV/AIDS and waterborne disease also figure 
+prominently. Once total DALYs have been calculated for each country, they can be included in a 
+cross-country growth regression of the form:
+y 5 a 1 b1 (DALY) 1 b2X 1 e
+(7.7)
+Table 7.16  Leading causes of DALYs, 2012
+Rank
+Cause
+DALYs (000s)
+% DALYs
+DALYs per 100,000 
+population
+0
+All Causes
+2,743,857
+100.0
+38780
+1
+Ischaemic heart disease
+165,717
+6.0
+2342
+2
+Lower respiratory infections
+146,864
+5.4
+2076
+3
+Stroke
+141,348
+5.2
+1998
+4
+Preterm birth complications
+107,210
+3.9
+1515
+5
+Diarrhoeal diseases
+99,728
+3.6
+1409
+6
+Chronic obstructive pulmonary 
+disease
+92,377
+3.4
+1306
+7
+HIV/AIDS
+91,907
+3.4
+1299
+8
+Road injury
+78,724
+2.9
+1113
+9
+Unipolar depressive disorders
+76,500
+2.8
+1081
+10
+Birth asphyxia and birth trauma
+74,600
+2.7
+1054
+11
+Diabetes mellitus
+59,258
+2.2
+838
+12
+Malaria
+55,111
+2.0
+779
+13
+Back and neck pain
+53,920
+2.0
+762
+14
+Congenital anomalies
+52,532
+1.9
+742
+15
+Iron-deficiency anaemia
+47,627
+1.7
+673
+16
+Tuberculosis
+43,650
+1.6
+617
+17
+Falls
+42,466
+1.6
+600
+18
+Neonatal sepsis and infections
+39,646
+1.4
+560
+19
+Self-harm
+39,358
+1.4
+556
+20
+Trachea, bronchus, lung cancers
+38,535
+1.4
+545
+Source: WHO, 2012.
+240
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+where y is the growth of per capita income and X is a vector of control variables. The coefficient 
+b1 measures the impact of days lost through ill health on the growth of living standards. Murray 
+and Lopez (1996) estimate the per capita disability-adjusted life years (DALYs) lost in various 
+regions of the world in 1990 due to premature mortality and years lived with disability adjusted 
+for severity. The estimated impact on per capita income is lower in developed countries at about 
+0.17 p.p. The impact ranges from 0.2 to 0.4 p.p. in various regions of the developing world, and 
+reaches close to 0.6 p.p. in sub-Saharan Africa. Specific disease variables can also be included in 
+equation (7.7). Malaria, for example, has a strong negative effect of 0.36 p.p. (similar to that found 
+by Gallup and Sachs, 2001).
+Summary
+•
+• The economic and social development of poor countries requires educated and liter-
+ate people; an equitable participation of men and women in the labour force; and well-
+nourished, healthy people free from the debilitating diseases that affect work effort and 
+­
+productivity.
+•
+• Investment in human capital takes the form of expenditure on formal education; on-the-job 
+and institutional training; study programmes and adult education; nutrition programmes; and 
+expenditure on health facilities.
+•
+• There is serious underprovision of education facilities and opportunities in many poor coun-
+tries – particularly with regard to secondary and tertiary education. Literacy rates are low.
+•
+• Private rates of return to education are high in poor countries, averaging 10%.
+•
+• Investment in education can add substantially to the growth performance of countries.
+•
+• There is serious discrimination against women in developing countries. Gender equality in edu-
+cation, employment opportunities, voice in society, and access to credit should be an integral 
+part of the development process.
+•
+• Women’s health has been neglected in poor countries and needs urgent attention.
+•
+• For individuals to achieve their potential and lead healthy and productive lives, they need the 
+right nutrition from birth – but millions remain malnourished throughout their lives.
+•
+• The WHO has a comprehensive plan to tackle maternal, infant and young children malnutri-
+tion, targeting child stunting; anaemia; low birth weight; child overweight; breast feeding; and 
+wasting.
+•
+• Good health requires clean water, but three-quarters of a billion people lack access.
+•
+• There is a vicious circle between poverty and ill health. Ill health means incapacity to work ef-
+fectively, and low productivity means poverty.
+•
+• The three killer diseases in poor countries are malaria, TB and HIV/AIDS, plus various water-
+borne diseases such as cholera, typhoid and dysentery.
+•
+• There are many international campaigns, such as the Global Fund, to eradicate malaria, TB 
+and Aids –and their eradication is one of the Sustainable Development Goals to be achieved 
+by 2030.
+•
+• Health expenditure in poor countries is rudimentary, and needs to be given greater 
+­
+priority.
+•
+• Ill health has an adverse effect on the growth of total factor productivity of countries and the 
+growth of per capita income when individual diseases are considered or total working days lost 
+through ill health (DALYs).
+241
+7  •  H u m a n  C a p i ta l
+Notes
+1.	 The greater the proportion of expenditure treated as consumption, the higher the rate of return on 
+the investment component.
+2.	 The Global Fund relies on voluntary financial contributions from all sectors of society – govern-
+ments, private sector, social enterprises, philanthropic foundations and individuals. The Bill & 
+Melinda Gates Foundation has been a key partner of the Global Fund, providing cash contributions, 
+active participation on its board and committees, and substantial funding to related advocacy and 
+fundraising efforts. To date, the foundation has contributed or pledged a total of US$1.4 billion to 
+the Global Fund.
+3.	 The WHO classifies 22 countries as high TB burden countries: Afghanistan, Bangladesh, Brazil, 
+Cambodia, China, D.R. Congo, Ethiopia, India, Indonesia, Kenya, Mozambique, Myanmar, Nigeria, 
+Pakistan, Philippines, Russia, South Africa, Thailand, Uganda, Tanzania, Vietnam and Zimbabwe.
+4.	 DALYs for a particular disease or health condition are calculated as the sum of the years of life lost 
+(YLL), which corresponds to the number of deaths multiplied by the standard life expectancy at the 
+age at which death occurs. So, YLL 5 N 3 L, where N is the number of deaths and L is the standard 
+life expectation at age of death in years.
+Websites on education, women, nutrition and health
+Education
+UNESCO www.unesco.org
+World Bank Education Data www.worldbank.org/education/edstats/
+UNICEF Girl’s Education www.unicef.org/girlseducation/
+1.	 What are the main forms of human capital formation?
+2.	 Why is human capital formation essential for the economic and social progress of 
+countries?
+3.	 What is the specific role of education in the growth and development process?
+4.	 How can the rate of return to education be measured, and the contribution of 
+education to economic growth?
+5.	 What form does gender inequality take in many poor countries?
+6.	 Why are women discriminated against in education, employment and participa-
+tion in civil society?
+7.	 What policies might be implemented to reduce the gender gap?
+8.	 What is the importance of nutrition for economic and social progress?
+9.	 What are the major health challenges confronting poor countries?
+10.	 How does poor nutrition and health impact on the growth performance of 
+­
+countries?
+Discussion questions
+Chapter 7
+242
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+UNESCO eAtlas of Out-of-School Children http://tellmaps.com/uis/oosc/
+Barro-Lee Educational Attainment Dataset www.barrolee.com/
+UN Girls Education Initiative www.ungei.org
+Global Partnership for Education www.globalpartnership.org
+Women
+UN Women www.unwomen.org/en
+International Center for Research on Women www.icrw.org
+UNDP Women’s Empowerment www.undp.org/content/undp/en/home/ourwork/womenem-
+powerment/overview.html
+UN Gender Statistics Manual http://unstats.un.org/unsd/genderstatmanual/
+UN Girls Education Initiative www.ungei.org/
+Nutrition
+United Nations System Standing Committee on Nutrition www.unscn.org
+Food and Agricultural Organization (FAO) www.fao.org
+International Food Policy Research Institute www.ifpri.org
+World Food Programme www.wfp.org
+Hunger and Nutrition Commitment Index www.hancindex.org
+Health
+World Health Organization www.who.int/en
+AIDS www.unaids.org; www.who.int/hiv/en
+Pan American Health Organization www.paho.org
+The Micronutrient Initiative http://micronutrient.org/
+The Global Fund to Fight AIDS, Tuberculosis and Malaria www.theglobalfund.org
+Roll Back Malaria www.rollbackmalaria.org
+Malaria No More www.malarianomore.org
+World Health Organization, Tuberculosis www.who.int/tb
+Stop TB www.stoptb.org/
+TB Alliance www.tballiance.org/
+

@@ -1,0 +1,1727 @@
+257
+•
+• Introduction
+•
+• The market mechanism and market failures
+•
+• The role of the state
+•
+• Corruption
+•
+• Failed states, conflict and violence
+•
+• Development plans
+•
+• The allocation of resources: the broad policy choices
+•
+• Industry versus agriculture
+•
+• The comparative cost doctrine
+•
+• Present versus future consumption
+•
+• Choice of techniques
+•
+• Balanced versus unbalanced growth
+•
+• Investment criteria
+•
+• Summary
+•
+• Discussion questions
+•
+• Notes
+•
+• Websites on government and corruption
+THE ROLE OF THE STATE IN 
+ECONOMIC DEVELOPMENT
+9
+258
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Introduction
+The central issue facing all economies is how to allocate resources among competing uses. This 
+question takes on more significance in developing countries than in developed countries because 
+resources are scarcer, the basic needs of people are greater, and the market mechanism as a device 
+for resource allocation has many more imperfections. In this chapter, we first review the role of 
+the market mechanism as an efficient device for resource allocation, and the various imperfec-
+tions and failures that markets may suffer from, which might be corrected by the state. Four roles 
+for the state are identified: to provide public goods, to eliminate divergences between private 
+and social costs and benefits (which arise because market prices do not reflect the social costs 
+and benefits of goods and factors of production), to protect the vulnerable because the market 
+mechanism does not guarantee an equitable distribution of income, and to provide an institu-
+tional environment in which markets can flourish.
+But there can be state failures as well as market failures. Corruption is endemic in many poor 
+countries, and there are at least 50 countries in the world classified as failed states that hardly 
+function at all, politically or economically.
+Finally, the role of planning in developing countries is discussed and some of the broader policy 
+issues confronting decision-makers, including types of planning, the balance between agriculture 
+and industry, the choice between consumption today and consumption tomorrow, pursuing (or 
+not) the law of comparative advantage, techniques of production, and the debate over whether 
+growth should be balanced or deliberately ‘unbalanced’.
+The market mechanism and market failures
+In free-market economies, resources are allocated by Adam Smith’s ‘invisible hand’ of the market 
+in accordance with consumer demand. The market is the organizational framework that brings 
+together those who supply and those who demand a product, who then trade at an agreed price. 
+In a completely free market, the price will clear the market so there are no unsatisfied buyers and 
+sellers. Decision-making about what is produced is decentralized and left to the market, compris-
+ing the decisions of myriad private individuals. If the demand for a good increases, the price will 
+rise and producers will be induced to supply more; if demand falls, the price will fall and produc-
+ers will supply less. Market prices act as signals to producers to supply more or less of a com-
+modity according to the changing profitability of production. The efficiency of markets relies on 
+prices acting as signals, on suppliers responding, and on the mobility of the factors of production 
+ 
+enabling supply to be forthcoming.
+This brings us to one of the most important theorems in welfare economics: if consumers 
+consume to the point where the marginal utility of consumption is equal to the price of a good, 
+and producers produce to the point where the marginal cost of production is equal to price, then 
+resources will be optimally allocated, since the marginal utility of production will just equal the 
+marginal cost. Society will have reached its highest level of utility consistent with its production 
+possibilities. This is illustrated in Figure 9.1.
+The curve I1I1 is society’s indifference curve between two goods, A and B, representing the high-
+est utility attainable, and X1X1 is a country’s production possibility curve between the two goods, 
+A and B. Point 1 represents the optimum allocation of resources between the two goods. Any 
+point to the left or right of point 1, or inside the production possibility curve, would represent a 
+lower level of utility.
+259
+9  •  T H E  R O L E  O F  T H E  S TAT E  I N  E C O N O M I C  D E V E L O P M E N T
+The allocation role of markets is, however, only one of the functions of the market mechanism. 
+To use a distinction introduced by Kaldor (1972), the market also has a creative function, to provide 
+an environment for change that expands production possibilities – that is, which shifts the produc-
+tion possibility curve outwards to X2X2, enabling a higher level of utility at point 2. An environment 
+for change means all the dynamic forces that lead to technical progress, innovation and, ultimately, 
+investment. In the early stages of development, the creative function of markets, producing new 
+opportunities for growth, may be just as important as the allocative function of markets.
+The conditions required for markets to perform their allocative and creative functions in an 
+optimal manner are very stringent, and are unlikely to be satisfied in any economy, let alone devel-
+oping countries. The true benefit of output may not be reflected in price because of externalities; 
+price may not reflect marginal cost because of market imperfections; and many developmen-
+tal goods and services may not be produced at all because markets are incomplete or missing 
+entirely, and therefore cannot perform their creative function. In other words, there are likely to 
+be market failures.
+In addition, there is the problem that there is nothing in the market mechanism that guaran-
+tees an equitable distribution of income in society, or that will direct adequate resources away 
+from present consumption to build up the means of production for a higher level of consumption 
+in the future.
+In the past, all these types of market failure have led development economists to argue for 
+government intervention in the development process, as well as leading most developing coun-
+tries to interfere with the market mechanism and to adopt various forms of planning for the 
+allocation of resources. In the former Soviet Union and the countries of Eastern Europe, planning 
+superseded the market mechanism entirely, and output and resource allocation was decided by 
+bureaucrats, not by consumers. In other countries, governments produced plans for the sectoral 
+allocation of resources and took on more and more functions. In the latter half of the twentieth 
+century, there was an explosion of government expenditure in developing countries, rising to over 
+30% of national income on average and to over 50% in some countries.1
+In recent years, however, there has been disillusion with planning, and the role of the state has 
+come under increased scrutiny for a number of reasons:
+1.	 There was the collapse of the former state-planned, communist countries of the Soviet Union 
+and Eastern Europe. What to put in their place? Most of these former command economies 
+0
+X2
+X1
+X2
+I1
+X1
+I1
+Good A
+Good B
+1
+2
+Figure 9.1  Welfare maximization
+260
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+have swung to the other extreme, embracing the market mechanism almost unconditionally, 
+with other damaging consequences relating to growing income inequality and unemployment.
+2.	 In many developing countries, the state has failed to deliver even the most fundamental public 
+goods, such as law and order and property rights, and essential social capital and infrastruc-
+ture, such as education, health facilities and transport.
+3.	 Civil strife has caused the collapse of the state in a number of countries, particularly in Africa, 
+leaving markets to operate in an institutional vacuum.
+4.	 Many countries have found themselves in fiscal crisis – associated with mounting expenditure 
+on the welfare state in developed countries, and huge public enterprise deficits in developing 
+countries.
+5.	 There is a fascination with the enabling role that the state has played in the successful devel-
+oping countries of Southeast Asia – in Japan and the Asian tigers of Hong Kong, Singapore, 
+Taiwan and South Korea. Can the East Asian model be copied?
+Surveying the experience of developed and developing countries in the years since 1945, the 
+message would seem to be that the state has a vital role to play in economic development, but 
+not so much as a direct provider of goods and services; rather as the agency through which mar-
+ket failures can be rectified and as the architect of a framework in which markets can flourish and 
+evolve. History shows that markets can come into existence without government intervention, 
+but markets work incrementally. It takes time for price signals to be recognized, for people to 
+respond to incentives, and for resources to be (re)allocated efficiently. This does not mean that 
+the state should step in and do everything. There is a middle way between state-led, central plan-
+ning on the one hand, and the minimal state espoused by extreme free-marketeers on the other. 
+The bad experience of government planning in Eastern Europe should not blind us to the market 
+failures mentioned earlier. The way forward in most developing countries must be a judicious mix 
+of market capitalism combined with state intervention. Let us now consider in more detail the 
+role the state can play in correcting these market failures.
+The role of the state
+The state has four key roles to play in the development process:
+1.	 To provide public goods.
+2.	 To correct market imperfections.
+3.	 To protect the vulnerable and ensure an equitable distribution of income, both intra-temporally 
+(between people at a point in time) and inter-temporally (between generations over time).
+4.	 To provide an institutional environment in which markets can flourish, including the mainten- 
+ance of macroeconomic stability.
+Public goods are goods that have certain characteristics that make it difficult, if not impossible, 
+to charge for them, and therefore private suppliers will not provide them. These characteristics are:
+1.	 Consumption by one user does not reduce the supply available for others – the good is non-rival.
+2.	 Users cannot be prevented from consuming the good – the good is non-excludable.
+There are not many pure public goods (air is perhaps the purest of all) but there are others that 
+come close and are important for economic development, such as defence, law and order, and 
+the provision of basic infrastructure such as roads, railways, power supply, sewers and clean water. 
+261
+9  •  T H E  R O L E  O F  T H E  S TAT E  I N  E C O N O M I C  D E V E L O P M E N T
+A market in defence, or laws governing property rights that benefit the whole nation, is not con-
+ceivable. Markets in some infrastructural facilities are conceivable, but not very likely because of 
+the high fixed costs. Also, the providers might have difficulty in charging for, and capturing, the 
+externalities. The market would either not provide at all, or it would underprovide.
+Market imperfections refer to three important phenomena. First, market prices may pro-
+vide a very imperfect guide to the social optimum allocation of resources, because they do 
+not reflect the opportunity costs to society of using factors of production, or the value to 
+society of the production of commodities. The price of labour may be above its opportunity 
+cost and therefore used too little. The price of capital and foreign exchange may be below the 
+opportunity cost and therefore used too much from a social point of view. Likewise, the price 
+of goods may not reflect the marginal cost of production. Monopolies, tariffs, subsidies and 
+other imperfections in the market all distort free-market prices, on which private producers 
+base their production decisions.
+Second, there is the existence of externalities, both positive and negative, which means that 
+some goods may be underprovided and others overprovided from a social point of view because 
+the positive or negative externality is not reflected in the price. Most infrastructure projects, such 
+as transport facilities, power generation, irrigation schemes and so on, and social capital, such as 
+education and health facilities, will have greater social returns than the private return and will 
+therefore be underprovided from a social point of view unless private suppliers in the market 
+are compensated or subsidized. Other activities may produce negative externalities by imposing 
+costs on society that are not paid for by the provider, and therefore the market oversupplies from 
+a social point of view. Governments can curb negative externalities through regulation or tax- 
+ation, and promote positive externalities through subsidies or providing the output itself, as with 
+education and healthcare.
+Third, markets may be incomplete or missing altogether. One good reason why markets may 
+be missing in the case of public goods is the inability of suppliers to exclude free-riders, that is, 
+to exclude people from consuming the good once it is provided. But there are other important 
+reasons for incomplete or missing markets. For example, high transaction costs can prevent mar-
+kets from developing, particularly in developing countries, where poor communications make 
+information costs high and there is an absence of futures markets to compensate for risk in condi-
+tions of uncertainty. The actual cost of providing a good or service may be less than individuals 
+are willing to pay, but imperfect information on the part of consumers leads to an undervaluation 
+of the product and therefore restricted supply, for example preventive healthcare. In this sense, 
+the market is incomplete.
+Asymmetric information, adverse selection and moral hazard can also lead to market 
+in­
+efficiency. ‘Asymmetric information’ refers to the imbalance of knowledge in a market between 
+buyers and sellers. In the market for bank loans, for example, the borrowers know more about 
+their own circumstances than the lenders. Banks could make bad loans (‘adverse selection’), which 
+makes them cautious and leads to credit rationing. It would be very costly for banks to obtain all 
+the information they require on high-risk customers. The informal money market compensates 
+by charging very high interest rates for all. Another example would be the health insurance mar-
+ket, where individuals know more about their health than the suppliers of insurance. Those who 
+know they are prone to illness are more likely to take out insurance, and more likely to be turned 
+down. ‘Moral hazard’ is present when the possession of insurance encourages the activity that is 
+insured against, leading to resource waste and higher costs (and higher insurance premiums for 
+all). Governments may step in by regulating private insurance, or providing the service themselves 
+at lower cost.
+262
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+As far as equity is concerned, the state has an important role to play in protecting the vulner­
+able and ensuring an equitable distribution of income between people, between groups in soci-
+ety, between regions and across generations. There is not only a moral case for the state to help 
+those in absolute poverty, but also a strong political and economic one. Poor, vulnerable and dis-
+affected people can be a major cause of civil unrest and political instability (Stewart, 2001). This 
+deters investment and growth. It is also important for the state to keep an eye on the welfare of 
+future generations, which may require altering the balance between consumption and investment 
+in the present. There are a number of ways in which governments can intervene to discourage 
+present consumption and raise the level of investment for higher future consumption; examples 
+are taxation, subsidized interest rates and public investment on society’s behalf.
+Finally, the state is essential for providing the appropriate institutional environment for mar-
+kets to flourish and operate efficiently (see Chapter 8). In this sense, markets and government 
+intervention are complementary. The World Bank’s (1997) World Development Report 1997: The 
+State in a Changing World conveys three principal messages:
+1.	 Development (economic, social and sustainable) without an effective state is impossible. It is 
+increasingly recognized that an effective state – not a minimal one – is central to economic 
+and social development, but more as partner and facilitator than director. States should work 
+to complement markets, not replace them.
+2.	 A rich body of evidence shows the importance of good economic policies (including the pro-
+motion of macroeconomic stability), well-developed human capital, and openness to the 
+world economy for broad-based, sustainable growth and the reduction of poverty. But, as our 
+understanding of the ingredients of development improves, a deeper set of questions emerges: 
+Why have some societies pursued these actions with greater success than others, and how 
+precisely did the state contribute to these differing outcomes?
+3.	 The historical record suggests the importance of building on the relative strengths of the mar-
+ket, the state and civil society to improve the state’s effectiveness. This suggests a two-part 
+strategy of matching the role of the state to its capability, and then improving that capability.
+The World Development Report 1997 (World Bank, 1997) argues that many developing coun-
+tries are not performing their core functions properly. They are failing to protect property, to 
+ensure law and order, and to protect the vulnerable, all of which causes unrest and leads to a lack 
+of government credibility. Its survey of 69 countries shows that government credibility is highest 
+in South and Southeast Asia, and lowest in sub-Saharan Africa and the states of the former Soviet 
+Union (World Bank, 1997). Investment and growth are positively related to credibility. The report 
+says of Africa that many countries are ‘trapped in a vicious circle of declining state capability and 
+thus declining credibility in the eyes of their citizens – leading to increased crime and an absence 
+of security affecting investment and growth’ (World Bank, 1997). It refers to a ‘crisis of statehood’ 
+in Africa, and a lower ‘state capability’ than 50 years ago. In contrast, it praises the countries of 
+Southeast Asia because they have paid attention to the institutional framework for markets to 
+fulfil their various roles in allocating and augmenting resources. State credibility is particularly 
+important if developing countries are to attract private foreign investment.
+The World Bank (1997) outlines a two-pronged strategy for governments to increase their 
+credibility and the effectiveness of the state: first, governments must match the role of the state 
+to its capabilities and not try to do too much, and second, they must try to improve capabilities 
+by reinvigorating state institutions. With regard to the first prong of the strategy, the state should 
+concentrate on getting the basics right, such as safeguarding property rights and guaranteeing 
+the rule of law, rather than trying to do too much. In many countries, there is overregulation and 
+263
+9  •  T H E  R O L E  O F  T H E  S TAT E  I N  E C O N O M I C  D E V E L O P M E N T
+excessive state consumption. Governments should decide more carefully what to do and how to 
+do it. The basics should be:
+•
+• law and order
+•
+• maintaining macroeconomic stability
+•
+• investing in basic social services and infrastructure
+•
+• protecting the vulnerable
+•
+• protecting the environment.
+But the state does not have to be the sole provider of all infrastructure and social services. It 
+can contract these services out to the private sector and introduce competition into their provi-
+sion, coupled with a regulatory framework to protect consumers and workers. Neither does the 
+state have to be the monopoly supplier of public utilities such as electricity, gas and telecommuni-
+cations. These activities can be privatized with state supervision. Privatization has gathered pace 
+throughout the world in recent years. There have been thousands of divestitures of state companies 
+in developing countries and in the former communist countries of Eastern Europe. The motivation 
+has been the generally poor economic performance of state-owned companies, the large deficits of 
+public enterprises, and the promotion of competition to improve the delivery of services.
+Beyond the basics, the state may want to intervene strategically – in industrial policy, for 
+example, if it has the capability, as the successful Asian tiger economies have done. The past suc-
+cess of Hong Kong, Singapore, Taiwan and South Korea has depended on the state and the private 
+sector working in harmony with each other, with the state providing the economic and legal 
+environment for markets to flourish but with the government taking an entrepreneurial role and 
+intervening where it thought necessary. In Hong Kong, the state took a leading role in planning 
+infrastructure and providing subsidized housing to maintain social stability and to reduce the cost 
+of labour. Singapore, Taiwan and South Korea targeted financial assistance to specific industries 
+and even specific companies (with an emphasis on exports), with spectacular success.
+On the second strategy of improving the capabilities of the state and reinvigorating state insti-
+tutions, the task is to provide incentives for public officials to perform better and reduce the 
+scope for arbitrary action that could lead to poor decision-making and corruption.
+Corruption
+Corruption is a serious issue in many developing countries. An organization based in Germany 
+called Transparency International publishes a yearly Corruption Perceptions Index based on sur-
+veys of businesspeople, risk analysts and perceptions of the general public, ranked on a scale 0–10 
+(the lower the index, the more corrupt). The results for 168 countries in 2015 are shown in Table 9.1.
+Developing countries appear to be the most corrupt, although the same level of income (or 
+development) is often associated with different levels of corruption. In general, poverty breeds 
+corruption, and corruption can lead to severe inefficiencies in the functioning of economies (for 
+a comprehensive survey, see Abed and Gupta (2002).
+Daniel Kaufmann (2005) at the World Bank reckons that a country that improves its govern-
+ance from a low average level (and reduces corruption) could triple its average per capita income 
+in the long run, and effectively tackle illiteracy and infant mortality at the same time.
+The World Bank (1997) defines corruption as ‘the abuse of public office for private gain’, 
+including bribery, threats and ‘kickbacks’. These are all aspects of rent-seeking behaviour that 
+arise primarily because decisions over the allocation of resources are in the hands of politicians 
+264
+F A C T O R S  I N  T H E   
+D E V E L O P M E N T  P R O C E S S
+Rank
+Index
+Country
+76
+3.8
+Brazil
+76
+3.8
+Burkina Faso
+76
+3.8
+India
+76
+3.8
+Thailand
+76
+3.8
+Tunisia
+76
+3.8
+Zambia
+83
+3.7
+Benin
+83
+3.7
+China
+83
+3.7
+Colombia
+83
+3.7
+Liberia
+83
+3.7
+Sri Lanka
+88
+3.6
+Albania
+88
+3.6
+Algeria
+88
+3.6
+Egypt
+88
+3.6
+Indonesia
+88
+3.6
+Morocco
+88
+3.6
+Peru 
+88
+3.6
+Suriname
+95
+3.5
+Armenia
+95
+3.5
+Mali
+95
+3.5
+Mexico
+95
+3.5
+Philippines
+99
+3.4
+Bolivia
+99
+3.4
+Djibouti
+99
+3.4
+Gabon
+99
+3.4
+Niger
+103
+3.3
+Dominican Republic
+103
+3.3
+Ethiopia
+103
+3.3
+Kosovo
+103
+3.3
+Moldova
+107
+3.2
+Argentina
+107
+3.2
+Belarus
+107
+3.2
+Côte d’Ivoire
+107
+3.2
+Ecuador
+107
+3.2
+Togo
+112
+3.1
+Honduras
+112
+3.1
+Malawi
+112
+3.1
+Mauritania
+Rank
+Index
+Country
+37
+5.6
+Malta
+40
+5.5
+Cape Verde
+40
+5.5
+Costa Rica
+40
+5.5
+Latvia
+40
+5.5
+Seychelles
+44
+5.4
+Rwanda
+45
+5.3
+Jordan
+45
+5.3
+Mauritius
+45
+5.3
+Namibia
+48
+5.2
+Georgia
+48
+5.2
+Saudi Arabia
+50
+5.1
+Bahrain
+50
+5.1
+Croatia
+50
+5.1
+Hungary
+50
+5.1
+Slovakia
+54
+5.0
+Malaysia
+55
+4.9
+Kuwait 
+56
+4.7
+Cuba
+56
+4.7
+Ghana
+58
+4.6
+Greece
+58
+4.6
+Romania
+60
+4.5
+Oman
+61
+4.4
+Italy
+61
+4.4
+Lesotho
+61
+4.4
+Montenegro
+61
+4.4
+Senegal
+61
+4.4
+South Africa
+66
+4.2
+São Tomé and Principe
+66
+4.2
+The FYR of Macedonia
+66
+4.2
+Turkey
+69
+4.1
+Bulgaria
+69
+4.1
+Jamaica
+71
+4.0
+Serbia
+72
+3.9
+El Salvador
+72
+3.9
+Mongolia
+72
+3.9
+Panama
+72
+3.9
+Trinidad and Tobago
+76
+3.8
+Bosnia and Herzegovina
+Rank
+Index
+Country
+1
+9.1
+Denmark
+2
+9.0
+Finland
+3
+8.9
+Sweden
+4
+8.8
+New Zealand
+5
+8.7
+Netherlands
+5
+8.7
+Norway
+7
+8.6
+Switzerland
+8
+8.5
+Singapore
+9
+8.3
+Canada
+10
+8.1
+Germany
+10
+8.1
+Luxembourg
+10
+8.1
+United Kingdom
+13
+7.9
+Australia
+13
+7.9
+Iceland
+15
+7.7
+Belgium
+16
+7.6
+Austria
+16
+7.6
+United States of 
+America
+18
+7.5
+Hong Kong
+18
+7.5
+Ireland
+18
+7.5
+Japan
+21
+7.4
+Uruguay
+22
+7.1
+Qatar
+23
+7.0
+Chile
+23
+7.0
+Estonia
+23
+7.0
+France
+23
+7.0
+United Arab Emirates
+27
+6.5
+Bhutan
+28
+6.3
+Botswana
+28
+6.3
+Portugal
+30
+6.2
+Poland
+30
+6.2
+Taiwan
+32
+6.1
+Cyprus
+32
+6.1
+Israel
+32
+6.1
+Lithuania
+35
+6.0
+Slovenia
+36
+5.8
+Spain
+37
+5.6
+Czech Republic
+37
+5.6
+South Korea
+Table 9.1 Transparency International’s Corruption Perceptions Index, 2015
+265
+9  •  T H E  R O L E  O F  T H E  S TAT E  I N  E C O N O M I C  D E V E L O P M E N T
+Source: Transparency International, 2015.
+and government oﬃcials. The existence of licences, permits, regulations, subsidies and, of course, 
+taxes all oﬀer scope for corruption. Corruption not only leads to ineﬃciency – particularly the 
+discouragement of investment – but can undermine the legitimacy of government itself. Where 
+corruption is endemic, policy-making in other areas is less eﬀective and it makes it more diﬃcult 
+for governments to enforce laws in areas such as taxation or control of environmental damage 
+(see Elliott (1997), Tanzi (1998) and Bardhan (1997) for case studies on corruption).
+The International Monetary Fund (IMF) now speciﬁes anti-corruption measures as one of the 
+conditions for loan support. For example, the IMF recently got tough with the Kenyan govern-
+ment, insisting ﬁrst on a ‘wealth declaration law’ that all government ministers and senior civil 
+servants declare the full range of their assets and liabilities every year, and, second, on a weekly 
+inspection by IMF oﬃcials in Washington of the Central Bank of Kenya’s balance sheet to prevent 
+foreign aid being used for private gain.
+Removing unnecessary regulations and bureaucracy, increasing transparency, and paying oﬃ-
+cials higher salaries reduce the scope for corruption, but vested interests involved in corruption 
+make the reform process more diﬃcult. The World Development Report 1997 (World Bank, 1997) 
+outlines three essential ingredients for improving the capabilities of the state (and rooting out 
+corruption):
+1. There must be eﬀective rules and restraints to check public authority and prevent corruption. 
+Independence of the judiciary is important, and an independent commission against corrup-
+tion would be helpful.
+Rank
+Index
+Country
+150
+2.1
+Cambodia
+150
+2.1
+Zimbabwe
+153
+1.9
+Uzbekistan
+154
+1.8
+Eritrea
+154
+1.8
+Syria
+154
+1.8
+Turkmenistan
+154
+1.8
+Yemen
+158
+1.7
+Haiti
+158
+1.7
+Guinea-Bissau
+158
+1.7
+Venezuela
+161
+1.6
+Iraq
+161
+1.6
+Libya
+163
+1.5
+Angola 
+163
+1.5
+South Sudan
+165
+1.2
+Sudan
+166
+1.1
+Afghanistan 
+167
+0.8
+North Korea
+167
+0.8
+Somalia
+Rank
+Index
+Country
+130
+2.7
+Nicaragua
+130
+2.7
+Paraguay
+130
+2.7
+Ukraine
+136
+2.6
+Comoros
+136
+2.6
+Nigeria
+136
+2.6
+Tajikistan
+139
+2.5
+Bangladesh
+139
+2.5
+Guinea
+139
+2.5
+Kenya
+139
+2.5
+Laos
+139
+2.5
+Papua New Guinea
+139
+2.5
+Uganda
+145
+2.4
+Central African 
+Republic
+146
+2.3
+Congo Republic
+147
+2.2
+Chad
+147
+2.2
+Democratic Republic 
+of the Congo
+147
+2.2
+Myanmar
+150
+2.1
+Burundi
+Rank
+Index
+Country
+112
+3.1
+Mozambique
+112
+3.1
+Vietnam
+117
+3.0
+Pakistan
+117
+3.0
+Tanzania
+119
+2.9
+Azerbaijan
+119
+2.9
+Guyana
+119
+2.9
+Russia
+119
+2.9
+Sierra Leone
+123
+2.8
+Gambia
+123
+2.8
+Guatemala
+123
+2.8
+Kazakhstan
+123
+2.8
+Kyrgyzstan
+123
+2.8
+Lebanon 
+123
+2.8
+Madagascar
+123
+2.8
+Timor-Leste
+130
+2.7
+Cameroon 
+130
+2.7
+Iran
+130
+2.7
+Nepal
+Table 9.1 Transparency International’s Corruption Perceptions Index, 2015 – continued
+266
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+2.	 Public officials should be appointed on merit, not on the basis of political patronage, and can 
+be encouraged to perform effectively through a merit-based promotion system and adequate 
+remuneration. Opening up competition in employment in the delivery of services is necessary 
+to reduce the discretionary power of state officials to minimize rent-seeking behaviour, which 
+is the basis of bribery and corruption.
+3.	 Decision-making needs to be brought closer to the people so that they have more confidence 
+in the state. All government programmes are likely to work better if there is democracy, if 
+power is devolved, and if users are consulted.
+Figure 9.2 shows the functions of the state in tabular form, distinguishing between the roles of 
+addressing market failure and improving equity on the one hand, and the provision of minimal 
+functions through to activist functions on the other, according to capability.
+Countries with a low state capability should concentrate first on basic functions, such as the 
+provision of pure public goods, macroeconomic stability and anti-poverty programmes. Going 
+beyond these basic services are intermediate functions, such as the management of externalities, 
+regulating monopoly, improving information and providing social insurance. Finally, states with a 
+strong capability can take on more active functions, as mentioned above in the case of the Asian 
+tigers, particularly promoting new markets through active industrial and financial policy.
+The state also has a duty to reduce bureaucracy and regulation to allow markets to flour-
+ish. According to a World Bank (2004) study of laws and regulations in 133 countries, the 
+costs in time, effort and money in setting up businesses in developing countries are colossal 
+compared with developed countries because of bureaucratic delays and institutional ineffi-
+ciencies. In Indonesia, it takes 168 days to set up a business and 152 days in Brazil, but it takes 
+only 2 days in New Zealand. In some developing countries, the average bureaucratic cost of 
+setting up a business can be four times the average income per head; in developed countries 
+it is as little as 1% of average income per head. The consequences of poor and inappropriate 
+regulations are that business is discouraged; a higher proportion of businesses operates out-
+side the law, so the tax base is lower and corruption is more widespread. It is estimated that 
+excessive regulations, inadequate enforcement of contracts, corruption and crime reduce the 
+sales of firms by at least 25%.
+Figure 9.2  Functions of the state
+Source: World Bank, 1997.
+Minimal
+functions
+Intermediate
+functions
+Addressing
+externalities:
+Basic education
+Environmental
+protection
+Regulating
+monopoly:
+Utility regulation
+Antitrust policy
+Improving equity
+Addressing market failure
+Defence
+Law and order
+Property rights
+Macroeconomic management
+Public health
+Overcoming imperfect
+information:
+Insurance (health, life, pensions)
+Financial regulation
+Consumer protection
+Providing
+social insurance:
+Protecting the 
+Providing pure public goods:
+poor:
+Redistributive pensions
+Family allowances
+Unemployment insurance
+Antipoverty programmes
+Disaster relief
+Redistribution:
+Asset redistribution
+Coordinating private activity:
+Activist
+functions
+Fostering markets
+Cluster initiatives
+267
+9  •  T H E  R O L E  O F  T H E  S TAT E  I N  E C O N O M I C  D E V E L O P M E N T
+Failed states, conflict and violence
+There are some 40–50 countries in the world, many in Africa, that hardly function at all, politic 
+ally or economically, because their institutions and the rule of law have broken down. These are 
+failed states, or what Paul Collier (2007) has coined fragile states caught in a conflict trap and 
+prone to violence. Examples in recent years would be countries such as Somalia, Democratic 
+Republic of Congo, Afghanistan, Yemen, Sudan, Zimbabwe, Sierra Leone, Rwanda, Guinea, Chad, 
+Haiti and many others. Within such countries, people are disenfranchised and trapped in poverty 
+at the mercy of vicious networks of criminality, violence and drugs. In these countries, the state 
+has effectively collapsed, the government has lost control and is unable to provide even the most 
+basic services and protection for its people. Moreover, conflict and violence can spread from one 
+failed state to another – witness the contagion of failed states that we see in the Middle East 
+today. Failed states contain approximately 1.5 billion people or 20% of the world’s population. 
+They account for 30% of people living on less than $1.90 a day, and poverty rates in these coun-
+tries are over 20% higher than in other low-income countries
+A major cause and characteristic of failed states is civil war, violence and the breakdown of secu-
+rity. The World Bank’s World Development Report 2011 (World Bank, 2011) was subtitled Conflict, 
+Security and Development, and Paul Collier, one of the world’s experts on failed states, addresses 
+some of these issues in his book, Wars, Guns and Votes (2009). Thirty-nine countries have expe-
+rienced civil wars since the year 2000, and the cost is huge. The World Bank estimates that civil 
+ 
+conflict costs the average developing country approximately 30 years of growth of GDP. The total 
+cost of Sri Lanka’s civil war between 1983 and 1996 was about $4 billion or twice the size of its GDP 
+in 1996. Civil conflict not only affects GDP directly but also indirectly by reducing investment, 
+raising inflation, and reducing government revenues and expenditures in fields such as education, 
+health and other productive activities. At the same time, infrastructure is destroyed, human cap­
+ital is lost, and tourism and trade can be badly affected, thus reducing foreign exchange earnings. 
+Gupta et al. (2002) document these effects, taking 20 conflict-affected countries over the period 
+1985–99. They look at variables three years before conflict started and three years after conflict, 
+and also test the effect of conflict in a wider study of 45 countries (including countries not affected 
+by conflict) using an index of conflict and terrorism compiled by International Country Risk 
+Guide, and a separate index of conflict compiled by the Stockholm International Peace Research 
+Institute. They estimate strong significant adverse impacts on GDP growth, inflation and tax rev-
+enues, with the prospect of a substantial peace dividend once the conflict ends and security is 
+restored. Collier (2007) reckons that ‘civil wars tend to reduce growth by 2.3 percent per year, so 
+the typical seven-year war leaves a country around 15 percent poorer than it would have been’.
+The World Bank (2011) writes: ‘the central aspect of conflict and failed states is absence of 
+legitimate institutions that provide citizens with security, justice and jobs’. The lessons of experi-
+ence that it draws are:
+1.	 To make the reform of security and justice systems a priority.
+2.	 To build inclusive institutions (see Chapter 8).
+3.	 To try to deliver early results.
+4.	 To recognize that the process of state-building can be a long one with interruptions on the way.
+But reforms must be made. These would include security, recognizing the connection between 
+the police and justice, supporting bottom-up links between the state and civil society, tackling 
+corruption, creating jobs particularly for young men who often form the core of disaffected 
+groups, and social improvements to give people hope.
+268
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Ghani and Lockhart (2008), in their powerful book, Fixing Failed States, outline ten key func-
+tions that the state should perform if its citizens are to survive and thrive, avoiding conflict:
+•
+• To make laws, and to enforce the rule of law, to allow all sections of society to live in harmony.
+•
+• The control of violence.
+•
+• The appointment of uncorrupt administrators to oversee public bodies.
+•
+• The sound management of public finances.
+•
+• Investment in human capital.
+•
+• The creation of citizenship rights through social policy to ensure equal opportunities for all.
+•
+• The provision of infrastructure services.
+•
+• The creation and expansion of markets.
+•
+• The management of public assets, such as land, water rights and other ‘natural’ capital.
+•
+• Effective public borrowing.
+If all these functions are performed well, a virtuous circle of growth and development is possible. 
+If some of the functions are performed badly, a vicious circle can start, ultimately ending in the 
+failure of the state and any prospect of sustained economic and social development. As the World 
+Bank (2011) says: ‘low incomes, poverty, unemployment, income shocks, rapid urbanization, and 
+inequality between groups all increase the risks of violence’. Violence is as important a factor as 
+civil conflict in keeping countries poor. The World Bank has set up the Low-Income Countries 
+Under Stress fund to help failed states, while the UK government’s intention is to spend one-half 
+of its bilateral aid budget on 20 or more countries, mainly in Africa, where the state has virtually 
+collapsed (see Case example 9.1 on Rwanda).
+Development plans
+In its World Development Report 1997, the World Bank (1997) does not address the role of devel-
+opment planning, but almost all developing countries, whatever their political ideology, publish 
+development plans.2 A development plan is an ideal way for a government to set out its devel-
+opment objectives and demonstrate initiative in tackling the country’s development problems. 
+ 
+A development plan can serve to stimulate effort throughout the country, and also act as a cata-
+lyst for foreign investment and loans from international institutions.
+Case example 9.1
+Rwanda on the road to recovery
+At the end of 1994, almost a million Rwandans were dead and nearly three mil-
+lion were refugees, following years of decline and conflict capped by a cataclysmic 
+geno­
+cide. The UK was the first country to provide direct support to Rwanda to 
+help rebuild state institutions, national infrastructure and people’s lives. As a re-
+sult, schools and hospitals have been rebuilt, equal numbers of boys and girls are at 
+school, and an effective tax system provides revenue for a growing national budget. 
+Land ownership – an issue that helped fuel the genocide – is being addressed 
+through practical reforms. Democracy has been boosted by a strengthened elect­
+oral system. Rwanda is the first country in the world with a predominantly female 
+parliament. Rwanda has a long way to go but it is rapidly leaving behind the status 
+of ‘fragile state’.
+Source: Compiled from https://www.gov.uk/government/organisations/department-for-inter-
+national-development.
+269
+9  •  T H E  R O L E  O F  T H E  S TAT E  I N  E C O N O M I C  D E V E L O P M E N T
+As an example, the Tongan 6th Development Plan (1991–95) stated that:
+The ultimate aim of government policy is to induce improvements in the standard of living of 
+Tongans in an equitable manner with a view to protecting natural resources and preserving 
+cultural assets – Government policy will also pursue an equitable distribution of public invest-
+ment and services between rural and urban areas, and between the capital [city], islands and 
+outer regions.
+Four economic and social objectives were set out:
+1.	 To achieve sustainable economic growth conducive to higher per capita income.
+2.	 To achieve a more equitable distribution of income.
+3.	 To generate more employment opportunities.
+4.	 To restore and control external financial imbalances.
+Depending on the politics of a country and its available expertise, a development plan will vary 
+in its ambitiousness from a mere statement of aims to detailed calculations (and proposals for 
+action) of the resources needed, and the amount of output that each sector of the economy must 
+generate, in order to achieve a stipulated target rate of growth of output or per capita income. 
+Anything more than a statement of aims inevitably involves some form of model-building, if only 
+to delineate the relationship between sectors of the economy and between the key variables in 
+the growth process.
+Four basic types of model are typically used in development planning:
+1.	 Macro- or aggregate models of the economy, which may either be of the simple Harrod–
+Domar type (see Chapter 4) or of a more econometric nature, consisting of a series of equa-
+tions that represent the basic structural relations in an economy between, say, factor inputs 
+and product outputs, saving and income, imports and expenditure and so on.
+2.	 Sector models, which isolate the major sectors of an economy and give the structural relations 
+within each sector, and also specify the interrelationships between sectors, for example be-
+tween agriculture and industry, between capital and consumer goods industries, and between 
+the government and the rest of the economy.
+3.	 Interindustry models, which show the transactions and interrelationships between producing 
+sectors of an economy, normally in the form of an input–output table.
+4.	 Models and techniques for project appraisal to decide on the allocation of resources between 
+activities (see this textbook’s website, www.palgravehighered.com/Thirlwall-Econ-Of-Dev-10e).
+Models such as these serve a twofold purpose. First, they enable planners to reach decisions on 
+how to achieve specified goals. They highlight the strategic choices open to the policy-maker in the 
+knowledge that not all desirable goals are achievable simultaneously. Only with an understand-
+ing of the interrelationship between the different parts of the economy, and a knowledge of the 
+parameters of the economic system, is it possible for meaningful and consistent policy decisions 
+to be reached. Without detailed information on which to base planning (or what has been called 
+‘planning without facts’), the case for decentralized decision-making becomes overwhelming.
+Second, models of the type described above can perform an equally valuable function of 
+en­
+abling the future to be projected with a greater degree of certainty than would otherwise be 
+possible, thereby providing some knowledge of what resources are likely to be available in relation 
+to requirements within a stipulated planning period. Various types of model may be classified, 
+therefore, according to whether they are required for policy or decision purposes or for projection 
+270
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+and forecasting. The necessary constituents of a plan containing both types of model are a state-
+ment of economic goals, a specification of policy instruments, an estimation of structural rela-
+tionships, historical data, the recognition of exogenous variables, and, last but not least, a set of 
+national accounts for national income and expenditure, foreign trade and even manpower to 
+ensure consistency between demand and the supply of resources available.
+The allocation of resources: the broad policy choices
+Given the scarcity of resources in developing countries in relation to development needs, one 
+of the central issues in development economics is the allocation of resources among competing 
+ends. For most developing countries, the two major constraints on the growth of output are the 
+ability to invest and the ability to import, and most theories of resource allocation and most pub-
+lic investment criteria reflect this fact. A common starting point in the consideration of resource 
+allocation is how to maximize the level or growth of output with the domestic resources available, 
+and how to minimize the use of foreign exchange.
+Apart from the decision of how much to invest, three broad types of allocation decision may 
+be distinguished:
+1.	 Which sectors to invest in.
+2.	 Which projects should receive priority, given the factor endowments of a country and its de-
+velopment goals.
+3.	 Which combination of factors of production should be used to produce a given vector of 
+goods and services, which will determine the technology of production.
+While these decisions may look independent, in fact they are not. In practice, interdependence 
+between decisions on output and decisions on technology is inevitable. Deciding which goods to 
+produce will, to a certain extent, dictate factor proportions if technical coefficients are relatively 
+fixed, and decisions about technology will influence the types of goods and services that are pro-
+duced, insofar as factor proportions cannot be varied. Some goods and services are obviously 
+more labour-intensive than others. The choice of technology will, in turn, be particularly influ-
+enced by factor endowments and the price of factors of production, and by the relative valuation 
+given to present versus future consumption and welfare.
+Because of the interdependence between the choice of goods and the choice of technology, a 
+country that decides to use relatively labour-intensive techniques within the framework of goods 
+chosen may nonetheless have a greater capital intensity than another country using relatively 
+capital-intensive techniques with a different mix of goods. When discussing resource allocation 
+and the choice of techniques, a distinction needs to be made between investment criteria that 
+relate to the pattern of output on the one hand, and the choice of technology to produce the 
+given vector of outputs on the other.
+Investment decisions of the micro-type outlined above will also be influenced to a certain 
+degree by the nature of the development strategy intended – that is, by broader policy issues, 
+such as whether emphasis is to be given to agriculture or industry, whether resources are to be 
+used to build up complementary activities, or whether imbalances are to be deliberately cre-
+ated in order to induce investment and influence decision-making, and whether emphasis is to 
+be on static short-term efficiency in the allocation of resources or on laying the foundations for 
+faster growth in the future. And, in an open economy, the potential clash between efficiency and 
+growth also requires a consideration of the implications of adherence to different versions of the 
+271
+9  •  T H E  R O L E  O F  T H E  S TAT E  I N  E C O N O M I C  D E V E L O P M E N T
+comparative cost doctrine. In short, the question of resource allocation between projects cannot 
+be divorced from consideration of the wider policy issues of industry versus agriculture, balanced 
+versus unbalanced growth, foreign trade strategy and so on. And influencing all these decisions 
+will be the underlying objectives of the development strategy: whether the aim is to maximize 
+current welfare or to maximize consumption at some future point in time.
+The choice of development strategy itself will be subject to political, social and economic con-
+straints. A particular strategy, for example, may conflict with the desired income distribution or 
+other social objectives. Other strategies may involve political repercussions inimical to develop-
+ment. One factor that cannot be ignored is the regional distribution of political power. Spatial 
+considerations of this sort add a further dimension to the allocation problem. The pursuit of bal-
+anced growth or massive investment in social overhead capital may imply a large public sector in 
+the economy, which may not be politically possible. Certain development plans may antagonize 
+foreign investors or multilateral aid-giving agencies, such that if the plans are carried out, foreign 
+capital or ‘agency’ capital dries up. Bearing in mind these constraints, let us first consider some of 
+the broader aspects of development strategy and briefly discuss development goals, before exam-
+ining a number of specific investment criteria that have been recommended for determining the 
+allocation of resources and the pattern of output.
+Industry versus agriculture
+The issue of the choice between industry and agriculture, and where the emphasis should lie, can 
+be discussed very quickly because, as we saw in Chapter 5, the two sectors are very much comple-
+mentary to each other. In practice, the fortunes of agriculture and industry are closely interwoven, 
+in that the expansion of industry depends to a large extent on improvements in agricultural prod­
+uctivity, and improvements in agricultural productivity depend on adequate supplies of industrial 
+‘inputs’, including the provision of consumer goods acting as incentives to peasant farmers to 
+increase the agricultural surplus. It is worth mentioning, however, that the emphasis on balance 
+between industry and agriculture is of fairly recent origin. On the one hand, it represents a shift 
+of emphasis away from the ‘modern’ view of an all-out drive for industrialization by develop-
+ing countries, and on the other hand, it represents a reaction against the traditional doctrine of 
+comparative cost advantage, which, when applied to many developing countries, may lead to the 
+production of primary commodities and a pattern of trade that puts these countries at a relative 
+development disadvantage (see Chapter 15).
+The comparative cost doctrine
+Whether the static comparative cost doctrine should be adhered to is itself a question of devel-
+opment strategy, which is closely bound up with the goals of developing countries (that is, what 
+they are trying to maximize), and with the controversy over whether trade should be looked at 
+more from the point of view of the balance of payments than from that of the allocation of real 
+resources. Assuming the full employment of resources, and that the price of a commodity reflects 
+its opportunity cost (admittedly bold assumptions in any country), adherence to the compara-
+tive cost doctrine will produce the optimum pattern of production and trade for a country (see 
+Chapter 15). Efficiency will be maximized when no commodity is produced that could be imported 
+at a lower cost, measured by the resources that would have to be sacrificed to produce it at home. 
+272
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+In a free trade world, this would rule out the production of a wide range of industrial commodities 
+in developing countries.
+If the objective is faster economic growth, however, as opposed to static efficiency, the theory 
+of growth suggests investment criteria that are quite different from those derived from the theory 
+of comparative advantage. If growth depends on increases in investment, for example, it may not 
+be wise to channel resources into activities that are too labour-intensive, where the income gener-
+ated is all consumed and none is saved, or where there is no scope for increasing returns. Similarly, 
+if growth is constrained by the balance of payments, it may be equally unwise to develop activities 
+that produce goods with a low price and income elasticity of demand in world markets, such as 
+primary commodities. A low price elasticity of demand can cause fluctuations in export earnings 
+with shifts in supply, and cause the terms of trade to move adversely. A low income elasticity of 
+demand will mean that, for any given growth of world income, countries producing these com-
+modities will be put at a permanent balance of payments disadvantage compared with other 
+countries producing goods with a higher income elasticity of demand (see Chapters 15 and 16).
+The question ultimately boils down to one of the relative valuation of present versus future 
+output and consumption (or welfare) – between consumption today and consumption tomor-
+row. Efficiency in resource allocation will maximize present output and consumption from a given 
+amount of resources, but may impair growth and future consumption. Focusing on growth may 
+lower present welfare but provide greater output and welfare in the future.
+Present versus future consumption
+The choice between present and future consumption is the same as the choice between con-
+sumption and investment in the present. How much investment should be undertaken in the pre-
+sent depends on the time interval over which society wants to maximize consumption and what 
+value it places on consumption in the future compared with consumption in the present – that is, 
+on the rate at which it discounts future consumption gains. Time affects both the accumulation 
+of consumption gains and the effect that discounting has. Investment should take place so as to 
+maximize consumption over the planning period. The investment ratio that maximizes consump-
+tion will vary according to the planning period, with and without discounting.
+Let us illustrate this with a numerical example. Consider three different investment ratios – 0%, 
+10% and 50% of national income – and three different planning periods – three years, six years 
+and ten years. Further assume that the capital–output ratio is 2, and that, for simplicity, there is 
+no depreciation and no discounting. Let the initial capital stock equal 200, producing 100 units of 
+output. The time paths of output, consumption, investment and the capital stock for the three 
+different investment strategies and three different planning horizons can now be shown, as in 
+Table 9.2. Over the three-year planning period, the first policy of no investment maximizes con-
+sumption. Over the six-year planning period, the second policy of a 10% investment ratio maxi-
+mizes consumption, and over the ten-year planning period, the third policy of a 50% investment 
+ratio maximizes consumption.
+The calculations in Table 9.2, and the conclusions drawn from them about the time period 
+over which consumption will be maximized, will be affected by discounting and the discount rate 
+chosen, because the present value of future consumption gains becomes less and less the further 
+into the future they accrue, and their value is also lower the higher the discount rate chosen. What 
+we illustrate, then, is that the answer to the question of how much to invest depends crucially on 
+the planning horizon taken and the discount rate chosen. The longer the planning horizon and the 
+273
+9  •  T H E  R O L E  O F  T H E  S TAT E  I N  E C O N O M I C  D E V E L O P M E N T
+less the stream of future consumption benefits is discounted, the more investment there should 
+be in the present. The shorter the planning horizon and the higher the discount rate, the less 
+investment there will be.
+We also illustrate that countries with low initial stocks of capital and low levels of consumption 
+must invest heavily if high future living standards are to be attained. But to invest heavily, coun-
+tries must take long planning horizons. One of the arguments for planning is, in fact, to lengthen 
+the planning horizon beyond that chosen by individuals maximizing privately. Any finite planning 
+horizon, however, only takes care of the people living within the planning period. To take account 
+of generations living beyond the horizon, certain constraints must be built into the investment 
+model such that, for example, the level of consumption at the end of the period should not be 
+above a specified level, otherwise maximization of consumption within the horizon would mean 
+consuming all income at the end of the horizon, leaving no saving for future investment and 
+consumption.
+Choice of techniques
+In a planning framework, the valuation of present versus future welfare is also the central issue 
+regarding the choice of technology – whether techniques should be capital- or labour-intensive. 
+At first sight, it would seem sensible, in a labour-abundant economy, to use labour-intensive tech-
+niques of production, and to encourage activities that use factors of production that are in abun-
+dance. Doing so, however, may lead to a conflict between efficiency and growth; a clash between 
+the maximization of present consumption and the level of consumption in the future. The problem 
+is that if the wage rate is given, and invariant with respect to the technique of production, the more 
+labour-intensive the technique, the less saving that is likely to be generated for future reinvestment. 
+Specifically, if workers’ propensity to consume is higher than that of the owners of capital, the total 
+surplus, and the surplus per unit of capital invested, left for reinvestment, will be smaller than if 
+the technology were more capital-intensive. On the other hand, the more capital-intensive the 
+Table 9.2  Consumption benefits with different investment ratios over different planning horizons
+Time
+Policy 1, no investment
+Policy 2, 10% investment
+Policy 3, 50% investment
+K
+Y
+I
+C
+K
+Y
+I
+C
+K
+Y
+I
+C
+1
+200
+100
+0
+  00
+200.00
+100.00
+10.00
+90.00
+  200.00
+100.00
+  50.00
+  50.00
+2
+200
+100
+0
+100
+210.00
+105.00
+10.50
+94.50
+  250.00
+125.00
+  62.50
+  62.50
+3
+200
+100
+0
+100
+220.50
+110.25
+11.03
+99.22
+  312.50
+156.25
+  78.12
+  78.12
+4
+200
+100
+0
+100
+231.53
+115.76
+11.57
+104.19
+  390.62
+195.31
+  97.65
+  97.65
+5
+200
+100
+0
+100
+243.10
+121.55
+12.15
+109.40
+  488.27
+244.13
+122.07
+122.07
+6
+200
+100
+0
+100
+255.25
+127.62
+12.76
+114.86
+  610.34
+305.17
+152.58
+152.58
+7
+200
+100
+0
+100
+268.01
+134.00
+13.40
+120.60
+  762.92
+381.46
+190.73
+190.73
+8
+200
+100
+0
+100
+281.41
+140.70
+14.07
+126.61
+  953.65
+476.82
+238.41
+238.41
+9
+200
+100
+0
+100
+295.48
+147.74
+14.77
+132.97
+1192.06
+596.03
+298.01
+298.01
+10
+200
+100
+0
+100
+310.25
+155.12
+15.51
+139.61
+1490.07
+745.03
+372.51
+372.51
+Key: K = capital stock; Y = output; I = the level of investment; C = consumption.
+274
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+technology, the lower the level of consumption and employment in the present.3 In general, we 
+reach the conclusion that the higher the valuation placed on raising the present level of employ-
+ment and consumption as compared with future output, the more that labour-intensive techniques 
+should be favoured. At the same time, the greater the valuation placed on future output in relation 
+to present welfare, the more that capital-intensive methods of production should be favoured.
+There is not only a potential conflict between employment and saving in the choice of tech-
+niques, but also a conflict between employment and output. The conflict arises not in the util­
+ization of existing equipment but in the choice of new techniques. Labour-intensive techniques 
+of production may have higher capital–output ratios than more capital-intensive techniques. A 
+simple example will illustrate the point. Assume a fixed amount of capital to be invested of £1,000. 
+One technique of production could employ 100 units of labour with £1,000 of capital, but the 
+capital–output ratio is 5. This would give a flow of output of 200 with the employment of 100 per-
+sons. A second technique of production employs 50 units of labour but has a capital–output ratio 
+of 4. This would give a flow of output of 250 with the employment of 50 persons. Thus, maximizing 
+both the current level of employment and output are consistent only if the more labour-intensive 
+techniques also have the lowest capital–output ratios. These issues are discussed fully in Chapter 6.
+Balanced versus unbalanced growth
+Another broad choice of development strategy is between so-called ‘balanced and unbalanced 
+growth’. The term ‘balanced growth’ is used in many different senses, but the original exponents 
+of the balanced growth doctrine had in mind the scale of investment necessary to overcome indi-
+visibilities on both the supply and demand side of the development process (see, e.g., Rosenstein-
+Rodan, 1943; Nurkse, 1953). Indivisibilities on the supply side refer to the ‘lumpiness’ of capital 
+(especially social overhead capital), and the fact that only investment in a large number of activ­
+ities simultaneously can take advantage of various external economies of scale. Indivisibilities on 
+the demand side refer to the limitations imposed by the size of the market on the profitability, 
+and hence feasibility, of economic activities. This was the original interpretation of the doctrine 
+of balanced growth: that the large-scale expansion of activities or big push was necessary to over-
+come divergences between the private and social returns to investment. The doctrine was later 
+extended, however, to refer to the path of economic development and the pattern of investment 
+necessary to keep the different sectors of the economy in balance, so that lack of development in 
+one sector does not impede development in others; for example, the necessity to strike a balance 
+between sectors such as agriculture and industry, between the capital goods and consumer goods 
+industries, and between social capital and directly productive activities (see also Lewis, 1955).
+On the demand side, the argument is akin to Adam Smith’s famous dictum that specialization, 
+or the division of labour, is limited by the extent of the market, and that if the market is limited, 
+certain activities may not be economically viable (see Chapter 4). If, however, several activities are 
+established simultaneously, each could provide a market for the other’s products, so that activities 
+that are not profitable when considered in isolation would become profitable when considered in 
+the context of a large-scale development programme.
+On the supply side, the argument for a ‘big push’ is related to the existence of external econ­
+omies of scale, whereby the production function of one activity may be favourably altered by the 
+existence of other activities (e.g. those in close proximity), so that the social return of an activity 
+will exceed the private return. The way to eliminate this divergence is to make each activity part of 
+an overall programme of investment expansion. Enterprises that are not, or do not appear to be, 
+275
+9  •  T H E  R O L E  O F  T H E  S TAT E  I N  E C O N O M I C  D E V E L O P M E N T
+profitable in isolation become profitable when considered as part of an overall plan for industrial 
+expansion embracing several activities.
+A major criticism of the balanced growth doctrine, however, is that it fails to come to grips with 
+one of the fundamental obstacles to development in developing countries, namely a shortage of 
+resources of all kinds. Critics of balanced growth do not deny the importance of a large-scale invest-
+ment programme and the expansion of complementary activities. Their argument is that in the 
+absence of sufficient resources, especially capital, entrepreneurs and decision-makers, the striving for 
+balanced growth may not provide sufficient stimulus to the spontaneous mobilization of resources or 
+the inducement to invest, and will certainly not economize on decision-taking if planning is required.
+One of the most provocative books ever written on development strategy is that by Hirschman 
+(1958), whose argument is along the above lines. Hirschman was then the foremost exponent of 
+the doctrine of unbalanced growth, and we must briefly consider his views as these are still rele­
+vant today. The question he attempts to answer is this: Given a limited amount of investment 
+resources and a series of proposed investment projects whose total cost exceeds the available 
+resources, how do we pick out the projects that will make the greatest contribution to develop-
+ment relative to their cost? And how should ‘contribution’ be measured?
+Hirschman (1958) distinguishes two types of investment choices – substitution choices and 
+postponement choices. Substitution choices are those that involve a decision as to whether pro-
+ject A or B should be undertaken. Postponement choices are those that involve a decision as to 
+the sequence of projects A and B – that is, which should precede the other. Hirschman is mainly 
+concerned with postponement choices and how they are made. His fundamental thesis is that the 
+question of priority must be resolved on the basis of a comparative appraisal of the strength with 
+which progress in one area will induce progress in another. The efficient sequence of projects will 
+necessarily vary from region to region and from country to country, depending on the nature of 
+the obstacles to development, but the basic case for the approach remains the same – that is, to 
+economize on decision-making. In Hirschman’s view, the real scarcity in developing countries is 
+not the resources themselves but the means and ability to bring them into play. Preference should 
+be given to that sequence of projects that maximizes induced decision-making.
+Hirschman (1958) illustrates his argument by considering the relation between social capital (SC) 
+and directly productive activities (DPA). The case in which SC precedes DPA he calls ‘development 
+via excess capacity’, and the case in which DPA precedes SC he labels ‘development via shortages’. 
+Albert Hirschman
+Born 1915, Berlin, Germany. Died 2012. Appointed Professor of Social 
+Science, Institute for Advanced Study, Princeton, in 1974. Best known for 
+his book Strategy of Economic Development (1958), which challenges the 
+conventional view that developing countries should strive for balanced 
+growth. Imbalances create incentives and economize on the decision-
+making process. Governments should deliberately target activities with 
+high backward and forward linkages. Also an expert on Latin American 
+economies and economic history, with such books as Journeys Towards 
+Progress: Studies of Economic Policy-Making in Latin America (1963) and A 
+Basis for Hope: Essays on Development and Latin America (1971).
+276
+F A C T O R S  I N  T H E   
+D E V E L O P M E N T  P R O C E S S
+Both sequences create inducements and pressures conducive to development; the question is: Which 
+sequence should be adopted (if it is not possible to pursue a ‘balanced’ growth path) to produce DPA 
+output at minimum cost in terms of inputs into both DPA and SC? The question can be made clearer 
+with the aid of a diagram (see Figure 9.3).
+If the total cost of DPA output is measured on the vertical axis, and the availability and cost of 
+SC is measured on the horizontal axis, curves can be drawn (a, b, c) showing the cost of producing 
+a given full capacity output of DPA from a given amount of investment in DPA, as a function of 
+the availability of SC. The successive curves, a, b, c, represent diﬀerent levels of DPA output from 
+successively higher investment in DPA. The curves are negatively sloped and convex to the origin 
+because DPA costs will decrease the greater the availability of social capital, but there is a min-
+curve a), and as SC increases, its impact on the cost of DPA output becomes less and less.
+Now assume that the objective of the economy is to obtain increasing outputs of DPA with the 
+minimum use of resources devoted to both DPA and SC. On each curve, a, b, c, the point where 
+the sum of the coordinates is smallest will represent the most desirable combination of DPA and 
+SC on this criterion. The line 0X connects the optimal points on the diﬀerent curves and this 
+represents the most ‘eﬃcient’ expansion path, or ‘balanced’ growth path, between SC and DPA.
+But suppose that ‘optimal’ amounts of SC and DPA cannot be expanded simultaneously to 
+keep in balance with one another. On what criteria is that postponement choice made? One pos-
+sibility is the sequence AA1BB2C, where the initial expansionary step is always taken by social capi-
+tal. This sequence is called ‘development via excess capacity’. The other (opposite) possibility is 
+the sequence AB1BC1C, where the initial expansionary step is taken by DPA. This sequence is called 
+‘development via shortages’. According to Hirschman, the preference should go to the sequence of 
+expansion that maximizes ‘induced decision-making’. It is diﬃcult to tell a priori which sequence 
+this is likely to be. If SC is expanded, existing DPA becomes less costly, encouraging further DPA. 
+If DPA is expanded ﬁrst, costs will rise but pressures will arise for SC facilities to be provided. Both 
+sequences set up incentives and pressures and, ultimately, in Hirschman’s view, the sequence cho-
+sen must depend on the relative strength of entrepreneurial motivations on the one hand, and 
+on the response to public pressure of the authorities responsible for social capital on the other.
+Hirschman applies the same criterion of ‘induced decision-making’ to the choice and sequence 
+of projects within the directly productive sector. Here, inducements stem from interdependen-
+cies between activities, or what Hirschman (1958) calls backward and forward linkage eﬀects. 
+Backward linkages measure the proportion of an activity’s output that represents purchases from 
+S1
+A1
+B2
+C1
+B1
+C
+B
+c
+b
+a
+X
+A
+0
+Availability
+and cost
+of SC
+Total cost of DPA output
+Figure 9.3 Induced decision-making
+276
+imum amount of SC necessary for any level of DPA output (for example, OS1, corresponding to 
+277
+9  •  T H E  R O L E  O F  T H E  S TAT E  I N  E C O N O M I C  D E V E L O P M E N T
+other domestic activities. Forward linkages measure the proportion of an activity’s output that 
+does not go to meet final demand but is used as an input into other activities. With knowledge of 
+interindustry flows in an economy, with the help of an input–output table, it is possible to rank 
+activities according to the magnitude of their combined linkage effects. Hirschman is suggesting 
+that, within the directly productive sector, a useful development strategy would be to encour-
+age those activities with the potentially highest combined linkages, because this will provide the 
+greatest inducement and incentive to other activities to develop.
+Unfortunately, one of the typical characteristics of developing countries is a lack of inter- 
+dependence between activities. Primary product production has only limited backward linkages 
+with other activities, while forward linkages, although potentially greater, also tend to be limited 
+in practice. Agriculture’s demands on other sectors are minimal, and only a comparatively small 
+fraction of total agricultural output in developing countries is processed domestically – most is 
+exported. The fact that manufacturing activities possess greater backward and forward linkages, 
+strengthening the cumulative nature of development, is another powerful argument for indus-
+trialization. Hirschman advocates the expansion of industry through the transformation of semi-
+manufactures into goods required for final demand, or what he calls ‘enclave import’ industries.
+In general, Hirschman (1958) lays great stress on the role of imports in the development pro-
+cess, seeing imports as part of the inducement mechanism. For not only can semi-manufactured 
+imports be processed into goods for final demand, but final demand imports themselves can 
+then be readily produced at home once the market has attained a certain size (or production 
+threshold). If one of the major obstacles to development is a shortage of decision-makers, coupled 
+with uncertainty and a limited market, the existence of imports provides conclusive proof that 
+the market is there. As imports increase, so too do the chances that domestic production will one 
+day be profitable. Hirschman criticizes developing countries for restricting imports prematurely, 
+and argues that infant industry protection should only be given after imports have reached such 
+a level as to guarantee domestic producers a market for their goods.
+Investment criteria
+Traditional micro-theory teaches that under perfect competition, resources will be optimally allo-
+cated when each factor of production is employed up to the point where its marginal product 
+is equal to its price, and that society’s output (welfare) will be maximized when the marginal 
+products of factors are equated in all their uses. This is the so-called ‘marginal rule’ for resource 
+allocation and implies ‘efficiency’, in the sense that a society’s total output of goods and services 
+could not be increased by any redistribution of resources between activities because each factor 
+of production is equally productive in existing activities. In static analysis, therefore, ‘efficiency’ in 
+resource allocation implies maximizing the national product, which is achieved when the mar-
+ginal products of factors are equated in their different uses.
+If the application of the marginal rule leads to an efficient allocation of resources, what is the 
+allocation ‘problem’ in developing countries? Why seek other criteria to decide on the allocation 
+of resources? One good reason is that the assumptions of traditional micro-theory do not accord 
+with the realities or aspirations of developing countries. Two major drawbacks of the application 
+of the marginal rule may be cited. One is that the marginal rule is a static criterion, and as we have 
+said before, it is by no means certain that the aim of developing countries is, or ought to be, the 
+maximization of the present level of output, consumption or welfare. Second, traditional static the-
+ory ignores many factors that may have a bearing on the social optimum allocation of resources. In 
+278
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+countries characterized by fundamental structural disequilibria and extreme imperfections in the 
+market, it cannot be assumed that the market prices of goods and factors of production reflect 
+the social costs and benefits of production. The application of the marginal rule will only lead to a 
+socially optimal allocation of resources in the absence of divergences between market prices and 
+social costs and benefits, or if market prices are corrected to reflect social values.
+Several factors can lead to divergences between market prices and the social valuation of goods 
+and factors of production. First, if external economies and increasing returns are attached to some 
+projects, their social value will exceed their private value, and the application of the marginal rule 
+must make allowances for this, if output is to be maximized from a given endowment of factors.
+Second, if perfect competition does not prevail in the product market, product prices will not 
+reflect society’s valuation of those products, and market prices must somehow be adjusted to 
+achieve a social optimum. Similarly, if perfect competition does not prevail in the factor market, 
+the price of factors will not reflect their opportunity cost to society, so that employing factors up 
+to the point where their marginal product equals their price will not produce a social optimum. 
+Underemployed resources such as labour will be overvalued, and scarce resources such as cap­
+ital and foreign exchange will be undervalued, and market prices must therefore be corrected to 
+reflect the value of these resources to society.
+Third, static analysis ignores the future structure of product and factor prices arising from the 
+choice of projects in the present. An optimum resource allocation in the present may not pro-
+duce an optimal allocation of resources in the future. The only way of coping with this difficulty is 
+through what is called the programming approach to resource allocation, by which the reper-
+cussions of one activity on others are explicitly considered and due allowance is made for time.
+Finally, the application of the marginal rule can only lead to optimal resource allocation if 
+income distribution is ‘optimal’ and remains unaffected by whatever programme is decided on. 
+If a new pattern of resource allocation alters income distribution, output may be maximized but 
+welfare diminished because of ‘undesirable’ changes in the distribution of income gains. To say any-
+thing concrete on this score requires an explicit statement of societal objectives, or a social welfare 
+function, if interpersonal comparisons of utility are to be avoided. Presumably, there might be a fair 
+degree of consensus that an income distribution that leaves half the population unemployed and 
+starving is ‘inferior’ to one that does not. Only the conditions for Pareto optimality would deny it 
+(a situation is said to be Pareto optimal only if a change that benefits some does not harm others).
+For all the above reasons, there has been a prolonged debate for many years over the most 
+appropriate criterion for resource allocation in the light of the development obstacles of devel-
+oping countries and their aspirations. The different criteria that have been suggested reflect, by 
+and large, differences of opinion as to what developing countries ought to attempt to maximize, 
+the broad choice being between present and future levels of output and consumption. Most of 
+the criteria discussed by early writers in this field refer to the allocation of capital, reflecting the 
+view of domestic saving as the primary scarce resource. Increasingly, however, attention has been 
+paid to the effects of resource allocation decisions on the balance of payments, in recognition of 
+foreign exchange as an equally scarce resource.
+Summary
+•
+• In free-market economies, the market mechanism allocates resources among competing ends, 
+but markets in developing countries have many imperfections that need correcting for a social 
+optimum allocation of resources.
+279
+9  •  T H E  R O L E  O F  T H E  S TAT E  I N  E C O N O M I C  D E V E L O P M E N T
+•
+• Prices of goods and factors of production may not reflect their social benefit and social cost, 
+respectively, because of positive and negative externalities. Markets may be incomplete or miss-
+ing entirely. This provides a role for the state.
+•
+• The state has four key functions: to correct market imperfections; to provide public goods 
+(such as health and education); to protect the vulnerable; and to provide an institutional en­
+vironment in which markets can flourish.
+•
+• The state may also fail through corruption and rent-seeking behaviour. There are many ‘failed 
+states’ in the world in which institutions and the rule of law have broken down.
+•
+• Many developing countries practise development planning, with various degrees of success.
+•
+• The central question facing all developing countries is how to allocate resources to maximize 
+the level or growth of per capita output with the domestic resources available, and how to 
+minimize the use of foreign exchange (which is a scarce resource).
+•
+• Apart from the decision of how much to invest, there are three broad types of allocation deci-
+sions: which sectors to invest in, which projects should receive priority, and which combination 
+of factors of production should be used, which will determine the technology of production.
+•
+• In addition, countries need to decide on the balance between agriculture and industry, the 
+extent to which static comparative advantage is allowed to dictate production, the balance 
+between present and future consumption, and whether growth should be ‘balanced’ (between 
+sectors) or deliberately unbalanced.
+1.	 What is the role of markets in the development process?
+2.	 Distinguish the different types of market failure, and the role that governments 
+can play in rectifying market failures.
+3.	 According to the World Bank (1997), what are the key roles of the state in devel-
+oping countries, and how can the role of the state be made more effective?
+4.	 What causes corruption, and how can it be reduced?
+5.	 What are the major causes of divergences between the market prices of goods 
+and the value of those goods to society?
+6.	 What are the characteristics of failed states?
+7.	 What are the major causes of divergences between the market prices of factors of 
+production and their cost to society?
+8.	 Why do developing countries construct development plans?
+9.	 Why is there a potential clash between present and future consumption, and how 
+can it be reconciled?
+10.	 What do you understand by the concept of ‘balanced growth’?
+11.	 What is Hirschman’s major criticism of the doctrine of balanced growth?
+Discussion questions
+Chapter 9
+280
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Notes
+1.  In many developed countries, the state is even more pervasive in terms of expenditure, although 
+a much higher proportion represents social security transfer payments, not expenditure on real 
+resources.
+2.  Students should familiarize themselves with a plan for a country of their choosing.
+3.  This conclusion depends on, among other things, the wage rate being invariant with respect to 
+the technique of production. If the wage is higher the more capital-intensive the technique, this 
+conclusion would have to be modified. For a discussion of this point, and other considerations that 
+may lessen the conflict between employment and saving in the choice of techniques, see Chapter 6.
+Websites on government and corruption
+Role of the state
+World Bank www.worldbank.org/en/topic/governance
+International Development Department (University of Birmingham) www.birmingham.ac.uk/schools/
+government-society/departments/international-development/index.aspx
+Corruption
+Transparency International www.transparency.org
+Internet Center for Corruption Research www.icgg.org
+THE PERPETUATION OF 
+UNDERDEVELOPMENT
+III
+This is a Blank 
+Page
+

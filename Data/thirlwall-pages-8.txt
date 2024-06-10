@@ -1,0 +1,643 @@
+243
+•
+• Introduction
+•
+• The role of institutions
+•
+• Measuring institutions and the debate on institutions versus geography
+•
+• The role of democracy
+•
+• Summary
+•
+• Discussion questions
+•
+• Note
+•
+• Websites on institutions and market behaviour
+THE ROLE OF INSTITUTIONS 
+IN ECONOMIC DEVELOPMENT
+8
+244
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Introduction
+Growth and development cannot take place in an institutional vacuum. Economic maturity and 
+the growth of markets require an institutional framework that allows transactions to take place in 
+an orderly manner and in which agents know that the decisions they take and the contracts they 
+make will be protected by law, and enforced. Savers, investors, consumers, entrepreneurs, workers 
+and risk-takers of all kinds need a framework of rules if rational, optimizing decisions are to be 
+made. They also need some guarantee of economic stability and certainty, which can be provided 
+only by good governance and sound economic policy-making. The alternative to property rights, 
+law and order and political stability is economic anarchy – and failed states (see Chapter 9).
+This chapter deals with the role of formal institutions in general in providing an economic, 
+political and social environment in which economies can flourish and prosper, and it considers 
+some of the empirical evidence on the relationship between institutional development and eco-
+nomic development.
+The role of institutions
+Nobel Prize-winning economist Douglass North first brought to the fore the role of institutions 
+in economic development. The modern exponents of the primacy of institutions are Dani 
+Rodrik of Harvard University and Daron Acemoglu, Simon Johnson and James Robinson of the 
+Massachusetts Institute of Technology. In his well-known book, Institutions, Institutional Change 
+and Economic Performance (1990), North said:
+I wish to assert a fundamental role for institutions in societies: they are the underlying deter-
+minants of the long-run performance of economies – Third World countries are poor because 
+the institutional constraints define a set of pay-offs to political/economic activity that do not 
+encourage productive activity.
+North (1990) also said that ‘the inability of societies to develop effective low-cost enforcement of 
+contracts is the most important source of both historical stagnation and contemporary under-
+development in the Third World’, because the absence of secure property and contractual rights 
+discourages investment and specialization. Mancur Olson (1982) makes the same point in his 
+classic book, The Rise and Decline of Nations.
+It is possible to give both general and narrower, more formal, definitions of institutions. North 
+(1990) describes institutions very broadly as the ‘formal and informal rules [or norms] governing 
+human behaviour’. A similar broad definition is given by Lin and Nugent (1995): ‘a set of humanly 
+devised behavioural rules that govern and shape the interaction of human beings, in part by help-
+ing them to form expectations of what other people do’. At a more formal, precise, level, institu-
+tions can be defined in terms of:
+•
+• the extent of property rights’ protection
+•
+• the degree to which laws and regulations are fairly enforced
+•
+• the ability of government to protect the individual against economic shocks and provide social 
+protection
+•
+• the extent of political corruption.
+Without inclusive economic and political institutions, nations will fail, which is the central 
+message of the path-breaking book by Acemoglu and Robinson (2012), Why Nations Fail. Inclusive 
+245
+8  •  T H E  R O L E  O F  I N S T I T U T I O N S  I N   E C O N O M I C  D E V E L O P M E N T
+institutions are necessary to challenge and constrain the political power of the elite, otherwise the 
+elite use political power to protect the status quo and preserve extractive economic rents, which 
+diminishes the incentive to innovate and invest. Inclusive political institutions lead to inclusive 
+economic institutions and this is the basis for prosperity – a virtuous circle is started. Similarly, 
+extractive rules are reinforcing in the opposite direction – plunder further empowers the elite. 
+Countries differ in their economic success because of their different institutions; the rules influ-
+ence how the economy works and the incentives that motivate people. Institutions explain 
+why growth took off earlier in Europe than Africa, Latin America and Asia, and why there are 
+many failed states today, particularly in Africa where autocracy is rife and the benefits of natur­
+al 
+resources are siphoned off to an elite.
+Incentives and price signals, so vital for a market economy, cannot function properly without 
+institutional structures and rules of behaviour. As Rodrik (2008) says: ‘markets require institutions 
+because they are not self-creating, self-regulating, self-stabilising, or self-legitimising’. Which insti-
+tutions are important and which are not will differ across space and time according to the history 
+of a country, its geography, stage of development and its political aspirations, that is, what sort of 
+society its people want. In small rural communities where everyone knows each other, the scope 
+for cheating, fraud and not honouring contracts is limited. Transaction costs associated with the 
+costs of information, negotiation, monitoring, coordination and enforcement of contracts are 
+low, and communities survive by adhering to norms of behaviour; but economic development is 
+limited through a lack of specialization. In contrast, in large, modern, industrial societies, where 
+transactions are impersonal, there is widespread scope for opportunistic behaviour (Bardhan and 
+Udry, 1999). Transactions (and therefore production) costs may be very high without institutional 
+structures that curtail such behaviour, such as the enforcement of property rights and the rule 
+of law, the provision of limited liability, the guarantee of contracts, patent protection and so on. 
+With low transaction costs, firms and markets can concentrate on the job of investment in the 
+knowledge that property rights are secure.
+When economists undertake empirical work on the relation between institutional structure 
+and economic performance, it is, of course, necessary to have quantitative measures of the import­
+ant institutions being discussed and evaluated. Lumping all institutions together in a single index 
+of ‘institutional quality’ would obscure the different channels through which institutions work.
+There is no one set of institutions that will suit all countries, but there is a consensus among 
+development economists that at least five main types of market-supporting institutions are nec-
+essary, if not sufficient, conditions for rapid economic progress (see Rodrik, 2000, 2008; Rodrik and 
+Subramanian, 2008):
+•
+• property rights and legally binding contracts: market-creating institutions
+•
+• regulatory institutions: market-regulating institutions
+•
+• institutions for macroeconomic stability: market-stabilizing institutions
+•
+• social insurance institutions: market-legitimizing institutions
+•
+• institutions of conflict management: market-legitimizing institutions.
+Rodrik (2000) highlights the following institutional arrangements that are conspicuously 
+absent in poor countries:
+•
+• a clearly defined system of property rights
+•
+• a regulatory apparatus curbing the worst forms of fraud, anti-competitive behaviour and moral 
+hazard
+•
+• a moderately cohesive society exhibiting trust and social cooperation
+246
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+•
+• social and political institutions that mitigate risk and manage social conflict
+•
+• the rule of law and clean government.
+These five main prerequisites of a sound institutional structure for economic development are 
+described briefly below:
+1.	 Property rights and legally binding contracts: These are important because agents lack the 
+incentive to invest and innovate if they do not have control over the return on the assets they 
+accumulate. Intellectual property rights are particularly important to encourage invention. 
+Control is more important than ownership. Formal property rights do not mean very much if 
+there are not control rights; but control rights can spur entrepreneurial activity without clearly 
+defined property rights (witness China).
+2.	 Regulatory institutions: Markets fail if there is fraud or anti-competitive behaviour. Regula-
+tory institutions are needed if markets are to function properly. When markets are liberalized, 
+a regulatory framework is also required to avoid the consequences of risky behaviour, such 
+as financial crises if the banking system is not properly regulated (as the world economy wit-
+nessed in 2008). Institutions to compensate for capital market imperfections and coordination 
+failures must also be an integral part of a ‘regulatory’ framework for promoting innovation 
+and growth. A good example of this is the way the state intervened to promote industrial de-
+velopment in South Korea and Taiwan in the 1960s and 1970s. All successful economies have 
+an array of regulatory institutions that oversee different markets, such as the product market, 
+financial markets and the labour market. Developing countries may need more regulatory in-
+stitutions because market failures are more pervasive than in developed countries.
+3.	 Institutions for macroeconomic stability: Monetary and fiscal policy institutions are neces-
+sary to provide an enabling environment in which private investment can flourish. Market 
+economies are not self-regulating, and macroeconomic instability creates risk and uncertainty. 
+The minimization of risk is vital if entrepreneurs are to take informed, long-term investment 
+decisions. Financial markets are inherently unstable, which can have damaging real effects, and 
+they need careful supervision. A central bank, a responsible banking system and fiscal pru-
+dence are all important ingredients of macroeconomic stability.
+4.	 Social insurance institutions: These are necessary if individuals are to accept change. In rural, 
+peasant societies on the margins of subsistence, change may spell disaster, but progress (par-
+ticularly in agriculture) requires a willingness to take risks. Insurance against unemployment, 
+crop failures and price fluctuations for agricultural commodities are all important if traditional 
+agriculture is to be transformed. Economic reforms of any type, particularly in the process 
+of liberalizing markets, will meet resistance if not enough attention is paid to creating social 
+security institutions to protect the vulnerable. Social stability and cohesion within a market 
+economy in the process of structural change require social insurance and safety nets.
+5.	 Institutions of conflict management: Many developing countries have deep ethnic, tribal 
+and religious divisions. Social conflict damages economies because it diverts resources from 
+directly productive activities and creates uncertainty, which deters investment. To minimize 
+conflict requires a full range of institutions – the rule of law, a fair legal system, a political voice 
+for minority groups – which make it clear that the potential winners of social conflict will not 
+benefit and potential losers will be properly safeguarded.
+The question is: How are good institutions acquired? Because of history and the diversity of 
+countries, there is no one unique set of institutions that can be prescribed for every country: 
+‘there is no single mapping between the market and the set of non-market institutions required to 
+247
+8  •  T H E  R O L E  O F  I N S T I T U T I O N S  I N   E C O N O M I C  D E V E L O P M E N T
+sustain it’ (Rodrik, 2000). Rodrik likens institutions to technical progress that allows countries to 
+transform inputs into higher levels of output, shifting outwards a country’s production possibility 
+frontier. But technological blueprints that operate well in one context may not be appropriate in 
+another – and so it is with institutions. A ‘market economy’ cannot simply be transposed from 
+one country to another, at least not without some adaptation. As Rodrik and Subramanian (2008) 
+put it: ‘there is growing evidence that desirable institutional arrangements have a large element of 
+context specificity arising from differences in historical trajectories, geography, political economy 
+and other initial conditions ... institutional innovations do not necessarily travel well’.
+Nor is it easy to bring about institutional change. There is a collective action problem that 
+limits potential gainers from bringing about change in opposition to vested interests (Bardhan 
+and Udry, 1999). One is the free-rider problem about sharing the cost of change; the other is 
+the bargaining problem relating to sharing the potential benefits of change. It can be difficult 
+for potential gainers to compensate potential losers, as in the case of land reform, for example. In 
+these circumstances, the state has a role to play in fostering institutional change and development 
+without destroying markets, or allowing itself to be influenced by special interest groups or cor-
+rupted by rent-seeking behaviour on the part of politicians and bureaucrats.
+Rodrik (2000) argues forcefully that ‘institutions need to be developed locally, relying on 
+hands-on experience, local knowledge and experimentation’. Some institutional blueprints for 
+some specific purposes may be borrowed (e.g. forms of financial regulation) because they are 
+straightforward to implement and save costs, but others need to be built from scratch. Building 
+from the ‘bottom up’ requires participatory political institutions that can use and assess local 
+knowledge, so that the institutions created have consent and legitimacy. Institutions imposed 
+from the ‘top down’ usually fail. Rodrik (2000) finds an association across countries between dem-
+ocratic political structures and economic success; but other studies are more agnostic.
+Measuring institutions and the debate on institutions versus geography
+To do serious empirical work on the impact of institutions on growth and development requires 
+a measure of institutional development. But some care needs to be taken because if measures of 
+institutional quality are used, a correlation with economic performance is almost certain to be found 
+because the measures themselves are partly a function of the stage of development and economic 
+success. Institutional measures are required that are devoid of ‘quality’. The statistical way of putting 
+the same point is that the institutional variables used should be strictly exogenous; but we know in 
+practice that institutional development is partly a function of growth and development itself, making 
+many institutional variables endogenous. To cope with this difficulty, one can either find instruments 
+to proxy for present-day institutions (see below), or take the initial (or base) level of institutions as 
+the independent variable, rather than the contemporaneous level. There are also other econometric 
+difficulties in determining the impact of institutions. Many institutional variables are highly corre-
+lated with one another, so it is difficult to measure the separate influence of each, and many institu-
+tional measures are ordinal (they simply rank countries) rather than cardinal, which means that they 
+do not measure the magnitude of the difference in the institutional variables between one country 
+and another. Several different measures of institutions have been used in empirical work:
+•
+• An aggregate governance index, which is an average of six measures of institutions developed 
+by Kaufman et al. (1999). These measures include:
+•
+• voice and accountability: the extent to which citizens can choose their government and enjoy 
+political rights, civil liberties and an independent press
+248
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+•
+• political stability and absence of violence: the likelihood that the government will not be over-
+thrown by unconstitutional or violent means
+•
+• government effectiveness: the quality of public service delivery and competence and political 
+independence of the civil service
+•
+• regulatory burden: the relative absence of government controls on goods markets, banking 
+systems and international trade
+•
+• rule of law: the protection of persons and property against violence and theft, independent 
+and effective judges, and contract enforcement
+•
+• freedom from graft: public power is not abused for private gain or corruption.
+Each of these measures can be taken individually.
+•
+• A measure of property rights and risk of expropriation using the International Country Risk 
+Guide (ICRG) and Business Environmental Risk Intelligence (BERI). These indices are used by 
+Keefer and Knack (1995). The ICRG index includes a measure of expropriation risk, rule of law, 
+repudiation of contracts by governments, corruption in government and quality of bureaucracy. 
+The BERI index includes contract enforceability, nationalization potential and bureaucratic delays.
+•
+• An index of democracy, political rights and civil liberties, for example the Freedom House 
+index of political rights and civil liberties (Gastil, 1983, 1986).
+•
+• Political instability, as measured by the number of revolutions and coups, and the number of 
+assassinations (Barro, 1991).
+•
+• An index of corruption (Transparency International).
+•
+• Economic freedom (Heritage Foundation).
+•
+• An index of social division, for example, ethnic diversity.
+Apart from Rodrik, Acemoglu et al. (2001, 2002) are the other foremost modern exponents of 
+the view that institutions are of primary importance in understanding the development process, 
+and why some countries are rich today and others poor. Acemoglu (2008) identifies three impor-
+tant characteristics of good institutions:
+1.	 The enforcement of property rights and the rule of law, so that individuals have the incentive 
+to save, invest and take risks (as argued above).
+2.	 Constraints on those in positions of power so that they cannot expropriate the resources of a 
+country for their own benefit.
+3.	 Equal opportunities for all, so that everyone has the incentive to better themselves and to 
+participate productively in society.
+Acemoglu and his colleagues believe that the fundamental cause of differences in the levels of 
+development across countries of the world lies in differences in the evolution of institutions (in 
+particular, property rights), which has historical roots, and that it is possible to find an ex­
+ogenous 
+cause of variations in institutions today that is unrelated to the level of development itself (or 
+geography); namely the way in which colonizers settled in countries in the seventeenth and 
+ 
+eighteenth centuries. This is determined by the mortality rates of soldiers, sailors and missionaries 
+in various parts of the world.
+The model of institutional development proposed by Acemoglu et al. (2001) is that (potential) 
+settler mortality determined the degree of settlement, the degree of settlement determined the 
+type of early institutions, and that early institutions have determined current institutions and can 
+explain current economic performance. In other words, mortality rates in countries during early 
+colonial times can be used for predicting institutions and the level of per capita income across 
+countries today.
+249
+8  •  T H E  R O L E  O F  I N S T I T U T I O N S  I N   E C O N O M I C  D E V E L O P M E N T
+Let us consider the theory in more detail, and then some of the evidence. The model is based 
+on three basic premises:
+1.	 There were different colonization policies, which created different types of institutions. At one 
+extreme, in some countries (mainly in Africa), ‘extractive states’ were created with the main 
+purpose of transferring as many resources as possible from the colony. Private property rights 
+were not established and colonizers did not settle in large numbers. At the other extreme, 
+in countries such as the USA and Australia, Europeans settled in large numbers and tried to 
+replicate European institutions, with a strong emphasis on private property and checking the 
+power of elites – political and vested interests.
+2.	 The colonization strategy depended, to a large extent, on the feasibility of settlement, and 
+particularly the incidence of disease and mortality.
+3.	 The institutions created during the colonial period persisted after the colonies became in-
+dependent.
+Acemoglu et al. (2001) present a mass of evidence of how mortality rates affected the willing-
+ness to settle in the various colonies, and how the presence or absence of European settlers was 
+a key determinant of the form colonization took. A great deal of historical evidence is also pre-
+sented that the control structures set up during the colonial period in the ‘extractive states’ that 
+were not settled, such as in Africa and parts of Latin America, have persisted to this day, while the 
+institutions of protecting private property rights and law and order, which were established in set-
+tler countries such as Australia, Canada, the USA, Hong Kong and Singapore, have also persisted.
+The measure of institutions today, used by Acemoglu et al. (2001) is a ‘risk expropriation’ index 
+first used by Keefer and Knack (1995).1 The index goes from 0 (lowest protection of property 
+rights) to 10 (highest), measured for each country for each year. They test their model using 64 
+former colonies for which there are data on settler mortality in the nineteenth century, current 
+protection against expropriation risk, and living standards for the period 1985–95. Using simple 
+two-variable regressions shows:
+1.	 A strong negative correlation between per capita income (PCY) today and settler mortality 
+rates per 1,000 of population.
+2.	 A strong positive relation between PCY and protection against expropriation risk today (the 
+correlation coefficient exceeds 50%).
+3.	 That the settler mortality rate explains 25% of the variation in the expropriation risk index.
+When the endogeneity of the expropriation risk index (as the measure of institutional quality) is 
+instrumented by the settler mortality variable, a significant negative effect on the current level of 
+per capita income of countries is found, even controlling for other variables that might be cor-
+related with settler mortality, such as the identity of the colonial power, natural resource endow-
+ments, soil quality, religion, temperature and humidity. In fact, Acemoglu et al. (2001) dismiss the 
+effect of geography altogether (see below). Moreover, the strong results are not dependent on 
+the heavily settled countries with good institutions, such as the USA, Canada, Australia and New 
+Zealand, nor if African countries are excluded from the sample. When a dummy variable for Africa 
+is used in the equation, it is not statistically significant, which leads Acemoglu et al. (2001) to 
+conclude that Africa is poor not because of geography but because of poor institutions, inherited 
+from the past because the colonial powers established ‘extractive states’.
+In a separate analysis, Acemoglu et al. (2002) try to support their theory by showing how the 
+fortunes of countries between the sixteenth century and the present have changed because of 
+institutional reversal. It is a fact that those countries that were relatively rich in the year 1500 are 
+250
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+now relatively poor, and vice versa, and this is attributed to the two different types of institutional 
+structures, discussed above, that were imposed on countries during colonial times. Economic 
+prosperity in 1500 is measured by the rate of urbanization and population density. With either 
+measure, there is a negative relation between prosperity in 1500 and the level of PCY today. The 
+explanation given is that in previously poor areas, European colonialism led to the development 
+of institutions of private property because the regions were sparsely populated, which enabled 
+Europeans to settle in large numbers and develop new institutions to the benefit of all. By con-
+trast, in previously prosperous areas, already more densely populated with powerful ruling elites, 
+colonizers found it easier and more profitable to maintain or introduce extractive institutions. 
+There was a ready workforce available and taxation was relatively easy. Besides, in the more densely 
+populated regions, there was more disease and mortality rates were higher. The reversal of relative 
+incomes took place in the eighteenth and nineteenth centuries, with societies with good institu-
+tions taking advantage of the opportunity to industrialize: ‘the interaction between institutions 
+and the opportunity to industrialise during the 19th century played a central role in the long-run 
+development of the former colonies’ (Acemoglu et al., 2002). The authors find a negative relation 
+between measures of prosperity in 1500 and the risk of expropriation (insecure property rights) 
+today. Some basic econometric results are:
+•
+• a 10 percentage point lower rate of urbanization in 1500 is associated with double the level of 
+PCY today
+•
+• a 10% higher population density in 1500 is associated with a 4% lower PCY today.
+Acemoglu et al. (2002) again dismiss the role of geography because geography is a ‘constant’ 
+and predicts the persistence of economic outcomes. If geography is the most important factor in 
+development, the most (least) prosperous areas prior to colonization should have continued to 
+be the most (least) prosperous, but this is not the case. Geography cannot explain the reversal of 
+fortunes. Acemoglu et al. (2002) recognize what they call a ‘sophisticated version’ of the geog­
+raphy 
+hypothesis; that certain geographic characteristics that were inimical to successful economic 
+ 
+performance in 1500 became less important later on when new crops and new technologies 
+made temperate zones more productive than the more prosperous tropical zones (where civi­
+lization started), and transport costs fell. But they argue that there is no evidence that the rever-
+sal of economic fortunes between sets of countries in the eighteenth and nineteenth centuries 
+was associated with agriculture or a more favourable transport environment. Reversal was most 
+closely related to industrialization. Acemoglu et al. (2002) conclude: ‘if you want to understand 
+why a country is poor today, you have to look at institutions rather than its geography’.
+But institutions and geography cannot be separated so easily. Geography, and its effects on dis-
+ease, affects the type of colonization and therefore the character of institutions. Acemoglu (2008) 
+effectively concedes this when he says: ‘geographic factors also likely influenced the institutions that 
+Europeans introduced’. Rodrik et al. (2004) attempt to tackle this issue empirically (see also Rodrik 
+and Subramanian, 2008). They estimate a series of regressions relating the income levels of coun-
+tries to measures of geography, institutions (and also the degree of economic integration), taking 
+account of the endogeneity of institutions. Institutional development is measured by a composite 
+indicator of the strength of property rights and the rule of law. Rodrik et al. (2004) reach the conclu-
+sion that:
+Quality of institutions is the only positive and significant determinant of income levels. Once 
+institutions are controlled for, integration has no direct effect on income, while geography has 
+but weak direct effects. These results are very robust.
+251
+8  •  T H E  R O L E  O F  I N S T I T U T I O N S  I N   E C O N O M I C  D E V E L O P M E N T
+Rodrik et al. (2004) claim that the quality of institutions overrides everything else, but also con-
+cede, like Acemoglu, that ‘geography has a strong indirect effect through institutions by influen­
+cing their quality’. Thus, geography may be the ultimate determinant after all.
+In fact, Sachs (2008) points out that the incidence of malaria itself is enough to account for 
+the negative relation between the mortality rates of British soldiers in various parts of the world 
+in the nineteenth century and low levels of per capita income today. Sachs is critical of the almost 
+exclusive emphasis on institutions in explaining differences in economic performance between 
+countries, as if nothing else matters: ‘the barriers to economic development in the poorest coun-
+tries today are more complex than institutional shortcomings ... both institutions and resource 
+endowments are critical, not just one or the other’.
+Another critic is Bardhan (2005a), who argues that there are other institutions that matter 
+besides property rights and the rule of law, particularly coordinating institutions to overcome 
+the coordination failures that are endemic in poor countries and require institutions to cope with 
+them. They would remain important even if property rights were secure. In Bardhan’s view: ‘this 
+preoccupation of the literature with the institutions of security and property rights, often to the 
+exclusion of other important institutions, severely limits our understanding of the development 
+process’. Bardhan doubts whether the mortality rate of colonial settlers really captures the major 
+historical forces that determined the economic and social structure of colonies.
+Think of the differences between countries today all with similar disease environments, such 
+as Brazil, India or the Congo in Africa, let alone the countries that were never colonized, such as 
+Ethiopia and Thailand. Countries had a history before colonization: Bardhan (2005a) calls this 
+state antiquity, a term that refers to whether a country had a unified state structure or not. By 
+this criterion, Asia ranks higher than Latin America and Africa, and in the latter, as a result of colo-
+nial rule, the postcolonial state was often incongruent with the precolonial political structures 
+and geographic boundaries. This has been a major source of political turmoil and instability. In 
+statistical analysis, Bardhan finds the state antiquity variable a significant determinant of differ-
+ences in per capita income today (as well as settler mortality rates).
+The role of democracy
+Apart from the institutions versus geography debate, most empirical work on the role of institutions 
+in economic development has been conducted on political instability and the impact of political 
+structures and the role of democracy. The challenge for any government, whatever its structure, is to 
+ 
+provide leadership in resolving collective action problems (Bardhan, 1993), which means a com-
+mitment to formulating and implementing development policies in the interests of all the people, 
+to prevent groups going their own separate ways. Democracy can make this more difficult because 
+ 
+politicians can succumb to vested interest groups and take short-term decisions. On the other hand, 
+dictatorships may have no interest in maximizing total output, and may allocate resources very 
+in­
+efficiently. Democracy makes life difficult for corrupt elites. In the discussion of democracy and 
+growth, it is also important to distinguish between democracy defined as free, multiparty elections on 
+the one hand and civil and economic liberties on the other (Alesina and Perotti, 1994). Some non-dem-
+ocratic regimes in the first sense (e.g. China) give their citizens a lot of economic rights, and vice versa.
+Early work by Barro (1991) measured institutional quality by the number of revolutions and 
+coups in countries and the number of political assassinations. A negative relation was found 
+between these measures and economic growth across a sample of 98 countries, controlling for 
+other variables (see Chapter 4).
+252
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+But political instability is not the same as the nature of the political system. Here, we shall 
+highlight two major studies on the role of democracy by Rodrik (2000) and Barro (1996a, 2008). 
+Rodrik examines data for 90 countries over the period 1970–89, using the Freedom House index 
+of political rights and civil liberties (the Gastil index) as a measure of democracy, which ranks 
+countries on a scale of zero to one. Rodrik draws four important conclusions:
+•
+• democracies deliver more predictable long-run growth rates
+•
+• democracies produce greater short-term stability
+•
+• democracies handle adverse shocks much better
+•
+• democracies promote a fairer distribution of income.
+Democracies produce better outcomes in these ways because they produce superior institutions 
+better suited to local conditions. There is little evidence that the average growth rate is higher in 
+democracies than in more autocratic regimes, but the variance around the average is significantly 
+lower in democracies. One reason for this is because adjustment to shocks requires managing 
+social conflict, and democratic institutions are more efficient institutions for conflict manage-
+ment. Democracies deliver better institutional outcomes because they tend to create more equal 
+opportunities for people, especially in the fields of health, education and employment opportun­
+ity, which manifests itself in a higher share of wages in national income. In general, therefore, 
+democracy helps to build better institutions based on local knowledge: ‘participatory and decen-
+tralised political systems are the most effective ones we have for processing and aggregating local 
+knowledge. We can think of democracy as a meta-institution for building other good institutions’ 
+(Rodrik, 2000).
+Barro (2008), on the other hand, is more circumspect about the impact of democracy. Most 
+agree that democracy tends to follow economic development, rather than precede it; what is 
+debated is the role of democracy in sustaining development once it has started. Barro argues that 
+democracy can hamper growth in the early stages of development by the tendency of majority 
+voting to support programmes that redistribute income from the rich to the poor, involving tax 
+increases and other distortions that reduce incentives. Also, democracies may give in to pres-
+sure groups that redistribute resources to themselves; for example, agricultural lobbies, defence 
+contractors and trade unions. On the other hand, and very importantly, democracy is a check 
+on corrupt autocracies (dictators). In statistical work that examines the link between democracy 
+and growth, Barro (2008) measures the degree of democracy using the Gastil index of political 
+rights found in Gastil’s publication, Freedom in the World (1983, 1986). The definition of political 
+rights is: ‘rights to participate meaningfully in the political process. In a democracy this means the 
+right of all adults to vote and compete for public office, and for elected representatives to have a 
+decisive vote on public policies.’
+Barro’s (2008) results suggest that the relationship between democracy and growth across 
+countries is weakly negative, but not statistically significant. The most interesting finding is that 
+there is evidence of nonlinearity; that is, more democracy increases growth when political free-
+doms are weak, but depresses growth when a moderate degree of freedom has been achieved 
+(perhaps because, as said above, democracies give in to pressure groups and engage in more redis-
+tribution). Barro (2008) concludes that:
+democracy is not the key to economic growth ... advanced Western countries would contrib-
+ute more to the welfare of poor nations by exporting their economic systems, notably prop-
+erty rights and free markets, rather than their political systems, which typically developed after 
+reasonable standards of living had been attained.
+253
+8  •  T H E  R O L E  O F  I N S T I T U T I O N S  I N   E C O N O M I C  D E V E L O P M E N T
+Barro’s conclusion concurs with that of Alesina and Perotti (1994) in their early survey of the 
+political economy of growth, when they say: ‘growth is influenced not so much by the nature of 
+the political regime (democracy or dictatorship) as by the stability of the political regime ... transi-
+tions from dictatorship to democracy, being associated with socio-economic instability, should 
+be typically periods of low growth’ (see Case example 8.1).
+The current evidence for Africa is that the structure of political institutions influences the 
+performance of economies, and that Africa’s shift towards a greater degree of democ-
+racy has paid off in terms of improved economic outcomes. The democracy–growth 
+ 
+relationship may, however, be nonlinear. For African economies, the initial transition to 
+democracy can be fraught with risks of political disorder. It is only when African coun-
+tries have reached ‘advanced-level’ democracy that we can expect increasing democra-
+tization to be growth-enhancing.
+Resource rents have become a curse for many African economies. Research shows 
+that large resource rents lead to more corruption, but that the effect is lower for more 
+democratic countries. Nigeria presents a good illustration of the resource curse chal-
+lenge. Despite the huge rents that have flowed from oil, there has been little economic 
+development; instead, these rents have served to undermine the quality of institutions 
+and to lower growth. To avoid institutions themselves becoming corroded by resource 
+rents and undermining democracy, oil revenues could be distributed directly to the 
+public. Nigeria has become more democratic since 2000, and there has been improve-
+ment in government effectiveness, regulatory quality, the rule of law, and the control 
+of corruption, but, unfortunately, political stability and the absence of violence have 
+deteriorated significantly, consistent with the observation that greater democracy may 
+be associated with a higher risk of conflict – at least in the short-term.
+Source: Based on Fosu, 2013.
+Case example 8.1
+Institutions and African economies
+The historical evidence for the now-developed countries, as documented by Chang (2003), 
+would seem to support this broad conclusion. He considers six categories of institutions as they were 
+ 
+in nineteenth-century developed countries – democracy, bureaucracy (including the judiciary), 
+property rights, corporate governance institutions, financial institutions, and welfare and labour 
+institutions – and reaches the following conclusions:
+1.	 The now-developed countries did not develop on the basis of democracy. Universal suffrage 
+only came in the twentieth century. Poor developing countries today are adopting suffrage at 
+much lower levels of income than in now-developed countries.
+2.	 Public offices and the judiciary were historically corrupt. Appointments were made not on 
+merit, but through class or political connections, and the judiciary often lacked independence, 
+dispensing justice according to class and race.
+3.	 Property rights, such as contract law, company law, bankruptcy law, tax law and land law, were 
+all lax historically. So, too, were intellectual property rights. Chang remarks with respect to 
+patents, copyrights and trademarks: ‘the protection fell well short of what is demanded in 
+developing countries today’.
+254
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+4.	 In most now-developed countries, modern corporate governance structures emerged after, 
+rather than before, industrial development. There was no proper auditing of companies and 
+no bankruptcy law, and competition laws did not properly exist until the twentieth century.
+5.	 Banking regulation in the nineteenth century was very perfunctory, and banks only became 
+professional lending institutions, serving all the people, in the early twentieth century.
+6.	 Social security institutions to protect against change were virtually nonexistent.
+The lessons of history are that many institutions deemed to be important for poor developing 
+countries today emerged after, not before, economic development was taking place, and it took a 
+long time for them to emerge in fully fledged form from the time of their perceived need. Chang 
+(2003) is right to conclude, however, that this does not mean ‘the clock should be turned back’; 
+rather, that institutional development is not the sine qua non of economic development, and 
+institutional reforms in developing countries should not be imposed from outside, but should be 
+allowed to evolve naturally, internally.
+This would accord with the central conclusion of Rodrik (2000), namely everything we know 
+about economic growth indicates that large-scale institutional transformation is not so neces-
+sary for getting growth started, but that it is very important for sustaining it. This conclusion 
+is based on the pioneering research by Hausmann et al. (2005) on ‘growth accelerations’. The 
+secret of economic success in the early stages of development is to find the ‘binding constraints’ 
+on growth using ‘growth diagnostics’ (see Chapter 4). This does not require wholesale institu-
+tional reform.
+Summary
+•
+• Institutional structures and rules of behaviour are a necessary condition for economic activity 
+to flourish because incentives and price signals in a market economy cannot function properly 
+without them.
+•
+• There are at least five main types of market-supporting institutions that are necessary, if not suf-
+ficient, conditions for rapid economic progress: property rights and legally binding contracts; 
+regulatory institutions; social insurance institutions; institutions for conflict management; and 
+institutions to secure macroeconomic stability.
+•
+• Poor countries are often characterized by a lack of trust and the rule of law; weak institutions 
+to mitigate risk and manage social conflict; no clearly defined system of property rights; an 
+inadequate regulatory apparatus to curb fraud and anti-competitive behaviour; and a lack of 
+clean government.
+•
+• Without property rights and the rule of law, the incentive to invest, on which economic growth 
+ultimately depends, is very weak.
+•
+• It is not easy to bring about institutional change. There is a collective action problem, which 
+limits potential gainers from bringing about change in opposition to vested interests, including 
+the free-rider problem and the bargaining problem of distributing the gains.
+•
+• It is not easy to measure institutional development and its impact on economic performance 
+because institutional development itself is endogenous to economic development. An ex­
+ogenous measure of institutions is required.
+•
+• Several different measures of institutions have been used in empirical work, such as a meas-
+ure of property rights and risk of expropriation; an aggregate governance index; an index of 
+255
+8  •  T H E  R O L E  O F  I N S T I T U T I O N S  I N   E C O N O M I C  D E V E L O P M E N T
+­
+democracy, political rights and civil liberties; an index of political instability; an index of corrup-
+tion; an index of economic freedom; and an index of social division.
+•
+• The economists Acemoglu, Johnson and Robinson believe that the fundamental cause of differ-
+ences in the level of development across countries in the world today is the historical evolution 
+of institutions, and that in those parts of the world where conditions were harsh, in Africa for 
+example, colonizers created ‘extractive states’ with no firm property rights, while in other parts 
+(e.g. the USA and Australia) colonizers settled in large numbers and built institutions conducive 
+ 
+to development. Disease and mortality rates in the nineteenth century are taken as an ex­
+ogenous institutional variable. The role of geography (a constant) is dismissed.
+•
+• If geography was the most important factor in development, the most (least) prosperous areas 
+prior to colonization should have continued to be the most (least) prosperous, but this is not 
+the case. On the other hand, geography, and its effects on disease and mortality, affected the 
+type of colonization and thus the character of institutions. The role of geography is therefore 
+controversial.
+•
+• Apart from the debate on institutions versus geography, most of the empirical work on the role 
+of institutions in economic development has been conducted on the influence of democracy 
+and political stability on economic performance.
+•
+• Rodrik finds that democracies deliver more predictable long-run growth rates, produce greater 
+short-term stability, handle adverse shocks better, and promote a fairer distribution of income 
+than non-democratic states.
+•
+• Chang shows, however, that the lessons of history are that many of the institutions that are 
+argued to be important for developing countries today emerged after, not before, economic 
+development was taking place; for example, democracy and property rights, contract law, com-
+pany law, bankruptcy law and tax law. His message is that institutions should be allowed to 
+evolve naturally, internally, and not be imposed from outside.
+1.	 Why are institutional structures and rules of behaviour a necessary condition for 
+economic activity to flourish?
+2.	 What institutions do you think are the most important for encouraging invest-
+ment in developing countries?
+3.	 What is the importance of local knowledge in building appropriate institutions?
+4.	 What are the major empirical problems of testing the relationship between insti-
+tutions and economic development?
+5.	 Briefly describe the Acemoglu, Johnson and Robinson theory of the link between 
+colonialism, institutions and economic development.
+6.	 Is it possible to distinguish the role of institutions and geography in explaining 
+differences in the level of development between countries?
+7.	 In what ways can democracy help and hinder economic development?
+Discussion questions
+Chapter 8
+256
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Note
+1.	 Keefer and Knack’s (1995) early study examined the impact of property rights on economic growth 
+across countries in the period 1974–89, using composite indices of contract enforceability and risk 
+of expropriation, and found a strong positive effect of property rights; stronger than the effect of 
+political instability or measures of civil liberties.
+Websites on institutions and market behaviour
+Transparency International www.transparency.org
+Heritage Foundation www.heritage.org
+Center for Global Development www.cgdev.org
+Freedom House https://freedomhouse.org/
+

@@ -1,0 +1,2254 @@
+533
+•
+• Introduction
+•
+• Balance of payments constrained growth
+•
+• The terms of trade
+•
+• The exchange rate and devaluation
+•
+• The IMF supply-side approach to devaluation
+•
+• The growth of world income and structural change
+•
+• Application of the balance of payments constrained growth model
+•
+• Capital ﬂows
+•
+• Exchange rate systems for developing countries
+•
+• The international monetary system and developing countries
+•
+• How the IMF works
+•
+• IMF lending
+•
+• Criticisms of the IMF
+•
+• The results of IMF programmes
+•
+• Special Drawing Rights (SDRs) and developing countries
+•
+• Summary
+•
+• Discussion questions
+•
+• Websites on balance of payments and IMF
+THE BALANCE OF PAYMENTS, 
+INTERNATIONAL MONETARY 
+ASSISTANCE AND 
+DEVELOPMENT
+16
+534
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+Introduction
+We have seen how the composition of trade of developing countries can lead to severe balance of 
+payments difficulties, which can act as a constraint on growth, and how vulnerable many devel-
+oping countries are to exogenous shocks that adversely affect their export earnings and import 
+payments.
+In this chapter we develop a simple model of balance of payments constrained growth, first 
+of all without capital ﬂows and then allowing current account deficits to be financed by capital 
+inﬂows. It is shown that growth consistent with current account equilibrium depends on four 
+major factors:
+1.	 What is happening to the real terms of trade (or real exchange rate) and the price elasticities of 
+demand for exports and imports.
+2.	 The growth of world income.
+3.	 The income elasticity of demand for a country’s exports.
+4.	 The income elasticity of demand for imports.
+We show that if the real terms of trade are constant, a country’s growth rate can be approximated 
+by the ratio of export growth to the income elasticity of demand for imports.
+The model has several policy implications relating to exchange rate policy, industrial policy 
+to improve the income elasticity of demand for exports, and trade policy to reduce the income 
+elasticity of demand for imports. Different types of exchange rate regimes are considered, from 
+fixed pegs to free ﬂoating, and a cautionary tale is told from the East Asian financial crisis of 
+1997.
+The model with capital ﬂows shows how capital inﬂows can relax the constraint of current 
+account equilibrium, but the extra growth is minimal because there are limits to the current 
+account deficit to GDP ratio (and the international debt to GDP ratio).
+The original purpose of the International Monetary Fund (IMF) was to provide short-term 
+balance of payments support to countries and it does this through various facilities, such 
+as Stand-By Arrangements, Extended Fund Facility, Extended Credit Facility, Standby Credit 
+Facility, Poverty Reduction and Growth Facility and other special facilities. But the IMF imposes 
+conditions on lending, and the more lending, the harsher the conditions. We examine the results 
+of the IMF’s programmes in developing countries and the criticisms of the policies imposed.
+The chapter ends with a discussion of the potential of Special Drawing Rights (SDRs) to 
+aid developing countries without them having to adjust to balance of payments difficulties by 
+deﬂating their economies.
+Balance of payments constrained growth
+Poor countries are in balance of payments deficit most of the time, but the deficits ﬂuctuate 
+according to internal and external economic circumstances. In the 1970s, for example, owing to 
+the oil shocks in 1973 and 1979 and the slowdown of world growth, the deficits grew consider-
+ably, despite a slowdown of internal growth that reduced the demand for non-oil imports. In the 
+early 1980s, the deficits contracted because most developing countries were forced to adjust (that 
+is, deﬂate their economies) in order to repay debt out of diminished export earnings. In the late 
+1980s, the deficits increased again, with some internal recovery and a greater willingness of the 
+international capital markets to resume lending. By 1996, the deficits totalled $98 billion, over half 
+535
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+of which was accounted for by Thailand, Indonesia, the Philippines, Malaysia and South Korea, 
+which all experienced serious financial crises in 1997. These countries had to readjust, and since 
+2002, East Asia and the Pacific have been in big surplus. Today, China has a huge surplus, but many 
+African countries have deficits in excess of 10% of GDP. The world as a whole is plagued with seri-
+ous payments imbalances. For any country or continent, the observed deficit (ex post) measures 
+the extent to which it has been able and willing to finance the difference between the value of 
+import payments and the value of export receipts.
+All countries have a growth rate that is consistent with balance of payments equilibrium on 
+the current account, and with its overall balance on the current and capital account. What deter-
+mines the growth rate that is consistent with current account balance on the one hand, and over-
+all balance on the other? If we specify the equilibrium equations and the determinants of import 
+and export demand, we can immediately see the major factors of importance, and we can, in turn, 
+understand the various policy measures taken by individual countries and the international com-
+munity to raise the growth rate of less developed countries consistent with balance of payments 
+equilibrium. For the original development of this model, see Thirlwall (1979). For an overview 
+of the literature, see McCombie and Thirlwall (1997, 2004), Thirlwall (2011) and Soukiazis and 
+Cerqueira (2012).
+The current account balance of payments of a country, measured in its own domestic currency, 
+may be written as:
+PdX 5 Pf ME
+(16.1)
+where X measures the quantity of exports and Pd is the average price of exports, so PdX is the value 
+of exports in domestic currency. M is the quantity of imports, Pf is the average (foreign) price of 
+imports and E is the nominal exchange rate measured as the domestic price of foreign currency, 
+which thus converts the value of imports measured in foreign currency (Pf M) into a domestic 
+currency equivalent.
+The condition for the balance of payments to remain in equilibrium in a growing economy 
+through time is that the rate of growth of export earnings should equal the rate of growth of 
+import payments, that is:
+(pd 1 x) 5 (pf 1 m 1 e)
+(16.2)
+where the lower-case letters represent rates of change of the variables.
+Now let us consider what the growth of export and import volume depends on. Export demand 
+may be expected to depend primarily on the price of a country’s exports relative to the foreign 
+price of similar goods (expressed in a common currency) and on the level of ‘world’ income, 
+which determines the purchasing power over a country’s goods. Similarly, import demand may 
+be expected to depend on the price of imports relative to domestic substitutes and on the level 
+of domestic income. If the price and income elasticities of demand for exports and imports are 
+assumed to be constant, we may write the export and import functions in the following (multi-
+plicative) way:
+X 5 Aa Pd
+PfE b
+h
+ZP
+(16.3)
+and:
+536
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+M 5 Ba 
+PfE
+Pd
+ b
+c
+Yp
+(16.4)
+where Z measures ‘world’ income; Y measures domestic income; h is the price elasticity of demand 
+for exports (< 0); P is the income elasticity of demand for exports (> 0); c is the price elasticity 
+of demand for imports (< 0); π is the income elasticity of demand for imports (> 0); and A and B 
+are constants.
+Taking small rates of change of the variables in equations (16.3) and (16.4), we can see what the 
+growth of exports and imports depends on:
+x 5 h(pd 2 pf 2 e) 1 P(z)
+(16.5)
+and:
+m 5 c(pf 1 e 2 pd) 1 p(y)
+(16.6)
+In other words, export growth depends on:
+1.	 How fast domestic prices are changing relative to foreign prices, taking into account variations 
+in the exchange rate (e), multiplied by the price elasticity of demand for exports.
+2.	 How fast world income is changing, together with the value of the income elasticity of demand 
+for exports.
+We rule out here the possibility that developing countries can sell any amount of their goods on 
+world markets at the going price, which would mean that the income elasticity of demand, and 
+what is happening to world purchasing power, does not matter, and that export growth is simply 
+supply determined. This may be true in the case of some commodities from some small countries, 
+but the proposition that demand conditions do not matter for export performance does not 
+stand up to empirical scrutiny as a general rule. There are very few countries that are pure price-
+takers in international trade.
+Likewise, import growth depends on:
+1.	 How fast import prices are changing relative to domestic substitutes (taking account of ex-
+change rate changes), multiplied by the price elasticity of demand for imports.
+2.	 How fast domestic income (as a proxy for expenditure) is changing, together with the income 
+elasticity of demand for imports.
+Since the growth of imports depends on the growth of domestic income, if we substitute equa-
+tions (16.5) and (16.6) into equation (16.2) (which gives the condition for a moving balance of pay-
+ments equilibrium through time), we can derive an expression for a country’s growth of income 
+that is consistent with current account equilibrium, which depends on certain key variables and 
+parameters. Substitution of (16.5) and (16.6) into (16.2) gives:
+pd 1 h(pd 2 pf 2 e) 1 P(z) 5 pf 1 c(pf 1 e 2 pd) 1 p(y) 1 e
+(16.7)
+so that:
+y 5  
+(1 1 h 1 c)(pd 2 pf 2 e) 1 P(z)
+p
+
+(16.8)
+537
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+Before embarking on discussion, let us identify in words what this growth rate depends on, 
+which must be binding if current account deficits cannot be financed:
+1.	 It depends on the rate at which the real terms of trade are changing (pd − pf − e). The real terms 
+of trade are the ratio of export to import prices measured in a common currency (Pd/Pf E). A 
+rise in this ratio, that is (pd − pf − e) > 0, raises real income growth consistent with current ac-
+count equilibrium (other things being constant), and a fall in this ratio lowers the balance of 
+payments equilibrium growth rate. This is the pure terms of trade effect on income growth.
+2.	 If the real terms of trade are changing, the growth rate depends on the price elasticities of 
+demand for exports (h) and imports (c), which determine the magnitude of the volume re-
+sponse of exports and imports to relative price changes. For surveys of estimating export and 
+import demand functions, see Senhadji and Montenegro (1999) and Senhadji (1998).
+3.	 One country’s growth depends on the growth rates of other countries (z) – which neatly illus-
+trates the interdependence of the world economy – but the rate at which one country grows 
+relative to others depends crucially on the income elasticity of demand for its exports (P), 
+which depends on the tastes of foreign consumers, the characteristics of goods, and a whole 
+host of non-price factors that determine the demand for goods in international trade. One 
+of the main reasons why some countries have a healthier balance of payments and a higher 
+growth rate than others is related to the characteristics of the goods they produce and export 
+in world trade. What you export matters (Hausmann et al., 2007).
+4.	 The growth rate depends on a country’s appetite for imports, as measured by π, the income 
+elasticity of demand for imports. The higher is π, the lower the growth rate that is consistent 
+with balance of payments equilibrium on the current account.
+These factors show the rationale for agreements to prevent the terms of trade deteriorating for 
+developing countries, for exchange rate policy, for international Keynesianism to maintain the 
+growth of world income, and for policies to induce structural change – through export promo-
+tion or import substitution – in order to raise the income elasticity of demand for exports and to 
+reduce the income elasticity of demand for imports. Let us take up some of these issues in turn.
+The terms of trade
+The effect of terms of trade deterioration (import prices rising faster than export prices, other 
+things remaining the same) is to worsen the balance of payments at a given rate of growth or, what 
+amounts to the same thing, to reduce the rate of growth of income consistent with current account 
+equilibrium. For example, if in equation (16.8), import prices were rising at 10% per annum while 
+the price of exports was rising at only 5% per annum, this would mean a lower y than if the terms of 
+trade were constant. In theory, this ‘terms of trade effect’ could be offset by a continual apprecia-
+tion of the currency; that is, by a continual percentage fall in E(e < 0), but very few developing coun-
+tries, if any, are in a position to appreciate their currencies even if they wanted to. Terms of trade 
+stability in real terms must depend, or rely, on international commodity agreements to stabilize the 
+prices of the exports of developing countries relative to the prices of the goods they import. Within 
+this framework of analysis, the rationale for terms of trade agreements is apparent.
+It is not clear, however, that terms of trade deterioration is always a bad thing, because 
+what happens to export earnings and import payments, and hence to the balance of payments 
+equilibrium growth rate, depends not only on changes in relative prices but also on the volume 
+response of exports and imports to price changes. Since the price elasticities, h and c, are defined 
+538
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+as negative, it can be seen from equation (16.8) that if their sum exceeds –1, pd < pf will mean 
+that y is higher than would be the case if pd > pf . In other words, the export and import volume 
+response to domestic export prices rising more slowly than import prices is sufficient to offset the 
+fact that more has to be paid for a given volume of imports relative to exports. If, however, the 
+price elasticity of demand for the exports of a developing country is low because of the nature 
+of the product in question (for example, a primary product), and the price elasticity of demand 
+for imports is also low because the imports are necessities, the balance of payments will worsen 
+if the terms of trade deteriorate, and growth will have to be constrained for the preservation of 
+balance of payments equilibrium. In these circumstances, commodity agreements assume great 
+importance and it would be beneficial if the ratio of export prices to import prices were to rise. 
+In Chapter 15, we considered various commodity schemes aimed at stabilizing export prices, or 
+changing the relative price of exports and imports. We also noted that this will not necessarily 
+stabilize export earnings if there are ﬂuctuations in export supply. The international response 
+to this has been to devise schemes to compensate for loss of export earnings. In the past, the 
+IMF operated a Compensatory and Contingency Financing Facility to cover shortfalls of export 
+earnings, but now countries must use other emergency financing facilities (see below).
+Another argument for stabilizing the export prices of developing countries and maintaining 
+their incomes is that price and income instability tend to depress the world economy as a whole 
+and the developing countries with it, given the interdependence between countries in the world 
+economy. Falling prices and incomes in developing countries reduce the purchasing power over 
+industrial goods, inducing recession, while rising commodity prices may also induce recession 
+by raising the price of manufactured goods and inducing deﬂation in developed countries. For 
+the smooth growth of the world economy, there is a lot to be said for attempting to stabilize the 
+prices of primary products so that the purchasing power of the producers and exporters of these 
+commodities grows in line with supply. One suggestion is that Special Drawing Rights (SDRs) (see 
+below) might be used to purchase primary products in order to stabilize their price in times of 
+glut, on the lines of Keynes’ ‘commod control’ scheme (see Chapter 15).
+The exchange rate and devaluation
+Now suppose that export prices do rise more quickly than import prices, improving the terms of 
+trade, but that the sum of the price elasticities of demand for exports and imports exceeds unity, 
+what then? This will worsen the balance of payments and reduce the balance of payments equi-
+librium growth rate. It is in these circumstances that exchange rate depreciation may become 
+relevant, and is often resorted to. It can be seen from equation (16.8) that if a country’s rate of 
+price increase is above that of other countries (pd > pf), this can, in principle, be compensated for 
+by allowing the exchange rate to depreciate continually (e > 0) by the difference between pd and 
+pf in order to hold ‘competitiveness’ steady. The conventional approach to balance of payments 
+adjustment, and the policy pursued relentlessly by the IMF in countries experiencing balance 
+of payments difficulties, is downward adjustment of the exchange rate. Note, however, that the 
+rationale of such a policy presupposes a number of things:
+•
+• That the source of the difficulties is price uncompetitiveness.
+•
+• That the price elasticities are ‘right’ (that is, they sum to greater than unity) for a depreciation 
+to reduce the imbalance.
+•
+• That the real terms of trade (or the real exchange rate) can be changed by devaluation.
+539
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+A fall in the nominal exchange rate, however, that is, e > 0, may lead either to a fall in Pf (pf < 0) or 
+a rise in Pd(pd > 0), both of which would nullify the effect of the devaluation (see equation (16.8)). 
+A fall in Pf might come about if foreign suppliers desired to maintain their competitiveness as the 
+devaluing country became more competitive. This is known as pricing to market; that is, foreign 
+exporters reduce their markups in response to nominal exchange rate changes in order to remain 
+competitive in world markets. A rise in Pd may come about as the domestic price of imports 
+rises as a result of devaluation, which is then followed by a domestic wage–price spiral. Either 
+way, within a short space of time, relative prices measured in a common currency may revert to 
+their former level and devaluation will have been ineffective in this respect. Edwards (1989) has 
+looked at the effectiveness of devaluation in reducing a country’s real exchange rate. He studied 
+39 cases of devaluation in 25 developing countries in the period 1962–82, and found that, in most 
+cases, devaluation had been eroded by domestic inﬂation within three years. Devaluation must 
+be backed by restrictive monetary and fiscal policies if it is to be effective, but this can lead to 
+un­
+employment. A detailed case study of Mexico by Kamin and Rogers (2000) shows that devalua­
+tion has nearly always been associated with high inﬂation and economic contraction.
+Note also that a one-shot devaluation or depreciation of the currency cannot put a country 
+on a permanently higher growth path that is consistent with balance of payments equilibrium. 
+Currency depreciation would have to be continuous (that is, e > 0 permanently) for this to hap-
+pen, unless devaluation can somehow induce favourable structural changes at the same time. 
+Countries must look very carefully at the prevailing conditions before embracing currency devalu-
+ation as a panacea for the relief of balance of payments constrained growth. There are three major 
+worries.
+First, raising the domestic price of imported goods can be a highly inﬂationary policy for an 
+open economy that is heavily dependent on imports, as many developing countries have discov-
+ered to their cost, particularly in Latin America, and some countries have had the courage to resist 
+IMF support, which has been conditional on devaluation. In the eyes of some, the acronym IMF 
+stands for (I)nﬂation, (M)isery and (F)amine.
+Second, depreciation can be dangerous because it prematurely shifts resources into the trad-
+able goods sector, where productivity may be lower than in the non-tradable goods sector. This is 
+argued forcefully by Yotopoulos (1996), who believes that there is a tendency for the real exchange 
+rate to be undervalued because of weakness on the capital account of the balance of payments, 
+depressing the nominal exchange rate. In the early stages of development, developing countries 
+should therefore protect the nominal exchange rate from depreciation through the use of con-
+trols and intervention in the foreign exchange market, and only start to liberalize once the foreign 
+exchange market has become more fully developed and currencies are not regarded as ‘soft’ by 
+the outside world. In the 33 countries studied by Yotopoulos (1996), there was a negative relation 
+between changes in the real exchange rate and the growth of per capita income for most of the 
+1970s and 1980s (holding other factors constant).
+Third, the effect of currency devaluation is to make countries more competitive in the range of 
+goods that were the source of their balance of payments difficulties in the first place. A devalued 
+currency might encourage export sales of new (manufactured) goods with a high price elasticity 
+in world trade, but it might be inappropriate for the traditional range of goods produced and 
+exported with a low price elasticity of demand. For example, if a country is a large supplier and a 
+price-maker in world markets, currency devaluation coupled with low price elasticity will reduce 
+export earnings. If the country is a price-taker, devaluation will raise the domestic price of the 
+commodity and cause inﬂation. It is true that production for export will become more profitable 
+540
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+and might encourage a greater supply response, but there are other less inﬂationary ways to 
+encourage supply than devaluation. The different types of exchange rate systems available in 
+developing countries are discussed below.
+The IMF supply-side approach to devaluation
+Devaluation, as well as permitting a reduction in the foreign currency price of exports, may also 
+increase the profitability of exporting, by raising the price of tradable goods relative to the price 
+of non-tradables, and by providing exporters with more domestic currency per unit of foreign 
+exchange earned. The IMF, having conceded that the price elasticity of demand for many of 
+the goods exported and imported by developing countries (particularly as a group) is low, now 
+increasingly uses this supply-side argument as a justification for devaluation. If output is stimu-
+lated, this will, to a certain extent, also mitigate the contraction of aggregate monetary demand 
+that results from devaluation and any accompanying expenditure-reducing policies.
+The IMF supply-side approach to devaluation was first articulated in print by Nashashibi (1980) 
+with reference to the Sudan. The approach first requires the calculation of foreign exchange earn-
+ings per unit of domestic resources employed for a range of tradable goods. Export (and import 
+substitute) activities can then be arranged on a profitability scale and, according to the supply-
+side argument, the appropriate devaluation is the one that goes down the scale far enough to 
+ensure the profitability of traditional exports, as well as (perhaps) to encourage new activities. 
+Thus, if the current exchange rate for the Sudan was, say, US$2 to S£1 and foreign exchange earn-
+ings per unit of domestic resources were calculated to be less than this for most commodities, it 
+would clearly be unprofitable to produce for export, and the exchange rate should be devalued 
+to bring the production of tradables within the margin of profitability. Foreign exchange earnings 
+per unit of domestic resources are measured as:
+C 5  (PxX 2 PmM)r
+PdD
+
+(16.9)
+where X refers to exports, Px is the world price of exports in domestic currency, M is the quantity 
+of imported inputs, Pm is the price of imported inputs in domestic currency, D is the amount of 
+domestic resources used in production, Pd is the price of domestic inputs and r is the exchange 
+rate measured as the foreign price of domestic currency. If C > r, production is not profitable at 
+the existing exchange rate.
+It is clear from equation (16.9) that if devaluation is to improve profitability, the rise in (PxX − 
+PmM)/PdD must be more than the reduction in r. Unfortunately, this cannot be taken for granted. 
+It depends on the response of PxX, PmM, Pd and D to the change in r. The implicit assumptions 
+underlying the approach are that developing countries are price-takers, so that Px will rise in 
+proportion to the devaluation, that X will increase, that M will decrease, and that these favour-
+able effects will not be offset by rises in Pm and PdD. In practice, there may not be a complete 
+‘pass through’ of devaluation to export prices (Px), the elasticity of export supply may be very 
+low because of structural rigidities and factor immobility, and the elasticity of import prices 
+and domestic prices may be very high. The end result may be that the profitability of export-
+ing remains largely unchanged. This was the conclusion of a detailed study of devaluations in 
+the Sudan by Nureldin-Hussain and Thirlwall (1984), which looked at the profitability of cotton, 
+groundnuts, sesame and gum arabic.
+541
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+The Sudan and many other developing countries fall into the ‘rigid country’ classification 
+distinguished by Branson (1983) in his useful taxonomic discussion of trade structures and 
+devaluation. ‘Rigid’ countries are those that produce agricultural-based raw materials with low 
+supply elasticities and whose demand for imports is very inelastic in the short run, particularly for 
+imports used as intermediate inputs. In addition, the price elasticity of demand for exports may 
+be high but not infinite, and real wages may be sticky. In these circumstances, devaluation may be 
+a second best policy compared with ‘structural’ intervention to raise foreign exchange earnings 
+per unit of domestic inputs.
+The growth of world income and structural change
+Now let us turn to the growth of world income: z in equation (16.8). There is nothing that indi-
+vidual poor countries can do about the growth of world income, but since all countries are linked 
+through trade, the interdependence of countries and the importance of global prosperity is only 
+too apparent. This should be the overriding function of supranational institutions and mech­
+anisms: to keep world income and trade buoyant in the face of exogenous shocks and to avoid 
+the beggar-thy-neighbour policies that characterized the 1930s, when the whole world economy 
+slumped. The purpose of the IMF was to avoid a repetition of the 1930s – to help countries in 
+balance of payments difficulties and to avoid recourse to widespread protectionism, which can 
+export unemployment from one country to another in a downward spiral. This is the same pur-
+pose that underlies various schemes for the recycling of export surpluses and for managed trade; 
+that is, to relieve the balance of payments constraint on growth in countries that tend to have a 
+chronic deficit while other countries are in perpetual surplus. This was a major theme of the 1980 
+Brandt Report discussed in Chapter 1, and the major concern of countries during the financial and 
+economic crisis that hit the world economy in 2008.
+While individual countries have no control over the growth of world income, they do have 
+some control over the income elasticity of demand for their exports, which determines how fast 
+exports grow as a result of world income growth. Likewise, countries have some control over the 
+income elasticity of demand for imports, because both these parameters are a function of the 
+type and characteristics of the goods being produced for sale in international trade. Thus, they are 
+a function of the industrial and trade strategy being pursued.
+In Chapter 15, we discussed export promotion versus import substitution strategies. Import 
+substitution is designed to lower the import elasticity, but there is a limit to import substitution, 
+and the policy itself may lower the export elasticity at the same time by creating a rigid and ineffi-
+cient industrial structure. A much more fruitful strategy, which has been pursued relentlessly and 
+successfully by several Southeast Asian countries, is to concentrate on raising the export elasticity, 
+which may, at the same time, reduce the import elasticity if the goods produced for export also 
+compete with imports.
+Application of the balance of payments constrained growth model
+How well does the balance of payments constrained growth model outlined in equations (16.1)–
+(16.8) fit the growth experience of developing countries? Or, to put it another way, how well does 
+equation (16.8) predict the growth performance of developing countries? To answer this question, 
+it is convenient to simplify the model by assuming either that the sum of the price elasticities of 
+542
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+demand (h + c) does not differ significantly from unity, in which case equation (16.8) reduces 
+to y = Pz/π, and/or that relative prices in international trade do not change in the long run (or 
+the real exchange rate remains constant), in which case equation (16.8) reduces to y = Pz/π = x/π. 
+This latter result is often referred to as the dynamic Harrod trade multiplier result, because it is 
+the dynamic analogue of the static Harrod trade multiplier result Y = X/m, where Y is the level of 
+income, X is the level of exports, m is the marginal propensity to import, and 1/m is the foreign 
+trade multiplier (Harrod, 1933). Prima facie evidence that a country is balance of payments con-
+strained in its growth performance would be to find that its actual growth is close to or just above 
+its balance of payments equilibrium growth rate (financed by sustainable long-run capital inﬂows 
+– see below), combined with unemployed domestic resources.
+A number of studies have applied this simple model to individual or groups of developing 
+countries, and most are supportive that GDP growth can be predicted from the ratio of export 
+growth to the income elasticity of demand for imports. McCombie and Thirlwall (1994, 1997) give 
+a survey of studies up to 1996, McCombie and Thirlwall (2004) reprint 18 studies with an intro-
+ductory survey up to 2003, and Thirlwall (2011) lists over 40 studies in a history and overview of 
+the balance of payments-constrained growth model. Recent country studies include Nell (2003) 
+for South Africa, Razmi (2005) for India, Britto and McCombie (2009) for Brazil, and Felipe et al. 
+(2010) for Pakistan. Recent studies for groups of countries include Perraton (2003) for 51 develop-
+ing countries, Pacheco-López and Thirlwall (2006) for 17 Latin American countries, Gouvea and 
+Lima (2010) for 4 Asian and 4 Latin American countries, and Gouvea and Lima (2013) for a panel 
+of 90 countries. Case example 16.1 applies the model to Latin American countries.
+Studies are supportive of the model for two main reasons:
+1.	 It is shown overwhelmingly that real exchange rate changes are not an efficient balance of 
+payments adjustment weapon; it is income that adjusts to preserve balance of payments equi-
+librium.
+2.	 Capital flows make no substantial difference to the prediction of the current balance model 
+because there is a limit to the current account deficit to GDP ratio that countries can sustain.
+The results of these studies add weight to the idea and importance of export-led growth, dis-
+cussed in Chapter 15.
+Countries
+Actual GDP 
+growth (y) (%)
+Export growth 
+(x) (%)
+Income elasticity 
+of demand for 
+imports (π)
+Predicted balance of 
+payments constrained 
+growth rate (x/π) (%)
+Argentina
+1.33
+6.07
+3.66
+1.66
+Bolivia
+1.89
+3.46
+1.82
+1.90
+Brazil
+2.70
+8.07
+1.59
+5.08
+Chile
+5.50
+8.62
+2.03
+4.24
+Costa Rica
+3.94
+7.38
+2.27
+3.25
+Dominican Rep
+.4.23
+7.84
+0.92
+8.52
+Ecuador
+2.57
+5.38
+1.83
+2.94
+EI Salvador
+1.66
+5.03
+2.47
+2.04
+Case example 16.1
+Application of the balance of payments constrained growth model to 17 
+Latin American countries, 1977–2002
+543
+Capital ﬂows
+So far we have assumed growth to be constrained by the necessity to preserve current account 
+equilibrium on the balance of payments. In practice, of course, countries are allowed to run defi-
+cits, sometimes for substantial periods of time, financed by capital inﬂows from abroad from a 
+variety of sources. The extent to which the value of imports can exceed the value of exports to 
+finance a correspondingly higher level of income is determined by the net level of capital inﬂows. 
+Thus, we may write the equation for the overall balance of payments as:
+PdX 1 C 5 PfME
+(16.10)
+where C measures net capital inﬂows (including reductions in foreign exchange reserves) in 
+domestic currency. Taking the rates of change of this identity gives:
+E
+R (pd 1 x) 1  C
+R (c) 5 pf 1 m 1 e	
+
+(16.11)
+where E/R and C/R represent the proportion of total receipts to finance the import bill that come 
+from export earnings (E) and capital inﬂows (C), respectively. If we now substitute our expressions 
+for x and m (equations (16.5) and (16.6)) into equation (16.11), we can solve for the growth rate 
+associated with overall balance of payments equilibrium. This rate will depend on all the factors 
+already mentioned, and on the rate of growth of real capital inﬂows (c − pd). On substitution, we 
+obtain:
+y 5  
+(1 1  E
+R h 1 c)(pd 2 pf 2 e) 1  E
+R (P3z4) 1  C
+R (c 2 pd)
+p
+
+(16.12)
+Countries
+Actual GDP 
+growth (y) (%)
+Export growth 
+(x) (%)
+Income elasticity 
+of demand for 
+imports (π)
+Predicted balance of 
+payments constrained 
+growth rate (x/π) (%)
+Guatemala
+2.93
+2.14
+3.78
+0.57
+Honduras
+3.41
+2.44
+1.41
+1.73
+Mexico
+3.30
+11.38
+3.17
+3.59
+Nicaragua
+0.45
+1.40
+0.97
+1.44
+Paraguay
+3.73
+7.01
+2.48
+2.83
+Peru
+1.93
+5.25
+1.56
+3.37
+Uruguay
+1.43
+4.05
+2.13
+1.90
+Venezuela
+1.13
+1.74
+3.76
+0.46
+Source: Pacheco-López and Thirlwall, 2006.
+Case example 16.1
+Application of the balance of payments constrained growth model to 17 
+Latin American countries, 1977–2002 – (continued)
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+544
+This model is known as the extended version of the dynamic Harrod trade multiplier result 
+(that is, extended to allow for capital ﬂows). Apart from the weight, E/R, attached to the two 
+export elasticities, h and P, the only difference between equation (16.12) and our earlier result in 
+equation (16.8) is the addition of the last term (c − pd), which measures the growth of real capital 
+inﬂows (the growth of the nominal ﬂows, c, minus the rate of domestic inﬂation, pd). A positive 
+growth of capital inﬂows will allow a country to grow faster than would be the case if it was con-
+strained to maintain balance of payments equilibrium on the current account. On the other hand, 
+it must be said that a continually positive rate of growth of capital inﬂows implies an ever-growing 
+burden of debt, which is not sustainable in the long run. Thus, running current account deficits 
+to finance growth is not a feasible option in the long run, and other long-run strategies must be 
+pursued that relate to the determinants of the growth rate consistent with current account equi-
+librium. For the original development of this model, see Thirlwall and Nureldin-Hussain (1982).
+This model has been applied by Nureldin-Hussain (1999) to a sample of African and Asian 
+countries over the period 1970–90, with interesting results (Table 16.1). Each country’s growth 
+rate (column 1) is disaggregated into three components according to equation (16.12). The first 
+is the terms of trade effect, the second is the export volume effect, and the third is the effect on 
+growth of real capital inﬂows. It can be seen that the model fits remarkably well for most coun-
+tries, but the contribution of the different effects differs between countries, and between the two 
+continents of Africa and Asia. Africa has grown much more slowly than Asia, on average, and over 
+one-half of Africa’s growth (excluding that arising from oil exports) has been financed by capital 
+inﬂows. Movements in the terms of trade have also had an adverse effect on growth in Africa. In 
+Asia, by contrast, a much higher proportion of growth has been permitted by the rapid growth of 
+exports, and terms of trade movements have had a favourable effect on growth.
+Table 16.1  Estimates of extended version of dynamic Harrod foreign trade multiplier, 1970–90 
+(annual percentage average)
+Actual 
+growth 
+rate
+Terms of 
+trade effect 
+(A)
+Export 
+volume 
+effect (B)
+Real capital 
+inﬂow 
+effect (C)
+Predicted 
+growth rate 
+= (A) + (B) 
++ (C)
+African countries
+Egypt
+6.90
+−2.37
+4.36
+7.31
+9.30
+Congo, Dem. Rep.
+6.59
+  0.42
+3.88
+2.38
+6.67
+Kenya
+6.24
+−0.50
+1.62
+5.59
+6.71
+Mauritius
+5.80
+  0.92
+5.13
+0.19
+6.23
+Tunisia
+5.69
+  0.87
+5.24
+1.48
+7.59
+Burundi
+5.60
+  1.69
+3.21
+    −1.26
+3.65
+Cameroon
+5.50
+−1.12
+7.08
+0.00
+5.97
+Gabon
+5.10
+  0.49
+6.81
+     −0.04
+7.33
+Algeria
+4.90
+10.15
+4.21
+  −8.72
+5.64
+Morocco
+4.62
+−1.34
+2.83
+3.47
+4.96
+Côte d’Ivoire
+4.50
+  0.39
+4.23
+0.81
+5.43
+Lesotho
+4.40
+−3.43
+6.62
+1.55
+4.74
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+545
+Table 16.1  Estimates of extended version of dynamic Harrod foreign trade multiplier, 1970–90 
+(annual percentage average)
+Actual 
+growth 
+rate
+Terms of 
+trade effect 
+(A)
+Export 
+volume 
+effect (B)
+Real capital 
+inﬂow 
+effect (C)
+Predicted 
+growth rate 
+= (A) + (B) 
++ (C)
+Burkina Faso
+4.20
+−5.17
+3.03
+5.63
+3.50
+Somalia
+3.40
+−1.10
+0.18
+5.00
+4.07
+Zimbabwe
+3.23
+−2.40
+2.23
+   −1.24
+   −1.41
+Sudan
+3.10
+  0.14
+1.13
+1.92
+3.20
+Benin
+2.90
+  1.44
+0.96
+1.35
+3.75
+Tanzania
+2.90
+0.33
+    −0.55
+5.01
+4.79
+Togo
+2.90
+  0.08
+2.31
+0.61
+3.00
+Senegal
+2.67
+  0.23
+1.56
+1.05
+2.83
+Nigeria
+2.50
+  2.37
+1.28
+   −1.17
+2.48
+South Africa
+2.42
+−1.03
+1.32
+7.74
+8.03
+Mauritania
+2.30
+  0.68
+1.58
+0.42
+2.69
+Ethiopia
+2.20
+−0.09
+0.74
+2.53
+3.17
+Sierra Leone
+1.58
+−0.23
+    −0.67
+2.65
+1.75
+Zambia
+1.40
+−0.31
+    −1.29
+0.58
+   −1.02
+Ghana
+1.40
+−3.81
+0.15
+2.88
+   −0.79
+Niger
+0.81
+−5.07
+1.79
+3.47
+0.20
+Madagascar
+0.48
+−0.10
+0.06
+0.95
+0.91
+Average
+3.66
+−0.27
+2.45
+1.80
+3.98
+Average excluding oil exporters
+3.40
+−0.84
+1.99
+2.49
+3.64
+Asian countries
+Korea, Rep. of
+9.11
+−0.81
+     13.47
+   −2.49
+   10.17
+Hong Kong
+9.07
+−0.07
+8.34
+1.01
+9.28
+Indonesia
+10.76
+1.82
+3.18
+5.76
+7.58
+China
+8.20
+−0.02
+6.43
+0.26
+6.67
+Malaysia
+7.08
+−0.69
+6.60
+2.21
+8.12
+Thailand
+6.80
+0.96
+5.45
+2.61
+9.02
+Pakistan
+5.04
+−0.44
+4.28
+4.40
+8.24
+India
+4.31
+−0.85
+3.16
+1.96
+4.27
+Sri Lanka
+4.30
+−0.65
+2.33
+3.00
+4.68
+Japan
+4.20
+−1.42
+9.73
+−4.63
+3.68
+Philippines
+3.70
+0.22
+2.00
+0.26
+2.48
+Average
+6.60
+−0.18
+5.91
+1.31
+6.74
+Average excluding Japan and Korea
+6.58
+0.03
+4.46
+2.39
+6.70
+Source: Based on Nureldin-Hussain, 1999.
+– (continued)
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+546
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+Exchange rate systems for developing countries
+All countries have a wide choice of exchange rate systems, ranging from completely fixed to freely 
+ﬂoating, with a number of options in between. Which system a developing country chooses must 
+depend on its circumstances at the time, what exchange rate arrangements other countries are using, 
+and the long-run goals of economic policy. For example, a country may wish to pursue exchange rate 
+stability because of the instability and perceived disadvantages of ﬂoating rates, in which case it will 
+wish to choose some form of fixed exchange rate regime. Alternatively, a country may wish to use 
+its exchange rate to achieve various real objectives in the domestic economy, such as a faster rate of 
+growth and full employment, and therefore sets a target for the real exchange rate. With changing 
+domestic and foreign prices, a real exchange rate target will require frequent variations in the nom­
+inal exchange rate, in which case the country will wish to choose some form of ﬂexible exchange rate 
+regime. On the other hand, if inﬂation is the most serious problem within a country, currency depre-
+ciation to maintain a given real exchange rate may simply exacerbate inﬂation, and a country may 
+wish to anchor its currency to that of another country or even adopt the currency of another coun-
+try in order to gain monetary credibility. This would be an extreme form of exchange rate pegging.
+There is also the question of capital ﬂows. If a country has liberalized its capital markets and 
+the capital account of the balance of payments, and capital is free to move in and out, it will be 
+difficult, if not impossible, for a country to pursue an exchange rate target and operate an inde-
+pendent monetary policy at the same time. This is called the impossible trinity. Capital outﬂows, 
+for example, will cause a currency to depreciate in value. The only effective way to stop this is to 
+raise domestic interest rates, which depress the internal economy. The reverse dilemma occurs 
+with capital inﬂows. The only way to reconcile internal and external equilibrium is either to con-
+trol capital movements, or to allow the exchange rate to ﬂoat. Theoretically, free ﬂoating allows a 
+country to pursue a completely independent monetary policy geared to the goals of the domestic 
+economy, but, in practice, no country is completely indifferent to the value of its exchange rate, 
+particularly as it is a characteristic of the foreign exchange market that exchange rates may con-
+siderably overshoot their true ‘equilibrium’ value. These are just a few examples of the consider­
+ations and conditions that countries need to bear in mind in choosing an exchange rate regime. 
+For useful surveys of exchange rate policy in developing countries, see Argy (1990), Frenkel (1999), 
+Fischer (2001), Ghosh et al. (2002) and Ghosh and Ostey (2009). The spectrum of alternatives, 
+from hard pegs to ﬂoating, is given in Table 16.2.
+Each country must find its own solution, in the light of its own circumstances. The IMF gener-
+ally respects a country’s choice of exchange rate regime, and gives advice to support that choice. 
+The different options are discussed below, but the historical experience of the past 30 years or so 
+points to three broad policy conclusions (Fischer, 2001):
+1.	 Intermediate positions between hard pegs and ﬂoating (what might be called ‘soft’ pegs) are 
+not sustainable without capital controls.
+Table 16.2  Types of exchange rate regime
+Hard pegs
+Intermediate regimes
+Floating
+Currency boards
+Pegged exchange rates
+Free ﬂoat
+Currency unions
+Crawling peg
+Managed ﬂoat
+Dollarization, or adopting the currency of another 
+country
+Exchange rate band
+Crawling band
+547
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+2.	 While countries have shifted from intermediate regimes to either end of the spectrum (more 
+towards ﬂoating than hard pegs), a wide range of ﬂexible rate arrangements still remains pos-
+sible.
+3.	 Countries are not indifferent to exchange rate movements, so independent ﬂoating is not an 
+option and can be dangerous.
+Let us now brieﬂy consider the different types of exchange rate regime listed in Table 16.2, and 
+their advantages and disadvantages.
+A currency board is an extreme form of hard peg that requires each unit of a country’s cur-
+rency to be backed by an equal amount of a reserve currency, such as the US dollar. The cur-
+rency board system was widely practised in Africa under British rule before independence. More 
+recently, Argentina decided to anchor its currency to the US dollar in this way but went into seri-
+ous recession with the appreciation of the US dollar in 2000–01, and the currency peg was even-
+tually abandoned. Linking a weak currency to a stronger currency can be a useful anti-inﬂation 
+device to gain monetary credibility. Indeed, the system is reminiscent of the old gold standard 
+system, where the currency had to be backed up by gold, with the money supply expanding and 
+contracting according to the balance of payments and changes in international reserves. The two 
+major disadvantages of currency board systems are:
+1.	 The credit for entrepreneurs to invest is not elastic to the needs of trade (because it depends 
+on the availability of foreign exchange reserves),
+2.	 If the reserve currency appreciates in value, so too does the currency that is linked to it. This 
+can cause serious problems of competitiveness with other trading partners, and damage ex-
+ports and the balance of payments.
+Another extreme form of hard peg is a currency union, where countries decide to adopt 
+a common currency, so that, by definition, exchange rates between member countries of the 
+union disappear. Countries may decide to enter a currency union if they feel that multiple 
+currencies, exchange rate volatility and uncertainty are seriously damaging trade, and that 
+the overall benefits of surrendering monetary independence exceed the costs. The condi-
+tions for an optimal currency area, in which the benefits to the members exceed the costs, 
+are that:
+1.	 Economic cycles should be synchronized and economic shocks symmetrical so that a single 
+monetary policy is suitable for all members.
+2.	 Labour and capital are freely mobile.
+3.	 Fiscal transfer mechanisms exist to help disadvantaged regions.
+4.	 Multiple currencies are seriously damaging trade.
+It is never easy for a country to know whether the benefits will exceed the costs, and decisions are 
+often taken on political, as well as economic, grounds. It is important to stress, however, that the 
+fact that a country has no exchange rate to defend vis-à-vis its partners does not mean that the 
+country avoids balance of payments problems; they just show up in a different form (Thirlwall, 
+2007). If plans to import exceed plans to export, balance of payments difficulties will manifest 
+themselves in falling output and rising unemployment, unless there are compensating capital 
+transfers between the members of the currency union. The francophone countries of West Africa 
+are part of a currency union that now uses the euro as the common currency, and the eurozone, 
+the largest currency union in the world, comprises 19 (of the 28) countries of the EU with the euro 
+as its common currency.
+548
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+Another form of hard peg is to simply adopt the currency of another country, referred to as 
+dollarization in the case of adopting the US dollar. As far as monetary and exchange rate policy 
+is concerned, the country becomes an adjunct to the country issuing the currency. This is a last 
+resort for countries unable to manage their own affairs. In recent years, Ecuador and El Salvador 
+have dollarized.
+Pegged exchange rates are fixed exchange rates, but adjustable. This was the system set up 
+at Bretton Woods in 1944, by which each country’s currency was pegged to the US dollar, so 
+that all bilateral rates of exchange between countries were also pegged. The system was called 
+the ‘adjustable peg system’, however, because if countries found themselves in fundamental bal-
+ance of payments disequilibrium, with unsustainable deficits, they were allowed to adjust the rate 
+of exchange with the dollar and therefore other currencies too. The system gave exchange rate 
+stability, and avoided competitive devaluation by countries that characterized the beggar-thy-
+neighbour policies of the 1930s, but proved difficult to sustain in a world of increasing capital 
+mobility. This is the problem for any country wishing to peg its exchange rate. If a currency is 
+under pressure, the existence of a peg gives a one-way option for speculators. The currency mar-
+kets anticipate that the peg can be adjusted only downwards, which then makes the currency 
+vulnerable to speculative attacks. With large amounts of capital freely mobile, it is very difficult 
+to maintain a pegged rate while attempting to pursue an independent monetary policy, because 
+the interest rate has to be used to defend the currency. It was largely speculative capital ﬂows, 
+and the inability of the USA to meet the promise of exchanging dollars for gold, that caused the 
+international monetary system established at Bretton Woods to break down in 1972. Since then, 
+other countries that have tried to peg rates have met with a similar fate. To quote Fischer (2001): 
+‘in recent years, fixed or pegged exchange rates have been a major factor in every major emerging 
+market financial crisis – Mexico at the end of 1994; Thailand, Indonesia and Korea in 1997; Russia 
+and Brazil in 1998; Argentina and Turkey in 2000 … and 2001’.
+If countries do decide to peg their exchange rate, there are three broad choices of peg:
+1.	 Pegging to a single currency such as the dollar, pound or euro.
+2.	 Pegging to an individually tailored basket of currencies reﬂecting the trade of the country con-
+cerned.
+3.	 Pegging to a common basket of currencies such as the SDR (special drawing rights), which, 
+since 2016, has been a weighted basket of the world’s five major currencies – the dollar, the yen, 
+the euro, the pound and the Chinese yuan (renminbi).
+The question is: Which peg to choose? This will depend on what the country is trying to achieve. 
+If it is macroeconomic stability, pegging against just one currency is unlikely to be optimal since 
+movements in a country’s exchange rate may bear no relation to its own balance of payments, but 
+instead will move according to the balance of payments of the country that the currency is pegged 
+to. Ideally, the pegged rate needs to balance out the effect of individual bilateral exchange rate 
+changes over the economy as a whole. This requires pegging to a basket of currencies, where the 
+weights should reﬂect the direction and elasticity of total trade (exports and imports) between 
+the country and its trading partners. Pegging to a common basket of currencies, such as the SDR, 
+is likely to be superior to pegging to just one currency, but inferior to an individually tailored 
+basket of currencies.
+To preserve the advantages of a fixed exchange rate, but to minimize the speculative pressures 
+that can build up with the prospect of currency depreciation, there are various, more ﬂexible, 
+intermediate exchange rate regimes.
+549
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+One possibility is a crawling peg. Under a crawling peg, a country maintains its pegged 
+exchange rate within agreed margins at a level equal to the moving average of the market exchange 
+rate over a previously agreed time period. This allows a country’s currency to drift gradually lower 
+if circumstances warrant, but avoids the upheaval of devaluation under an adjustable peg system 
+and the possibility of excessive depreciation under free ﬂoating. To avoid speculation against the 
+currency, the interest rate can be raised by a margin equal to the permitted rate of depreciation.
+A variant of the crawling peg is an exchange rate band, whereby the country allows the 
+exchange rate to vary within a specified range. A crawling band allows the exchange rate band 
+itself to move over time.
+The furthest extreme of ﬂexibility is to allow a currency to ﬂoat completely independently with-
+out any intervention at all. This implies that the country is completely indifferent to its exchange rate. 
+In practice, no country can be indifferent if it is concerned with macroeconomic stability. Exchange 
+rates can overshoot wildly, which can be very disruptive, and a rapidly depreciating currency can be 
+a serious source of inﬂation by raising the domestic price of imports. It also needs to be stressed that 
+although free ﬂoating, by definition, guarantees equilibrium in the foreign exchange market (because 
+the exchange rate is the price that equilibrates the supply and demand for foreign exchange), it does 
+not guarantee equilibrium on the current account of the balance of payments because the demand 
+elasticities for imports and exports may not be of the right order of magnitude. This may then involve 
+the unsustainable build-up of debt if deficits are financed by foreign borrowing.
+Although many countries claim to have moved towards greater exchange rate ﬂexibility in 
+recent years, in practice, they intervene. This is called managed ﬂoating. Countries have no target 
+rate of exchange, no peg, no official band, but they intervene on a daily basis according to circum-
+stances. Managing the exchange rate is easier when there are controls on capital ﬂows. Capital 
+controls insulated China from the exchange rate turmoil that hit many countries in Southeast 
+Asia in 1997 (see Case example 16.2). In 1998, Malaysia imposed capital controls in order to man-
+age its exchange rate more effectively (see Athukorala, 2001). For a short time, Chile imposed 
+a tax on capital inﬂows so that it could operate a policy of monetary contraction to control 
+inﬂation without leading to destabilizing capital inﬂows.
+The financial crisis in East Asia erupted in July 1997 when pressure on the Thai baht 
+became so severe that the government was compelled to cease defending the fixed 
+exchange rate and to allow the currency to float, in order to avoid defaulting on its 
+international obligations. There was rapid contagion throughout the region, leading 
+to a collapse of the currencies of Thailand, Indonesia, Malaysia, the Philippines and 
+Korea (the Asia-5) within a matter of weeks. Accompanying the currency collapse were 
+steep falls in these countries’ stock markets, which spread to other economies such as 
+Singapore and Hong Kong, whose currencies remained relatively stable. The turmoil 
+rapidly turned into a major world financial crisis and not only had dramatic effects 
+on the region’s growth performance, but also substantially reduced world economic 
+growth. What happened in East Asia in 1997 provides an illuminating case study, and 
+cautionary tale, of the danger to countries of attempting to run large balance of pay-
+ments deficits financed by short-term capital inflows, while trying to maintain a fixed 
+exchange rate.
+continued overleaf
+Case example 16.2
+The 1997 East Asian financial crisis: a cautionary tale
+550
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+The question is: Why did this region, previously described by economists and com-
+mentators as representing a ‘growth miracle’, plunge into one of the world’s most ser­
+ious postwar recessions? The answer is that, for some time, there had been a major 
+imbalance in the external accounts of the Asia-5 countries, but no one warned of the 
+danger, not even the IMF, who did not see the crisis coming. The deficits of 5% and 
+more of GDP were being financed by shorter term volatile capital inflows. Volatile 
+flows constituted over 60% of external financing in the years prior to 1997. The mas-
+sive capital inflows led to imprudent lending by the domestic banks, and a rapid ex-
+pansion of credit, leading to asset and property bubbles. The latter encouraged even 
+further capital inflows. It became clear to investors that the exchange rate could not 
+be maintained, and once market sentiment changed, a self-fulfilling prophecy devel-
+oped, leading to a vicious circle of capital flight, falling exchange rates and a collapse 
+in the regional stock exchanges. Once capital begins to move out of a region and the 
+exchange rate begins to fall, no one wants to be caught holding assets valued in do-
+mestic currency. The capital loss caused by a depreciating currency can far outweigh 
+any possible gains in higher returns or in higher interest rates that are imposed to try 
+to restore confidence.
+The East Asian financial crisis exposed some fundamental weaknesses in the Asian 
+growth process, although not the underlying factors that gave rise to rapid growth 
+rates in the first place. Particularly, it showed the danger (and this is a warning to other 
+countries) of the rapid liberalization of international capital flows before the domes-
+tic banking system has developed sufficient regulatory control, and of financing ever-
+growing balance of payments deficits relative to GDP by increasingly short-term capital 
+flows. The balance of payments becomes the ultimate constraint on the growth per-
+formance of nations.
+Source: Based on McCombie and Thirlwall, 1999.
+Case example 16.2
+The 1997 East Asian financial crisis: a cautionary tale – continued
+Finally, it needs to be said that an optimal exchange rate strategy for a developing coun-
+try ought to recognize the dual structure of most countries and that a single exchange rate 
+for all commodities may not be appropriate. Either a dual exchange rate is required, or 
+some system of taxes and subsidies to achieve the same effect. A classic early reference argu-
+ing the case for dual exchange rates is Kaldor (1964). Under a dual exchange rate system, 
+a fixed (official) rate could apply to primary commodity exports (and to essential imports 
+to keep their domestic price low) and a free (devalued) rate could apply to manufactured 
+exports with a high price elasticity of demand (and to inessential imports). With a foreign 
+exchange shortage, the free rate would produce a domestic price of foreign exchange well 
+above the official rate. The higher the free rate, or the greater the degree of devaluation, 
+the greater the stimulation of manufactured exports and the greater the discouragement of 
+inessential imports.
+The main administrative problem with dual exchange rates is to separate the two markets, 
+to ensure that export proceeds from primary commodity exports are surrendered at the 
+official rate and that foreign exchange bought at the official rate is used for essential imports. 
+The former can be achieved through state marketing boards, the latter through strict licen­
+sing. Currency auctions – selling foreign exchange for non-essential purposes to the highest 
+551
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+bidder – is another form of dual (or multiple) exchange rate policy. In the early days of the 
+IMF, dual and multiple exchange rates were discouraged and frowned upon as interfering 
+with free trade and exchange, but in more recent years, greater tolerance has been shown.
+Recent research on the relation between the exchange rate regime adopted by countries and 
+the functioning of the real economy shows the following:
+•
+• Under pegged regimes, inﬂation is lower, the growth of output is not affected, but output vola-
+tility is higher than under ﬂexible exchange rate regimes (Ghosh et al. 2002).
+•
+• Pegged regimes are more prone to currency crises than ﬂoating exchange rate regimes, par-
+ticularly in countries more integrated with international financial markets, but intermediate 
+regimes are even more prone to crisis than the bipolar extremes of hard pegs or free ﬂoating 
+(Bubula and Otker-Robe, 2004).
+•
+• Countries with ﬂexible exchange rate regimes absorb terms of trade shocks more easily 
+than countries with fixed exchange rate regimes, so that output is less volatile (Broda, 
+2004).
+So, trade-offs are involved. Pegged exchange rates are best for controlling inflation, but they 
+constrain the use of other macroeconomic policies such as scope for countercyclical fiscal policy 
+because agents fear that countries will intervene to control expected currency depreciation. 
+Pegs also impede timely external adjustment so payments imbalances build up. Intermediate 
+regimes deliver faster growth of output of about 0.5% per annum, but inflation is higher (Ghosh 
+and Ostry, 2009). The countries currently pursuing different types of exchange rate regime are 
+shown in Table 16.3. It can be seen that there is quite a variety of exchange rate systems in oper­
+ation. Forty three countries still peg their currency to the US dollar in one form or another and 
+26 countries peg to the euro. At the other end of the spectrum, 36 countries operate a managed 
+float and 29 countries have free floating. Neither free floating nor managed floating mean that 
+countries are indifferent to the exchange rate; merely that there is no formal peg to which the 
+currencies are anchored.
+Table 16.3  Countries classified by exchange rate regime, 2014
+Exchange rate 
+arrangement
+Exchange rate anchor
+US dollar (43)
+Euro (26)
+Composite (12)
+Other (9)
+No separate 
+legal tender
+Ecuador
+El Salvador
+Marshall
+Islands
+Micronesia
+Palau
+Panama
+Timor-Leste 
+Zimbabwe
+Kosovo
+Montenegro
+San Marino
+Kiribati
+Tuvalu
+Currency board
+Djibouti
+Hong Kong
+SAR
+ECCU
+Antigua and
+Barbuda
+Dominica 
+Grenada
+St. Kitts and
+Nevis
+St. Lucia
+St. Vincent 
+and the 
+Grenadines
+Bosnia and
+Herzegovina
+Bulgaria
+Lithuania
+Brunei
+Darussalam
+continued
+552
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+Table 16.3  Countries classified by exchange rate regime, 2014
+Exchange rate 
+arrangement
+Exchange rate anchor
+US dollar (43)
+Euro (26)
+Composite (12)
+Other (9)
+Conventional
+peg
+Aruba
+The Bahamas
+Bahrain
+Barbados
+Belize
+CuraÇao 
+and Sint 
+Maarten 
+Eritrea
+Jordan
+Oman
+Qatar
+Saudi Arabia
+South Sudan 
+Turkmenistan
+United Arab
+Emirates
+Venezuela
+Cabo Verde 
+Comoros 
+Denmark  
+Sao Tome: and
+Principe
+WAEMU 
+Benin 
+Burkina Faso 
+Cote 
+d’Ivoire
+Guinea-Bissau 
+Mali
+Niger
+Senegal  
+Togo
+CEMAC 
+Cameroon 
+Central
+African
+Rep.
+Chad
+Rep. of
+Congo 
+Equatorial
+Guinea 
+Gabon
+Fiji 
+Kuwait 
+Libya 
+Morocco 
+Samoa
+Bhutan 
+Lesotho 
+Namibia 
+Nepal 
+Swaziland
+Stabilized
+arrangement
+Guyana
+Iraq
+Kazakhstan 
+Lebanon
+Maldives
+Suriname
+Trinidad and
+Tobago
+FYR
+Macedonia
+Singapore 
+Vietnam
+Crawling peg
+Nicaragua
+Botswana
+Crawl-like 
+arrangement
+Honduras
+Jamaica
+Croatia
+Pegged exchange 
+rate within 
+horizontal bands
+Tonga
+Other managed 
+arrangement
+Cambodia 
+Liberia
+Algeria 
+Iran 
+Syria
+Managed
+Floating
+Afghanistan 
+Kenya 
+Madagascar 
+Malawi 
+Mozambique 
+Albania 
+Brazil 
+Colombia 
+Georgia
+Ghana 
+Hungary 
+India 
+Mauritius 
+Mongolia 
+Zambia
+Papua New
+Guinea 
+Seychelles 
+Siena Leone 
+Tanzania 
+Ukraine 
+Uruguay
+Iceland 
+Indonesia
+Israel
+Korea 
+Moldova 
+New Zealand 
+Paraguay 
+Peru 
+Philippines 
+Romania 
+Serbia 
+South Africa 
+ – continued
+553
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+Table 16.3  Countries classified by exchange rate regime, 2014
+Exchange rate 
+arrangement
+Exchange rate anchor
+US dollar (43)
+Euro (26)
+Composite (12)
+Other (9)
+Thailand 
+Turkey 
+Uganda
+Free floating
+Australia 
+Canada 
+Chile
+Japan 
+Mexico 
+Norway 
+Poland 
+Sweden 
+United Kingdom
+Somalia 
+United States
+EMU 
+Austria 
+Belgium 
+Cyprus 
+Estonia 
+Finland 
+France 
+Germany 
+Greece 
+Ireland 
+Italy 
+Latvia 
+Luxembourg 
+Malta 
+Netherlands 
+Portugal 
+Slovak Rep.
+Slovenia
+Spain
+Source: IMF, 2014.
+ – continued
+The international monetary system and developing countries
+The world’s international monetary system is governed largely by the International Monetary Fund 
+(IMF), which was established at Bretton Woods in 1944 in the aftermath of the Great Depression of 
+the 1920s and 1930s and in preparation for the postwar peace. There was a fear that the protection-
+ism and beggar-thy-neighbour policies that characterized the interwar period would rear their ugly 
+heads again, to the detriment of the world economy at large, if not all the individual countries within 
+it. Thus, the IMF was originally conceived as an institution for stabilizing the world economy, rather 
+than as an agency for development, providing short-term loans to member countries in temporary 
+balance of payments difficulties. Responsibility for development was given to the IMF’s sister insti-
+tution, the World Bank, established at the same time. Because the IMF was not allowed to create 
+money, John Maynard Keynes (one of the architects of the IMF) used to complain (and joke) that 
+his proposal for a bank had become a fund, and what was, in fact, a fund had been called a bank.
+Over the years, however, and particularly in recent years, the role of the IMF has changed. It 
+has increasingly become the bank manager of poor countries, and much more of a development 
+agency, advancing longer term loans to cover what are now perceived as longer term structural 
+balance of payments difficulties. The role of the World Bank has also been changing, and now it 
+too provides loans as a means of balance of payments support (the traditional preserve of the IMF), 
+for programmes of structural adjustment (see Chapter 14). In turn, the IMF instituted a Structural 
+554
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+Adjustment Facility in 1986, and an Enhanced Structural Adjustment Facility in 1987 (see below). 
+The roles of the IMF and the World Bank have almost merged, reﬂecting the fact that the balance 
+of payments is the principal long-run constraint on the growth of output in developing countries.
+The IMF and the World Bank also roughly agree on the same policies and reforms that should 
+be applied in developing countries – often referred to as the Washington Consensus. The term 
+‘Washington Consensus’ was originally coined by John Williamson of the Institute for International 
+Economics in 1989 to refer to an agenda for reform in Latin America, which he believed the IMF 
+and the World Bank would endorse (see Williamson 1990, 1993). The reforms quickly came to be 
+seen as a model for the wider developing world. The package of reforms suggested by Williamson 
+comprised the following:
+•
+• Fiscal discipline
+•
+• Redirection of public expenditure towards education, health and infrastructure investment
+•
+• Tax reform – broadening the tax base and cutting marginal tax rates
+•
+• Interest rates that are market determined and positive (but moderate) in real terms
+•
+• Competitive exchange rates
+•
+• Trade liberalization – replacement of quantitative restrictions with low and uniform tariffs
+•
+• Openness to foreign direct investment
+•
+• Privatization of state enterprises
+•
+• Deregulation – abolition of regulations that impede entry or restrict competition, except for 
+those justified on safety, environmental and consumer protection grounds, and prudential 
+oversight of financial institutions
+•
+• Legal security for property rights.
+The Washington Consensus extols the virtues of the free market and free trade for the achievement 
+of more rapid economic progress (see Taylor, 1997), but Williamson objects to the interpretation 
+of it as ‘neoliberal’, because neoliberalism also embraces a political ideology relating to minimal 
+state interference in economic and social affairs, low tax rates, individualism, and a general 
+indifference to the income distribution produced by market forces.
+The wisdom of the Washington Consensus was always a matter of dispute among economists, but 
+its initial appeal did not last long because, in the 1990s, several developing countries that adopted 
+the package of reforms, under pressure from the IMF and the World Bank, suffered severe finan-
+cial and economic crises, which toppled governments, reduced living standards, and left millions of 
+people worse off. Free-market forces turned out to be as disruptive and destructive as government 
+regulations and controls. Economists now question the pace and sequencing of the deregulation 
+and liberalization of markets, and call for stronger domestic institutions and policies to be put in 
+place before countries open up to ﬂoods of imports and capital inﬂows. The need to mix institution-
+building with the freeing of markets is sometimes called the post-Washington Consensus. However, 
+the ideology and practical policy-making of the IMF and the World Bank have hardly changed.
+One country that has resisted the pressure of the Washington Consensus is China. It has forged 
+its own development strategy, the Beijing Consensus, which does not allow the economy to be 
+buffeted by the unfettered forces of free-market capitalism, either domestic or international. It 
+is becoming increasingly attractive to other (large) developing countries (e.g. Brazil) looking for 
+an alternative approach to economic policy-making, which puts the needs of people first, not 
+the interests of bankers and international speculators. China’s declared goal is to achieve fast, 
+sustainable growth, combined with equity and poverty reduction. China recognizes that to 
+achieve this requires a degree of economic independence to insulate it from turbulence in the 
+world economy. This makes it cautious about free trade and the free movement of international 
+capital, although not about attracting long-term foreign direct investment. China is fortunate to 
+555
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+be large enough (and stable enough) to go its own way. Many developing countries are either too 
+small, too vulnerable or too unstable to resist the orthodoxy because they are dependent on loan 
+support from the IMF and the World Bank.
+How the IMF works
+The IMF has three main roles:
+1.	 It oversees the international monetary system and monitors the economic and financial pol­
+icies of its 189 member countries. As part of this surveillance process, which takes place at the 
+global level and in individual countries, the IMF highlights possible risks to stability and advises 
+on needed policy adjustments.
+2.	 It helps its member countries design economic policies and manage their financial affairs more 
+effectively by strengthening their human and institutional capacity through expert advice and 
+training, which it calls ‘capacity development’.
+3.	 It provides loans to member countries experiencing actual or potential balance of payments 
+problems to help them rebuild their international reserves, stabilize their currencies, contin-
+ue paying for imports, and restore conditions for strong economic growth, while correcting 
+ 
+underlying problems.
+The IMF is a source of four main forms of financial assistance, or liquidity, to developing countries:
+•
+• Drawings from the ordinary facilities provided by the IMF
+•
+• Drawings made under special facilities
+•
+• Facilities for low-income countries
+•
+• The periodic issue of Special Drawing Rights (SDRs).
+Members’ drawing rights, their share of SDR allocations, and indeed their subscription to the IMF 
+and voting power are all based on quotas. Every member must subscribe to the IMF an amount 
+equal to its quota – 25% in the form of reserve assets and the remainder in local currency. Initial 
+quotas are based on a formula relating to the economic circumstances of individual countries, such 
+as living standards, importance in world trade and so on, which are then modified in various ways in 
+the light of the conditions and quotas of other countries. The USA has the largest quota, amounting 
+at present to 83 billion SDRs out of the total value of quota subscriptions of 471 billion SDRs. When 
+countries draw on the IMF, they buy the currency they need with their own currency, and when they 
+repay, they repurchase their own currency with foreign currency acceptable to the IMF. The size of 
+the quotas comes under continual review. The 14th General Review of Quotas took place in 2015.
+The IMF may supplement its quota resources by borrowing any country’s currency. This was insti-
+tutionalized by the General Arrangements to Borrow (GAB) in January 1962, which was a four-year 
+arrangement concluded with ten industrialized countries. Since then, the GAB has been extended sev-
+eral times. The IMF also borrows from the private capital market and makes bilateral deals with countries.
+The IMF also borrows to finance special facilities as a means of recycling the balance of pay-
+ments surpluses of some member countries. The IMF argues that while it has no desire to supplant 
+ordinary commercial banks in the recycling process, its ability to advocate adjustment policies 
+effectively and convincingly in deficit countries is enhanced by the capacity to make substantial 
+financial resources available to member countries. Thus, while the IMF continues to place reliance 
+on quota subscriptions as the main source of its finance, it is also in the market to borrow. Now 
+that the IMF sees its role as providing larger amounts of finance over longer and longer periods 
+556
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+for countries with chronically weak balance of payments in relation to their growth objectives, it 
+has an ever-growing need for resources.
+A country making use of the IMF’s resources is generally required to carry out a programme of 
+balance of payments adjustment as a condition of support. This requirement is known as condi-
+tionality and reﬂects the IMF principle that financing and adjustment must go hand in hand. What 
+constitutes balance of payments equilibrium is not rigidly defined. It need not mean current account 
+equilibrium, but the measure must be defined free of restrictions on trade and payments, in keeping 
+with the underlying liberal free trade philosophy of the IMF. The enforced programmes of balance 
+of payments adjustment typically consist of currency devaluation and restrictions on government 
+expenditure and the money supply, coupled with the liberalization of trade and capital movements.
+These conditionality practices, which were developed during the 1950s and 1960s under pres-
+sure from the USA, have been severely criticized (see below) and have undergone continual review. 
+They are harsh, but perhaps less harsh than they were. Countries are encouraged to approach the 
+IMF early before payments problems become acute, and it recognizes the need for a longer adjust-
+ment period. When helping countries to design adjustment programmes, the IMF is supposed 
+to have due regard to the socioeconomic and political characteristics of the country concerned 
+(although there is still not much evidence of this). The IMF now recognizes that balance of pay-
+ments difficulties associated with an acceptable growth of output may have as much to do with 
+the structural characteristics of a country as with relative price distortions and excessive govern-
+ment expenditure. The emphasis has also shifted from demand contraction to supply-side policies 
+to increase the efficiency of resource allocation and supply potential. For a comprehensive review 
+of the evolution of the conditionality practices of the IMF, see Guitian (1982) and Dell (1981).
+IMF lending
+Table 16.4 shows the IMF’s major non-concessional lending facilities, and Table 16.5 shows the 
+IMF’s concessional lending facilities for low-income countries. Currently, there are five major non-
+concessional facilities. First, there is the Stand-By Arrangement (SBA), created in 1952 to provide 
+short- to medium-term assistance to countries with short-term balance of payments difficulties. 
+Normally, certain performance criteria relating to money supply targets and government expenditure 
+must be met before resources are released. A strong programme is required to rectify balance of 
+payments disequilibria, which almost always consists of deflation and depreciation of the exchange 
+rate. Typically, an SBA covers a 12- to 18-month period, and repayments must be made within 3–5 
+years of each drawing. Countries may draw up to 200% of quota annually and 600% cumulatively.
+Second, there is the Extended Fund Facility (EFF), created in 1974 to provide longer term 
+assistance to support countries’ structural reforms to address long-term balance of payments dif-
+ficulties. The repayment schedule is longer, 4–10 years, but the conditions are stringent. The coun-
+try must provide a detailed statement of policies and measures every 12 months. The resources 
+are provided in instalments, with performance criteria attached. Nonetheless, the introduction 
+of the EFF represented an important and significant shift in emphasis from viewing the balance 
+of payments as a stabilization problem, to recognizing the balance of payments as a fundamental 
+long-term constraint on growth that cannot be rectified in a short period of time by conventional 
+means. Structural change is required.
+In the wake of the 2007–09 global financial crisis, the IMF strengthened its lending policies 
+through the creation of three new facilities: the Flexible Credit Line (FCL), the Precautionary 
+and Liquidity Line (PLL) and the Rapid Financing Instrument (RFI) (see Table 16.4 for details).
+557
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+Table 16.4  IMF’s non-concessional lending facilities
+Credit facility  
+(year adopted)
+Purpose
+Conditions
+Access limits
+Repayment  
+schedule (years)
+CREDIT TRANCHES AND EXTEND FUND FACICITY
+Stand-By Arrangement  
+(SBA) (1952)
+Short- to medium-term 
+assistance for countries 
+with short-term balance 
+of payments difficulties
+Adopt policies that 
+provide confidence that 
+the member’s balance 
+of payments difficulties 
+will be resolved within a 
+reasonable period
+Annual: 200% of quota; 
+cumulative: 600% of 
+quota
+3¼–5
+Extended Fund Facility 
+(EFF) (1974) (Extended 
+Arrangements)
+Longer term assistance 
+to support members’ 
+structural reforms to 
+address long-term 
+balance of payments 
+difficulties
+Adopt up to 4-year 
+program, with structural 
+agenda and annual 
+detailed statement of 
+policies for the next 12 
+months
+Annual: 200% of quota; 
+cumulative: 600% of 
+quota
+4½–10
+Flexible Credit Line 
+(FCL) (2009)
+Flexible instrument 
+in the credit tranches 
+to address all balance 
+of payments needs, 
+potential or actual
+Very strong ex ante 
+macroeconomic 
+fundamentals, 
+economic policy 
+framework, and policy 
+track record
+No preset limit
+3¼–5
+Precautionary and 
+Liquidity Line (PLL) 
+(2011)
+Instrument for countries 
+with sound economic 
+fundamentals and 
+policies
+Sound policy 
+frameworks, external 
+position, and market 
+access, including 
+financial sector 
+soundness
+250% of quota for 
+6 months; 500% of 
+quota available upon 
+approval of 1- to 2-year 
+arrangements; total of 
+1,000% of quota after 12 
+months of satisfactory 
+progress
+3¼–5
+SPECIAL FACILITES
+Rapid Financing 
+Instrument (RFI) 
+(2011)
+Rapid financial 
+assistance to all member 
+countries facing an 
+urgent balance of 
+payments need
+Efforts to solve balance 
+of payments difficulties 
+(may include prior 
+actions)
+Annual: 50% of quota 
+cumulative: 100% of 
+quota
+3¼–5
+Source: IMF, 2014.
+In addition to the IMF’s ordinary lending facilities, there are three special lending facilities for 
+low-income countries: the Extended Credit Facility (ECF), the Standby Credit Facility (SCF), 
+and the Rapid Credit Facility (RCF), all related to protracted balance of payments difficulties (see 
+Table 16.5 for details). Note that the ECF supersedes the Poverty Reduction and Growth Facility, 
+which was set up in 1999 to assist poor countries facing persistent balance of payments problems, 
+and was designed to work alongside the IMF and World Bank’s Heavily Indebted Poor Country 
+Initiative (see Chapter 14) for debt relief for poor countries, and requires the preparation of a 
+Poverty Reduction Strategy Paper. This is still a requirement under the EFF.
+Total IMF credit outstanding for all 189 IMF members in March 2016 was nearly 55 billion 
+SDRs, having fallen from a peak of 96 billion SDRs in December 2012 in the wake of the world 
+financial crisis.
+558
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+Table 16.5  IMF concessional lending facilities to low-income countries
+Extended Credit Facility 
+(ECF)
+Standby Credit Facility 
+(SCF)
+Rapid Credit Facility 
+(RCF)
+Objective
+Help low-income 
+countries achieve 
+and maintain a stable 
+and sustainable 
+macroeconomic position 
+consistent with strong 
+and durable poverty 
+reduction and growth
+Very strong ex ante 
+macroeconomic 
+fundamentals, economic 
+policy framework, and 
+policy track record
+Approved access 
+available up front 
+throughout the 
+arrangement period, 
+subject to a midterm 
+review after 1 year
+Purpose
+Address protracted 
+balance of payments 
+problems
+Resolve short-term 
+balance of payments 
+needs
+Low-access financing to 
+meet urgent balance of 
+payments needs
+Eligibility
+Countries eligible under 
+the Poverty Reduction 
+and Growth Trust (PRG1)
+Efforts to solve balance 
+of payments difficulties 
+(may include prior 
+actions)
+Outright purchases 
+without the need for 
+full-fledged program or 
+reviews
+Qualification
+Protracted balance of 
+payments problem; 
+actual financing need 
+over the course of the 
+arrangement, though not 
+necessarily when lending 
+is approved or disbursed
+Potential (precautionary 
+use) or actual short-term 
+balance of payments 
+need at the time of 
+approval; actual need 
+required for each 
+disbursement
+Urgent balance of 
+payments need when 
+upper- credit-tranche 
+(UC1) program is either 
+not feasible or not 
+needed
+Poverty Reduction and 
+Growth Strategy
+IMF-supported program should be aligned with country-owned poverty-
+reduction and growth objectives and should aim to support policies that 
+safeguard social and other priority spending
+Submission of Poverty 
+Reduction Strategy (PRS) 
+document by second 
+review
+Submission of PRS 
+document not required; 
+If financing need persists, 
+SCF user would request 
+an ECF with associated 
+PRS documentation 
+requirements
+Submission of PRS 
+document not required; 
+move to ECF facilitated 
+in cases of repeated 
+use by preparation of 
+a Poverty Reduction 
+Strategy Paper (PRSP)
+Conditionality
+UCT; flexibility on 
+adjustment path and 
+timing
+UCT; aim to resolve 
+balance of payments 
+need in the short term
+No UCT and no 
+conditionality based on 
+ex post review; track 
+record used to qualify for 
+repeat use (except under 
+shocks window)
+Access policies
+Annual limit of 100% of quota; cumulative limit (net of scheduled repayments) of 
+300% of quota. Exceptional access: annual limit of 150% of quota; cumulative limit 
+(net of scheduled repayments) of 450% of quota
+Norms: access declines 
+with total outstanding 
+credit; 120% of quota if 
+outstanding credit is less 
+than 100% of quota; 75%
+Sublimits (given lack 
+of UCT conditionality): 
+annual 25% of quota, 
+100% of quota 
+cumulative (net of
+559
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+Table 16.5  IMF concessional lending facilities to low-income countries
+Extended Credit Facility 
+(ECF)
+Standby Credit Facility 
+(SCF)
+Rapid Credit Facility 
+(RCF)
+Objective
+of quota if outstanding 
+credit is greater than 
+or equal to 100% of 
+quota; SCFs treated as 
+precautionary annual 
+access limit 75% of quota, 
+average annual access 
+limit 50% of quota
+scheduled repayments); 
+under the shocks 
+window: 50% annual and 
+125% cumulative (net of 
+scheduled repayments)
+Financing terms
+Interest rate: Zero 
+Repayment terms: 
+5½–10 years
+Interest rate: 0.25% 
+Repayment terms: 4-8 
+years Availability fee: 
+0.15% on available but 
+undrawn amounts 
+under precautionary 
+arrangement
+Interest rate: Zero 
+Repayment terms: 
+5½–10 years
+Source: IMF, 2014.
+Other IMF activities
+As well as providing finance and loans to member countries, the IMF has a number of other 
+responsibilities connected with the smooth functioning of the world economy, including the sur-
+veillance of exchange rates and promoting the health of the world financial system. One of the 
+mandates of the IMF is to monitor the exchange rate policies of countries. Article IV, Section 
+I of the original (1947) IMF Charter states that member countries should ‘avoid manipulating 
+exchange rates … to prevent effective balance of payments adjustment or to gain an unfair 
+advantage over other members’. By manipulating the exchange rate, the IMF means countries 
+indulging in practices that keep an exchange rate undervalued in order to maintain large bal-
+ance of payments surpluses. The assessment of exchange rate levels, however, is not easy because 
+an ‘equilibrium’ rate depends on how the internal balance of a country is defined, and what is 
+regarded as the optimal level of international reserves. There are different ‘equilibrium’ exchange 
+rates for different levels of employment and unemployment, different growth rates, and reserves 
+to import ratios. But, the IMF lacks any power to inﬂuence the exchange rate policy of countries, 
+except persuasion. The sanction of fining countries in persistent surpluses, which Keynes pro-
+posed at Bretton Woods, was never adopted.
+Criticisms of the IMF
+The policy prescriptions of the IMF in developing countries have been, and still are, based on a 
+blend of finance and adjustment. Few would dispute the need for international institutions to 
+provide finance to ease the burden of balance of payments adjustment. In its adjustment pol­
+icies, however, the IMF has come in for severe criticism; so much so that it has been described as 
+anti-developmental. In its approach to adjustment, the IMF is conditioned by the beliefs and 
+philosophy of the organization itself and the prevailing orthodoxy of neoclassical economic 
+theory. The IMF denies that it has a rigid doctrinaire approach to economic policy, but it 
+– continued
+560
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+clearly has a particular philosophy based on the Washington Consensus. It is a major bastion 
+of support of an international economic system that prefers capitalism to socialism, favours 
+private investment over public investment, extols the virtues of free trade and the operation of 
+the price mechanism, and encourages the free ﬂow of private capital to and from developing 
+countries. Gore (2000) argues that this consensus that emerged within the IMF (and World 
+Bank) was more than just a paradigm shift from the idea of state-led development to market-
+oriented policies. There was a deeper shift in the way development problems were perceived in 
+an increasingly globalized world, and the IMF’s policies have been a response to these changes 
+in the world economy. The fact remains, however, that a particular orthodoxy has been applied 
+to the vast majority of developing countries as if they were one homogeneous mass and can be 
+properly treated in exactly the same way.
+Joseph Stiglitz (2002), formerly a chief economist of the World Bank, has severely criticized the 
+IMF for serving the needs of global finance, rather than the needs of global stability, by encour­
+aging premature internal and external financial liberalization. He has satirized the methods 
+of the IMF by describing what he calls a four-step programme for every country, regardless 
+of circumstances and already ‘pre-drafted’ by IMF officials before they reach the country, for 
+‘voluntary’ signature by the country concerned. No signature, no help. The four core elements of 
+each programme are privatization of state industries, capital market liberalization, market-based 
+pricing, and free trade.
+Capital market liberalization has been disastrous for many countries not ready and able to 
+cope with volatile capital inﬂows and outﬂows. The IMF has, in fact, admitted that opening 
+economies prematurely to free ﬂows of capital constituted ‘an accident waiting to happen’, and 
+now concedes that capital controls are justified in some circumstances. The IMF was undoubtedly 
+shaken by the 1997 East Asian crisis, which it did not foresee even though there was a massive 
+build-up of current account deficits and capital had started to ﬂow out of Southeast Asia long 
+before the crisis hit.
+Market-based pricing has also been disastrous in many instances, leading to civil unrest. When 
+food and fuel subsidies for the poor were lifted in Indonesia in 1998, the country exploded into riots.
+Free trade, we saw in Chapter 15, is not optimal from a development point of view. If imports 
+grow faster than exports, the balance of payments worsens.
+The neoliberal, neoclassical approach to economic thinking and policy-making colours, to a 
+large extent, the IMF’s diagnosis of balance of payments problems and their appropriate solu-
+tion. Deficits are invariably seen as related to, or caused by, price uncompetitiveness and excess 
+monetary demand, to be ‘cured’ by devaluation and demand contraction. But, the IMF still lacks 
+a comprehensive theoretical apparatus to deal with two basic questions regarding devaluation: 
+How is the degree of overvaluation of a currency determined? How is the optimal pace of adjust-
+ment from the overvalued to the equilibrium rate of exchange decided? In keeping with the IMF’s 
+philosophy, devaluation and retrenchment are coupled with other measures that, from a balance 
+of payments point of view, work in the opposite direction – namely the relaxation of foreign 
+exchange controls, the removal of import restrictions, and the dismantling of subsidies and price 
+controls.
+Critics of the IMF argue with some justification that there is one law for the poor and another 
+for the rich. While poor countries must remove controls over foreign exchange and imports as a 
+condition of assistance, rich countries continue to impose restrictions on imports from developing 
+countries. To support the liberalization programme, the country then has to depress aggregate 
+demand sufficiently to accommodate devaluation in the attempt to achieve balance of payments 
+561
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+equilibrium, which leads to slow growth and unemployment. The symptoms of balance of payments 
+disequilibrium are tackled, but not the root causes of the perpetual tendency towards disequilibrium. 
+As we argued in Chapter 15, the balance of payments problems of most developing countries must 
+be regarded as primarily structural in nature, relating to the characteristics of the goods produced 
+and traded. This implies a very different approach to balance of payments adjustment than one of 
+continual devaluation, demand contraction and dismantling of the public sector. At the very least, it 
+calls for policies – using a judicious mix of subsidies and controls – to alter the structure of production.
+Another criticism of the IMF is that it ignores ‘structural’ surpluses on the balance of payments – 
+ 
+the counterpart of ‘structural’ deficits – and critics argue that the burden of adjustment ought 
+to be shared more equitably between deficit and surplus countries, instead of the major part of 
+the burden being shouldered by debtor developing countries, as at present. If surplus countries 
+do not attempt to adjust by expanding their own economies, or by appreciating their curren-
+cies, they should be penalized, and deficit countries ought to be allowed to discriminate against 
+the goods of these countries. This would be a revival of the idea of ‘scarce currencies’, and of the 
+right of countries to control imports from ‘scarce currency’ countries, that is, from those with 
+surpluses.
+Critics would also argue that if the IMF is genuinely concerned with development as well as 
+providing balance of payments support, it could distribute all new issues of SDRs to developing 
+countries to spend in developed countries. After all, if the developed countries were not able to 
+earn their reserves by selling goods to developing countries in exchange for SDRs, they would have 
+to earn them in some other way. We shall return to this matter below.
+The IMF has become sensitive to some of these criticisms in recent years, particularly to the 
+charge that it is ‘anti-developmental’. Along with the World Bank, the IMF now declares itself 
+committed to poverty reduction and allowing countries to ‘own’ their own policies through 
+the formulation of Poverty Reduction Strategy Papers. Instead of countries having to fulfil a 
+mass of individual conditions for loan support, governments can now specify just a few broad 
+outcomes relating to poverty reduction, health and education. To what extent it will change its 
+attitude to balance of payments difficulties and the need for devaluation and deﬂation, how-
+ever, is still an open question.
+The IMF also now has an Independent Evaluation Office (IEO), established in 2001, to moni-
+tor its lending activities and research the effects of its lending policies. The IEO chose three sub-
+jects for its first studies:
+•
+• fiscal adjustment in IMF-supported programmes
+•
+• the role of the IMF in three capital account crises (Indonesia and Korea, 1997–98 and Brazil, 
+1998–99)
+•
+• prolonged use of IMF resources.
+Kenen (2004) surveys the results of the studies so far. On fiscal policy, the IEO criticizes IMF 
+programmes for not paying enough attention to raising income and property taxes, and 
+combating tax evasion, and for focusing too heavily on cutting public employment or capping 
+wages in periods of fiscal crisis. In general, fiscal policy has not been ‘too tight’, although the fiscal 
+outcome has normally been tighter than forecast. In Korea and Indonesia, however, in 1997–98, 
+there was too much fiscal stringency because the IMF did not foresee the collapse of investment 
+and output, so that IMF policies made the situation worse. The prolonged use of IMF resources 
+has increased in recent years because, as Keynes once said: ‘if you owe a bank a little, the bank 
+owns you, but if you owe the bank a lot you own the bank’. The IMF has been reluctant to pull out 
+562
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+of countries in case it doesn’t get repaid at all. The evaluation reaches some interesting findings, 
+which have general lessons:
+•
+• Excessively detailed conditionality does not appear to be effective.
+•
+• Conditionality that is focused on policy rules or procedures, rather than on discretionary one-
+time actions, seems to be most effective.
+The International Financial Institution Advisory Commission, known as the Meltzer 
+Commission, appointed by the US Congress, which reported in 2000, recommended that the IMF 
+should withdraw from the development field entirely and concentrate on the role of ‘lender of last 
+resort’ to emerging economies facing financial crisis. This would be a return to its original function 
+of lending to countries in short-term balance of payments difficulties. Likewise, the World Bank 
+should pare down its activities, lending only to really poor countries, and not to countries able 
+to attract private capital. In line with the focus on poverty reduction, lending should be confined 
+to countries with an income of less than $4,000 per head with low credit ratings. For the poorest 
+countries, there should be grants not loans. Lending to Asia and Latin America could largely be 
+left to the regional development banks in those regions. In general, there should be a much clearer 
+distinction between the activities of the IMF and the World Bank. This would be a return to the 
+original conception at Bretton Woods that the World Bank would act as the development agency 
+and the IMF would be like a bank to be used in emergencies only, but not get involved in detailed 
+policy-making itself in the countries concerned. A move in this direction would disarm many of 
+the IMF’s critics.
+The results of IMF programmes
+The effects of the IMF’s programmes on countries’ economic performance have been very mixed. 
+In an early study, Reichmann and Stillson (1978) examined the effects of IMF programmes in 
+developed and developing countries in the period 1963–72, comparing the two years after the 
+implementation of the programme with the two years before. Taking the balance of payments as 
+a whole (current plus capital account), of the 75 cases examined, only 18 showed a statistically sig-
+nificant improvement and 4 showed an actual worsening. In the 29 cases where the inﬂation rate 
+had exceeded 5% before the programme, it had worsened in 6 cases and in 16 cases there was no 
+significant change. As far as GDP growth is concerned, of the 70 cases examined, the performance 
+had improved in 33 but deteriorated in 28. A study by Donavan (1982) of the non-oil-developing 
+countries for the period 1971–80 revealed a similar pattern: some improvement in the balance of 
+payments, mixed effects on growth and some tendency towards inﬂation.
+Following a major analysis of over 30 IMF stabilization programmes supported by upper-
+tranche credits between 1964 and 1979, Killick (1984a, 1984b) advocated what he called a ‘real 
+economy approach to balance of payments’ or ‘adjustment with growth’, which would be a more 
+ﬂexible supply-oriented approach with demand management subservient.
+One of the purposes of the Extended Fund Facility and the (now defunct) Structural 
+Adjustment Facility was to permit the IMF to deal with structural disequilibrium, but as far as the 
+EFF is concerned, the programmes were no different from conventional demand management 
+programmes built around monetary and fiscal contraction coupled with trade liberalization and 
+some production incentives.
+In a follow-up study of IMF programmes in developing countries, Killick (1995) criticized 
+the IMF’s overreliance on conditionality and performance criteria, which invariably leads to the 
+563
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+breakdown of IMF programmes. To avoid breakdowns and pressure on IMF resources, he calls 
+for the relaxation of standardized reform packages and a greater emphasis on locally initiated 
+programmes of stabilization and reform. Above all, the programmes should set a growth target of 
+at least 1% above population growth, and sufficient financing for this should be mobilized. Killick 
+finds that the main victim of IMF programmes is investment, and that there is no evidence that 
+IMF financing acts as a catalyst for private investment.
+Taylor (1988) reports the results of studies of 18 countries, conducted under the auspices of 
+the World Institute for Development Economics Research (WIDER) in Helsinki. The principal find-
+ing of the authors of the country studies is that ‘past policies could have been designed to bet-
+ter effect, and that programmes of the Fund/Bank type are optimal for neither stabilization nor 
+growth and income redistribution in the Third World’. This is a serious indictment of policy from 
+some of the world’s leading development economists. There are alternative programmes to those 
+implemented by the IMF, but they would be more interventionist and more directly concerned 
+with the targets than with the precise instruments. There is a role for selective import controls, 
+export subsidies, multiple exchange rates, low interest rates and so on, but these are all frowned 
+on by the IMF. The IMF conducts its own in-house studies of programmes and is naturally more 
+sanguine, but is conscious that the design of programmes can be improved. In a study of 45 IMF 
+lending arrangements approved between mid-1988 and mid-1991, Schadler (1996) reports strik-
+ing gains on the external accounts, but virtually no improvement in inﬂation, investment and 
+growth. Four explanations are given:
+•
+• Countries coming to the IMF too late
+•
+• Too much emphasis on the external objective of balance of payments equilibrium rather than 
+domestic objectives
+•
+• The breaking of monetary targets
+•
+• Not enough emphasis on raising domestic saving.
+Research on the effect of IMF programmes on the growth of per capita income by Przeworksi 
+and Vreeland (2000) and Dreher (2006) shows a negative effect. Dreher’s (2006) study examines 
+data for 98 countries over the period 1970–2000 and, overall, finds a negative effect of 1.7 percent-
+age points per annum (on average), although the compliance with conditionality mitigated the 
+negative effect. Dreher’s conjecture is that ‘the short-term effect of demand compression takes 
+place very quickly, while the compliance measures pick up later adherence to the more structural 
+aspects of policy conditions’.
+Special Drawing Rights (SDRs) and developing countries
+One possibility for increasing the ﬂow of resources to developing countries is to distribute to 
+them most, if not all, of the saving accruing to developed countries from the issue of costless 
+SDRs as a means of international payment. The IMF established SDRs in July 1969. To date, 
+there have been only four allocations of SDRs: 9.3 billion between 1970 and 1972; 12.1 billion 
+between 1979 and 1981; 161.2 billion in 2009, and a one-off injection of 21.5 billion in the wake 
+of the financial crisis and world economic recession in 2008–09, allocated mainly to low-income 
+countries.
+The normal basis of allocation of SDRs between countries is the member countries’ quota 
+subscriptions to the IMF. This means that approximately 70% of the new international money 
+created has been distributed to the world’s richest countries, while the poorest countries have 
+564
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+received only 30%. If the SDRs had been distributed on a per capita basis, the distribution would 
+have been almost exactly the reverse.
+There can be no doubt about the potential benefits of international money, such as SDRs, for 
+the world as a whole, but there are several objections to the present distribution, and reasons 
+to believe that a redistribution of SDRs in favour of developing countries could increase world 
+welfare. First, the balance of payments adjustment costs of developing countries are generally 
+higher than those of developed countries, and this in itself constitutes an economic argument for 
+revising the present allocation rules. But second, SDRs represent a social saving because they are 
+costless to produce (unlike gold), and do not have to be earned by exporting (unlike dollars). The 
+view that the social saving to SDRs should be distributed to the developing countries has spawned 
+several proposals for a so-called link between development assistance and SDRs, which would 
+have several advantages:
+1.	 If there was a regular expansion of SDRs a link would provide a useful mechanism by which 
+ 
+total development aid could be guaranteed to rise with the long-term growth of world trade 
+and production. At present, there is no guarantee that aid will rise in proportion to world 
+income. Aid programmes are chopped and changed according to the balance of payments 
+situation of donor countries.
+2.	 A link scheme would increase the proportion of total international aid that is untied, and this 
+would not impose any reserve losses on the donor, as when a country unties its aid unilater-
+ally. All donor countries would gain reserves in exchange for the exports they provide to the 
+developing countries.
+3.	 If the link scheme operated through such international financial institutions as the World Bank 
+or one of its affiliates, these multilateral institutions would be provided with a regular ﬂow of 
+resources without the necessity of entering into time-consuming negotiations with national 
+governments.
+The historical origin of the link idea can be traced back to Keynes’ plan, proposed at Bretton 
+Woods in 1944, for an International Clearing Union (ICU) with the power to issue international 
+money for collectively agreed purposes. The function of the ICU was not only to be a world 
+central bank but also to lend to international organizations pursuing internationally agreed 
+object­
+ives, in particular, at that time, for postwar relief work and the management of international 
+commodities.
+The variety of link proposals that have been put forward can be classified into three types: a 
+direct link, an organic link and an inorganic (or indirect, voluntary) link.
+As far as a direct link is concerned, the simplest method would be to allocate more SDRs 
+directly to developing countries, as was done in 2009. Alternatively, the IMF quotas to developing 
+countries could be increased.
+An organic link refers to the possibility of channelling SDRs to developing countries via 
+developed countries, development agencies, or both. The direct allocation of SDRs to development 
+agencies probably has the most advantages and the least drawbacks among the organic link 
+proposals. Development agencies would have accounts with the IMF to which SDRs would be 
+credited. The development agencies would then lend in the normal way. When goods were 
+purchased from exporters by developing countries, the IMF would then transfer the SDRs from 
+the account of the development agencies to the account of the exporting country. The country 
+would then pay its exporters in its domestic currency. The scheme has the advantage of being 
+simple and could be introduced with minimal amendments to the IMF Articles of Agreement.
+565
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+A tied version of the organic link was Scitovsky’s (1966) original plan for a new international 
+currency to be issued to deficit countries with unemployed resources, which would relinquish 
+domestic currency in exchange. This could then be lent to developing countries, but could only 
+be spent in the issuing country. This would serve several purposes. It would provide developing 
+countries with unrequited imports at no opportunity cost to developed countries and remedy 
+developed countries’ deficits at the same time. This is also a way of eliminating deﬂationary bias 
+in the world economy.
+An inorganic link would involve developed countries agreeing to make voluntary contri-
+butions to the multilateral aid-giving agencies whenever new SDRs were allocated. The con-
+tributions would be in national currencies but would represent a uniform proportion of each 
+contributor’s SDR allocation. The drawback of the proposal is its voluntary nature – one or two 
+major countries might not contribute or might make their contribution dependent on their 
+balance of payments. This would introduce a great deal of uncertainty into the scheme. Also, 
+national governments would have to agree appropriations and this would create the same dif-
+ficulties as regular foreign aid appropriations. There do not seem to be many advantages in an 
+inorganic link.
+Several objections have been raised against the link proposals but none is very convincing. 
+Some have argued against the link on the grounds that the creation of reserves should be kept 
+separate from the transfer of real resources. But this has never been the case historically. Resource 
+transfers have always been involved in the acquisition of gold and dollars. Since SDRs save real 
+resources, it is entirely appropriate that, in the process of reserve creation, the saving should be 
+distributed to developing countries.
+A second objection to the link is that it would mean the loss of control over the granting and 
+distribution of assistance by national governments. Under the link scheme, the distribution of 
+the burden of assistance would depend on where the SDRs were spent, which, it is argued, could 
+not be accurately forecast. This is a weak argument for two reasons. The same objection may 
+be levelled against all forms of untied bilateral aid. There is never an automatic correspondence 
+between the financial burden of aid and the real resource burden of aid. It all depends on whether 
+the national governments that grant aid allow the resources to be transferred, which depends 
+primarily on their policy towards the balance of payments.
+A further objection is that the link is likely to be inﬂationary. It is true that developing 
+countries will tend to spend new international money rather than add to their reserves, but 
+whether or not the resulting claims on developed countries are inﬂationary will depend on 
+whether developed countries are willing to release resources to the extent of the claims on them. 
+In practice, SDRs could be less inﬂationary than the dollar standard by instituting multilateral 
+control over international liquidity rather than unilateral control by the USA, which, because 
+of the need for dollars, has not been subject to the anti-inﬂationary discipline that is normally 
+present in other countries.
+A final objection is that development assistance is not likely to increase under the link because 
+governments will cut down on their normal budgetary aid appropriations. Critics argue that it is 
+highly unlikely that developed countries would be willing to give extra aid through the link but 
+not in other forms. This objection can also be challenged. First, the reserve effects of the two 
+forms of assistance are not the same. Conventional aid worsens the donor’s balance of payments, 
+whereas the link scheme would improve the balance of payments of countries where SDRs were 
+spent and thus improve the reserve position. Second, governments often wish to provide aid for 
+specific purposes and this desire would not be undermined by a link. Moreover, since it is difficult 
+566
+I N T E R N AT I O N A L  T R A D E ,  T H E  B A L A N C E  O F  PAY M E N T S  A N D  D E V E L O P M E N T
+for a country to know how much aid it is providing through the link, it would be difficult for a 
+country to offset it. The link deserves much more consideration in international monetary circles 
+than it has received to date. To paraphrase Pirandello, if ever there were an instrument in search 
+of a policy, it is SDRs.
+Summary
+•
+• A major constraint on the growth of output in many developing countries is a deficit on the 
+current account of the balance of payments, or, in other words, a shortage of foreign exchange 
+to pay for imports.
+•
+• The International Monetary Fund (IMF) was established at the Bretton Woods conference in 
+1944 to give financial support to countries in temporary balance of payments difficulties, but 
+the deficits of developing countries are structural and long term, relating to the nature of the 
+goods they export and import.
+•
+• A country’s growth rate consistent with balance of payments equilibrium on current account 
+depends on changes in the real exchange rate, the price elasticities of demand for exports and 
+ 
+imports, the growth of world income, and the income elasticity of demand for exports and imports.
+•
+• If the real exchange rate is constant over time, the long-run growth of GDP can be approxi-
+mated by the ratio of the growth of export volume and the income elasticity of demand for 
+imports.
+•
+• Capital inﬂows can lift a balance of payments constraint on growth, but only by a small amount 
+for realistic values of the sustainable ratio of deficits (or international debt) to GDP.
+•
+• Currency depreciation needs to be continuous to raise a country’s growth rate permanently 
+consistent with balance of payments equilibrium, but currency depreciation can be very 
+inﬂationary.
+•
+• No single exchange rate regime can be prescribed for all developing countries. Each country 
+needs to choose its own regime consistent with other economic objectives.
+•
+• The IMF has many lending facilities, but access is mainly related to the size of a country’s quota 
+with the IMF, not to the scale of difficulties confronting the country.
+•
+• IMF conditionality has been severely criticized as deﬂationary, and insensitive to the circum-
+stances and needs of countries. The results of IMF policies have been disappointing.
+•
+• Special Drawing Rights (SDRs) could be distributed to developing countries as a means of 
+ 
+financial support, to be spent in developed countries. This would increase developed countries’ 
+reserves and transfer resources to developing countries.
+1.	 What factors determine the demand for a country’s exports and imports?
+2.	 Can the devaluation of a country’s currency guarantee balance of payments equi-
+librium on the current account?
+3.	 What factors determine the income elasticity of demand for a country’s exports?
+4.	 Why are developing countries more prone to balance of payments disequilibrium 
+than developed countries?
+Discussion questions
+Chapter 16
+567
+1 6  •  B A L A N C E  O F  PAY M E N T S  A N D  I N T E R N AT I O N A L  M O N E TA R Y  A S S I S TA N C E
+Websites on balance of payments and IMF
+International Monetary Fund www.imf.org
+UNCTAD Handbook of Statistics http://unctad.org/en/Pages/Publications/Handbook-of-Statistics.
+aspx
+UN Comtrade comtrade.un.org
+5.	 What do you understand by the IMF’s ‘supply-side approach to devaluation’ in 
+developing countries?
+6.	 What factors need to be taken into account in choosing a country’s exchange rate 
+regime?
+7.	 What are the lessons of the financial crisis in Southeast Asia in 1997?
+8.	 How do the ordinary and special facilities of the IMF work? What do you under-
+stand by ‘conditionality’?
+9.	 What criticisms have been levelled against the IMF in its policies of support to 
+developing countries?
+10.	 What have been the effects of IMF policies in developing countries?
+11.	 How could SDRs be used simultaneously as an instrument of aid to developing 
+countries and as a means of employment creation in developed countries?
+Discussion questions – continued
+Chapter 16
+

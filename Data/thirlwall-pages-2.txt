@@ -1,0 +1,2252 @@
+26
+•
+• Introduction
+•
+• The development gap and income distribution in the world economy
+•
+• Measures of inequality and historical trends
+•
+• International inequality (unweighted and population weighted)
+•
+• Global (or world) inequality
+•
+• The measurement and comparability of per capita income
+•
+• Purchasing power parity (PPP)
+•
+• Per capita income as an index of development
+•
+• Measuring poverty
+•
+• Meeting the Sustainable Development Goal of poverty reduction
+•
+• Tackling poverty from the ‘grass roots’
+•
+• Randomized control trials (RCTs)
+•
+• Human Development Index (HDI)
+•
+• Multidimensional Poverty Index (MPI)
+•
+• Can the poor countries ever catch up?
+•
+• Summary
+•
+• Discussion questions
+•
+• Notes
+•
+• Websites on poverty and income distribution
+THE DEVELOPMENT GAP  
+AND THE MEASUREMENT  
+OF POVERTY
+2
+27
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+Introduction
+This chapter focuses on three major topics: first, the development gap in the world economy 
+and the measurement of the world distribution of income; second, the measurement of global 
+poverty and the problems associated with the use of per capita income as a measure of develop-
+ment; and third, the construction of alternative measures of economic and social development, 
+including the Human Development Index (HDI) and the Multidimensional Poverty Index (MPI) 
+developed by the Oxford Poverty and Human Development Initiative, and both published in the 
+Human Development Report of the United Nations Development Programme (UNDP).
+To measure the development gap, and the degree of income inequality across countries of the 
+world, we consider:
+•
+• the absolute gap between the richest and poorest country (the range)
+•
+• the relative gap between the richest and poorest countries
+•
+• the dispersion of income per capita around the average level of per capita income for all countries
+•
+• the Gini ratio, which is derived from the Lorenz curve of the income distribution.
+Using the Gini ratio, we distinguish between international inequality, which takes each country’s 
+per capita income as just one observation (regardless of the distribution of income within coun-
+tries) and global inequality, which takes account not only of the distribution of income between 
+countries but also within countries (using household survey data). We show that international 
+and global inequality have both risen since the beginning of the nineteenth century, but the major 
+cause of global inequality today is inequality between nations, not inequality within nations.
+It is important to recognize, however, that when measuring income inequality and poverty, the 
+measures of income per head in US$ at official exchange rates are not necessarily a good measure 
+of the purchasing power of local currencies (or what is called purchasing power parity, PPP), 
+because official exchange rates do not take account of the much cheaper price of non-traded 
+goods in poor countries relative to richer countries. We show how PPP is measured, and discuss 
+in general the comparability of per capita incomes between countries, and the use of per capita 
+income as an index of development.
+Turning to the measurement of poverty, we discuss the World Bank’s criterion of absolute 
+poverty, which is $1.90 a day at PPP, and give the headcount index of the numbers living below 
+this level of income across different regions of the world. The concept of the poverty gap is also 
+discussed, because the headcount index does not take account of how far below the poverty line 
+people live. Another method of measuring poverty is the food energy method, which measures 
+the income necessary to buy a certain nutritional intake in different countries.
+The World Bank claims that it puts poverty reduction at the heart of all the work that it does, and 
+in its World Development Report 2000/2001 (World Bank, 2000a), it proposed a three-pronged strategy 
+for poverty reduction: promoting opportunity, facilitating empowerment and enhancing security. 
+The meaning of these concepts is discussed in this chapter. Growth is, of course, central to poverty 
+reduction, but how fast the poverty rate falls with growth (to meet the Sustainable Development 
+Goal, for example) depends on the elasticity of the poverty rate with respect to growth.
+To overcome the limitations of taking a single measure of per capita income as an index of 
+development, the UNDP annually constructs a Human Development Index (HDI) and also pub-
+lishes a Multidimensional Poverty Index (MPI). The HDI is based on three variables: life expectancy 
+at birth, educational attainment (measured as the geometric mean of the average and expected 
+years of schooling), and the standard of living measured at PPP. The MPI is also based on three 
+dimensions of poverty: education, health, and standard of living, but with several sub-dimensions 
+28
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+of poverty as well. The rankings of countries by their level of per capita income are not the same 
+as the rankings of countries by the HDI or MPI indices, because some countries devote more 
+resources to social expenditure than others, particularly on education and health.
+Finally, we consider the question of whether poor countries are ever likely to catch up with the 
+rich, and we reach the pessimistic conclusion that it will take the average poor country at least 100 
+years to achieve the current living standards in developed countries and probably 300 years for 
+poor countries to equalize living standards with developed countries if they manage to grow, say, 
+1% faster than the rich countries. But this, of course, cannot be taken for granted.
+The development gap and income distribution in the world economy
+By any measure one cares to take, the evidence is unequivocal that the world’s income is dis-
+tributed extremely unequally between nations and people. There are many ways of classifying 
+these divisions in the world economy. First, at a very basic level, there is the division between 
+rich industrialized countries, mainly concentrated in the northern hemisphere, and poorer non-
+industrialized (or semi-industrialized) countries in the southern hemisphere – often referred to in 
+the development literature as the ‘North–South divide’.
+Second, there is the division between continents: between the developed continents of Europe 
+and North America on the one hand, and the continents of Asia, Africa and Latin America on the 
+other. But the countries of Asia, Africa and Latin America are by no means homogeneous. They 
+have many characteristics, and obstacles to development, in common, but there is also much 
+that divides them, not least their economic performance since the 1960s, with Southeast Asia, 
+China and India forging ahead, Africa left behind, and Latin America in the middle (often prone 
+to financial crises).
+Third, the World Bank, which was established by the Bretton Woods Agreement in 1944 as a 
+development agency to lend to poor countries, classifies countries in its annual World Development 
+Report into three broad categories: low-income, middle-income and high-income countries, with 
+the middle-income countries split into lower middle-income and upper middle-income.
+Table 2.1 lists the low-income and lower middle-income countries, and these are the countries 
+normally thought of as developing countries. There are 36 low-income countries mainly concen-
+trated in Africa, and 48 lower middle-income countries spread across the different continents. 
+Table 2.2 gives the population and average level of per capita income in current dollars measured at 
+the official exchange rate, and at PPP for 2014. We see that for low-income countries with a popula-
+tion of 622 million, the average level of income per head is only $629 at current dollars and $1,570 
+at PPP (or roughly $5 a day). For lower middle-income countries, with a population of nearly 3 bil-
+lion, the average level of per capita income is $2,012 at current dollars and $6,000 at PPP (or roughly 
+$16 a day). Compare these figures with an average income per head in high-income countries of 
+roughly $40,000 (or just over $100 day). The discrepancies are huge. The richest country in the 
+world is currently Norway, with an income per head of $66,330 at PPP, and the poorest countries 
+are Democratic Republic of the Congo, with an income per head of $650, and Burundi with $770.
+Measures of inequality and historical trends
+1.	 One measure of dispersion is the range or absolute income gap between the richest and poor-
+est countries. This gap is almost bound to grow over time if both the rich and poorest countries 
+29
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+Table 2.1  List of low-income and lower middle-income countries
+Low-income countries
+Afghanistan
+Gambia, The
+Myanmar
+Bangladesh
+Guinea
+Nepal
+Benin
+Guinea-Bissau
+Niger
+Burkina Faso
+Haiti
+Rwanda
+Burundi
+Kenya
+Sierra Leone
+Cambodia
+Korea, Dem. Rep.
+Somalia
+Central African Republic
+Kyrgyz Republic
+South Sudan
+Chad
+Liberia
+Tajikistan
+Comoros
+Madagascar
+Tanzania
+Congo, Dem. Rep.
+Malawi
+Togo
+Eritrea
+Mali
+Uganda
+Ethiopia
+Mozambique
+Zimbabwe
+experience positive growth. For example, if the richest country, Norway, grows at 1%, this adds 
+roughly $700 to the level of per capita income in Norway, while the same growth rate adds 
+only $6–$7 dollars to the per capita incomes of the Democratic Republic of the Congo or 
+ 
+Burundi. These countries would have to grow at 700% for the absolute gap between them-
+selves and Norway to be narrowed. But even the gap between the richest and poorest country 
+is an understatement of the degree of income inequality in the world economy because it 
+compares only the average income for poor and rich countries. If the income per head of the 
+poorest people in poor countries is compared with the income per head of the richest people 
+in rich countries, the absolute gap is even wider.
+2.	 A second measure of dispersion, or division in the world economy, is the relative income gap, 
+which is the ratio of the richest country (or group of countries) to the poorest country (or 
+Lower middle-income countries
+Armenia
+India
+Samoa
+Bhutan
+Kiribati
+Sāo Tomé and Príncipe
+Bolivia
+Kosovo
+Senegal
+Cameroon
+Lao PDR
+Solomon Islands
+Cape Verde
+Lesotho
+Sri Lanka
+Congo, Rep.
+Mauritania
+Sudan
+Cote d’Ivoire
+Micronesia, Fed. Sts.
+Swaziland
+Djibouti
+Moldova
+Syrian Arab Republic
+Egypt, Arab Rep.
+Mongolia
+Timor-Leste
+El Salvador
+Morocco
+Ukraine
+Georgia
+Nigeria
+Vanuatu
+Guatemala
+Pakistan
+Vietnam
+Guyana
+Papua New Guinea
+West Bank and Gaza
+Honduras
+Paraguay
+Yemen, Rep.
+Indonesia
+Philippines
+Zambia
+Source: World Bank, website.
+30
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+Table 2.2  Population and income per capita, 2014
+Population, millions
+Gross national income 
+per capita, $
+PPP gross national 
+income per capita, $
+World
+7,261
+10,787
+14,931
+Low income
+622
+629
+1,570
+Middle income
+5,240
+4,666
+9,673
+Lower middle income
+2,879
+2,012
+6,000
+Upper middle income
+2,361
+7,901
+14,179
+Low and middle income
+5,862
+4,238
+8,811
+East Asia and Pacific
+2,021
+6,156
+11,872
+Europe and Central Asia
+264
+6,892
+13,580
+Latin America and 
+Caribbean
+525
+8,990
+14,053
+Middle East and North 
+Africa
+357
+4.222
+11.834
+South Asia
+1,721
+1,496
+5,299
+Sub-Saharan Africa
+973
+1,638
+3,382
+High income
+1,399
+38,274
+40,749
+Source: World Bank, 2015.
+group of countries). At present, the ratio of income per head of the richest to the poorest 
+country is approximately 700:1, and the ratio of income per head in the low-income countries 
+to the high-income countries is approximately 60:1 at current exchange rates. This relative 
+income gap is unprecedented historically. A necessary condition for the relative income gap to 
+narrow is that the poorest countries grow faster than the richest.
+3.	 A well-known statistical measure of dispersion is the standard deviation (SD), or the square 
+root of the variance, which measures the average sum of the squared deviations of each coun-
+try’s per capita income from the average (or mean) income for all countries. Formally, the SD 
+is measured as:
+where Yi is the per capita income of country i; Y
+– is the average level of per capita income of 
+the whole sample, and n is the number of countries. In the growth and development literature, 
+movements in this ratio, up or down, are referred to as ‘sigma (s) divergence or convergence’, 
+respectively.
+4.	 There is the coefficient of variation, which is the SD divided by the mean of the sample 
+(Y
+–). This normalizes the SD because there is a positive correlation between the mean and 
+the SD.
+5.	 But the most widely used measure of income inequality is the so-called Gini ratio, derived 
+from the Lorenz curve, which in this field of enquiry relates to the distribution of income 
+in relation to the distribution of population across countries or groups of countries. Three 
+SD =
+n
+i=
+(Yi −Y)2
+n
+1
+31
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+measures or concepts of inequality need to be clearly distinguished in using the Gini ratio. 
+ 
+First, there is international inequality, with each country treated as a single unit and given 
+equal weight in the measure. Second, there is weighted international inequality, with each 
+country treated as a single unit but weighted by its size of population. Third, there is world 
+or global inequality, which takes the individual person (or household), not the country, as the 
+unit of measurement, and therefore takes into account not only differences in income between 
+countries, but also between people within countries. Each measure has its own purpose, and 
+there is no theoretical reason why the measures should move together (although, in practice, 
+they tend to, taking a long historical perspective).
+Before describing how the Lorenz curve is constructed and the Gini ratio is measured, 
+however, it needs to be said in advance that a single statistic does not say what is happening 
+within the distribution, and, in particular, what is happening at the extremes of the distribu-
+tion. Ratios of extremes, such as the income of the poorest 10% of the world’s population 
+compared with the richest 10% (often called the Kuznets ratio), or income of the poorest 
+countries compared with the richest, can say as much, if not more, about income inequal-
+ity and social justice than any integral measure. In fact, the Gini ratio may indicate con-
+vergence or less inequality, while the ratio of extremes is increasing. For discussion of the 
+conceptual problems relating to analysis of the world distribution of income, see Atkinson 
+and Brandolini (2010).
+Consider now Figure 2.1. On the vertical axis is measured the percentage of income, and on the 
+horizontal axis is measured the percentage of population. To draw the distribution of income (the 
+Lorenz curve) first rank each country, groups of countries, or groups of individuals in ascending 
+order according to the ratio of the percentage of income they receive and the percentage of popu-
+lation they represent; then cumulate the observations, and plot them on the diagram. To give a 
+Figure 2.1  Lorenz curve diagram
+10
+10
+2
+9
+25
+81
+0
+20
+30
+40
+50
+60
+70
+80
+90 100
+% of population
+% of income
+20
+30
+40
+50
+60
+70
+80
+90
+100
+32
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+simple example, suppose we take the World Bank’s division of countries into low, middle and high 
+income, and that low-income countries contain 9% of the world’s population and receive only 
+2% of world income, middle-income countries contain 72% of the world’s population and receive 
+23% of world income, and rich countries contain 19% of the world’s population and receive 75% 
+of world income. The cumulative distribution of income in relation to population would then be 
+2/9, then 25/81 (when middle-income country figures are added), and finally 100/100 when the 
+rich countries are added.
+These points are plotted in Figure 2.1 and the curve joining them is the Lorenz curve. The diag-
+onal 450 line on the diagram shows an equal distribution of income. The position of the Lorenz 
+curve in relation to the 450 line therefore gives a visual impression of the degree of inequality. The 
+closer the Lorenz curve, the more equal the distribution, and the more ‘bowed’ the curve, the 
+more unequal the distribution.
+The Gini ratio is calculated as the area between the Lorenz curve and the 458 line divided by 
+the area of the triangle it lies within. If the Lorenz curve is coincident with the 458 line, the Gini 
+coefficient would be zero – complete equality. If one person received all the world’s income, the 
+Lorenz curve would follow the horizontal and vertical axes and the Gini coefficient would be 
+one. When we examine international and global inequality, what we find is that through time, 
+at least since the early 1900s, the Lorenz curve has been shifting outwards, and the Gini ratio has 
+been rising, although according to some investigators, it may recently have levelled off, albeit at 
+a high level. A central estimate for the current level of international inequality would be a Gini 
+ratio of 0.54, and for global inequality a Gini ratio of 0.67. But, as we shall come to see, estimates 
+vary depending on factors such as the sample of countries taken, how income is measured – 
+whether by per capita income or household income – and whether income is measured at official 
+exchange rates or at PPP rates.
+There have been many recent studies measuring and summarizing what has been happen-
+ing to international and global inequality historically (e.g. Milanovic, 2005, 2016; Bourguignon 
+and Morrisson, 2002), and particularly since the 1950s (e.g. Norwegian Institute of Economic 
+Affairs, 2000; Sala-í-Martin, 2002; Maddison, 2003; Ghose, 2004; Wade, 2004; Sutcliffe, 2004; 
+Svedberg, 2004; Milanovic, 2005, 2016). What does the evidence show? We distinguish 
+between international inequality (unweighted and weighted by population) and global (or 
+world) inequality.
+International inequality (unweighted and population weighted)
+The unweighted Gini ratio of international inequality takes each country as one unit, regard-
+less of population size, and assumes that each person within the country has the same average 
+income. The distribution of income within the country is not considered. It is countries that 
+are the focus, not people. The ratio is basically, therefore, a measure of whether or not coun-
+tries are converging with each other, not whether the distribution of income across individuals 
+in the world is becoming more or less equal. What does the evidence show? Using the best 
+historical data available (Maddison, 2001; Bourguignon and Morrisson, 2002) for 26 coun-
+tries covering nearly 80% of the world’s population, the Gini ratio in 1820 was approximately 
+0.2. This is very low by current standards. Two hundred years ago, international differences in 
+income per head were not great. Maddison (2003) and Easterlin (2000) show that the ratio of 
+33
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+per capita income of the richest to the poorest country in 1820 was only 3:1, compared with 
+nearly 700:1 today.
+Table 2.3 shows the evolution of the unweighted Gini ratio through time, rising consist-
+ently to 0.54 in 2013 – a more than doubling of income inequality in the space of nearly 200 
+years. Some of the increase may be spurious due to the larger sample of countries used to cal-
+culate the ratio, but Milanovic (2005, 2016) shows that for the same 26 countries as used for 
+the 1820 calculations, the Gini ratio still rises to just over 0.5 in 2000. For the period since the 
+Second World War, the Gini ratio shows an increase for a consistent set of over 100 countries 
+from 0.45 in 1952 to a peak of 0.58 in 2002. Since then, it has been falling slightly due to the 
+fast growth of China and India, and some African countries because of the rise in commodity 
+prices (Bourguignon, 2015).
+Turning now to the population-weighted measure of international inequality, Table 2.3 tells a 
+slightly different story. It shows the Gini ratio peaking at 0.6 in 1988 and falling consistently to 0.47 
+in 2013. This implies that poor countries with large populations must have been growing faster 
+on average than richer countries with smaller populations. In the 1950s and 1960s, this was due 
+to the fast growth of some of the big Latin American countries, such as Brazil and Mexico, and 
+Japan and South Korea, all using trade protection of one form or another. In the 1990s and 2000s, 
+the decline in the weighted Gini ratio has been largely due to the rapid growth of a small number 
+of poor populous Asian countries, especially India and China. Ghose (2004), in his study of 96 
+countries over the period 1981 to 1997, finds that the weighted Gini ratio fell by 0.7% per annum, 
+Table 2.3  A comparison of Gini ratios
+International inequality
+Global (or world) inequality
+Year
+Unweighted
+Population 
+weighted
+Milanovic (2005, 
+2016)
+Bourguignon and 
+Morrisson (2002)
+Sala-í-Martin 
+(2002)
+1820
+0.20
+0.12
+0.50
+1870
+0.29
+0.26
+0.56
+1890
+0.31
+0.30
+0.59
+1913
+0.37
+0.37
+0.61
+1929
+0.35
+0.40
+0.62
+1938
+0.35
+0.40
+1952
+0.45
+0.57
+0.64
+1960
+0.46
+0.55
+0.64
+1978
+0.47
+0.54
+0.66
+0.66 (1970)
+1988
+0.53
+0.60
+0.68
+0.65
+1993
+0.56
+0.59
+0.70
+0.66 (1992)
+0.64
+1998
+0.56
+0.57
+0.69
+0.63
+2002
+0.58
+0.56
+0.71
+0.63 (2000)
+2005
+0.57
+0.54
+0.70
+2008
+0.55
+0.51
+0.69
+2011
+0.54
+0.48
+0.67
+2013
+0.54
+0.47
+Sources: Adapted from Milanovic, 2005, Table 11.1; Milanovic, 2016.
+34
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+but only 17 of the 76 developing countries in the sample converged on the per capita income of 
+the 20 developed countries. The majority of poor developing countries diverged. Despite the fall 
+in the ratio since 1988, it is still high and much higher than the estimate of 0.12 in 1820. In other 
+words, for a large part of the past two centuries, the world’s poorest and most populous countries 
+have fared badly compared with the smaller, rich countries of the world. China and India are now 
+reversing the trend, but for how long remains to be seen.
+Global (or world) inequality
+The Gini ratio of global (or world) inequality takes into account not only differences in average 
+per capita income between countries, but also differences in income per capita within countries. 
+Because internal income distributions are never equal, the measure of global inequality is bound to 
+be higher than the unweighted measure of international inequality. It also means that changes in the 
+global distribution of income are an amalgam of forces, including what is happening to the distribu-
+tion of income between countries, what is happening to population growth in rich and poor coun-
+tries, and what is happening to the distribution of income within countries. What does the evidence 
+show? As far as the historical record is concerned, Bourguignon and Morrisson (2002) have tried to 
+measure inequality among world citizens back to 1820 using a sample of 33 countries (or groups 
+of countries) and measuring domestic income inequality by taking decile income shares (with the 
+top decile of income earners divided into two). The results are shown in Table 2.3 above. It can be 
+seen that the global Gini ratio in 1820 was already 0.5, more than double the level of international 
+inequality, implying that domestic inequality was as great, if not greater, than inter­
+national inequal-
+ity. Through time, global inequality has increased, but because of rising inter­
+national ­
+inequality, not 
+because of even greater inequality within countries. On the contrary, domestic income inequality, 
+at least until recently, has shown a decrease historically, particularly in the richer countries of the 
+world. Bourguignon and Morrisson calculate that within-country inequality accounted for 80% of 
+global inequality in the first half of the nineteenth century, when most countries were more or 
+less at the same income level, but by 1950, within-country inequality accounted for 40% of global 
+inequality because of the increase in inequality between countries. Today, the contribution is about 
+20%. The Gini ratio of global inequality seems to have peaked in the early 2000s at 0.71 and has since 
+declined (Bourguignon, 2015). But conflicting forces are at work. Population-weighted international 
+inequality is falling because of the fast growth of India and China, but income distribution within 
+some countries is widening, such as between the urban and rural sectors of China and India and 
+in some developed countries such as the USA and countries of Europe. If the income distribution 
+within countries was falling, the global Gini ratio would evidence a greater fall.
+Sala-í-Martin (2002) covers the period 1970–98, taking the income distribution of 125 coun-
+tries and aggregating them. Despite the much larger sample, the calculated global Gini ratios are 
+remarkably similar to those of Bourguignon and Morrisson. The estimate for 1970 is 0.66, grad­
+ually falling to 0.63 in 2000 (see Table 2.3). The explanation for the slight fall is that the lower ‘tail’ 
+of the aggregated income distribution has shifted rightwards more dramatically than the upper 
+‘tail’, largely due to developments in China and India. Fast growth in these two countries has lifted 
+millions of people above the poverty line, and has reduced the relative income gap with richer 
+countries, and this has been enough to just offset the worsening income distribution within China 
+and India, as mentioned earlier. Still, we have evidence again of global inequality on a vast scale.
+Milanovic (2005, 2016) has also undertaken the Herculean task of bringing together 300 
+household sample surveys of income and expenditure for over 100 countries for selected years 
+from 1988 to 2011, covering 80–90% of the world’s population. The calculated global Gini ratio 
+35
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+using household income or expenditure measured at PPP is 0.68 in 1988 and 0.67 in 2011 (see 
+Table 2.3). These estimates are remarkably similar to those of Sala-í-Martin, despite the difference 
+in samples and the measure of income. Bourguignon (2015) gives a figure of 0.691 for 2010. These 
+results are confirmed by Edward (2006) using national consumption distributions and collating 
+them into a global distribution measured at PPP in US$ for 1993 and 2001. The global Gini ratio 
+is estimated at 0.610 for 1993 and 0.614 for 2001. Just over 80% of this inequality is the result of 
+between-country differences.
+All the evidence and studies show a massive degree of inequality in the world distribution of 
+income, which shows some recent improvement but may not last if growth in China and India 
+slows and the income distribution within countries gets worse. This development gap naturally 
+extends into other aspects of human welfare such as health, nutrition, life expectancy, education, 
+employment opportunities and so on, as we shall come to see later in this chapter and in Chapters 3 
+and 7. The UNDP (1997) has described the world as ‘gargantuan in its excesses and grotesque in 
+its human and economic inequalities’. This is, of course, a normative statement, but economists 
+should not be afraid of making normative statements, as Basu (2006) does when he argues that:
+the hiatus between the richest and the poorest people is too large, and the extent of poverty 
+on earth is unacceptable. I like to believe that there will come a time when, looking back at 
+today’s world, human beings will wonder how primitive we were that we tolerated this.
+Many other statistics can be given to illustrate the grotesque inequalities that exist. The richest 
+1% of people in the world receive as much income as the bottom 60%. Or, to put it another way, 
+the 60 million richest people receive as much income as 2.7 billion poor. The total income of the 
+richest 25 million Americans is equal to the total income of 2 billion of the world’s poorest people. 
+The assets of the world’s 400 billionaires (mostly in rich countries) exceed the total amount of 
+income of nearly one-half of the world’s total population.
+The most evocative graph comes from Wade (2001), who divides the world’s population 
+up into equal 20% shares (quintiles) from poorest to richest, and then shows the percentage of 
+income that each share receives. Interestingly, and ironically, the picture resembles a champagne 
+glass with a very narrow stem in the hands of the poor and a wide open bowl (containing the 
+champagne) in the hands of the rich (Figure 2.2).
+Below we discuss some technical problems concerning the measurement and comparability of 
+per capita income across countries, and the measurement of poverty itself.
+Figure 2.2  
+Distribution of world income (percentage of total, with quintiles of population ranked 
+by income)
+82.7%
+11.7%
+2.3%
+1.9%
+1.4%
+Each horizontal band
+represents an equal
+fifth of the world’s people
+POOREST
+20%
+FOURTH
+20%
+THIRD
+20%
+SECOND
+20%
+RICHEST
+20%
+Source: Wade, 2001, based on Figure 3.2 in UNDP, 1992.
+36
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+The measurement and comparability of per capita income
+When using per capita income (PCY) figures to measure poverty, to classify countries into rich 
+and poor, and to compare the rate of development in different countries over time, the difficulties 
+of measuring real per capita income and real living standards between countries must be continu-
+ally borne in mind. There are two issues to discuss. The first concerns the problems associated 
+with national income accounting, particularly in developing countries. The second is the need 
+to convert each country’s per capita income in its own domestic currency into a common unit of 
+account (e.g. the US$) so as to be able to make meaningful international comparisons of living 
+standards. This leads to the topic of purchasing power parity (PPP) estimates of PCY.
+Turning first to national income accounting, the first point to bear in mind is that only goods 
+that are produced and sold at a price in the market are included in the value of national income, 
+measured by either the output or the expenditure method. Much output in developing countries 
+never reaches the market, particularly in the rural sector where production is for subsistence pur-
+poses. If no allowance is made for the subsistence sector, this will bias downwards the calculation 
+of national income, and therefore PCY. This point also implies that growth rates will tend to have 
+an upward bias as a result of the extension of the money economy and the shift of economic 
+activities from the household and subsistence sector to the marketplace. Part of the growth in 
+developing countries may be a statistical illusion arising from the changing balance between the 
+informal subsistence sector and the modern exchange sector.
+Second, there is the sheer practical difficulty of measuring money national income in a rural 
+economy where communications are bad, illiteracy is rife, and accounting procedures are rudi-
+mentary. Differences in the extent of the subsistence economy between developing countries, 
+and differences in the ease and difficulty of collecting data, may markedly influence estimates of 
+national income, and therefore of per capita income differences, between these countries and the 
+rest of the world. Attempts are made in developing countries to make some allowance for pro-
+duction that never reaches the marketplace, but the estimates are likely to be subject to a wide 
+margin of error.
+Some testimony to the role that the subsistence sector must play in the economies of most 
+developing countries is provided by the inconceivability that 10% of the world’s population could 
+remain alive on less than $1,000 per annum. But this is not the whole story.
+Purchasing power parity (PPP)
+The other part of the story, and probably the major part, concerns the understatement of living 
+standards in developing countries when their national incomes measured in local currencies are 
+converted into US$ (as the common unit of account) at the official rate of exchange. If the US$ is 
+used as the unit of account, the national per capita income of country X in US$ is given by:
+GNPX
+Population  4  Exchange rate
+For example, if the GNP of country X is 100 billion rupees, its population is 5 million, and there are 
+10 rupees to the dollar, then the per capita income of country X in dollars is:
+100 billion
+5 million  4 10 5 $2,000
+37
+  t  5 ) &  % & 7 & - 0 1 . & / 5  ( " 1  " / %  5 ) &  . & " 4 6 3 & . & / 5  0 '  1 0 7 & 3 5 : 
+#VUJGUIFMJWJOHTUBOEBSETPGUIFUXPDPVOUSJFTBSFUPCFDPNQBSFECZUIJTNFUIPEJUNVTUCF
+BTTVNFEUIBUSVQFFTJODPVOUSZXCVZTUIFTBNFMJWJOHTUBOEBSEBTJOUIF64"*UJTXFMM
+LOPXOIPXFWFSUIBUPċDJBMFYDIBOHFSBUFTCFUXFFOUXPDPVOUSJFTDVSSFODJFTBSFOPUHPPE
+NFBTVSFTPGUIF111CFUXFFODPVOUSJFTFTQFDJBMMZCFUXFFODPVOUSJFTBUEJĊFSFOUMFWFMTPGEFWFM-
+PQNFOUʾFSFBTPOJTUIBUFYDIBOHFSBUFTBSFMBSHFMZEFUFSNJOFECZUIFTVQQMZPGBOEEFNBOE
+GPSDVSSFODJFTCBTFEPOHPPETBOEBTTFUTUIBUBSFUSBEFE	UIFQSJDFTPGXIJDIUFOEUPCFFRVBMJ[FE
+JOUFSOBUJPOBMMZ
+CVUMJWJOHTUBOEBSETEFQFOEBMTPPOUIFQSJDFTPGnon-traded goods, which are 
+MBSHFMZEFUFSNJOFECZVOJUMBCPVSDPTUTBOEUIFTFUFOEUPCFMPXFSUIFQPPSFSUIFDPVOUSZ"TB
+general rule, it can be said that the lower the level of development and the poorer the country, the 
+MPXFSUIFQSJDFPGOPOUSBEFEHPPETSFMBUJWFUPUSBEFEHPPETBOEUIFNPSFUIFVTFPGUIFPċDJBM
+FYDIBOHFSBUFXJMMunderstateUIFMJWJOHTUBOEBSETPGUIFEFWFMPQJOHDPVOUSZNFBTVSFEJO64
+-FUVTHJWFBTJNQMFFYBNQMFʾFNPUPSDBSJTBOJOUFSOBUJPOBMMZUSBEFEHPPE4VQQPTFUIBUUIF
+EPMMBSQSJDFPGBQBSUJDVMBSNPEFMPGDBSJTBOEUIFSFBSFSVQFFTUPUIFEPMMBS*HOPSJOH
+USBOTQPSUDPTUTUBSJĊTBOETPPOUIFQSJDFPGUIFDBSJO*OEJBXJMMCF35
+rupees, otherwise a proﬁt will be made by dealers buying in the cheapest market and selling in the 
+NPTUFYQFOTJWFʾFGPSDFTPGEFNBOEBOETVQQMZ	BOEBSCJUSBHF
+XJMMFRVBMJ[FUIFQSJDFPGUSBEFE
+HPPET#VUMFUVTOPXDPOTJEFSBOPOUSBEFEHPPETVDIBTBIBJSDVU4VQQPTFBIBJSDVUJOUIF64"
+DPTUT"UUIFPċDJBMFYDIBOHFSBUFPGSVQFFTUPUIFEPMMBSBIBJSDVUJO*OEJBTIPVMECF
+SVQFFT#VUTVQQPTFUIBUJOGBDUJUJTPOMZSVQFFTʾJTXPVMENFBOUIBUBTGBSBTIBJSDVUTBSF
+DPODFSOFEUIFWBMVFPGUIFSVQFFJTVOEFSFTUJNBUFECZBGBDUPSPGGPVSʾF111SBUFPGFYDIBOHF
+GPSIBJSDVUTBMPOFJT4SVQFFTPS5SVQFFT*GUIFOBUJPOBMJODPNFPGDPVOUSZX 
+NFBTVSFEJOSVQFFTXBTEJWJEFECZJOTUFBEPGUIFOBUJPOBMJODPNFPGDPVOUSZX in dollars, 
+BOEUIFSFGPSF1$:JOEPMMBSTXPVMEOPXCFGPVSUJNFTIJHIFSQFSIFBEJOTUFBEPG
+QFSIFBEBTJOUIFFYBNQMFBCPWF
+"TEFWFMPQNFOUQSPDFFETUIFSBUJPPGUIFQSJDFPGOPOUSBEFEHPPETUPUSBEFEHPPETUFOET
+UPSJTFBTXBHFMFWFMTJOUIFOPOUSBEFEHPPETTFDUPSSJTFCVUQSPEVDUJWJUZHSPXUIJTTMPXoTMPXFS
+UIBOJOUIFUSBEFEHPPETTFDUPSTo make meaningful international comparisons of income 
+and living standards, therefore, what is required is a measure of PPP, or a real exchange rate, 
+between countries.
+ʾFSFBSFTFWFSBMNFUIPETPGDPOTUSVDUJOH111SBUJPTJOPSEFSUPNBLFCJOBSZDPNQBSJTPOT
+	POFDPVOUSZXJUIBOPUIFS
+PSANVMUJMBUFSBMDPNQBSJTPOTJOXIJDIUIFDVSSFODZPGBOZPOFPGB
+group of countries can act as the unit of account without altering the ratios of living standards 
+CFUXFFODPVOUSJFT
+ʾFNPTUDPNNPOXBZPGDPOTUSVDUJOHB111SBUJPCFUXFFOUXPDPVOUSJFT	TBZ*OEJBBOE
+UIF64"
+JTUPUBLFBSFQSFTFOUBUJWFDPNQBSBCMFCBTLFUPGHPPETBOETFSWJDFTJOCPUIDPVOUSJFT
+BOEUIFOUBLFUIFXFJHIUFEBWFSBHFPGQSJDFTXIFSFUIFXFJHIUT	wi
+SFnFDUUIFQSPQPSUJPOPG
+FYQFOEJUVSFPOFBDIHPPEJOUPUBMFYQFOEJUVSFʾF111SBUFPGFYDIBOHFCFUXFFO*OEJBBOEUIF
+64"JTUIFSFGPSF
+ PPP 5  wiIPiI
+wiUSPiUS
+ ,
+where PiI is the price of the good in India and PiUSJTUIFQSJDFPGUIFHPPEJOUIF64"
+ʾFEJĊFSFODFCFUXFFOFTUJNBUFTPG1$:BUUIFPċDJBMFYDIBOHFSBUFBOE111FTUJNBUFTPG
+1$:GPSTBZUIFMPXJODPNFDPVOUSJFTDBOCFTFFOJO5BCMF	Q
+ʾFEJĊFSFODFJTRVJUF
+MBSHF"UUIFPċDJBMFYDIBOHFSBUFUIFMFWFMPG1$:JTPOMZQFSBOOVNCVUBU111JUJT
+PSNPSFUIBOEPVCMF*OPUIFSXPSETJOMPXJODPNFDPVOUSJFTBQFSTPOTJODPNFXPVMECFBCMF
+37
+38
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+to buy more than twice the goods and services that the official exchange rate would suggest. 
+Notice that in high-income countries, there is hardly any difference between the two estimates 
+because wage costs per unit of output in the non-traded goods sector match those of the traded 
+goods sector.
+Per capita income as an index of development
+Now let us turn to the question of the use of per capita income figures as an index of development 
+and for making a distinction between developed and developing countries, as well as between rich 
+and poor. While there may be an association between poverty and underdevelopment and riches 
+and development, there are a number of reasons why some care must be taken when using per 
+capita income figures alone as a measure or indicator of development (unless underdevelopment 
+is defined as poverty and development as riches). Apart from the difficulty of measuring income 
+in many countries and the difficulty of making intercountry comparisons, using a single per capita 
+income figure to separate developed from developing countries is inevitably somewhat arbitrary, 
+because it ignores such factors as the distribution of income within countries, differences in devel-
+opment potential and other physical indicators of the quality of life. It is not so much a question 
+of whether or not low-income countries should be labelled ‘underdeveloped’ or ‘developing’, but 
+what income level should be used as the criterion for separating the developed from the develop-
+ing countries, and whether all high-income countries should necessarily be labelled ‘developed’. 
+In many ways, it should be the nature and characteristics of the countries that determine which 
+income level should be used as the dividing line. It also makes sense to categorize separately the 
+oil-rich countries, which have high per capita incomes but cannot be regarded as developed by 
+the criteria discussed in Chapter 1.
+Acronyms abound to describe the different stages of development. Perhaps the most amusing 
+set is attributable to the Brazilian economist Roberto Campos, who distinguishes five categories 
+of countries: the HICs, PICs, NICs, MICs and DICs. These stand for hardly industrialized countries, 
+partly industrialized countries, newly industrialized countries, mature industrialized countries 
+and decadent industrialized countries. The HICs and the PICs would certainly cover all the low-
+income countries and at least the lower half of the middle-income countries. The NICs cover most 
+of the upper half of the middle-income countries – Brazil, Mexico, Hong Kong and Singapore 
+being prime examples. The MICs and DICs cover most of those countries classified as ‘industrial 
+market economies’, with the exception of New Zealand and Australia, which have become rich 
+through agriculture.
+But bearing in mind the arbitrariness of per capita income, it is still very convenient to have 
+a readily available and easily understandable criterion for classifying countries, and perhaps per 
+capita income is the best single index we have. It also has one positive advantage, namely that it 
+focuses on the raison d’être of development: raising living standards and eradicating poverty. And, 
+in the last resort, per capita income is not a bad proxy for the social and economic structure of 
+most societies. If developing countries are defined on the basis of a per capita income level so as 
+to include most of the countries of Asia, Africa and Latin America, striking similarities are found 
+between the characteristics and development obstacles of many of the countries in these contin­
+ents. These include:
+•
+• A high proportion of the labour force engaged in agriculture with low productivity.
+•
+• A high proportion of domestic expenditure on food and necessities.
+39
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+•
+• An export trade dominated by primary products and an import trade dominated by manufac-
+tured goods.
+•
+• A low level of technology and poor human capital.
+•
+• A high birth rate coupled with a falling death rate.
+•
+• Savings undertaken by a small percentage of the population.
+There are, of course, some countries that on a per capita income basis are classified as developed 
+and possess many of the above-mentioned characteristics (e.g. some oil-producing countries), 
+but the exceptions are few, and the reverse of this situation would be unusual. Also, these coun-
+tries have many social problems in common, such as growing unemployment in urban areas, 
+inegalitarian income distributions, and poor health and standards of education – about which we 
+shall say more later.
+In general, therefore, it can be said that per capita income may be used as a starting point for 
+classifying levels of development, and can certainly be used to identify the need for development. 
+The only major reservation that we shall have to consider later concerns the case of geographic­
+ally dual economies, where an aggregate per capita income figure can disguise as great a need for 
+the development of a sizeable region within the country as the need for the development of the 
+country itself.
+There is a difference, however, between using per capita income as a guideline for classifying 
+countries into developed or underdeveloped at a point in time and using the growth of per capita 
+income as an index of development over time. The difficulty of using per capita income for the 
+latter purpose is the obvious one that if, in a particular period, per capita income did not grow 
+because population growth matched the growth of a country’s total income, one would be forced 
+into the odd position of denying that a country had developed even though its national product 
+had increased. This is an inherent weakness of linking the concept of development to a measure 
+of living standards.
+This leads on to the distinction between growth and development. Development without 
+growth is hardly conceivable, but growth is possible without development. The upswing of the 
+trade cycle is the most obvious example of the possibility of growth without development; and 
+examples of abortive ‘take-offs’ are not hard to find where countries have grown rapidly for a 
+short time and then reverted to relative stagnation. Historically, Argentina is a case in point. On 
+the other hand, development is hardly possible without growth; but development is possible, as 
+we have suggested, without a rise in per capita income. It would be a strange, rather purposeless 
+type of development, however, that left per capita income unchanged, unless the stationary per 
+capita income was only temporary and a strong foundation was being laid for progress in the 
+future. The ultimate rationale of development must be to improve living standards and welfare, 
+and while an increase in measured per capita income may not be a sufficient condition for an 
+increase in individual welfare, it is a necessary condition in the absence of a radical redistribution 
+of income and the provision of basic needs to the poor.
+Measuring poverty
+The World Bank defines poverty as the inability of people to attain a minimum standard of living. 
+The World Bank’s 1990 and 2000/2001 World Development Reports were devoted to a consider­
+ation of the measurement, magnitude and nature of poverty in developing countries, and how to 
+tackle it. This definition gives rise to three questions. How do we measure the standard of living? 
+40
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+What is meant by a minimum standard of living? How can we express the overall extent of poverty 
+in a single measure?
+The most obvious measure of living standards is an individual’s (or household’s) real income 
+or expenditure (with an allowance made for output produced for own consumption). The same 
+level of real income and expenditure in different countries, however, may be associated with dif-
+ferent levels of nutrition, life expectancy, infant mortality, schooling and so on, which must be 
+considered as an integral part of ‘the standard of living’. Measures of living standards based on per 
+capita income, therefore, may need to be supplemented by further measures that include these 
+other variables. Later in this chapter, we discuss the attempt by the UNDP to construct a Human 
+Development Index, and the Oxford Poverty and Human Development Initiative to construct a 
+Multidimensional Poverty Index, which take some of these factors into account.
+To separate the poor from the not so poor, an arbitrary per capita income figure has to be taken 
+that is sufficient to provide a minimum acceptable level of consumption. There are two main ways 
+of setting a consumption poverty line in order to measure poverty and make comparison across 
+countries: the PPP method and the food energy method. As we have seen above, a country’s PPP 
+is defined as the number of units of the country’s currency required to buy the same amount of 
+goods and services in the domestic market as a dollar in the USA. The World Bank publishes the 
+PPP levels of per capita income for all countries and regions of the world (see Table 2.2 on p. 30). 
+For the measurement of poverty, to give an example, the PPP poverty line could be set at, say, $60 
+per month or $720 per annum. By definition, people on this PPP poverty line in any country have 
+the purchasing power to obtain the same level of consumption of any person on the poverty line 
+in any other country. But the composition of the consumption bundle is very likely to differ. The 
+PPP poverty line is not explicitly linked to nutritional intakes derived from different consumption 
+bundles, so there are likely to be intercountry differences in nutrition on the PPP poverty line.
+The food energy method of setting a consumption poverty line is one way of dealing with this 
+problem by defining a minimum internationally agreed calorie intake line, and converting con-
+sumption bundles into calorie intakes using the nutritional values of consumption goods (with 
+non-food goods having a zero value). The problem here, however, is that consumers in different 
+countries may choose different combinations of food and other goods, which then require different 
+incomes to meet nutritional requirements. Indeed, the nature of the society and the stage of devel-
+opment reached may require different combinations. What are regarded as optional extras in some 
+countries may be necessities in others. The UN’s Food and Agriculture Organization defines under-
+nourishment as ‘food intake that is continuously insufficient to meet dietary energy requirements’.
+A consumption-based poverty line can therefore be thought of as comprising two elements: 
+an objective measure of the expenditure necessary to buy a minimum level of nutrition; and a 
+subjective additional amount that varies from country to country, reflecting the cost to individ­
+uals of participating in the everyday life of society.
+All this is in theory. In practice, to measure the extent of extreme poverty in the world, the 
+World Bank takes $1.90 a day at PPP at 2011 prices as the cut-off point. This used to be $1.25 a 
+day at 1995 prices (and before that at approximately $1 a day), but the revised poverty line was 
+introduced in 2014 to reflect the rising cost of basic food, clothing and shelter. The real value of 
+$1.90 a day at 2011 prices is the same as $1.25 a day at 2005 prices.
+Given the poverty line, the simplest way to measure the amount of poverty is by the headcount 
+index, which simply adds up the number of people who fall below the poverty line, which can 
+also be expressed as a proportion of the total population, giving the poverty rate. In 2012, there 
+were just under 900 million, or nearly 13% of humanity, living in extreme poverty. The numbers in 
+poverty and the poverty rates for different areas of the world are shown in Table 2.4. Sub-Saharan 
+ 
+41
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+Africa has by far the highest incidence of extreme poverty, with 43% of the population living on 
+less than $1.90 a day – a staggering figure. Students reading this book might like to try the experi-
+ment of living on such a meagre sum, and see how they fare.
+Paul Collier (2007) once called those living on less than $1 a day the bottom billion. On the 
+new estimates of absolute poverty, the ‘bottom billion’ have become the ‘bottom 900 million’ 
+caught in the four ‘poverty traps’ he identifies: the conflict trap (civil wars); the natural resources 
+trap (the curse of natural resources – see Chapter 3); the trap of being landlocked with bad neigh-
+bours; and the trap of bad governance in a small country.
+One weakness of the headcount index, however, is that it ignores the extent to which the poor 
+fall below the poverty line, so that comparisons between countries, or over time, using only the 
+headcount index or the poverty rate, do not tell the full story. To overcome this weakness, the 
+concept of the poverty gap is used and measured. This measures the proportionate gap between 
+the average level of income below the poverty line and the poverty line itself. For example, if the 
+poverty line is $1.90 a day and the average income for the poor below the poverty line is $1.50 a 
+day, then the poverty gap is ($1.90 2 $1.50)/$1.90 5 0.21 or 21%. The poverty gap for different 
+regions of the world is shown in Table 2.5. It can be seen that the poverty gap is by far the highest 
+in sub-Saharan Africa at 16.47%.
+Table 2.4  Absolute poverty and poverty rates, 1990 and 2012
+Global and regional poverty at the poverty line of $1.90 per day (at 2011 PPP)
+Region
+Number of poor in millions
+Poverty rate, % of population
+1990
+2012
+1990
+2012
+East Asia and Pacific
+996
+147
+60.6
+7.2
+Europe and Central Asia
+9
+10
+1.9
+2.1
+Latin America and the 
+Caribbean
+78
+34
+17.8
+5.6
+Middle East and North 
+Africa
+14
+6.0
+South Asia
+575
+309
+50.6
+18.8
+Sub-Saharan Africa
+288
+389
+56.8
+42.7
+World
+1,959
+897
+37.1
+12.7
+Source: World Bank, 2015.
+Table 2.5  Poverty gap at $1.90 a day (2011 PPP) (%)
+2012
+East Asia and Pacific (developing only)
+1.47
+Europe and Central Asia (developing only)
+0.58
+Latin America and Caribbean (developing only)
+2.64
+Low income
+18.6
+Lower middle income
+4,69
+Low and middle income
+4.35
+Middle East and North Africa (developing)
+Sub-Saharan Africa (developing only)
+16.47
+Source: World Bank, 2015.
+42
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+The difference for every individual could also be summed and expressed as a proportion of 
+total GDP. This would give the proportion of total income that would have to be redistributed to 
+raise everyone above the poverty line.
+The focus of the World Bank is now very much on poverty eradication. When Robert 
+McNamara was president of the World Bank in the 1970s, he defined absolute poverty as ‘a con-
+dition of life so degraded by disease, illiteracy, and malnutrition and squalor, as to deny its victims 
+basic human necessities – [a condition] so limited as to prevent the realisation of the potential 
+of the genes with which one was born’. In May 1992, Lewis Preston, the then president of the 
+World Bank, declared that poverty reduction will be ‘the benchmark by which our performance 
+as a development institution will be measured’. And in the World Development Report 2000/2001, 
+James Wolfensohn, the then president, wrote: ‘Poverty amidst plenty is the world’s greatest chal-
+lenge. We at the Bank have made it our mission to fight poverty with passion and professionalism, 
+putting it at the centre of all the work that we do’ (World Bank, 2000a). Jim Yong Kim, the current 
+president, has said: ‘I want to eradicate poverty. I think there is a tremendous passion for that in 
+the World Bank.’ As Collier (2007) writes: ‘an impoverished ghetto of 1 billion people [is] increas-
+ingly impossible for a comfortable world to tolerate’.
+Meeting the Sustainable Development Goal of poverty reduction
+To meet the Sustainable Development Goal of reducing extreme poverty to 1% of the world’s 
+population by 2030 will require high sustained growth in the poorest countries. To calculate the 
+growth required to go from the 2015 poverty rate to 1%, the elasticity of the poverty rate with 
+respect to the growth of per capita income needs to be determined. As a rough guide, it is esti-
+mated by the World Bank (see Ravallion, 2013) that every 1% increase in per capita income leads 
+to a 1.7% reduction in the poverty rate. This calculation, however, also depends on the distribution 
+of income within countries. More equal countries cut poverty further and faster than unequal 
+ones. In the most unequal countries, a 1% increase in income cuts the poverty rate by less than 
+1%, while in more equal countries a 1% increase in income reduces the poverty rate by as much 
+as 4%. Ravallion (2013) calculates that if developing countries maintain their post-2000 growth 
+performance, the number of extremely poor people will fall from the current level of 900 million 
+to 200 million by 2030, or 3% of the world’s population. This would be a remarkable achievement. 
+To reach the 1% poverty target, however, would require an increase in household consumption of 
+7.6% per annum – an unrealistically high level.
+Tackling poverty from the ‘grass roots’
+Poverty not only means low income and consumption, and low levels of human development 
+in terms of education and healthcare, but also feelings of powerlessness, vulnerability and 
+fear, because poor people are not free, and are exposed to greater risk, living on the margin of 
+subsistence.
+What it means to be poor is well illustrated in the World Bank’s study The Voices of the Poor 
+(World Bank, 2000b), which asked 60,000 poor people in 60 countries to articulate their feelings 
+about their physical and mental state. Some of the answers are contained in Case example 2.1, 
+which are both moving and revealing. Feelings of helplessness, humiliation and lack of self-esteem 
+are paramount.
+43
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+Poor people in 60 countries were asked to analyse and share their ideas of well-being (a 
+good experience of life) and ‘ill-being’ (a bad experience of life). Well-being was various-
+ly described as happiness, harmony, peace, freedom from anxiety, and peace of mind. 
+In Russia, people say ‘well-being is a life free from daily worries about lack of money’. 
+In Bangladesh, ‘to have a life free from anxiety’. In Brazil, ‘not having to go through so 
+many rough spots’. People describe ill-being as lack of material things, bad experiences, 
+and bad feelings about oneself. A group of young men in Jamaica ranks lack of self-con-
+fidence as the second biggest impact of poverty: ‘Poverty means we don’t believe in self, 
+we hardly travel out of the community – so frustrated, just locked up in a house all day.’
+Although the nature of ill-being and poverty varies among locations and people –
+something that policy responses must take into account – there is a striking common-
+ality across countries. Not surprisingly, material well-being turns out to be very import­
+ant. Lack of food, shelter and clothing is mentioned everywhere as critical. In Kenya, 
+a man says: ‘Don’t ask me what poverty is because you have met it outside my house. 
+Look at the house and count the number of holes. Look at my utensils and the clothes 
+I am wearing. Look at everything and write what you see. What you see is poverty.’
+Alongside the material, physical well-being features prominently in the character­
+izations of poverty. And the two meld together when lack of food leads to ill health – or 
+ 
+when ill health leads to an inability to earn income. People speak about the import­
+ance of looking well fed. In Ethiopia, poor people say, ‘We are skinny’, ‘We are deprived 
+and pale’, and speak of a life that ‘makes you older than your age’.
+Security of income is also closely tied to health. But insecurity extends beyond ill 
+health. Crime and violence are often mentioned by poor people. In Ethiopia, women 
+say, ‘We live hour to hour’, worrying about whether it will rain. An Argentine man says, 
+‘You have work, and you are fine. If not, you starve. That’s how it is.’
+Two social aspects of ill-being and poverty also emerged. For many poor people, well-
+being means freedom of choice and action and the power to control one’s life. A young 
+woman in Jamaica says that poverty is ‘like living in jail, living in bondage, waiting to be free’.
+Linked to these feelings are definitions of well-being as social well-being and com-
+ments on the stigma of poverty. As an old woman in Bulgaria says: ‘To be well means 
+to see your grandchildren happy and well dressed and to know that your children have 
+settled down; to be able to give them food and money whenever they come to see you, 
+and not to ask them for help and money.’ A Somali proverb captures the other side: 
+‘Prolonged sickness and persistent poverty cause people to hate you.’
+The following quotations are an illustration of what living in poverty means:
+Certainly our farming is little; all the products, things bought from stores, are ex-
+pensive; it is hard to live, we work and earn little money, buy few things or products; 
+products are scarce, there is no money and we feel poor.
+(from a discussion group of poor men and women, Ecuador)
+We face a calamity when my husband falls ill. Our life comes to a halt until he recov-
+ers and goes back to work.
+(poor woman, Zawyet Sultan, Egypt)
+Poverty is humiliation, the sense of being dependent on them, and of being forced 
+to accept rudeness, insults, and indifference when we seek help. 
+(poor woman, Latvia)
+Source: World Bank, 2000b.
+Case example 2.1
+The voices of the poor
+44
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+The World Bank proposes a three-pronged strategy for poverty reduction: promoting oppor-
+tunity, facilitating empowerment and enhancing security.
+Promoting opportunity is partly about expanding economic opportunities for poor people 
+through the process of economic growth, and partly about expanding the asset base of poor peo-
+ple and increasing the return on those assets. The major causes of individual poverty can be linked 
+to a lack of assets and/or a low return on assets. Important assets to enable people to grow out of 
+poverty include natural assets, such as land; human assets, such as education and health; finan-
+cial assets, including access to credit, and social assets, such as networks of contacts. The return 
+on assets once acquired depends on the institutional framework of a country, the performance 
+of the economy, and what is happening in the world economy. The state has a role to play in 
+expanding poor people’s assets because markets do not work well for poor people owing to lack 
+of access, power and collateral. The state can help in three major ways: first, by using its power to 
+redistribute resources; second, through institutional reforms to deliver services more effectively, 
+particularly in the fields of health and education; and third, by facilitating the engagement of poor 
+people in programmes that help them to acquire assets, such as land and credit.
+A growing economy is absolutely crucial for poverty reduction as emphasized by the World 
+Bank’s Commission on Growth and Development headed by the Nobel Prize-winning economist 
+Michael Spence (World Bank, 2008). Poverty cannot be reduced in a stagnant economy. The 
+Commission finds a strong negative association across countries between the average growth of 
+income and consumption and the share of people living on less than $1 per day. A 1 percentage 
+point growth of income below the average is associated with a 2 percentage point increase in the 
+share of people living in poverty.
+On the other hand, similar rates of growth of countries are associated with different rates of 
+poverty reduction. This is the result of existing inequalities in the distribution of income, assets and 
+access to opportunities. Growth is much more effective in reducing poverty where the income 
+distribution is more equal than where there are big inequalities. The World Bank estimates that 
+when inequality is low, growth reduces poverty by nearly twice as much as when inequality is high.
+Facilitating empowerment is a new departure in the thinking of the World Bank compared 
+with its 1990 Report. Empowering poor people means strengthening the participation of poor 
+people in decision-making, eliminating various forms of discrimination – ethnic, religious, sexual 
+– and making state institutions more accountable and responsive to poor people. The great chal-
+lenge here is to tackle the institutional structures of poor countries that continue to marginalize, 
+discrimin­
+ate against and disenfranchise vulnerable sections of society. The law, the Church, bureau-
+crats and local elites, and customs and traditions all play a part. The state has a role to play in help-
+ing to empower people by:
+1.	 Curbing corruption and harassment, and using the power of the state to redistribute resources 
+for actions benefiting the poor.
+2.	 Ensuring that the legal system is fair and accessible to the poor.
+3.	 Making sure that the delivery of local services is not captured by local elites.
+4.	 Encouraging the participation of poor people in the political process.
+5.	 Galvanizing political support for public action against poverty.
+Enhancing security means reducing poor people’s vulnerability to the various forms of inse-
+curity that affect people’s lives, such as economic shocks, natural disasters, crop failures, ill health, 
+violence, wars and so on, and helping people to cope with these adverse shocks when they occur. 
+The wide range of risks that poor people are exposed to is highlighted in Case example 2.2. This 
+vulnerability to risk requires a range of insurance mechanisms for managing risk, such as health and 
+45
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+Poor people are exposed to a wide range of risks.
+Illness and injury
+Poor people often live and work in environments that expose them to greater risk of ill-
+ness or injury, and they have less access to healthcare. Their health risks are strongly con-
+nected to the availability of food, which is affected by almost all the risks the poor face 
+(natural disasters, wars, harvest failures and food price fluctuations). Communicable 
+diseases are concentrated among the poor, with respiratory infections the leading cause 
+of death. A recent study of poverty in India found that the poor are 4.5 times as likely to 
+contract tuberculosis as the rich and twice as likely to lose a child before the age of two.
+Illness and injury in the household have direct costs (for prevention, care and cure) 
+and opportunity costs (lost income or schooling while ill). The timing, duration and 
+frequency of illness also affect its impact. A study of South India found that households 
+can compensate for an illness during the slack agricultural season, but illness during 
+the peak season leads to a heavy loss of income, especially on small farms, usually ne-
+cessitating costly informal borrowing.
+Old age
+Many risks are associated with ageing: illness, social isolation, inability to continue 
+working, and uncertainty about whether transfers will provide an adequate living. The 
+incidence of poverty among the elderly varies significantly. In most Latin American 
+countries, the proportion of people in poverty is lower for the elderly than for the 
+population at large. In contrast, in many countries of the former Soviet Union, the inci-
+dence of poverty is above average among the elderly, particularly among people 75 and 
+older. Women, because of their longer life expectancy, constitute the majority of the 
+elderly, and they tend to be more prone to poverty in old age than men. The number 
+of elderly people in the developing world will increase significantly in coming decades 
+with the rapid demographic transition.
+Consultations with poor people show that income security is a prime concern of 
+the elderly, followed closely by access to health services, suitable housing and the qual-
+ity of family and community life. Isolation, loneliness and fear all too often mark old 
+people’s lives.
+Crime and domestic violence
+Crime and domestic violence reduce earnings and make it harder to escape poverty. 
+While the rich can hire private security guards and fortify their homes, the poor have 
+few means to protect themselves against crime. In 1992 in São Paulo, Brazil, the murder 
+rate for adolescent males in poor neighbourhoods was 11 times that in wealthier ones. 
+Poor people frequently voice their fear of violence and the resulting powerlessness: ‘I 
+do not know whom to trust, the police or the criminals.’
+Crime also hurts poor people indirectly. Children exposed to violence may perform 
+worse in school. A study of urban communities in Ecuador, Hungary, the Philippines 
+and Zambia showed that difficult economic conditions lead to destruction of social 
+capital as involvement in community organizations declines, informal ties among resi-
+dents weaken, and gang violence, vandalism and crime increase. Violence and crime 
+may thus deprive poor people of two of their best means of reducing vulnerability: 
+human and social capital.
+Case example 2.2
+Poor people’s exposure to risk
+continued overleaf
+46
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+Case example 2.2
+Poor people’s exposure to risk – continued
+Unemployment and other labour market risks
+Labour market risks include unemployment, falling wages, and having to take up pre-
+carious and low-quality jobs in the informal sector as a result of macroeconomic crises 
+or policy reform. The first workers to be laid off during cutbacks in public sector jobs 
+are usually those with low skills, who then join the ranks of the urban poor; a pattern 
+observed in Africa and Latin America during the structural adjustment reforms of the 
+1980s and early 1990s. The East Asian crisis also had pronounced effects on labour mar-
+kets, with real wages and non-agricultural employment falling in all affected countries. 
+As state enterprises in Eastern Europe and the countries of the former Soviet Union 
+were privatized, poverty increased among displaced workers with low education and 
+obsolete skills, not qualified to work in emerging industries.
+Fluctuations in demand for labour often disproportionately affect women and 
+young workers. Most public sector retrenchment programmes have affected women’s 
+employment more than men’s, and women are more likely than men to work for small 
+firms, which tend to be more sensitive to demand fluctuations. As incomes fall, poor 
+households try to increase their labour market participation, especially for women and 
+children.
+Harvest failure and food price fluctuations
+Weather-related uncertainties (mainly rainfall), plant disease and pests create har-
+vest risk for all farmers, but technologies for reducing such risks (irrigation, pesticides, 
+­
+disease-resistant varieties) are less available in poor areas. Between 1994 and 1996, less 
+than 20% of all cropland was irrigated in low- and middle-income countries (only 4% 
+of such land was irrigated in sub-Saharan Africa).
+Fluctuations in food prices are a related risk. Since poor households spend a large 
+part of their income on food, even small price increases can severely affect food intake. 
+Households that meet their food needs through subsistence agriculture are less vulner-
+able than households that have to buy all their food.
+Liberalization of markets often boosts the price of staples – a benefit to small farm-
+ers if they are net sellers of food. Those hurt are the urban poor and the landless rural 
+poor, as net food buyers, and farmers who engage in seasonal switching, selling food 
+after the harvest when food is plentiful and cheap and buying it when it is scarce and 
+expensive. Where transport facilities are good, traders can step in and equalize prices 
+over the year through arbitrage, but such infrastructure is lacking in many areas.
+Source: World Bank, 2000a.
+old-age insurance, unemployment insurance and workforce programmes, social funds and cash 
+transfers, microfinance programmes, insurance against crop failures and price instability and so on.
+The World Bank points out, however, that promoting opportunities, facilitating empower-
+ment and enhancing security are necessary conditions for tackling poverty, but not sufficient con-
+ditions in an interdependent, global economy. International action is also required to help poor 
+people in at least five ways:
+•
+• Promoting global financial stability and reducing the risks of economic crisis.
+•
+• Opening up markets (particularly in developed countries) to the goods of poor countries.
+•
+• Encouraging the production of international public goods that benefit poor people; for exam-
+ple the control of disease, agricultural research and the dissemination of knowledge.
+
+  t  5 ) &  % & 7 & - 0 1 . & / 5  ( " 1  " / %  5 ) &  . & " 4 6 3 & . & / 5  0 '  1 0 7 & 3 5 : 
+ 
+t .PSFGPSFJHOBJEBOEEFCUSFMJFG
+ 
+t (JWJOHBHSFBUFSWPJDFUPQPPSDPVOUSJFTBOEQFPQMFTJOUIFHMPCBMGPSVNTBOENVMUJMBUFSBMJOTUJ-
+UVUJPOTPGUIFXPSMETVDIBTUIF8PSME#BOLUIF*.'BOEUIF850
+3BOEPNJ[FEDPOUSPMUSJBMT	3$5T
+0OFPGUIFNPTUJOUFSFTUJOHBOEVTFGVMXBZTUPmOEPVUXIJDIJTUIFNPTUFĊFDUJWFXBZUPmHIU
+poverty at the micro-level is to conduct randomized control trials (RCTs), which is the approach 
+UBLFOCZUIF"CEVM-BUJG1PWFSUZ"DUJPO-BCPSBUPSZTFUVQCZ"CIJKJU#BOFSKFFBOE&TUIFS%VnP
+BUUIF.BTTBDIVTFUUT*OTUJUVUFPG5FDIOPMPHZJOBOEEFTDSJCFEJOUIFJSCFTUTFMMJOHCPPL
+Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty	
+3$5TFOBCMFBOUJ
+QPWFSUZQPMJDJFTUPCFCBTFEPOTDJFOUJmDFWJEFODFSBUIFSUIBOIVODIPSDVTUPN"TUIFBVUIPST
+BSHVFAJEFPMPHZJHOPSBODFBOEJOFSUJBPGUFOFYQMBJOXIZHPPEJOUFOUJPOFE<BOUJQPWFSUZ>QPMJDJFT
+GBJM3FTFBSDIPċDFSTMPDBUFEJOmWFPċDFTBSPVOEUIFXPSMEIBWFDPNQMFUFEPSBSFFOHBHFEJO
+PWFSFYQFSJNFOUTJONPSFUIBOGPSUZDPVOUSJFT
+ʾFFTTFODFPGBO3$5JTUPUBLFBSBOEPNHSPVQPGQFPQMFPSGBNJMJFTUPDPOEVDUBOFYQFSJ-
+NFOUBOEUIFOUPDPNQBSFUIFSFTVMUTPGUIFFYQFSJNFOUPOUIFHSPVQXJUIBOPUIFSSBOEPNTBN-
+QMF	PSDPOUSPMHSPVQ
+OPUTVCKFDUUPUIFFYQFSJNFOUBOEUPTFFXIFUIFSUIFFYQFSJNFOUMFBETUP
+BTJHOJmDBOUDIBOHFJOCFIBWJPVSPSPVUDPNF'PSFYBNQMFUIFSFXBTBNJDSPDSFEJUFYQFSJNFOUJO
+)ZEFSBCBE	*OEJB
+POXIFUIFSNJDSPDSFEJUXPSLTUPIFMQQPPSQFPQMF'JGUZUXPOFJHICPVSIPPET
+XFSFDIPTFOBUSBOEPNUPSFDFJWFNJDSPDSFEJUIFMQBOEPUIFSOFJHICPVSIPPETXFSFUBLFOBTB
+DPOUSPMHSPVQ"GUFSFJHIUFFONPOUITUIFSFXBTDMFBSFWJEFODFPGNJDSPDSFEJUXPSLJOH
+*OUIFmFMETPGFEVDBUJPOBOEIFBMUI3$5TTIPXUIBUmOBODJBMJODFOUJWFTXPSL*NNVOJ[BUJPO
+DBNQTBHBJOTUQSFWFOUBCMFEJTFBTFTBSFWFSZTVDDFTTGVMXIFSFQFPQMFBSFSFXBSEFEGPSBUUFOEJOH
+'SFFDIMPSJOFEJTQFOTFSTOFYUUPXBUFSTPVSDFTGSFFXPSNJOHQJMMTBOEGSFFOVUSJUJPOBMTVQQMF-
+NFOUTBMTPAXPSL$POEJUJPOBMDBTIUSBOTGFSTUPGBNJMJFTUIBUTFOEDIJMESFOUPTDIPPMIBWFQSPWFE
+FĊFDUJWFJO#SB[JM	UIF#PMTB'BNJMJBQSPHSBNNF
+BOE.FYJDP	0QPSUVOJEBEFT
+*OUIFmFMEPG
+population control, trials show that the provision of family planning services makes very little 
+EJĊFSFODFUPGFSUJMJUZVOMFTTUIFSFJTBEFNBOEGPSUIFNBOEXPNFOBSFTFFOBMPOFGPSBEWJDF
+5FFOBHFQSFHOBODJFTIBWFCFFOSFEVDFEXIFSFHJSMTIBWFCFFOQSPWJEFEXJUIGSFFTDIPPMVOJGPSNT
+UPTUBZJOTDIPPMSBUIFSUIBOSPBNUIFTUSFFUT
+1PPSQFPQMFMJWFTVSSPVOEFECZIVHFSJTLTUPUIFJSMJWFMJIPPET	TFF$BTFFYBNQMF
+BOEUIFXBZ
+UIFZDPQFCZEJWFSTJGZJOHBDUJWJUJFTJTWFSZJOFċDJFOUʾFDIBMMFOHFIFSFJTGPSHPWFSONFOUTUPBTTJTU
+UIFEFWFMPQNFOUPGJOTVSBODFNBSLFUTUISPVHIFEVDBUJPOBOETVCTJEJ[JOHJOTVSBODFQSFNJVNT
+0OFXBZGPSQPPSQFPQMFUPFYQBOEUIFJSBTTFUCBTFJTUPCPSSPXCVUGSPNNPOFZMFOEFSTJU
+JTFYQFOTJWFBOEUIFGPSNBMCBOLJOHTZTUFNJTOPUJOUFSFTUFEJOMFOEJOHUPUIFQPPSXJUIOPDPM-
+MBUFSBMʾJTJTUIFDIBMMFOHFPGUIFNJDSPDSFEJUNPWFNFOU	TFF$IBQUFS
+ʾFBMUFSOBUJWFUP
+CPSSPXJOHGPSJOWFTUNFOUJTQSJPSTBWJOHBOE3$5TTIPXUIFJNQPSUBOUSPMFUIBUNPCJMFQIPOF
+banking can play in encouraging small saving and dealing with small accounts.
+ʾFTFBSFKVTUTPNFPGUIFmFMETJOXIJDI3$5TIBWFUBLFOQMBDF8IJMFUIFSFTVMUTDBOCFJOUFS-
+FTUJOHUIFSFBSFMJNJUBUJPOTPGTVDIUSJBMTJOQBSUJDVMBSJUNBZCFEJċDVMUUPHFOFSBMJ[FUIFSFTVMUT
+PG3$5TCFDBVTFUIFZBSFDPOUFYUTQFDJmD&WBMVBUJPONBZCFDPOEVDUFEPOPOMZPOFTQFDJmD
+sample, the trial may be implemented in such a way that it cannot be replicated, and if a speciﬁc 
+QSPHSBNNFJTJNQMFNFOUFEBTMJHIUMZEJĊFSFOUQSPHSBNNFNBZOPUIBWFUIFTBNFSFTVMUT"MTP
+the evaluation of a trial itself may cause both treatment and comparison groups to alter their 
+CFIBWJPVSGPSUIFQFSJPEPGUIFFYQFSJNFOUMFBEJOHUPGBMTFJOGFSFODFT
+48
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+Notwithstanding these limitations, and that the trials are generally small scale, RCTs are begin-
+ning to make a major contribution to our understanding of the causes of poverty, the solution 
+to poverty (what works and what does not), and what types of incentives poor people need to 
+improve their health, value education and escape from the poverty trap.
+Human Development Index (HDI)
+To overcome the limitation of taking a single measure of PCY as an index of development and 
+the problems of using PCY as a measure of living standards, the UNDP has developed the Human 
+Development Index (HDI). This index gives a measure of the economic well-being of nations that 
+does not necessarily accord with the usual measure: the level of per capita income. As the UNDP 
+says in its Human Development Report (2014): ‘although GNP growth is absolutely necessary to 
+meet all essential human objectives, countries differ in the way that they translate growth into 
+human development’. The UNDP defines human development as ‘a process of enlarging peoples’ 
+choices’. This depends not only on income but also on other social indicators such as life expect­
+ancy, health, education and literacy.
+Originally, the HDI was based on three variables: life expectancy at birth; educational attain-
+ment measured by a combination of adult literacy (two-thirds weight) and combined primary, 
+secondary and tertiary school enrolment ratios (one-third); and the standard of living measured 
+by real PCY at PPP. An arithmetic average was taken of the three indices calculated. In 2010, the 
+construction of the index changed. First, some of the variables changed, and second, the method 
+of aggregation changed from an arithmetic average of the indexes to a geometric mean. The vari-
+ables for the construction of the HDI are:
+•
+• Life expectancy at birth
+•
+• Educational attainment measured as the arithmetic mean of the average years of schooling, 
+and expected years of schooling
+•
+• Gross national income per head at PPP.
+These four variables are shown in columns 2, 3, 4 and 5 of Table 2.6 for 10 countries with very high 
+human development, 10 countries with high human development, 10 countries with medium 
+human development, and 10 countries with the very lowest human development, and also for 
+regions of the world. To construct the index, fixed minimum and maximum values are taken for 
+each of the variables. For life expectancy at birth, the range is 20–85 years. For average years of 
+schooling, the range is from 0–15 years. For expected years of schooling, the range is 0–18 years. 
+For per capita income at PPP, the range is from $100–$75,000 (taking logs). For any component of 
+the HDI, the individual indexes can be computed according to the general formula:
+Index 5  Actual value 2  Minimum value
+Maximum value 2 Minimum value
+(2.1)
+Each index thus ranges from zero to 1. If the actual value of the variable is the minimum, the index 
+is zero. If the actual value of the variable is equal to the maximum value, the index is one. Case 
+example 2.3 shows how the index is calculated for Costa Rica.
+There is not always a close correspondence between the ranking of countries by their HDI 
+and their ranking by per capita income. For example, many of the oil-producing countries, such 
+as Qatar, Kuwait, Angola and Equatorial Guinea have much lower HDI rankings than per capita 
+income rankings because they don’t use their riches for education and health, while countries 
+49
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+Table 2.6  Human Development Index and its components, 2013
+HDI rank
+Country
+Human 
+Development 
+Index 2013
+Life 
+expectancy at 
+birth (years)
+Mean years 
+of schooling 
+(years)
+Expected 
+years of 
+schooling 
+(years)
+Gross 
+national 
+income per 
+capita, PPP$
+Very high human development
+1
+Norway
+0.944
+81.5
+12.6
+17.6
+63,909
+2
+Australia
+0.933
+82.5
+12.8
+19.9
+41,524
+3
+Switzerland
+0.917
+82.6
+12.2
+15.7
+53,762
+4
+Netherlands
+0.915
+81.0
+11.9
+17.9
+42,397
+5
+United States
+0.914
+78.9
+12.9
+16.5
+52,308
+6
+Germany
+0.911
+80.7
+12.9
+16.3
+43,049
+7
+New Zealand
+0.910
+81.1
+12.5
+19.4
+32,569
+8
+Canada
+0.902
+81.5
+12.3
+15.9
+41,887
+9
+Singapore
+0.901
+82.3
+10.2
+15.4
+72,371
+10
+Denmark
+0.900
+79.4
+12.1
+16.9
+42,880
+High human development
+50
+Uruguay
+0.790
+77.2
+8.5
+15.5
+18,108
+51
+Bahamas
+0.789
+75.2
+10.9
+12.6
+21,414
+51
+Montenegro
+0.789
+74.8
+10.50
+15.2
+14,710
+53
+Belarus
+0.786
+69.9
+11.50
+15.7
+16,403
+54
+Romania
+0.785
+73.8
+10.7
+14.1
+17,433
+55
+Libya
+0.784
+75.3
+7.5
+16.1
+21,666
+56
+Oman
+0.783
+76.6
+6.8
+13.6
+42,191
+57
+Russian 
+Federation
+0.778
+68.0
+11.7
+14.0
+22,617
+58
+Bulgaria
+0.777
+73.5
+10.6
+14.3
+15,402
+59
+Barbados
+0.776
+75.4
+9.4
+15.4
+13,604
+60
+Palau
+0.775
+72.4
+12.2
+13.7
+12.823
+Medium human development
+103
+Maldives
+0.698
+77.9
+5.8 b
+12.7
+10,074
+103
+Mongolia
+0.698
+67.5
+8.3
+15.0
+8,466
+103
+Turkmenistan
+0.698
+65.5
+9.9 s
+12.6 p
+11,533
+106
+Samoa
+0.694
+73.2
+10.3
+12.9 t
+4,708
+107
+Palestine, State 
+of
+0.686
+73.2
+8.90
+13.2
+5,168
+108
+Indonesia
+0.684
+70.8
+7.5
+12.7
+8,970
+109
+Botswana
+0.683
+64.4
+8.8
+11.7
+14,792
+110
+Egypt
+0.682
+71.2
+6.4
+13.0
+10,400
+111
+Paraguay
+0.676
+72.3
+7.7
+11.9
+7,580
+112
+Gabon
+0.674
+63.5
+7.4
+12.3
+16,977
+continued overleaf
+50
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+HDI rank
+Country
+Human 
+Development 
+Index 2013
+Life 
+expectancy at 
+birth (years)
+Mean years 
+of schooling 
+(years)
+Expected 
+years of 
+schooling 
+(years)
+Gross 
+national 
+income per 
+capita, PPP$
+Lowest human development
+178
+Mozambique
+0.393
+50.3
+3.2
+9.5
+1,011
+179
+Guinea
+0.392
+56.1
+1.6
+8.7
+1,142
+180
+Burundi
+0.389
+54.1
+2.7
+10.1
+749
+181
+Burkina Faso
+0.388
+56.3
+1.3
+7.5
+1,602
+182
+Eritrea
+0.381
+62.9
+3.4
+4.1
+1,147
+183
+Sierra Leone
+0.374
+45.6
+2.9
+7.5
+1,815
+184
+Chad
+0.372
+51.2
+1.5
+7.4
+1,622
+185
+Central African 
+Republic
+0.341
+50.2
+3.5
+7.2
+588
+186
+Congo, 
+Democratic 
+Republic of the
+0.338
+50.0
+3.1
+9.7
+444
+187
+Niger
+0.337
+58.4
+1.4
+5.4
+873
+Regions
+Arab States
+0.682
+70.2
+6.3
+11.8
+15,817
+East Asia and the 
+Pacific
+0.703
+74.0
+74
+12.5
+10,499
+Europe and 
+Central Asia
+0.738
+71.3
+9.6
+13.6
+12,415
+Latin America and 
+the Caribbean
+0.740
+74.9
+7.9
+13.7
+13,767
+South Asia
+0.588
+67.2
+4.7
+11.2
+5,195
+Sub-Saharan 
+Africa
+0.502
+56.8
+4.8
+9.7
+3,152
+Least developed 
+countries
+0487
+61.5
+3.9
+94
+2,126
+Small island 
+developing states
+0.665
+70.0
+7.5
+11.0
+9,471
+World
+0.702
+70.8
+7.7
+12.2
+13,723
+Source: UNDP, 2014.
+Table 2.6 Human Development Index and its components, 2013 – continued
+such as Bangladesh, the Philippines, Ghana, Peru, Cuba and some of the Pacific Islands have high 
+HDI rankings compared with per capita income because they invest in human development– 
+education and health.
+Multidimensional Poverty Index (MPI)
+Poverty is not only about lack of income and low levels of education and health. It has many 
+other dimensions. This is recognized by the Multidimensional Poverty Index (MPI), developed 
+by Alkire and Santos (2010) with the Oxford Poverty and Human Development Initiative, and 
+51
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+Case example 2.3
+Calculating the HDI for Costa Rica
+published by the UNDP’s Human Development Report since 2010. It represents an internationally 
+comparable measure of acute poverty covering more than one hundred developing countries. 
+Three main dimensions of poverty are identified – education, health and standard of living – 
+and each has various indicators, as shown in Table 2.7. In total, there are 10 indicators with their 
+weights attached. Data on each indicator are collected at the household level and a person is 
+identified as poor if they are deprived of at least one-third of the weighted indices. This is the 
+cut-off point (c). In other words, if c is greater than 33.3%, the household (and everyone in it) is 
+multidimensionally poor. If c is greater than 50%, the household is ‘severely poor’.
+The MPI index is the product of two measures: the multidimensional headcount ratio (H) and 
+the intensity (or breadth) of poverty (A). The headcount ratio is the proportion of the population 
+that is multidimensionally poor:
+H 5 q/n
+(2.2)
+where q is the number of people who are multidimensionally poor and n is the total population. 
+The intensity of poverty (A) is the sum (for poor households only) of the household deprivation 
+•
+• Life expectancy at birth in Costa Rica is 79.93 years
+•
+• Mean years of schooling is 8.37
+•
+• Expected years of schooling is 13.50
+•
+• Gross national income per capita at PPP is $13,011.7
+Now plug these values into the general formula, equation 2.1 above, to derive an index 
+(I) for each of the variables.
+	
+Health index 5  79.93 2 20
+85 2 20  5 0.922
+	
+Mean year of schooling index 5   8.37 2 0
+15 2 0  5 0.558
+	
+Expected years of schooling Index 5   13.50
+18  5 0.750
+	
+Education index 5   0.558 1 0.750
+2
+ 5 0.654
+	
+Income index 5   ln (13,011.7) 2 ln (100)
+ln (75,000) 2 ln (100)  5 0.735
+The HDI is the geometric mean of each of the three indexes:
+	
+HDI 5 (Ihealth 3 Ieducation 3 Iincome)1/3
+where the education index is the mean of the two education variables.
+The HDI for Costa Rica is therefore:
+	
+(0.922 3 0.654 3 0.735)1/3 5 0.763
+This ranks Costa Rica 68th in the world, which puts it in the high human development 
+category – but as we saw in Case example 1.1, it ranks much higher on other indexes 
+of economic development and happiness. It is brought down by its relatively low level 
+of per capita income compared with its educational performance and life expectancy.
+Source: UNDP, 2014.
+52
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+Table 2.7  Multidimensional Poverty Index and its components, 2014
+Dimensions of poverty
+Indicator
+Deprived if …
+Weight
+Education
+Year of Schooling
+No household member has completed five years of 
+schooling.
+  1/6
+Child School Attendance
+Any school-aged child is not attending school up to 
+class 8.
+  1/6
+Health
+Child Mortality
+Any child has died in the family
+  1/6
+Nutrition
+Any adult or child for whom there is nutritional 
+information is malnourished.
+  1/6
+Living Standard
+Electricity
+The household has no electricity.
+1/18
+Improved Sanitation
+The household’s sanitation facility is not improved 
+(according to MDG guidelines), or it is improved but 
+shared with other households.
+1/18
+Improved Drinking Water
+The household does not have access to improved 
+drinking water (according to MDG guidelines) or safe 
+drinking water is more than a 30-minute walk from 
+home, roundtrip.
+1/18
+Flooring
+The household has a dirt, sand or dung floor.
+1/18
+Cooking Fuel
+The household cooks with dung, wood or charcoal.
+1/18
+Assets Ownership
+The household does not own more than one radio, TV, 
+telephone, bike, motorbike or refrigerator and does not 
+own a car or truck.
+1/18
+Source: UNDP, 2014.
+scores multiplied by the number of people in the household divided by the total number of poor 
+people (q):
+A 5
+a
+h
+cjhi
+q
+
+(2.3)
+where cj is the deprivation score of the household, i is the number of people in the household, and 
+h is the number of households.
+Let us give a numerical example. Table 2.8 gives data for four households with different num-
+bers of people in each.
+Take household 1 with 4 persons. In only two categories is it ‘poor’: one or more children have 
+died (weight 0.167), and the household uses only ‘dirty’ cooking (weight 0.056). The sum of the 
+deprivation scores is 22.2%, which is less than the cut-off of 33.3%, so the household is not poor. 
+By the same calculations, households 2, 3 are 4 are poor. For all these poor households, the head-
+count ratio (H), applying equation (2.2), is:
+H 5  
+(7 1 5 1 4)
+(4 1 7 1 5 1 4)  5 0.800
+The intensity of poverty (A) (for households that are poor) is:
+A 5  (72.2)7 1 (38.9)5 1 (50.0)4 
+(7 1 4 1 5)
+ 5 0.563
+53
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+Table 2.8  Hypothetical household data
+Households
+Weights
+Indicators
+  1
+  2
+  3
+  4
+Household size
+  4
+  7
+  5
+  4
+Education
+No one has completed five years of schooling
+  0
+  1
+  0
+  1
+16.7%
+At least one school-age child not enrolled in school
+  0
+  1
+  0
+  0
+16.7%
+Health
+At least one member is malnourished
+  0
+  0
+  1
+  0
+16.7%
+One or more children have died
+  1
+  1
+  0
+  1
+16.7%
+Living conditions
+No electricity
+  0
+  1
+  1
+  1
+  5.6%
+No access to clean drinking water
+  0
+  0
+  1
+  0
+  5.6%
+No access to adequate sanitation
+  0
+  1
+  1
+  0
+  5.6%
+House has dirt floor
+  0
+  0
+  0
+  0
+  5.6%
+Household uses ‘dirty’ cooking fuel (dung, firewood or charcoal)
+  1
+  1
+  1
+  1
+  5.6%
+Household has no car and owns at most one of: bicycle. motorcycle, 
+radio, refrigerator telephone or television
+  0
+  1
+  0
+  1
+  5.6%
+Results
+Household deprivation score, c (sum of each deprivation multiplied by 
+its weight)
+22%
+72.2%
+38.9%
+50.0%
+Is the household poor (c . 33.3%)?
+No
+Yes
+Yes
+Yes
+Note: 1 indicates deprivation in the indicator; 0 indicates non-deprivation
+Source: UNDP, 2014.
+that is, the average poor person is deprived in 56.3% of the weighted indicators. The MPI index 
+ 
+(H 3 A) is therefore: MPI 5 0.8 3 0.563 5 0.490.
+The index can be compared over time and across countries, and the different contributions of 
+education, health and the standard of living deprivation to the total index can also be calculated. 
+There is a close correlation between the ranking of countries by their MPI and their HDI. Table 2.9 
+below gives countries where more than 50% of the population live in multidimensional poverty. 
+The total number of people living in multidimensional poverty in the 28 countries listed is nearly 
+400 million out of a total of nearly 800 million overall. This latter figure is less than the number of 
+individuals living on less than $1.90 a day because typically a family consists of more than one per-
+son so that family income is more than $1.90 a day. The MPI does not take account of income – 
+ 
+only the consequences of a lack of income.
+Can poor countries ever catch up?
+If living standards are largely determined by the level and growth of productivity, the interesting 
+question is whether developing countries will ever catch up with the performance of rich indus-
+trialized countries. There are at least three possible mechanisms by which catch-up may occur:
+1.	 It is sometimes argued that the larger the gap between a poor country’s technology, product­
+ivity and per capita income and the level of productivity in advanced countries, the greater 
+54
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+Table 2.9  Countries with more than 50% of the population living in multidimensional poverty
+Country
+% of population
+No. of people (000)
+Afghanistan
+66.2
+17,116
+Bangladesh
+51.2
+75,610
+Benin
+71.8
+5,897
+Burkina Faso
+84.0
+12,875
+Burundi
+80.8
+7,553
+Central African Republic
+77.6
+332
+D.R. Congo
+74.0
+46,278
+Cote d’Ivoire
+58.7
+11,772
+Ethiopia
+87.3
+78,887
+Gambia
+60.4
+901
+Guinea
+82.5
+8,278
+Guinea-Bissau
+77.5
+1,168
+India
+53.7
+63,199
+Liberia
+83.9
+2,883
+Madagascar
+66.9
+15,774
+Malawi
+66.7
+10,012
+Mali
+86.6
+10,545
+Mauritania
+61.7
+2,197
+Mozambique
+69.6
+17,246
+Niger
+89.3
+15,408
+Rwanda
+69.0
+7,669
+Senegal
+74.4
+9,247
+Sierra Leone
+72.5
+4,180
+Somalia
+81.2
+7,106
+Tanzania
+65.6
+29,842
+Uganda
+69.9
+24,712
+Yemen
+52.5
+7,714
+Zambia
+64.2
+7,600
+Source: UNDP, 2014.
+the scope for a poor country to absorb existing technology and catch up with richer countries. 
+Technology is thought of as a public good, so for a given amount of technological investment, a 
+poor country can reap high returns because it has paid none of the development costs. Clearly, 
+there also has to be the willingness and ability to invest and the capability to absorb new tech-
+nology. A productivity gap is a necessary but not a sufficient condition for catch-up by this 
+means.
+2.	 The process of development is characterized by a shift of resources from low-productivity ag-
+riculture to higher productivity industrial and service activities. Other things being equal, this 
+should also produce a move towards convergence, to the extent that the resource shifts are 
+greater in poor countries than in rich countries.
+3.	 Mainstream neoclassical growth theory predicts convergence (see Chapter 4) because of the 
+assumption of diminishing returns to capital. Rich countries with a lot of capital per head will 
+55
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+have a lower productivity of capital than poor countries. Thus, if tastes and preferences are 
+the same, the same amount of saving and investment in poor countries should lead to faster 
+growth than in rich countries.
+The standard procedure for testing the convergence hypothesis is to do a simple correlation 
+across countries between the rate of growth of per capita income (y) as the dependent variable 
+and the initial level of per capita income (or productivity) as the independent variable, and to see 
+whether the relation is significantly negative. If it is, this means that per capita income is growing 
+faster in poor countries than in rich countries, which is a necessary condition for convergence to 
+take place (often called beta convergence in the literature). One of the earliest studies of this type 
+(Baumol, 1986) showed a strong inverse correlation between a country’s productivity level and 
+its average productivity growth among industrial countries and those at an intermediate stage of 
+development, but no evidence of convergence as far as the poorer countries are concerned.
+Zind (1991) focused on 89 developing countries and regressed the rate of growth of per capita 
+income on the level of per capita income in 1960. He could find no evidence of overall conver-
+gence, but there was some evidence of convergence taking place between countries with rela-
+tively high per capita incomes. One reason appears to be that in these latter countries, there was 
+a positive relation between per capita income and the rate of growth of investment per capita.
+Another study by Dowrick (1992) across 113 countries showed that while there was some evi-
+dence of catch-up in the 1970s and 1980s, in the sense that growth rates were negatively related 
+to initial levels of productivity, other factors caused per capita income growth to be faster the 
+higher the level of per capita income, producing a divergence of living standards across the world.
+Similarly, Pritchett (1997) takes 117 countries over the period 1960–88 and regresses the rate 
+of growth of per capita income on the initial level of per capita income relative to the leading 
+country and finds no evidence of unconditional convergence. It is interesting to note, however, 
+that when differences in investment and schooling between countries are allowed for, the coef-
+ficient becomes negative, indicating conditional convergence. The problem is, however, that rich 
+countries are able to save and invest more, and they devote more resources to education, which 
+perpetuates their growth advantage.
+It has been argued by some (see Eichengreen et al., 2011) that when poor countries reach 
+middle-income status, they may get caught in a so-called middle-income trap, meaning that they 
+exhaust the potential for fast growth which leads to middle-income status, and then they lack the 
+capability to make the next step to high-income status. The fast growth stage is associated with 
+the shift of resources from agriculture to higher productivity sectors, and then growth slows down 
+because of a fall in total productivity growth, and countries lack the capability to produce higher 
+value-added goods necessary to achieve developed country status. It is true that econ­
+omies are 
+unlikely to sustain growth rates of 6–10% per annum, as China has done over the past 30 years, 
+but as long as per capita income growth is positive, poor countries will ultimately become rich, 
+and if the growth of per capita income exceeds that of developed countries, there will ultimately 
+be convergence. It is debatable, therefore, whether a middle-income trap exists in practice.
+But an interesting question then arises: How long it will take for poor countries to catch up 
+with the rich? Let us consider two issues:
+1.	 Given the recent growth experience of the poor countries of roughly 3% per annum, how long 
+will it take for the average poor country to reach the current average living standards of rich 
+developed countries?
+2.	 How long will it take for poor countries to catch up with rich countries, assuming that rich 
+countries grow at 3% per annum and poor countries were to raise their per capita growth to 
+56
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+4% per annum. (Clearly, a necessary condition for catch-up is that poor countries do grow 
+faster than rich countries, otherwise convergence is impossible.)
+We can answer both questions using the simple compound interest formula:
+S 5 P(1 1 r)n
+where P is the ‘initial’ income level, and S is the sum to which the income level grows at an annual 
+compound rate of interest, r, over n years.
+The answer to the first question, assuming that the current level of per capita income in poor 
+countries (P) is $1,200 per annum, and in rich countries (S) it is $25,000, and the recent growth 
+performance of poor countries (r) has been 2% per annum, is that it would take 153 years for poor 
+countries to reach the current standard of living of rich countries.1
+The answer to the second question is that it would take nearly 300 years for the average poor 
+country growing at 4% per annum to catch up with the rich country growing at 3% per annum, 
+given the initial difference in the level of per capita incomes.2
+The above calculations are sensitive to the initial income levels taken and the assumed future 
+growth rates of poor and rich countries, but it is difficult not to reach the conclusion that the 
+timescale of catch-up will be extremely prolonged.
+It can be argued, of course, that world income equality is an impracticable ideal, and that 
+the primary aim is not equality of living standards throughout the world but ‘tolerable’ living 
+standards in all countries, which is a very different matter. This seems to be the position of the 
+World Bank, which argued in its World Development Report 2000/2001 that rising income inequal-
+ity ‘should not be seen as a negative’, provided that incomes at the bottom do not fall, and the 
+number of people in poverty falls or does not rise (World Bank, 2000a). The problem is defining 
+‘tolerable’ living standards, and specifying an acceptable income distribution at that average level 
+of real income. The timescale involved to reach ‘tolerable’ living standards is clearly less than that 
+required to eliminate the income gap entirely, but even so, if the average level of per capita income 
+now enjoyed in rich developed countries is regarded as the tolerable level, we estimate it will take 
+over a century for the average poor country to attain it on current performance. Can these coun-
+tries wait that long?
+On the other hand, it is easily forgotten that the rich–poor country divide in the world econ-
+omy is a relatively recent phenomenon. All countries were once at subsistence level, and as recently 
+as 200 years ago, at the advent of the British Industrial Revolution, the absolute differences in 
+living standards between countries cannot have been great. The average per capita income of 
+low-income countries today is approximately $1,500 per annum at PPP, and this is not far below 
+the average level of real per capita income in Western Europe in the mid-nineteenth century, 
+measured at current prices. If we regard $1,500 as only barely above subsistence, the major part 
+of the present income disparities between developed and developing countries must have arisen 
+over the twentieth century. Some countries, through a combination of fortune and design, have 
+managed to grow much faster than others. The overriding influence has been industrialization 
+and the technological progress associated with it. The close association between industrialization 
+and living standards spells out the clear policy message that to base a development policy on 
+agricultural activities alone would be misguided, however attractive such aphorisms as ‘back to 
+the land’ and ‘small is beautiful’ may sound.
+The concentrated impact of industrialization on living standards in the Western world is dra-
+matically emphasized by the observation that if 6,000 years of ‘civilized’ human existence prior 
+to 1850 is viewed as a day, the last century or so represents little more than half an hour; yet in 
+this ‘half-hour’, more real output has been produced in developed countries than in the preceding 
+57
+2  •  T H E  D E V E L O P M E N T  G A P  A N D  T H E  M E A S U R E M E N T  O F  P O V E R T Y  
+period. It is true that living standards in most developing countries have risen faster since 1950 than 
+at any time in the past; but so too have the living standards in developed countries, and the gap 
+between rich and poor countries continues to widen. Although development consists of more than 
+a rise in per capita incomes, income disparities are the essence of the so-called ‘development gap’.
+Summary
+•
+• The development gap between rich and poor countries is huge. The absolute gap between 
+the per capita income (PCY) of rich and poor countries is growing, and the ratio of the PCY of 
+high-income developed countries to low-income developing countries is currently at a histor­
+ical high of 60:1.
+•
+• The Gini ratio for international inequality has risen from 0.2 in 1820 to over 0.5. The Gini ratio 
+for global inequality has risen from 0.5 in 1820 to over 0.6 today.
+•
+• This income gap and income inequality in the world economy manifests itself in other aspects 
+of human welfare such as health, nutrition, life expectancy, education and employment oppor-
+tunities (see Chapter 7). No wonder the UNDP (1997) has described the world as ‘gargantuan 
+in its excesses and grotesque in its human and economic inequalities’.
+•
+• The number of people living in the world on less than US$1.90 at PPP is 900 million. In Africa, 
+nearly one-half of the population live on less than $1.90 a day.
+•
+• The average PCY of countries, even converted into PPP, is not always a good indicator of the 
+development of a country, because it ignores the distribution of income and various aspects of 
+human development such as education and health.
+•
+• Alternative measures of economic development and progress can be constructed such as the 
+HDI and the MPI, which include measures of schooling, literacy, health, life expectancy and so 
+on. Countries rank differently by PCY, HDI and MPI.
+•
+• The World Bank attempts to tackle poverty from the ‘grass roots’ by promoting opportunity, 
+facilitating empowerment and enhancing economic security.
+•
+• At current rates of PCY growth in poor countries, it will take at least 100 years for the average 
+poor country to reach the current living standards enjoyed by developed countries, and 300 
+years for living standards to be equalized. This is some measure of the development ‘gap’.
+1.	 How would you measure the development gap in the world economy?
+2.	 How would you construct a Lorenz curve and calculate the Gini ratio for the 
+measurement of income inequality?
+3.	 What has been happening to the international and global distribution of income 
+over time?
+4.	 What difficulties arise in measuring and comparing the per capita incomes of 
+poor countries using the US$ as the unit of account?
+5.	 What do you understand by the concept of purchasing power parity (PPP), and 
+how would you make PPP calculations of per capita income across countries?
+Discussion questions
+Chapter 2
+58
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+6.	 What difficulties are encountered in the measurement of poverty?
+7.	 What is the World Bank’s ‘grass roots’ thinking concerning the attack on world poverty?
+8.	 What are the strengths and weaknesses of randomized control trials (RCTs)?
+9.	 What is the rationale for the UNDP to construct the Human Development Index (HDI)?
+10.	 What variables are included in the Multidimensional Poverty Index (MPI)?
+11.	 Are there any theoretical reasons for supposing that poor countries might catch 
+up with the rich countries?
+12.	 How would you analyse how fast poor countries have to grow to catch up with 
+the rich countries?
+Discussion questions – continued
+Chapter 2
+Notes
+1. Rearranging the formula for compound interest gives:
+n 5   log (S/P)
+log (1 1 r)
+and applying the assumed values gives:
+n 5  log ($25,000/$1,200)
+log (1.02)
+  5 153 years
+2.	 The solution is obtained from the expression:
+Sr (1 1 rr )n 5 Pp(1 1 rp)n
+where Sr is the initial income of rich countries; Pp is the initial income of poor countries; rr is the 
+assumed growth rate of the rich country (5 3%) and rp is the assumed growth rate of the poor 
+country (5 4%). Therefore:
+n 5  log ($25,000/$1,200)
+log (1.04) 2 log(1.03)  5 287  years
+Websites on poverty and income distribution
+World Bank www.worldbank.org/en/topic/poverty
+UNDP (Human Development Report) http://hdr.undp.org
+Oxford Poverty and Human Development Initiative www.ophi.org.uk/
+Oxfam www.oxfam.org.uk
+War on Want www.waronwant.org
+UNU-WIDER www.wider.unu.edu/project/wiid-%E2%80%93-world-income-inequality-database
+Stone Center on Socio-economic Inequality www.gc.cuny.edu/stonecenter
+University of Texas, Inequality Project utip.lbj.utexas.edu
+

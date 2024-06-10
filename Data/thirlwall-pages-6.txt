@@ -1,0 +1,1242 @@
+184
+•
+• Introduction
+•
+• The role of capital in development
+•
+• Technical progress
+•
+• Capital- and labour-saving technical progress
+•
+• How societies progress technologically
+•
+• Learning
+•
+• Infrastructure investment
+•
+• Technology and the developing countries
+•
+• Techniques of production
+•
+• The conflict between employment and output and employment 
+and saving in the choice of techniques
+•
+• Employment versus output
+•
+• Employment versus saving
+•
+• Future policy
+•
+• Summary
+•
+• Discussion questions
+•
+• Note
+•
+• Websites on technology and investment
+CAPITAL ACCUMULATION, 
+TECHNICAL PROGRESS AND 
+TECHNIQUES OF PRODUCTION
+6
+185
+6  •  C A P I TA L  A C C U M U L AT I O N  A N D  T E C H N I C A L  P R O G R E S S
+Introduction
+Economic growth and development are impossible without capital accumulation. If all the out-
+put produced by an economy was consumed, there would be no saving, no investment, and the 
+economy would grind to a halt. In this chapter, we discuss the role of physical capital and infra-
+structure investment in the development process, leaving the role of human capital formation 
+(education and health) to Chapter 7.
+Growth depends not only on the quantity of capital invested but also its productivity, which 
+largely depends on the technical progress embodied in it. We identify the different meanings 
+of technical progress and the types of technical progress that take place – whether it is labour-
+saving, capital-saving or neutral – which has implications for employment and the distribution 
+of income between wages and profits. The process of learning by doing is a form of technical 
+progress, because it improves the productivity of factors of production.
+We then explore how societies progress technologically by acquiring the capabilities to invest, 
+innovate, undertake R&D and absorb new ideas. Some evidence is given of how backward tech-
+nology is in poor countries and the challenge of the magnitude of ‘catch-up’. Finally, we discuss the 
+important issue of the choice of techniques of production in developing countries and whether 
+labour-abundant economies could move towards the use of more labour-intensive techniques 
+without jeopardizing the level of output and saving for future growth. Theory and evidence sug-
+gest that the potential clash between employment and output and employment and saving in the 
+choice of new techniques is exaggerated.
+The role of capital in development
+The capital stock of a country increases through the process of net investment, which is the dif-
+ference between a country’s net income in an accounting period (that is, gross income minus 
+depreciation) and how much it consumes out of that income in the same period. The essence of 
+capital accumulation is that it enhances a country’s capacity to produce goods in the future and 
+enables it to grow faster.
+There are many types of capital goods:
+1.	 There are plant and machinery used in factories and offices, which yield no utility directly but 
+produce consumption goods and services that do.
+2.	 There is infrastructure investment, which partly provides goods and services directly, and at 
+the same time makes other forms of investment more productive; for example transport facil­
+ities, telecommunications, power generation, the provision of water facilities and so on.
+3.	 There is expenditure on research and development (R&D), which may improve the product­
+ivity of labour or capital, or both. R&D can lead to new inventions and then to innovation – 
+either process innovation or product innovation. Process innovations make the production 
+of existing products more efficient; product innovations involve the creation of new prod-
+ucts that not only add to utility but also enhance productivity by enabling new ways of doing 
+things, for example information technology.
+4.	 If capital is defined as any asset that generates an additional future stream of measurable in-
+come to society, many goods and services that might be thought of as primarily consumption 
+goods ought strictly to be included as part of a country’s capital stock. If cars, for example, 
+or other consumer durable goods save time and make people more efficient, part of the ex-
+penditure on them should be considered as an investment. Expenditure on housing is another 
+186
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+example where private expenditure may be partly considered as consumption and partly in-
+vestment; and the public provision of housing might be put in the category of social capital. 
+Similarly, if certain types of consumption goods are necessary as incentives to induce peasant 
+producers in the agricultural sector, or workers elsewhere, to increase their productivity, they 
+too ought to be considered as part of the capital stock.
+If it is agreed, therefore, that the only way to build up a country’s productive potential and to 
+raise per capita income is to expand the capacity for producing goods, this need not refer simply 
+to the provision of physical capital such as plant and machinery, but also to roads, railways, power 
+lines, water pipes, schools, hospitals, houses and even ‘incentive’ consumer goods such as con-
+sumer durables – all of which can contribute to increased productivity and higher living standards.
+When using the production function approach to the study of the sources of growth or the 
+macrodeterminants of growth, as described in Chapter 4, it is important to define capital as broadly 
+as possible if the relation between capital accumulation and growth is to be properly understood. 
+This is in addition to the point, which was also emphasized in Chapter 4, that capital is likely to 
+be the main vehicle for the introduction of technical progress in the productive system. In other 
+words, capital accumulation is not only important in its own right, but is the major conduit for 
+advances in knowledge, which, in turn, are also a major determinant of productivity growth.
+Developing economies lay great emphasis on the importance of capital accumulation, and 
+stress the need to raise the level of investment as a proportion of national output. A glance at 
+any national development plan will testify to this. Development is associated with industrializa-
+tion and industrialization with capital accumulation. Many famous development economists in 
+the past have picked out investment as the most important single factor in the growth process. 
+As we saw in Chapter 3, Rostow (1960) defines the process of ‘take-off’ into sustained growth in 
+terms of a critical ratio of investment to national product, and Arthur Lewis (1955) has described 
+the process of development as one of transforming a country from being a 5% saver and investor 
+to a 12% saver and investor. It is common, in fact, for countries to calculate fairly precise ratios of 
+investment to national income that will be required to achieve a particular rate of growth. These 
+calculations involve assumptions about the normal relation between capital and output, a rela-
+tion that is formally expressed in the concept of the capital–output ratio, which measures how 
+much capital stock is required to produce a unit flow of output over an accounting period (nor-
+mally one year). If 300 units of capital (from new investment) are required to produce an annual 
+flow of 100 units of output, the capital–output ratio is 3.
+The returns to investment in developing countries are potentially much higher than in developed 
+countries, which already have large quantities of capital per head. In countries where specialization (the 
+division of labour) is minimal, the scope for capital to permit more roundabout methods of production 
+and increase productivity will be greater than where specialization has already reached a high level of 
+sophistication. Moreover, in technologically backward countries, the rate of growth of capital required 
+to absorb new technology is likely to be greater than in advanced countries. By definition, technologic­
+ally backward countries also have a backlog of technology to make up. Furthermore, in a labour-abun-
+dant economy with a low capital–labour ratio, the very act of capital deepening – giving each worker 
+a little more capital to work with – may make a substantial difference to total product, much more so 
+than in countries where the process of capital deepening has been a continuing process for some length 
+of time. All these factors represent important contributions that capital can make to economic pro-
+gress, which may be relatively more important, the smaller the initial capital stock of a country relative 
+to its population. It is a familiar proposition in economics that the scarcer one factor of production is in 
+relation to another, the higher its productivity is likely to be, all other things being equal.
+187
+6  •  C A P I TA L  A C C U M U L AT I O N  A N D  T E C H N I C A L  P R O G R E S S
+Capital accumulation is also seen as an escape from the so-called ‘vicious circle of poverty’ – a 
+circle of low productivity, leading to low per capita income, leading to a low level of saving per 
+head, leading to a low level of capital accumulation per head, leading to low productivity. Low 
+productivity is seen as the source of the vicious circle of poverty, and the point where the circle 
+must be broken by capital accumulation (see Chapters 10 and 11).
+According to research by Hulten and Isaksson (2007), the amount of capital per head of the 
+working population in high-income developed countries is $150,000 (in 2000) compared with 
+$3,000 in low-income countries, and this difference is one of the major explanations of why labour 
+productivity is $52,000 in rich countries and only $2,300 in poor countries.
+These huge differences in the amount of capital per head are the cumulative effect of much 
+higher levels of savings and investment in rich countries than in poorer countries that cannot, 
+or prefer not to, save and invest. A precondition for raising the level of capital per head in poor 
+countries is a higher level of investment. There needs to be greater incentives for investment. Case 
+example 6.1 contains the conclusions of the World Bank’s World Development Report 2005: A 
+Better Investment Climate for Everyone (World Bank, 2004).
+The investment climate is central to growth and poverty reduction
+Improving the opportunities and incentives for firms of all types to invest productively, 
+create jobs and expand should be a top priority for governments. It is not just about in-
+creasing the volume of investment but also spurring productivity improvements that 
+are the keys to sustainable growth:
+•
+• The goal is to create a better investment climate for everyone. A good invest-
+ment climate benefits society as a whole, not just firms. And it embraces all 
+firms, not just large or politically connected firms.
+•
+• Expanding opportunities for young people is a pressing concern for developing 
+countries, where 53% of people live on less than US$2 a day, youths have more 
+than double the average unemployment rate, and populations are growing rapidly.
+Reducing unjustified costs is critical, but policy-related risks and 
+­
+barriers to competition also need to be tackled
+Costs, risks and barriers to competition all matter for firms and thus for growth and 
+poverty reduction:
+•
+• Costs associated with weak contract enforcement, inadequate infrastructure, crime, 
+corruption and regulation can amount to over 25% of sales – or more than three 
+times what firms typically pay in taxes.
+•
+• Firms in developing countries rate policy uncertainty as their top concern. This and 
+other sources of policy-related risk – such as insecure property rights, macroeconomic 
+instability and arbitrary ­
+regulation– chill incentives to invest. Improving policy pre-
+dictability can increase the likelihood of new investment by over 30%.
+•
+• Barriers to competition benefit some firms but deny opportunities and increase 
+costs to other firms and consumers. They also weaken incentives for protected firms 
+to innovate and improve their productivity. Increasing competitive pressure can in-
+crease the probability of firm innovation by more than 50%.
+Case example 6.1
+Main messages from World Development Report 2005 on investment
+continued overleaf
+188
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Technical progress
+The term ‘technical progress’ is used in several different senses to describe a variety of phenom-
+ena, but three in particular can be singled out:
+1.	 Economists use the term to refer to the effects of changes in technology, and specifically to 
+the role of technical change in the growth process. It is in this sense that the term was used in 
+Chapter 4; that is, as an umbrella term to cover all those factors that contribute to the growth 
+of ‘total’ factor productivity.
+2.	 Technical progress is used by economists in a narrow specialist sense to describe the character 
+of technical improvements, and is often prefaced for this purpose by the adjectives ‘labour-
+saving’, ‘capital-saving’ or ‘neutral’.
+3.	 Technical progress is used more literally to refer to changes in technology itself, defining tech-
+nology as useful knowledge pertaining to the art of production. Used in this sense, the empha-
+sis is on describing improvements in the design, sophistication and performance of plant and 
+machinery, and the economic activities through which improvements come about – by R&D, 
+invention and innovation.
+Having already discussed technical progress in the first sense in Chapter 4, we concentrate 
+here on the narrow specialist descriptions of technical progress, and on how societies progress 
+technologically.
+Case example 6.1
+Main messages from World Development Report 2005 on investment – continued
+Progress requires more than changes to formal policies
+Over 90% of firms claim gaps between formal rules and what happens in practice, 
+and the informal economy accounts for more than half of output in many developing 
+countries. Creating a better investment climate requires governments to bridge these 
+gaps and to tackle the deeper sources of policy failure that undermine a sound invest-
+ment climate. This requires efforts to:
+•
+• Restrain corruption and other forms of rent-seeking that increase costs and distort 
+policies
+•
+• Build policy credibility to give firms the confidence to invest
+•
+• Foster the public trust required to enable and sustain policy improvements
+•
+• Ensure policy responses are crafted to fit local conditions.
+Investment climate improvements are a process, not an event
+Government policies and behaviours influencing the investment climate cover a wide 
+field. But everything does not have to be fixed at once, and perfection on even a single 
+policy dimension is not required. Significant progress can be made by addressing the 
+important constraints facing firms in a way that gives them the confidence to invest – 
+and by sustaining a process of ongoing improvements.
+Because constraints differ widely across and even within countries, priorities need 
+to be assessed in each case. Reform processes benefit from effective public communi-
+cation and other measures to build consensus and maintain momentum.
+Source: World Bank, 2004.
+189
+6  •  C A P I TA L  A C C U M U L AT I O N  A N D  T E C H N I C A L  P R O G R E S S
+Capital- and labour-saving technical progress
+The classification of technical progress as to whether it is capital-saving, labour-saving or neutral 
+owes its origins primarily to the work of Harrod (1948) and Hicks (1932). Their criteria of clas-
+sification differ, however. Harrod’s classification of technical progress employs the concept of 
+the capital–output ratio. Given the rate of profit, technical change is said to be capital-saving if it 
+lowers the capital–output ratio, labour-saving if it raises the capital–output ratio, and neutral if it 
+leaves the capital–output ratio unchanged.
+The nature of technical progress by this criterion will be an amalgam of the effect of ‘pure’ 
+technical change on factor combinations on the one hand and the effect of the substitution of 
+capital for labour on the other (as, for example, relative factor prices change). As such, Harrod 
+neutrality at the aggregate level is quite consistent with capital-saving technical progress at the 
+industry level. In fact, most of the evidence for advanced countries suggests that if technical pro-
+gress is neutral in the aggregate in the Harrod sense, this must be due to substitution of capital for 
+labour because ‘pure’ technical advance has saved capital. The substitution of capital for labour 
+takes place because as countries become richer, the price of labour relative to capital tends to rise, 
+which not only induces a ‘pure’ substitution effect but also encourages inventive effort towards 
+saving labour, which is becoming relatively expensive (and scarce).
+Hicks’s classification of technical progress takes the concept of the marginal rate of substi-
+tution between factors, which is the rate at which one factor must be substituted for another, 
+leaving output unchanged. The marginal rate of substitution is given by the ratio of the marginal 
+products of factors. Holding constant the ratio of labour to capital, technical progress is said to be:
+•
+• capital-saving if it raises the marginal product of labour in greater proportion than the ­
+marginal 
+product of capital
+•
+• labour-saving if it raises the marginal product of capital in greater proportion than the ­
+marginal 
+product of labour
+•
+• neutral if it leaves unchanged the ratio of marginal products.
+These definitions are illustrated in Figures 6.1, 6.2 and 6.3, respectively.
+It will be recalled from Chapter 4 that technical progress on a production function map is 
+represented by shifts in the function towards the origin, showing that the same output can be 
+produced with fewer inputs, or that the same volume of inputs can produce a greater output. 
+According to the shape of the new production function, fewer of either one or both factors will be 
+required to produce the same output. In the case of neutral technical progress, a quantity of both 
+factors can be dispensed with. In the case of non-neutral technical progress, if only one factor is 
+K
+Y
+Z
+Q
+P
+Y
+K1
+L2
+L1
+Y1
+L
+K2
+Y1
+P1
+Z1
+K3
+Capital
+0
+Labour
+Figure 6.1  Capital-saving technical progress
+190
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+saved, technical progress is said to be absolutely labour- or capital-saving. If fewer of both factors 
+are required, technical progress is said to be relatively labour- or capital-saving.
+Consider first neutral technical progress (Figure 6.3). The ray from the origin, or expansion 
+path, 0Z, goes through the minimum cost point of tangency between the production function YY 
+and the factor–price ratio line KL. With neutral technical progress the production function shifts 
+to Y1Y1 such that the new point of tangency at the same factor–price ratio lies on the same expan-
+sion path. This means that the ratio of marginal products is the same at the same capital–labour 
+ratio, and equal proportionate amounts of the two factors are saved. The condition for neutral 
+technical progress is simply that the new production function is parallel to the old.
+With labour-saving technical change (Figure 6.2) the ratio of the marginal product of capital 
+to the marginal product of labour rises so as to shift the minimum cost point of tangency from 
+the old expansion path 0Z to a new expansion path 0Z1. At P1, where the new production function 
+(Y1Y1) cuts the old expansion path, the ratio of the marginal product of labour to capital is lower 
+than at P. P1 is not an equilibrium point and it will pay producers to move to point Q, substitut-
+ing capital for labour. The ratio of marginal products has not remained unchanged at a constant 
+labour–capital ratio, and L2L3 labour is saved. The isoquants have been so drawn as to keep the 
+volume of capital the same, but this is for expositional purposes only.
+Capital-saving technical progress (Figure 6.1) may be described in an exactly analogous fash-
+ion. In this case, the ratio of the marginal product of labour to the marginal product of capital rises 
+and the shift in the production function (to Y1Y1) is such that the minimum cost point of tan-
+K
+Y
+Z
+Q
+P
+Y
+K1
+L3
+L2
+L1
+Y1
+L
+K2
+Y1
+P1
+Z1
+Capital
+0
+Labour
+Figure 6.2  Labour-saving technical progress
+K
+Y
+Z
+Q
+P
+Y
+K1
+L3
+L2
+L1
+Y1
+L
+K2
+K3
+Y1
+Capital
+0
+Labour
+Figure 6.3  Neutral technical progress
+191
+6  •  C A P I TA L  A C C U M U L AT I O N  A N D  T E C H N I C A L  P R O G R E S S
+gency now lies to the right of the old expansion path. At P1, where the new production function 
+cuts the old expansion path, the ratio of the marginal product of labour to capital is higher than 
+at P. Again, P1 is not an equilibrium point and it will pay producers to move to point Q, substitut-
+ing labour for capital. The ratio of marginal products has not remained unchanged at a constant 
+labour–capital ratio, and in this case K2K3 capital is saved.
+As with Harrod technical progress, it is difficult to know what form Hicks technical progress 
+takes in practice, largely because of identification problems. While the classification is analytically 
+distinct, how does one distinguish empirically between a change in factor proportions due to a 
+shift in the production function and a change in factor proportions due to a change in relative 
+prices? Hicks himself seemed to be of the view that technical progress is relatively labour-saving, 
+but the indirect evidence we have for this is slight. For example, given the magnitude of the rise 
+in the price of labour relative to capital and an elasticity of substitution close to unity, labour 
+could not have maintained or increased its share of the national income (as it has done slightly in 
+some advanced countries) if technical progress was markedly biased in the labour-saving direc-
+tion. If technical progress is biased in one direction or another, its major impact will be on factor 
+utilization if the price of factors is not flexible. The type of technology employed, and the factor 
+proportions it entails, must bear a major responsibility for the high level of unemployment and 
+underemployment in developing countries, as described in Chapter 3. We examine the case for 
+the use of more labour-intensive techniques of production later in this chapter.
+How societies progress technologically
+Improvements in the art of production, which is the most literal interpretation of technical pro-
+gress, result from a combination of R&D, invention and innovation. R&D and invention are the 
+activities that ‘create’ knowledge, and innovation is the activity that applies new knowledge to 
+the task of production. These are all basically economic activities. But the study of the way in 
+which societies progress technologically, and the speed of progress, is not only the preserve of the 
+economist.
+The economist can identify the mainsprings of progress, but their pervasiveness and accept-
+ance in societies is not a purely economic matter. The spread of new knowledge, for example, 
+depends on its rate of adoption and diffusion and this raises questions of individual motivation, 
+the willingness of societies to assimilate new ideas and to break with custom and tradition, which 
+impinge heavily on territory occupied by development sociologists. The relative importance of 
+different factors contributing to progress, and the speed of progress itself, will vary from country 
+to country according to the stage of development and a whole complex of socioeconomic forces. 
+Moreover, many of the mainsprings of technological progress are not mutually exclusive. At the 
+risk of excessive simplification, attention here will be confined to four main sources of progress 
+that are of potential significance to any society.
+One major source of improvement in technology and progress is the inventive and innovative 
+activity of the population. All societies are endowed to some degree with a potential supply of 
+inventors, innovators and risk-takers, and in the absence of imported technology and personnel, 
+it is on the emergence of this class of person that technological progress will primarily depend 
+during the early stages of development. Economic backwardness in many countries may quite 
+legitimately be traced back to a relative shortage of inventors, innovators and risk-takers. It is 
+fairly well established that some cultures and some environments are more amenable to change 
+than others, and have, in the past, produced a greater supply of entrepreneurs. One of the major 
+192
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+sources of growth during Britain’s Industrial Revolution was technological progress fostered by 
+an abundant supply of inventors, innovators, entrepreneurs and risk-takers. The great Austrian 
+economist Joseph Schumpeter (1934, 1943) laid great stress on the role of the entrepreneur and 
+innovation in the development process. Ultimately, however, it is the lag between the creation of 
+knowledge and its adoption, and the rate of dissemination of new knowledge, that most directly 
+affects the rate of measured technical progress between countries; and these two facets of innov­
+ation are influenced by the attitudes of society to change.
+For Schumpeter, progress results from what he called the process of creative destruction, 
+which is bound up with innovation and instigated by competition. Innovation, in turn, is the driv-
+ing force behind competition. But innovation requires decision-takers and hence his complemen-
+tary stress on the role of the entrepreneur. A characteristic of many poor countries is a shortage 
+of decision-takers, a relative lack of competitive spirit, and a general aversion to risk-taking. These 
+may be partly cultural traits and also partly, if not mainly, a function of the stage of development 
+itself. The characteristics commonly associated with business dynamism are themselves a func-
+tion of business and, more particularly, the form of organization we call ‘capitalism’.
+There is an enormous technological divide in the world economy, which acts as a serious barrier 
+to narrowing the gap between rich and poor countries. A small number of countries (accounting 
+for about 15% of the world’s population) produce nearly 50% of the world’s technological innov­
+ations. A number of other countries (containing 50% of the world’s population) are able to adopt 
+some or all of these technologies. The remaining countries (containing one-third of the world’s 
+poorest people) are almost entirely excluded from technological progress. These latter countries 
+are also the areas of the world most affected by low agricultural productivity, malnutrition and 
+disease. They need technology to raise productivity and to improve health, but cannot afford or 
+assimilate it.
+The major channels of technical diffusion across countries are trade (see Grossman and 
+Helpman, 1991) and foreign direct investment (FDI) (see Keller, 2004, for a survey of the impact 
+of these channels on economic performance). Countries can import technology embodied in 
+intermediate imports or final goods, they can obtain it on licence from patent holders, or they 
+can attract FDI, which brings technology with it. The spread of technology and ideas may also 
+be expected to come about naturally in the general process of commercial intercourse and 
+the exchange of information through trade. This is one of the dynamic gains from trade (see 
+Chapter 15). But not all countries have equal access to technology. Geography, culture, insti-
+tutions and the quality of human capital matter. The speed with which modern technology is 
+absorbed by economically backward countries will depend on the same class of factors as the 
+diffusion of knowledge within countries, which, in the final analysis, amounts to the receptiveness 
+of all sections of the community to change, and the ability to assimilate new ways of doing things. 
+Some economists argue that the World Bank should focus more of its lending to countries specifi-
+cally for knowledge creation and assimilation.
+New technology and its diffusion could lead to greater divergence in the world economy 
+if richer countries are more adept at adopting foreign technology than poorer countries. This 
+underlines the importance of identifying the major determinants of technical diffusion. The two 
+most important variables are human capital and R&D, which determine absorptive capacity. 
+According to a study by Fagerberg et al. (2007), of 90 countries over the period 1980–2002, the 
+superior growth of innovative activity is the main factor behind the difference in economic per-
+formance between the newly industrializing countries of Asia on the one hand, and Latin America 
+and Africa on the other. Growth rate differences between open economies can be explained in 
+terms of technological competitiveness, which is the capacity to absorb technology and to exploit 
+193
+6  •  C A P I TA L  A C C U M U L AT I O N  A N D  T E C H N I C A L  P R O G R E S S
+knowledge from elsewhere; price competitiveness, which is a function of new technologies that 
+reduce costs; and non-price competitiveness, which largely depends on product innovation.
+Learning
+A third means by which societies progress technologically, gradually raising their efficiency and 
+productivity, is through the process of learning by doing, which refers to the accumulation 
+of experience by workers, managers and owners of capital in the course of production, which 
+en­
+ables productive efficiency to be improved in the future. It is a learning process that Adam 
+Smith referred to when discussing the benefits of division of labour (see Chapter 4). Smith 
+stressed the importance of the division of labour for three main reasons: as a means of improving 
+the dexterity of workers, to save the time lost in the absence of specialization, and to encourage 
+the invention of machines that facilitate and abridge labour to improve the productivity of labour. 
+All these advantages of the division of labour are part of a learning process. Labour improves its 
+skill through specialization and work experience, and becomes more adept at the job in hand. 
+Managers see deficiencies in organization, which can subsequently be remedied; and on the basis 
+of accumulated knowledge, they are also able to embody more productive techniques in the 
+capital stock.
+Learning may be regarded as either endogenous or exogenous, or both, depending on the 
+factor of production considered. If existing labour and existing capital are subject to a learning 
+process, then learning by doing may be regarded as exogenous and part of disembodied technical 
+progress. If, however, it is assumed that learning enters the productive system only through the 
+addition of new factors, then learning by doing must be regarded as endogenous. This is the basis 
+of Kenneth Arrow’s capital model (1962), from which the term ‘learning by doing’ originates. His 
+hypothesis with respect to capital is that, at any moment of time, new capital goods incorporate 
+all the knowledge then available, based on accumulated experience, but once built, their product­
+ive efficiency cannot be altered by subsequent learning.
+The endogenous model may be appropriate in the case of capital but is much less relevant in 
+the case of labour. It is in relation to labour that most research into the learning process has been 
+conducted. The notion of the learning curve, or progress function, which has been found in many 
+industries, relates direct labour input per unit of output to cumulative output as the measure 
+of experience. Typically, labour input per unit of output is found to decline by 10–20% for each 
+doubling of cumulative output, with a corresponding rise in the productivity of labour. For any 
+one product, of course, learning cannot go on at the same rate forever, but since product types 
+are constantly changing, it is probably safe to conclude that at the aggregate level, over time, there 
+is no limit to the learning process.
+Infrastructure investment
+Another major type of investment that is very important to developing countries is infrastructure 
+investment. Just as the productivity of physical capital depends on investment in human capital, 
+so it also depends on the existence of infrastructure investment, for example in transport and 
+power facilities. Good infrastructure improves productivity and reduces production costs in the 
+private sector. Apart from this obvious benefit, the adequacy of infrastructure can make a crucial 
+difference to a country’s development programme in a number of ways, such as diversifying pro-
+duction, expanding trade, improving environmental conditions, and reducing poverty.
+194
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+For poor farmers, improved infrastructure will reduce input costs, increase agricultural output 
+and reduce traders’ monopoly by improving access to markets. Over half of African farmers are 
+cut off from national and world markets because of poor infrastructure and market access. Better 
+transport means greater access to public services, including schools, hospitals and other health-
+care facilities. In this way, infrastructure investment can help to meet some of the Sustainable 
+Development Goals in the field of education, health and gender equality that we discussed in 
+Chapter 2. Research at the World Bank (2005) across 73 countries shows that a 10% improvement 
+in a country’s infrastructure index is associated with a 5% reduction in child mortality, a 3.5% 
+reduction in infant mortality, and a 7.8% reduction in maternal mortality (linked to safer water 
+supply, sanitation and easier access to hospitals). Piped water promotes gender equality by freeing 
+women who traditionally spend hours a day collecting water from wells.
+Research at the macro-level shows a significant positive effect of infrastructure investment on 
+output, productivity and growth. Calderón et al. (2015) take a panel of 88 developed and develop-
+ing countries over the period 1960–2000 and estimate an output elasticity with respect to a multi­
+dimensional index of different types of infrastructure of between 0.07 and 0.10. The results are 
+highly significant and robust and mean that, on average, a doubling of infrastructure investment 
+would increase total output (GDP) by about 10%. Likewise, Arslanalp et al. (2011) of the World 
+Bank have studied the impact of public investment (mainly infrastructure) on economic growth 
+across 48 developed and developing countries over the period 1960–2001 and find a significant 
+positive impact, allowing the responsiveness of output to public capital to vary with the initial 
+stock of public capital itself. The elasticity of growth tends to be higher, the lower the initial level 
+of public capital, rising to nearly 0.2 and then falling close to zero.
+Currently, developing countries spend nearly a $1 trillion a year on new infrastructure – 
+­
+transport, power, water, sanitation, telecommunications, irrigation and so on, equal to 20% of 
+total investment and approximately 5% of GDP – and the need for such investment is still huge. 
+One billion people still lack access to clean water, 2 billion people lack access to sanitation (includ-
+ing 500 million in India alone) and electric power, and transport facilities are still rudimentary in 
+many developing countries. The Asian Development Bank has estimated that $8 trillion of invest-
+ment is needed between 2010 and 2020, mainly for roads, electricity and telecommunications. To 
+meet this need in Asia, China announced in 2015 the establishment of a new Asian Infrastructure 
+Investment Bank (AIIB), based in Beijing, with 57 founding member countries and initial capital 
+of £50 billion, expected to rise to over $100 billion. It is seen by the USA as a rival to the World 
+Bank (largely controlled by the USA) and so has not joined; neither has Japan, which has a hold 
+on the Asian Development Bank. Given the need for infrastructure investment, however, none of 
+these banks should see themselves as rivals, but as complements.
+Most infrastructure investment is undertaken by governments. The public sector owns, oper-
+ates and finances virtually all infrastructure because it is either regarded as a natural monopoly 
+or a public good. Without competition and accountability, however, there can be a great deal of 
+inefficiency and waste. The underutilization of capacity can be a major problem in transport and 
+power because of lack of maintenance. The World Bank (1994) calculates that raising operating 
+efficiency to best-practice levels could save over $50 billion a year, and that the greater private 
+provision of infrastructure and the recoupment of costs from users could reduce government 
+subsidies by over $100 billion.
+The World Bank (1994) has called for a shift of emphasis ‘from increasing the quantity of infra-
+structure stocks to improving the quality of infrastructure services’, and a change of thinking from 
+the view that infrastructure services can only be provided by government. It makes three major 
+recommendations:
+195
+6  •  C A P I TA L  A C C U M U L AT I O N  A N D  T E C H N I C A L  P R O G R E S S
+1.	 The wider application of commercial principles, including managerial autonomy and the set-
+ting of performance targets.
+2.	 The introduction of more competition, for example arranging for suppliers to compete for an 
+entire market.
+3.	 The increased involvement of users so that suppliers respond to user needs.
+Technology and the developing countries
+Most technological improvement originates from developed countries. The Organisation for 
+Economic Co-operation and Development (OECD) countries spend over $800 billion a year on 
+R&D, and account for more than 90% of patents issued. If developing countries are to develop 
+their own technology, there needs to be the right institutional environment, including an incen-
+tive structure through patents, sound infrastructure, political stability to attract investment 
+funds, and the availability of credit. Some of the technological leaders among developing coun-
+tries include Singapore, Taiwan, India, South Korea, Malaysia, China, Mexico, Thailand, Philippines 
+and Brazil, measured by the share of medium- and high-technology manufactures in total manu-
+facturing value-added.
+Technology is currently making a contribution to development in three major fields: agricul-
+ture, health, and information and communications technology (ICT). In agriculture, the impact 
+of the Green Revolution in the 1960s and 1970s has now diminished, but on the horizon is bio-
+technology with the potential to end world hunger through the use of genetically modified (GM) 
+foods and crops. The advantage of GM technology is that it allows the transfer of traits between 
+unrelated species. For example, a gene in one species associated with the ability to resist drought 
+can be directly transferred into the genetic code of another species. We now have GM crops more 
+resistant to viruses and insects and more tolerant of herbicides; in the future, we could have food 
+with extra vitamins and protein, and even vaccines to combat malnutrition and disease. In the late 
+1990s, China gave 26 approvals for GM crops, including transgenic peppers, tomatoes, rice and 
+cotton. China has the advantage of being an authoritarian regime. Other countries – including 
+India, China’s main economic rival – have had to deal with public protests against GM technology, 
+with invasion of field trials and burning of GM crops.
+In health, new technology and advances in medicine have been the biggest single factor in 
+reducing mortality and increasing life expectancy in developing countries. Important discoveries 
+include vaccines against influenza, smallpox, polio, measles, tuberculosis, antibiotics (penicillin), 
+and oral rehydration therapy – which was originally developed in Bangladesh and has saved mil-
+lions of babies from dying from diarrhoea. Biotechnology and genomics offer new ways to cure 
+disease by altering genes that contribute to cancer, or boosting genes that might fight it.
+ICT can provide enormous benefits to developing countries, both as consumers and produ­
+cers. Any task that can be digitized can now be done at a distance, which gives the opportunity 
+for low-cost countries to develop ICT industries. India’s software industry now employs nearly 
+2 million people. Call centres are one of the fastest-growing industries in the subcontinent. For 
+consumers, access to information through the internet can be of benefit in almost any field – for 
+weather information in agriculture, the dissemination of knowledge in healthcare and the track-
+ing of diseases, and for distance learning in education. Telephone banking is revolutionizing access 
+to finance and credit in African countries.
+Case example 6.2 describes the World Bank’s views on bridging the technology divide between 
+rich and poor countries.
+196
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Technological progress – improvements in the ways that goods and services are pro-
+duced, marketed, and brought to market – is at the very heart of human advancement 
+and development. It has helped reduce the share of people living in absolute poverty 
+in developing countries from 29% in 1990 to 18% in 2004. As a result, the technol-
+ogy gap between rich and poor countries has narrowed, although it remains wide. 
+Low-income countries employ only one-fourth the technology used in high-income 
+countries.
+Technological progress in developing countries (that is, low-income, lower middle-
+income, and upper middle-income countries) outstripped progress in high-income 
+countries between the early 1990s and 2000s. Of course, the initial level of technology 
+in lower income countries was much lower to begin with.
+ The very strong technological progress developing countries have enjoyed has 
+come mainly from adopting and absorbing existing technologies. Compared with the 
+size of their economies, they perform relatively little new-to-the-world innovation.
+ The diffusion of technology across developing countries has been facilitated by 
+their increased exposure to foreign technologies. Over the past 15 years, FDI levels 
+and imports of high-tech and capital goods have doubled as a percentage of GDP – 
+in part because of contacts with well-educated migrant populations living abroad.
+ Slow diffusion within countries means that, although individual cities may be tech-
+nology leaders, the use of technology in a country as a whole may be low. For instance, 
+while more than one in two urban Indian families has mobile phone access, only one 
+in 10 in the rural sector does.
+ Partly as a result of this increased exposure, newer technology – such as mobile 
+phones, computers and the internet – now spreads much more quickly. In the early 
+1900s, new technology took more than 50 years to reach most countries; today it takes 
+about 16 years. But technology tends to spread slowly within countries because many 
+developing countries lack the technical skills necessary to master new, or even older, 
+technologies.
+ Although better macroeconomic and educational policies, as well as the spread 
+of older enabling technologies – such as electrical networks, road infrastructure, tele­
+phone land lines, and sanitation networks – have advanced the spread of technology 
+in developing countries, progress has been slow and the capacity to absorb new ideas 
+and techniques remains weak.
+Closing the gap
+To continue catching up with high-income countries, developing countries need to:
+•
+• Maintain exposure to foreign technologies through trade openness, foreign direct 
+investment, and the participation of migrant populations.
+•
+• Further improve the investment climate to allow innovative firms to grow.
+•
+• Invest in enabling technologies and basic infrastructure, such as roads, electricity 
+and telephones.
+•
+• Improve the quality and increase the quantity of education throughout the economy – 
+not just in major centres.
+•
+• Emphasize technology diffusion by reinforcing dissemination systems and the mar-
+ket orientation of R&D programmes.
+Source: Burns, 2008.
+Case example 6.2
+Bridging the technology divide
+197
+6  •  C A P I TA L  A C C U M U L AT I O N  A N D  T E C H N I C A L  P R O G R E S S
+Techniques of production
+If labour is more abundant and capital is scarcer in developing countries than in developed coun-
+tries, we might expect to observe the use of more labour-intensive techniques of production in 
+the industrial sector of developing countries, reflecting a lower price of labour relative to capital. 
+Figure 6.4 shows this. Assuming the same production function in the two sets of countries, labelled 
+‘1’, and holding everything else constant, the lower relative price of labour in the developing coun-
+try, given by the price line (or isocost curve), cb, gives a more labour-intensive choice of technique 
+than in the developed country, where the relative price of labour is given by the steeper line ad.
+In the developed country, the capital–labour ratio is given by the ray from the origin, DC, 
+while in the less-developed country, the capital–labour ratio is given by the ray LDC; both rays 
+pass through the point of tangency between the price line and production function – A and B, 
+respectively.
+In practice, however, it is often the case that for the same outputs produced, the capital inten-
+sity of techniques is not very different between the two sets of countries, and that the capital–
+labour ratio differs between developed and developing countries in the aggregate only to the 
+extent that the composition of output differs; that is, because there are large sectors in develop-
+ing countries’ economies where very little capital is employed at all, as in subsistence farming 
+and petty service activities. In the modern sectors of developing countries, however, techniques 
+are much more capital-intensive than would be predicted on the basis of knowledge of factor 
+endowments. Given the supply of labour available, and given the rate of investment, the more 
+capital-intensive the techniques, the less employment and the more unemployment there will be.
+Unemployment and underemployment are major preoccupations in developing countries, and 
+are one reason why the prevailing techniques of production might be regarded as ‘inappropriate’.
+But what accounts for this relative capital intensity of modern sector techniques, and would 
+developing countries be better off using more labour-intensive techniques? There are a number of 
+reasons why technological choice sometimes appears to be little different in developing countries 
+than in technologically advanced societies.
+First, for a large number of commodities, there may not be a spectrum of techniques to choose 
+from; that is, in practice, the production function in Figure 6.4 may not be smooth, and a country 
+cannot move from point A to B in accordance with differences in relative factor endowments and 
+d
+c
+a
+b
+DC
+LDC
+0
+1
+Labour
+B
+A
+1
+Capital
+Figure 6.4  Optimal choice of technique
+198
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+relative factor prices. We are talking here, of course, about techniques that are profitable. There may 
+always be more labour-intensive techniques using more labour and capital, but then the output 
+would not be competitively saleable. If there is not a spectrum of profitable techniques of produc-
+tion, and the coefficients of production are fixed, the production function is L-shaped (sometimes 
+called a Leontief production function, after Wassily Leontief, the ‘father’ of input–output analysis, 
+which assumes no substitutability between capital and labour). Whether technology is such that 
+there is only one profitable technique, or whether there are many but developing countries do not 
+have access to them, is an empirical question we shall consider later in the chapter.
+A second reason for the relative capital intensity of production in developing countries is that 
+the market prices of factors of production frequently do not reflect relative abundance or scarcity. 
+This tendency is often exacerbated by developing countries themselves, which give generous sub-
+sidies to scarce capital and encourage high wages in the modern manufacturing sector by the gov-
+ernment paying high wages to its own employees. The old justification for using capital-intensive 
+techniques, which governments used to believe in and still do to some extent, was that they are 
+necessary to maximize output and saving, and that more labour-intensive techniques would reduce 
+the level of output and saving because of their relative inefficiency and higher wage bills. Later in 
+the chapter, we shall examine these contentions; but, clearly, the cheaper that capital is made by 
+subsidies, and the higher wages are above their ‘shadow’ price, the more capital-intensive the tech-
+niques will tend to be.
+A third factor to bear in mind is that although labour may be abundant and the money wage 
+may be lower than in developed countries, it is not necessarily ‘cheaper’ or less ‘costly’ to employ, 
+because its productivity may be lower. In other words, the so-called efficiency wage (that is, the 
+wage rate divided by the productivity of labour), or wage costs per unit of output, may differ very 
+little between developing and developed countries. This means that the production function for 
+the developing country in Figure 6.4 above will lie outside the production function for the devel-
+oped country in such a way that even if the relative money wage of labour is lower in the develop-
+ing country, it is profitable to choose a relatively capital-intensive technique. Figure 6.5 shows this. 
+The production function for the developing country is labelled ‘2’. Even though labour is cheaper 
+relative to capital in the developing country (slope of cb , slope of ad), nonetheless the most 
+profitable capital–labour ratio will be the same in both countries (given by the ray from the origin, 
+DC 5 LDC). It is probably because abundant labour is not necessarily ‘cheap’, in a cost per unit of 
+output sense, that accounts for the observation that, in trade, developing countries’ exports are 
+sometimes as capital-intensive as in developed countries, contrary to the prediction of certain 
+trade theories. This apparent paradox (sometimes called the Leontief paradox) can be explained 
+d
+c
+a
+b
+DC = LDC
+0
+1
+2
+Labour
+Capital
+Figure 6.5  Different wages: same technique
+199
+6  •  C A P I TA L  A C C U M U L AT I O N  A N D  T E C H N I C A L  P R O G R E S S
+by the fact that it is the ‘efficiency’ wage that matters, not the money wage, and while the money 
+wage may be low in developing countries, the ‘efficiency’ wage is relatively high.
+Fourth, in certain instances, capital intensity may be explained by a skill constraint. Typically, 
+labour-intensive techniques require a great deal of skilled labour, compared with capital-intensive 
+techniques which mainly require a preponderance of semi-skilled labour to undertake routine 
+tasks. In developing countries that are short of skilled manpower, capital may substitute for skills 
+and constitute a rational response on the part of decision-makers, whoever they may be.
+But perhaps the overriding factor that accounts for the relative capital intensity of the mod-
+ern sector of developing countries is that many, if not most, of the techniques of production 
+are imported from abroad, with a heavy bias in the labour-saving direction. The techniques may 
+either be employed by indigenous firms or, as increasingly seems to be the case, by large foreign-
+owned multinational corporations, which invest in the country and bring their technology with 
+them. In this case, the technology may be ‘inappropriate’ not because there is not a spectrum of 
+techniques to choose from or an inappropriate selection is made, but because the technology 
+available is circumscribed by the global profit-maximizing motives of the companies investing in 
+the developing country concerned. The labour-saving bias of the technology is to be explained 
+by the labour-saving bias of technical progress in advanced countries where labour is relatively 
+scarce and expensive. As we saw earlier (Figure 6.2), labour-saving bias on a production function 
+diagram is represented by a non-uniform inward shift in the production function, causing capital 
+to be substituted for labour at the same ratio of relative factor prices.
+If developed countries have designed labour-saving technologies that, through the process 
+of international investment, are now being widely used in developing countries, it might well be 
+asked: Why have developing countries not invented capital-saving technologies to economize on 
+scarce capital? The answer is that if a country is to develop technology to save capital, it must have 
+a capital goods industry, but typically the capital goods sector of developing countries is rudi-
+mentary or non-existent. With a large fraction of investment goods coming from abroad, coupled 
+with a lack of domestic knowhow, there has been very little incentive for developing countries to 
+establish their own capital goods industries.
+Capital goods production is characterized by the ability to specialize, but to do this economic­
+ally requires a large market – a much larger market than for homogeneous consumer products 
+that can reap economies of scale. Capital saving also comes from improvement in the efficiency 
+of capital goods production itself, but without a capital goods sector there cannot be innovations, 
+and an important source of capital saving and technical progress in the economy as a whole is 
+lost. It is widely recognized that a capital goods sector is essential for innovatory activity in the 
+economy as a whole, and if developing countries are to reduce their dependence on imported 
+technology, priority must be given to the establishment and nurture of an indigenous capital 
+goods sector (for a lucid discussion of these issues, see Stewart, 1977, especially Chapter 6).
+The empirical evidence on multinational corporations and the choice of techniques is mixed. 
+Lall (1978) distinguishes three separate issues:
+1.	 Whether the technologies used by multinationals are adaptable to abundant labour and low 
+wage conditions in developing countries.
+2.	 Whether multinationals do adapt the technologies they transfer.
+3.	 Whether multinationals adapt better or worse than local firms.
+Regarding the first question, the technologies used by multinationals are unlikely to be very ­
+flexible 
+because the companies tend to predominate in modern industries where processes are complex, 
+continuous and, by their very nature, capital-intensive. Outside processing, however, ancillary 
+200
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+activities, such as the handling of materials and packaging, may be amenable to substitution. On 
+the second issue, it is unlikely that multinationals will undertake major, expensive alterations to 
+technology simply to suit local conditions, and there is not much evidence that they do so.
+With regard to the third matter, however, in comparison with local firms, the experience of the 
+multinationals seems to be mixed. The problem here is that when making comparisons, like must 
+be compared with like; that is, local and foreign firms must be compared in the same market, 
+producing similar products with equal access to technology. Studies must therefore be treated 
+with caution. It is easy to reach the conclusion that multinationals are more capital-intensive than 
+local firms if they operate in different industries producing different products. This is, in fact, often 
+the case, as they tend to be concentrated in activities that are intrinsically more capital-intensive 
+such as heavy industries and extractive industries. We shall say more about the empirical evidence 
+below, and more about multinational corporations in Chapter 14, where we consider the role of 
+FDI in the development process.
+We turn now to the potential conflict between moving towards the use of more labour-inten-
+sive techniques of production and output on the one hand, and saving on the other.
+The conflict between employment and output and employment  
+and saving in the choice of techniques
+Developing countries have three broad objectives: to raise the level of present consumption, to 
+raise the level of future consumption (by saving now), and to raise the level of employment. In the 
+choice of new techniques, a conflict between objectives may arise. First, a technique that maximizes 
+employment may involve a sacrifice of output. Second, a technique that maximizes employment 
+may involve a sacrifice of saving. As we have mentioned already, certainly one of the justifications 
+for the use of modern capital-intensive technology used to be that labour-intensive techniques 
+would reduce output and the investible surplus. We need to look at this matter theoretically and 
+empirically. We shall argue that while, in theory, there may be a conflict, the assumptions on which 
+a potential conflict is based are either invalid or too extreme, and that, in practice, developing coun-
+tries could move towards the use of more labour-intensive techniques without sacrificing the level 
+of present or future consumption. Some of the empirical evidence would seem to bear this out.
+Employment versus output
+A potential conflict between employment and output exists in the choice of new techniques 
+because methods that employ high labour–capital ratios may involve high capital–output ratios 
+because labour productivity is lower.1 Assume that a fixed amount of capital, £1,000, is to be 
+invested. Technique I employs 100 persons with an incremental capital–output ratio of 5, giving 
+an annual flow of output of £200. Technique II employs 50 persons with an incremental capital–
+output ratio of 4, giving an annual flow of output of £250. Therefore the technique that maximizes 
+employment has a lower flow of current output.
+It should be said straight away that there is very little evidence, if any, to support the view that 
+labour-intensive techniques have higher capital–output ratios than capital-intensive techniques. 
+On the contrary, there is growing evidence that labour can be substituted for capital, provided 
+cooperating factors are available, without the level of output being impaired. One interesting 
+­
+pioneer study is that by Pack (1974), using UN data on capital per unit of output (K/O) and labour 
+201
+6  •  C A P I TA L  A C C U M U L AT I O N  A N D  T E C H N I C A L  P R O G R E S S
+per unit of output (L/O) for 6 commodities in 16 firms across 10 countries. Pack plots the observa-
+tions of (K/O) and (L/O) (as in Figure 6.6) for each commodity from the cross-section data, and 
+then defines the efficiency frontier to estimate the elasticity of substitution along it.
+Each scatter point in Figure 6.6 represents country observations for one industry, say cotton 
+textiles, of the relative amounts of capital and labour employed per unit of output. The efficiency 
+frontier (or unit isoquant) is drawn through the points closest to the origin and the elasticity of 
+substitution is calculated as:
+(K/L)i
+(K/L)j
+5 c(w/r)i
+(w/r)j
+d
+s
+ 
+where w/r is the wage-rental ratio, i and j are the two observations closest to the origin, and s 
+is the elasticity of substitution. For five of the six commodities, there is a large difference in the 
+amount of capital per worker year used by countries on the efficiency frontier and a fairly high 
+elasticity of substitution. The results are shown in Table 6.1.
+K/O
+L/O
+0
+Figure 6.6  Efficiency frontier
+Table 6.1  Capital–labour substitution possibilities
+Industry
+Countries on the 
+efficiency frontier
+Capital per 
+worker year ($)
+Elasticity of 
+substitution (s)
+Bicycles
+India
+400
+0.24
+Japan
+520
+Grain milling
+Japan
+280
+3.70
+Israel
+6,410
+Paints
+India
+214
+1.60
+Middle Europe
+2,790
+Tyres
+Iran
+6,240
+1.50
+Mexico
+10,600
+Cotton textiles
+India
+1,100
+2.00
+Mexico
+8,240
+Woollen textiles
+India
+260
+1.20
+Japan
+4,600
+202
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+The results suggest that for countries using large amounts of capital per unit of labour, there 
+are more labour-intensive techniques available (as used by other countries) that could be adopted 
+without sacrificing output, unless the cooperating factors associated with the increased labour 
+intensity are not available. One interesting observation from Pack’s work is that India is invari-
+ably either on or close to the efficiency frontier, and hence is using labour-intensive techniques 
+effectively.
+Pack’s study (1976) of 42 plants in Kenyan manufacturing also suggests that there appears 
+to be considerable ex ante choice of capital intensity in most industries, particularly outside the 
+processing sector in the auxiliary activities of material receiving, material handling among pro-
+cesses, packaging and storage of the finished products. In fact, many auxiliary activities are already 
+very labour-intensive, and contrary to the conventional wisdom, it was found that foreign-owned 
+firms generally used more labour-intensive techniques than indigenous firms. Pack ascribes this to 
+the better managerial expertise and technical training of personnel in foreign firms. Forsyth and 
+Solomon (1977), in a study of Ghana, also found scope for capital/labour substitution and could 
+find no conclusive evidence that foreign firms are more capital-intensive than resident expatriate 
+or private indigenous firms. The situation varies from industry to industry. Helleiner (1975) con-
+cludes his survey of multinational corporations and technological choice by saying:
+In particular industrial sectors, the multinational firm has often proven more responsive and 
+adaptable in its factor and input use, especially in the ancillary activities associated with the 
+basic production processes, than local firms, and so it perhaps should be with its wide range 
+of experience on which to draw.
+Even if more labour-intensive techniques can be used without a sacrifice of output, there is 
+still the question of whether the investible surplus, and therefore future output, will be impaired. 
+Pack’s work suggests otherwise, but let us now consider in more detail the potential conflict 
+between employment and saving, as the traditional argument has it.
+Employment versus saving
+The potential conflict between employment and saving can be illustrated in its starkest form 
+using a simple production function diagram, first used in this context by Dobb (1955) and 
+Sen (1968).
+Consider the use of a given amount of investible resources, K, and the possibility of employ-
+ing those resources with varying amounts of labour to produce output. In Figure 6.7, 0O is 
+the production function in the consumption sector, exhibiting diminishing returns to labour. 
+Now take the standard traditional (although not necessarily correct) assumption that in the 
+industrial sector, labour is paid a fixed wage that is all consumed, so that a ray from the origin 
+(0C) with a constant slope (w) shows the level of the wage bill and consumption at each level 
+of employment. The difference between 0O and 0C is profit, and if all profits are saved, the dif-
+ference also shows the level of saving at each capital–labour ratio. Saving is maximized where 
+a line drawn parallel to 0C is tangential to the production function – at employment level L in 
+Figure 6.7. Beyond this point, further employment generation would diminish the level of sav-
+ing and investible surplus.
+The potential clash between increasing employment and maximizing saving can be seen, how-
+ever, to be based on several assumptions, the validity of which may be questioned:
+203
+6  •  C A P I TA L  A C C U M U L AT I O N  A N D  T E C H N I C A L  P R O G R E S S
+•
+• The wage rate is given and invariant with respect to the technique of production. This assump-
+tion would seem to be a hangover from Lewis’s influential model of the development process 
+(discussed in Chapter 5), which assumes an elastic supply of labour to the industrial sector at a 
+constant wage. If this wage is above the minimum necessary, several other implications ensue.
+•
+• All profits are saved and all wages are consumed.
+•
+• Unemployment resulting from the use of capital-intensive techniques does not reduce com-
+munity saving by at least as much as with more employment and a higher wage bill.
+•
+• Consumption is not productive (that is, it has no investment component), or that present con-
+sumption is no more productive than future consumption.
+•
+• Governments lack the ability to tax and to subsidize labour to reconcile the potential conflict.
+Let us relax these assumptions and see what difference is made.
+Wages and the capital intensity of production
+Let us first relax the assumption that the wage rate is given and the same for all techniques, 
+regardless of capital intensity. There are two fundamental points to be made here in the context 
+of a developing country. The first is that a great deal of the technology, at least in the modern 
+industrial sector, is not indigenous but imported. In this case, the wage structure is set by the 
+skill mix demanded by the technology and the need to keep the labour force well nourished and 
+contented if the capital equipment is to be worked productively and profitably. By and large it 
+may be expected that the greater the degree of capital intensity, the higher the average wage paid.
+The second point is that with large amounts of disguised and open unemployment in the 
+urban sector of developing countries, there is likely to be a big difference between the wage that 
+is being paid with the use of existing technology (imported or indigenous) and the wage at which 
+labour would be willing to work, given the opportunity, with the use of more labour-intensive 
+technology. If more labour-intensive technology could be developed and applied, there is no rea-
+son why the wage rate should not be lower with the use of these techniques, unless there is strong 
+trade union resistance in certain sectors.
+If the wage is not assumed to be given, but may vary with the technique of production for the 
+reasons outlined above, the conclusion of a conflict between employment and saving in the choice 
+of new techniques is affected considerably. Indeed, if the marginal product of labour declines with 
+the labour intensity of production, and the wage is equal to the marginal ­
+product, the conflict 
+O
+C = wL
+0
+Labour
+Output
+Capital
+x
+x
+L
+K
+L1
+Figure 6.7  Employment versus saving
+204
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+disappears entirely. The surplus increases in line with increases in the amount of employment 
+because the surplus on intra-marginal units of labour increases.
+Wages cannot fall to zero, however – there must be some minimum below which wages can-
+not fall. This gives the conclusion that there is no necessary conflict between employment and 
+saving up to the point where the marginal product equals the minimum wage. Beyond that point 
+there will be a conflict.
+Different classes’ propensity to consume
+The alleged conflict between employment and saving also depends on the assumption that the 
+propensity to save out of profits is higher than the propensity to save out of wages. In Figure 6.7 
+above, the difference between employment levels L (which maximizes saving) and L1 (which maxi-
+mizes employment) depends on the extreme assumption that all profits are saved and all wages 
+are spent. No one would dispute that the propensity to save out of profits (sp) is higher than the 
+propensity to save out of wages (sw) (indeed, there is plenty of empirical evidence to support the 
+assertion), but it would be unrealistic to argue that there is no saving out of wages and no consump-
+tion out of profits. Both consumption out of profits and saving out of wages will reduce the conflict 
+between employment and saving and move the point of maximum surplus away from L towards L1.
+The narrower the difference between sw and sp, the higher the level of employment before a 
+conflict sets in, until at the limit, if sw 5 sp, there is no conflict at all. The distribution of income 
+between wages and profits will not affect the aggregate level of saving.
+Support of the unemployed
+If a particular choice of technology, which is designed to maximize the reinvestible surplus, causes 
+unemployment and the unemployed make claims on society’s investible resources, the surplus 
+may ultimately be less than if more labour-intensive techniques had been chosen. There are three 
+main ways in which the unemployed may reduce the investible surplus:
+•
+• If the unemployed remain in the agricultural sector, they may depress average product and 
+consume more than they produce, thus reducing the agricultural surplus.
+•
+• If the unemployed remain in the industrial sector, they will absorb family savings to support 
+themselves.
+•
+• There may be public support for the unemployed through unemployment insurance pro-
+grammes, in which case, public saving will be reduced below what it otherwise might be.
+If ‘compensation’ to the unemployed in any of the forms outlined above exceeds the difference 
+between the industrial wage and the marginal product using more labour-intensive techniques, 
+it would pay to create extra employment because the difference between consumption and pro-
+duction as a result of expanding employment would be less than the reduction in saving caused by 
+the unemployment. At the limit, of course, if the unemployed ‘consumed’ resources equal to the 
+value of the industrial wage, it would make no difference if labour was employed up to the point 
+where the marginal product of labour is zero. There is clearly no difference from the point of view 
+of saving between an unemployed person consuming the equivalent of an industrial wage and an 
+employed man with zero marginal product receiving an industrial wage. As long as unemploy-
+ment absorbs saving, therefore, in whatever form, employment can be higher without reducing 
+the investible surplus to below what it would otherwise have been. Thus, as a general proposition, 
+it may be said that the extent of the conflict between employment and saving will also depend on 
+the amount of compensation to the unemployed out of the total investible surplus.
+205
+6  •  C A P I TA L  A C C U M U L AT I O N  A N D  T E C H N I C A L  P R O G R E S S
+Are consumption and investment distinct?
+The alleged conflict between employment and saving also assumes either that consumption has 
+no investment component or that present and future consumption are equally productive. Those 
+who argue for techniques to maximize the investible surplus at the expense of employment place 
+no value on present consumption at the margin, and those who argue for techniques to maxi-
+mize employment are indifferent at the margin between an extra unit of consumption and saving 
+(investment). It can be shown, however, that if consumption has an investment content, and the 
+productivity of consumption falls as the level of consumption increases, the relative valuation 
+of present consumption increases, favouring more labour-intensive techniques (Thirlwall, 1977). 
+‘Productive’ consumption refers to consumption that improves the efficiency of labour, thereby 
+raising the level of income in the same way as normal additions to the capital stock. As long as 
+consumption is productive, therefore, an increase in employment and consumption need not be 
+at the expense of ‘investment’ for future output.
+All too little is known about the precise extent to which low levels of consumption, and par-
+ticularly food intake, impair working efficiency and productivity. But we do know that the food 
+requirements considered by nutritionists to be necessary for efficient working and healthy living 
+are far greater than the levels achieved by a large minority of the population in developing coun-
+tries (see Dasgupta, 1993). Calorie deficiency causes loss of body weight, tiredness, listlessness 
+and a deterioration of mental faculties. Protein deficiency causes such conditions as kwashiorkor, 
+and may cause death in children. Vitamin A deficiency causes blindness, and iodine deficiency 
+is a cause of goitre, which leads to cretinism and deaf-mutism. Altogether, it has been estimated 
+by the UN Food and Agriculture Organization that at least 1 billion people in the world suffer 
+from various degrees of malnutrition. To the extent that this impairs efficiency and output, and is 
+caused by a lack of consumption, an increase in employment and present consumption may be 
+as valuable at the margin as an extra unit of saving from the point of view of future welfare. The 
+more equal the relative valuation of consumption and saving at the margin, the less the conflict 
+between employment generation in the present and the level of future output.
+Taxes and subsidies
+It has been assumed so far that savings and employment depend exclusively on the choice of tech-
+nique. In practice, of course, governments can tax and subsidize to achieve desired ends, and this 
+they can do to reconcile the conflict between employment and saving. As Sen (1969) has remarked:
+the total amount of income to be saved can be determined by the planner in any way he likes . . . 
+If this is true then the link snaps between the choice of techniques and the proportion of income 
+saved. The technical choice may be made with the main purpose of maximising the amount of 
+output, and the proportion of the output to be invested can be decided at a separate stage.
+Consider again Figure 6.7, which is redrawn here as Figure 6.8. By the choice of techniques alone, 
+maximization of the surplus XY means a sacrifice of employment L1L. Or employment L1 means a 
+sacrifice of savings equal to Y1Y2. Now suppose that the government possesses the power to tax 
+and subsidize. To employ L1 requires a shadow wage of zero: that is, a subsidy to employers equal 
+to the full value of the wage. The employers’ surplus will now be X1L1, but since workers receive 
+the market wage and all wages are consumed, consumption will still be Y1L1, and the investible 
+surplus, X1Y1. The question is: Can tax policy in the new situation preserve the level of the surplus 
+XY generated by the more capital-intensive technology? The answer must be yes, ­
+provided the 
+206
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+propensity to consume is greater than zero. The total wage bill is Y1L1 and it is desired to reduce 
+consumption out of the wage bill by Y1Y2. Consumption will fall by the amount of tax times the 
+propensity to consume (c). Hence, the level of tax raised must be T 5 (Y1Y2)/c. If the wage bill is, 
+say, £1,000, Y1Y2 is £100 and c is 0.8, then the tax raised must be £100/0.8 5 £125.
+In this example, the preservation of the level of saving is quite easily accomplished while mov-
+ing from the more capital-intensive to labour-intensive techniques. If, of course, a fairly high level 
+of taxation already exists, and there is no scope for further taxation, subsidization and taxation 
+will not be a feasible means of reconciliation. In practice, however, the presumption must be that 
+developing countries are not yet at their taxable capacity, and that the subsidization of labour, 
+coupled with appropriate tax policy, is a possible policy.
+Some care must be taken, however, over the form of taxation. For example, if the wage is fixed 
+in real terms, then indirect taxes that raise prices will reduce the real wage, and the money wage 
+will have to rise to compensate. Since the money wage is the cost to the employer, subsidies will 
+then have to be increased. The imposition of indirect taxes to finance subsidies may lead to a spiral 
+ 
+of increased taxation, inflation and subsidization. Direct taxes on workers’ incomes may also be 
+counterproductive if workers bid for money wage increases to maintain disposable income. The 
+only feasible taxes to finance subsidies may be on exports or luxury consumption goods, which 
+will not affect the real income of the broad mass of the population. While theoretically, therefore, 
+a policy of labour subsidization financed by taxation may reconcile the conflict between employ-
+ment and saving, it may run into a number of practical difficulties.
+All the factors that may lead to an increase in the labour intensity of production without 
+impairing the investible surplus may either be thought of as additive, or any one of them by itself 
+may be powerful enough to push employment close to L1 in Figure 6.7 above without loss of sav-
+ing or its benefits.
+Future policy
+It has become part of conventional wisdom, and there may be a good deal of truth in the asser-
+tion, that a major cause of the growth of urban unemployment in developing countries lies in the 
+application of ‘inappropriate’ production techniques because of the limited choice of techniques 
+O
+C = wL
+0
+Labour
+Output
+Capital
+Y
+L
+K
+L1
+Y1
+X1
+X
+Y2
+Figure 6.8  Preserving the level of saving through taxation
+207
+6  •  C A P I TA L  A C C U M U L AT I O N  A N D  T E C H N I C A L  P R O G R E S S
+available, from within the countries and from outside. The choice is limited from within owing 
+to the absence of a domestic capital goods sector, and it is limited from without because the 
+techniques imported reflect the labour-saving bias of technical progress in the developed coun-
+tries from which they come. The application of ‘inappropriate’ technology not only exacerbates 
+unemployment, but perpetuates the dualistic structure of developing countries, increases income 
+in­
+equality, may worsen the foreign exchange position, and, in general, produces a distorted 
+ 
+economy, while increasing the dependence of developing countries on developed countries.
+There is now a strong movement throughout the developing countries in support of the cre­
+ation of an intermediate technology using more labour per unit of capital and fewer foreign inputs. 
+What is required is a whole spectrum of techniques to suit different circumstances, from which 
+developing countries can choose. For this to happen, developing countries need to encourage 
+ 
+the establishment of their own capital goods industries, and more R&D is required both within, 
+and on behalf of, poor countries. An international technology bank would be a useful starting 
+point, giving countries access to technological blueprints from different sources.
+The capital intensity of production is also a function of the composition of output. There are 
+often many ways of meeting a given need, some of which may be more labour-intensive than oth-
+ers. Where this is so, such as in transport, nutrition, housing and so on, serious consideration should 
+be given to the most labour-intensive way of meeting such needs, consistent with other objectives.
+Finally, the location of activity needs to be considered. Whatever technology is applied in the 
+modern sector, it will have implications for the rural sector that will rebound on the modern 
+sector. We saw in Chapter 5 that the creation of more modern sector jobs may encourage more 
+migrants than the number of jobs created, thus increasing urban unemployment. This would 
+seem to call for the location of new labour-intensive industries in the rural sector, to curb the flow 
+of migrants and ease urban unemployment.
+To conclude our analysis, we have seen that there are many reasons for believing that the 
+potential conflicts inherent in the choice of new techniques between employment and saving on 
+the one hand and between employment and output on the other have been exaggerated, and 
+that techniques can be more labour-intensive without impairing the level of the investible surplus 
+or the level of output. It is in the direction of more rural-based, labour-intensive projects that 
+development strategy ought to move for the maximization of general welfare.
+Summary
+•
+• There can be no economic growth unless economies invest a proportion of their output. The 
+amount of capital per worker in developing countries is much lower than in developed coun-
+tries, which partly accounts for the lower productivity of labour in developing countries.
+•
+• There are many different types of capital: physical plant and machinery, infrastructure, human 
+capital and social capital, including health expenditure, which makes labour more productive 
+(see Chapter 7).
+•
+• The productivity of capital depends to a large extent on the amount of technical progress em-
+bodied in it.
+•
+• The pace of technical progress depends on the willingness and capacity of societies to be 
+invent­
+ive, to innovate, and to devote resources to human capital formation, skills training and 
+R&D expenditure.
+•
+• There is a huge technological divide between rich and poor countries, which will take time and 
+effort to bridge.
+208
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+•
+• The choice of techniques of production is an important issue in developing countries – ­
+whether 
+to choose relatively labour-intensive techniques to create more employment, or relatively 
+­
+capital-intensive techniques, which embody more technology.
+•
+• Theory and evidence suggests that developing countries can move towards the use of more 
+labour-intensive technologies without sacrificing future growth.
+1.	 What is meant by the process of capital accumulation?
+2.	 Distinguish between the various forms of investment and capital accumulation 
+that can raise per capita income.
+3.	 Why do developing countries, and many development economists, lay great stress 
+on the role of capital accumulation in the development process?
+4.	 What is meant by the following terms: neutral, capital-saving, and labour-saving 
+technical progress?
+5.	 What are the main means by which societies progress technologically?
+6.	 What is ‘learning by doing’?
+7.	 In what sense is infrastructure investment complementary to investment in plant 
+and machinery, and does it have to be provided publicly?
+8.	 What are the major factors that dictate the choice of techniques in the industrial 
+sector in developing countries?
+9.	 Why did early development theory tend to stress the importance of capital-­
+intensive techniques for rapid economic development?
+10.	 Would the use of more labour-intensive techniques necessarily reduce the size of 
+the investible surplus?
+11.	 What do you understand by the ‘efficiency wage’ of labour, and how does this con-
+cept help to explain the relative capital intensity of production and goods traded?
+Discussion questions
+Chapter 6
+Note
+1.  The capital–output ratio (K/O) may be expressed as the product of the capital–labour ratio and 
+labour requirements per unit of output, that is, K/O 5 (K/L)(L/O). Techniques with a low K/L may 
+nonetheless have a high K/O because L/O is high – that is, the productivity of labour is low.
+Websites on technology and investment
+Economic Growth Resources run by Jon Temple, Bristol University, UK www.bristol.ac.uk/efm/people/
+jon-r-temple/overview.html
+International Institute for Communication www.iicd.org
+World Intellectual Property Organization www.wipo.int
+United Nations Industrial Development Organization www.unido.org
+

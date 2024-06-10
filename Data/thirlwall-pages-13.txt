@@ -1,0 +1,3132 @@
+FINANCING ECONOMIC 
+DEVELOPMENT
+IV
+This is a Blank Page
+365
+•
+• Introduction
+•
+• Forms of saving
+•
+• The prior savings approach
+•
+• The capacity to save
+•
+• The willingness to save
+•
+• Financial systems and economic 
+development
+•
+• The informal financial sector
+•
+• Monetization and money 
+market integration
+•
+• Developing a banking system
+•
+• Rural financial intermediaries 
+and microcredit
+•
+• Development banks
+•
+• Financial intermediaries
+•
+• Financial liberalization
+•
+• Fiscal policy and taxation
+•
+• Tax reform in developing 
+countries
+•
+• Inflation, saving and growth
+•
+• The Keynesian approach to the 
+financing of development
+•
+• Reconciling the prior saving and 
+forced saving approaches to 
+development
+•
+• The quantity theory approach 
+to the financing of development
+•
+• The dangers of inflation
+•
+• Inflation targeting
+•
+• Inflation and growth: the 
+empirical evidence
+•
+• The inflationary experience
+•
+• The structuralist–monetarist 
+debate in Latin America
+•
+• Summary
+•
+• Discussion questions
+•
+• Notes
+•
+• Websites on banking and 
+finance
+FINANCING ­
+DEVELOPMENT 
+FROM DOMESTIC 
+­
+RESOURCES
+13
+366
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Introduction
+The topic of financing development from domestic resources has two major aspects. The first 
+concerns the ways in which savings can be encouraged in developing countries, because only if 
+society is willing to save can resources be devoted to the production of capital goods. Saving is 
+necessary to fund investment. In a primitive subsistence economy, without money or monetary 
+assets, saving and investment will tend to be simultaneous acts, in the sense that saving and 
+investment will be done by the same people, and saving will be invested in the sector in which 
+the saving takes place. In a more sophisticated money exchange economy, however, there is no 
+guarantee that saving will necessarily be converted into investment. With the existence of money 
+and monetary assets, the act of saving becomes divorced from the act of investing. Those who 
+want to do the investing may be different from those who want to do the saving, and the pro-
+cess of capital accumulation is likely to require financial and credit mechanisms to ‘redistribute’ 
+resources from savers to investors. Indeed, with a banking system with the power to create credit, 
+investment can take place without prior saving through the process of borrowing. In other words, 
+saving funds investment, but does not necessarily finance it. Investment generates its own saving 
+through increases in output and profits. In fact, in the early stages of development, savings may 
+not be the major barrier to capital formation but rather an unwillingness or inability to invest.
+Unwillingness to invest may stem from cultural attitudes or simply from a realistic assessment 
+of the risks involved. In Chapter 5, we analysed why poor people may be risk-averse. The inabil-
+ity to invest, on the other hand, may result from shortages of cooperating factors of production 
+(including foreign exchange), or lack of access to credit because of the underdeveloped state 
+of the financial system. The second important aspect of financing development from domestic 
+resources, therefore, has to do with the role of the banking and financial system in promoting 
+and financing investment. The financial system is important for encouraging saving, financing 
+investment and allocating savings in the most productive manner.
+This chapter starts by distinguishing the different types of saving – voluntary, involuntary and 
+forced – and then distinguishes the different analytical approaches to the finance of development, 
+which have different policy implications. The prior savings approach focuses on policies to raise 
+the level of voluntary and involuntary saving as a prerequisite for investment. The Keynesian 
+approach focuses on incentives to investment that will generate its own saving. The quantity 
+theory approach emphasizes the role of government in appropriating resources for development 
+through monetary expansion and forced saving through inflation (the inflation tax).
+Raising the level of voluntary and involuntary saving involves the use of monetary and fiscal 
+policy. The chapter discusses the financial systems of developing countries, including the informal 
+financial sector, which dominates in rural areas; the formal banking system and financial inter­
+mediaries, and the various forms of financial repression that exist, which, in recent years, have led 
+to extensive programmes of financial liberalization. The case for and against financial liberaliza-
+tion, and the empirical evidence, is presented. The role of microcredit and development banks in 
+helping people out of poverty is also examined.
+We then consider fiscal policy and taxation, the tax effort of countries, and the need for fiscal 
+reform to raise tax revenue as a proportion of GDP.
+If voluntary and involuntary saving are inadequate for the development effort, inflationary 
+policies that redistribute income between wages and profits, and between the private sector and 
+the government, are alternative possibilities. The former possibility is the Keynesian approach to 
+the finance of development, which argues that stimulating investment can generate its own sav-
+ing by raising the level of income if the economy is operating below capacity, and by redistributing 
+367
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+income from wage earners with a low propensity to save to profit earners with a higher propensity 
+to save if the economy is working at full capacity.
+The latter possibility is the quantity theory approach to the finance of development (so named 
+after the quantity theory of money). One of the ways a government can divert more resources to 
+investment is to invest on society’s behalf, financing the investment by expanding the money sup-
+ply. At full employment, monetary expansion will be inflationary. The ‘tax’ on money consists of 
+a reduction in the real purchasing power of money, and the real resources that holders of money 
+must forgo to restore the real value of their money holdings (forced saving).
+The dangers of inflationary finance are recognized, and the extensive empirical research on the 
+relation between inflation and growth is evaluated.
+Forms of saving
+There are three broad groups in society that save: the household sector, the business sector and the 
+government. The household sector saves out of personal disposable income (personal saving), the 
+business sector saves out of profits, and the government can save out of tax revenues if it spends 
+less than it receives (that is, runs a budget surplus on current account). Household and business 
+saving is sometimes referred to as private saving, while government saving is public saving. Each 
+of the sectors’ motives for saving will differ, and we shall consider the determinants of saving later 
+in this chapter.
+As far as the nature of saving is concerned, three broad types may be distinguished: voluntary, 
+involuntary and ‘forced’. The nature of these types of saving is fairly self-explanatory:
+•
+• Voluntary savings are savings that arise through voluntary reductions in consumption out of 
+disposable income. Both the household and the business sector may be a source of voluntary 
+savings.
+•
+• Involuntary savings are savings brought about through involuntary reductions in consump-
+tion. All forms of taxation, social insurance contributions and schemes for compulsory lending 
+to governments are traditional measures involving involuntary reductions in consumption.
+•
+• Forced saving is when consumption may be reduced because of rising prices (some inflation-
+induced saving may be voluntary, some involuntary), which may happen for a number of rea-
+sons. People may spend the same amount in money terms, but because prices have risen, this 
+means they spend less in real terms (money illusion). People may want to keep the real value 
+of their holdings of money constant, so they accumulate more money as prices rise – the real 
+balance effect. Also, inflation may redistribute income to those with a higher propensity to 
+save, such as profit earners.
+For a variety of reasons, which will be considered below, inflation is likely to be a natural con-
+comitant of development, but it can also be deliberately induced by governments financing 
+budget deficits at full employment by monetary expansion. This is the idea of inflation as a tax 
+on money. It should also be remembered that if an economy is at less than full employment, there 
+can always be more saving by activating unemployed or underemployed resources, provided not 
+all the increase in output is consumed.
+Domestic savings for investment can also be supplemented from abroad. Private foreign 
+investment is a direct source of capital formation and provides a direct addition to domestic 
+investment. It can also be a source of savings by stimulating income and employing previously 
+underutilized resources. Borrowing from abroad also provides resources for investment by 
+368
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+­
+enabling imports to exceed exports, which shows up as investment in excess of domestic saving 
+in the national accounts. Foreign assistance may be from multilateral or bilateral sources and 
+may take a variety of forms, ranging from loans at commercial rates of interest to outright gifts of 
+goods and services and technical assistance (see Chapter 14). Remittances from abroad also aug-
+ment domestic saving.
+Finally, a country’s commercial policy can stimulate savings and release resources for invest-
+ment purposes. Trade itself, and an improvement in a country’s terms of trade, can provide addi-
+tional resources for investment if the resulting increase in real income is not fully consumed. 
+Likewise, policies to restrict imports of consumption goods can release additional resources for 
+investment, provided that domestic saving is not reduced by the purchasing power released being 
+switched to home consumption goods.
+The amount that countries save and invest as a proportion of their gross domestic product 
+(GDP) differs enormously, affected by differences in the ability and willingness to save and invest. 
+Some countries dissave, consuming more than they produce. Some countries save more than 
+they invest domestically, which means they are investing abroad, and other countries invest more 
+than they save, which means they are net importers of capital. The experience in different areas 
+(contin­
+ents) of the world is shown in Table 13.1. The first thing to notice is that the savings ratio 
+is much lower in low-income countries than in richer countries, but the savings ratio does not 
+continue to rise for ever as countries grow richer. The ratio peaks in the upper middle-income 
+countries and then declines. The weighted average savings ratio in low-income countries is 16% of 
+GDP compared with 31% in middle-income countries and 21% in high-income countries.
+The second important observation is the enormous disparity in savings performance between 
+continents, particularly between the high savings ratios of the highly successful East Asian and 
+Pacific countries (which include China) and the much lower savings ratios in the less successful 
+economies of Latin America, the Caribbean and sub-Saharan Africa. The ratio in East Asia and 
+Table 13.1  Investment and savings as a percentage of GDP
+Gross capital 
+formation  
+% of GDP  
+2014
+Gross savings  
+% of GDP  
+2014
+Low income
+28
+16
+Middle income
+31
+31
+Lower middle income
+27
+29
+Upper middle income
+32
+32
+Low and middle income
+31
+31
+East Asia and Pacific
+42
+45
+Europe and Central Asia
+21
+16
+Latin America and Caribbean
+21
+18
+Middle East and North Africa
+30
+..
+South Asia
+30
+31
+Sub-Saharan Africa
+22
+16
+High income
+20
+21
+Source: World Bank, 2015.
+369
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+Pacific (45%) is more than double that of Latin America and the Caribbean (18%) and nearly triple 
+that of sub-Saharan Africa (16%). The question that naturally arises is: Did high savings precede 
+rapid growth in East Asia, or did rapid growth generate its own high savings ratio? Some might 
+argue that it was policies to stimulate saving that were important, including financial liberaliza-
+tion. Some might say it was policies to stimulate investment, partly through control of the bank-
+ing system, that generated growth and therefore saving. Others might say it was the deliberate 
+involvement of the government in generating and reallocating new resources.
+There is no easy answer to the question, but the different replies that might be given highlight 
+the differences in the three broad analytical approaches to the study of financing development 
+from domestic resources, which we will use as the organizing framework for the rest of the chapter. 
+The three approaches are as follows:
+•
+• The prior savings approach to the financing of development, which stresses the importance 
+of prior savings for investment and the need for policies to raise the level of savings either vol-
+untarily, involuntarily, or both. The approach is classical in conception, emphasizing saving as a 
+prerequisite of investment. The approach is also characterized by a strong aversion to inflation 
+and a belief that saving will readily find investment outlets.
+•
+• The Keynesian approach, which rejects the idea that saving determines investment and argues 
+instead that the encouragement of investment will generate its own saving, either through in-
+creases in output if resources are unemployed, or through income redistribution from groups 
+with a low propensity to save to groups with a higher propensity to save as a result of inflation 
+if resources are fully employed.
+•
+• The quantity theory approach, which emphasizes the role of government monetary expansion 
+in appropriating resources for development through forced saving or the inflation tax. (The ap-
+proach gets its name from the quantity theory of money, which predicts that increases in the 
+quantity of money will always lead eventually to increases in the price level.)
+If developing countries are characterized as fully employed in the Keynesian sense (with no spare 
+capacity in the consumption goods industries), both the Keynesian and the quantity theory approach 
+to the financing of development will involve inflation. Plans to invest in excess of plans to save at full 
+employment will drive up the price level, and so will monetary expansion by government. In this sense, 
+there is an important practical, as well as a theoretical, difference between the prior savings approach 
+and the other two approaches. In the prior savings approach, the resources released for investment 
+come from voluntary and involuntary saving and no inflation is involved. In the Keynesian and quan-
+tity theory approaches, the resources are partly released through the process of inflation, by income 
+redistribution from classes with low propensities to save to those with higher propensities to save, and 
+by inflation as a ‘tax’ on money, which redistributes resources to government.
+The prior savings approach
+In classical theory, saving and investment are one and the same thing. All saving finds investment 
+outlets through variations in the rate of interest. Investment and the development process are led 
+by savings. It is this classical view of the development process that underlies such phrases in the 
+development literature as the ‘mobilization of savings for development’, and also underlies the 
+policy recommendation of high real interest rates to encourage voluntary saving. Lewis’s influen-
+tial classical model of the development process, which was considered in Chapter 5, stresses the 
+importance for development of reinvesting the capitalist surplus.
+370
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+The level of saving and the ratio of saving to national income in developing countries are likely 
+to be a function of many variables affecting the ability and willingness to save. The main deter-
+minants of the capacity or ability to save are the average level of per capita income, the rate of 
+growth of income, the distribution of income between rich and poor, and the age composition of 
+the population (or dependency ratio). In turn, the willingness to save depends mainly on mon-
+etary factors, such as the rate of interest, the range and availability of financial institutions and 
+assets (financial deepening), and the rate of inflation. Differences in cultural attitudes towards 
+saving may also be important, but are not easily measured.
+The capacity to save
+Income is the major determinant of the capacity or the ability to save. It was Keynes who first 
+introduced into economics the idea of the consumption function (and therefore savings func-
+tion), making consumption and saving primarily a function of income rather than a function 
+of the rate of interest, as in classical theory. Saving as a function of income is known as the 
+Keynesian absolute income hypothesis. We can derive the savings ratio as a function of the level 
+of per capita income (PCY) in the following way. If we write the Keynesian savings function as 
+ 
+S 5 -a0 1 b0(Y), where b0 is the marginal propensity to save and -a0 represents dissaving (or 
+positive ­
+consumption) when income is zero, and divide by the population level (P), we have:
+S/P 52 a11 b1(Y/P)
+(13.1)
+Then, to obtain an expression for the savings ratio, multiply equation (13.1) by P and divide by Y:
+S/Y5 b12 a1(Y/P)21
+(13.2)
+The Keynesian absolute income hypothesis therefore predicts that savings per head (S/P) is a 
+linear (but non-proportional) function of income per head (Y/P), and that the savings ratio (S/Y) 
+is a hyperbolic function of the level of income per head; that is, the savings ratio will rise with the 
+level of PCY but at a decreasing rate. As Y/P S `, S/Y S  to the asymptote b1. This is shown in 
+Figure 13.1.
+The data on the savings ratio in Table 13.1 above suggest this type of relation, as already dis-
+cussed. The savings ratio is lower in poor countries than in richer countries, but the ratio does not 
+continue rising linearly (for ever) as PCY rises. It increases at a diminishing rate and then levels off. 
+0
+Savings ratio (S/Y)
+Per capita income (Y/P)
+b1
+Figure 13.1  The Keynesian absolute income hypothesis
+371
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+Indeed, there is even some indication that it starts falling at high levels of income, as we shall see 
+when we come to examine the empirical evidence.
+The reason why the savings ratio should rise as PCY increases and then level off is not clear-cut. 
+It is as if saving is a luxury good in the early stages of development but then loses its appeal. Part 
+of the reason may be purely ‘statistical’, arising from the way saving is normally defined in devel-
+oping countries as the difference between investment and foreign capital inflows. As investment 
+expenditure becomes more faithfully and accurately recorded as development proceeds (as per 
+capita income rises), the savings ratio is also shown to increase. But there are also a number of 
+ 
+economic factors that probably play a contributory role in explaining the relation. One is the 
+growth of the money economy. As money replaces barter for transactions, the public will wish 
+to hold a higher proportion of their income in the form of money, which they can only do by 
+redu­
+cing consumption as a proportion of income. This hypothesis is supported by what we know 
+about the income elasticity of demand for money in developing countries, which exceeds unity.
+A second possible explanation is that population growth decreases with increases in the 
+level of per capita income, so that population growth absorbs household saving to a lesser 
+and lesser extent. Another plausible hypothesis is that in the early stages of development, the 
+distribution of income, both personal and functional, grows more unequal but at a decreas-
+ing rate. If higher income groups have higher propensities to save than lower income groups, 
+and profit earners have a higher propensity to save than wage earners, the savings ratio will 
+be positively related to the degree of inequality in income distribution (personal income dis-
+tribution) and to the share of profits in total income (functional income distribution). Some 
+evidence of the widening distribution of income in the early stages of development was given 
+in Chapter 3.
+A second major determinant of the capacity of a country to save is the growth of income, as 
+suggested by the life-cycle hypothesis of saving. The basis of the hypothesis, as originally formu-
+lated by Modigliani and Brumberg (1954), is that individuals and households attempt to spread 
+out consumption evenly over their lifetime so that decisions to save are assumed to be a func-
+tion of total lifetime earnings and the stage reached in the earnings cycle. A typical pattern of 
+behaviour would be dissaving in youth, positive saving in middle age and dissaving in retirement. 
+Consider now the effect of income growth within this framework. If income is rising over time, 
+this means that the life earnings and consumption of each successive age group will be higher 
+than the preceding one. If each successive age group is aiming for a higher level of consumption 
+in retirement, the volume of saving of active households will exceed the dissaving of the currently 
+retired households with a lower level of lifetime consumption. The saving ratio will then tend to 
+rise with the rate of growth of income because the higher the growth rate, the greater the gap 
+between the target future consumption level of the current generation of working households 
+and the dissaving of retired people from a less prosperous generation. Thus, countries with higher 
+growth rates might be expected to have at least higher personal savings ratios than countries with 
+lower growth rates.
+But income growth comprises two components: the growth of income per head (PCY) and 
+the growth of population. Income growth due to population growth will affect the savings ratio 
+according to how population growth affects the ratio of active to non-active households. Thus, 
+a third major determinant of the savings ratio is the dependency ratio. If population growth 
+rises suddenly, this will lead to a higher ratio of young dependents who consume but do not pro-
+duce, and this will tend to reduce saving. Equally, however, if population growth slows for a long 
+period, this will lead to a higher ratio of retired people, who also consume but do not produce. 
+Thus, both high and low population growth may be associated with a high dependency ratio and 
+ 
+372
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+a low savings ratio. To test the life-cycle hypothesis of saving, it is best to relate the savings ratio to 
+the growth of per capita income and include the age structure of the population, or dependency 
+ratio, as a separate variable (see Hussein and Thirlwall, 1999).
+Finally, we have already mentioned the distribution of income as a determinant of the 
+capacity to save. If the propensity to save of the rich is higher than that of the poor, the aggre-
+gate savings ratio will be positively related to the degree of inequality in personal income dis-
+tribution (between individuals) and functional distribution (between wages and profits), on 
+the assumption that the propensity to save out of profits is higher than out of wages. It will 
+be remembered from Chapter 5 that in Lewis’s model of development with unlimited supplies 
+of labour, it is not the absolute level of per capita income that is the prime determinant of 
+the savings ratio but the size of the capitalist surplus and the distribution of income between 
+entrepreneurial profits and other income. According to Lewis (1955): ‘if we ask why the less 
+developed countries save so little the answer is not because they are so poor but because their 
+capitalist sector is so small’.
+Empirical studies
+Let us consider four major studies of the determinants of saving across countries, which 
+include all or some of the variables discussed above, and also other variables measuring 
+the willingness to save that we will discuss below. These are Edwards (1996), Masson et al. 
+(1998), Hussein and Thirlwall (1999) and Loayza et al. (2000). Edwards takes panel data for 36 
+countries over the period 1970–92, distinguishing between private and government savings. 
+Masson et al. use panel data for 21 developed countries (1971–93) and 40 less developed 
+countries (1982–93) to explain the ratio of private saving to GDP. Hussein and Thirlwall take 
+62 countries over the period 1967–95, taking the domestic savings ratio as the dependent 
+variable. Finally, Loayza et al. use a dataset of 160 countries from 1964 to 1994, taking four 
+different measures of private saving (all highly correlated). All the studies find the level and 
+growth of per capita income highly significant as determinants of intercountry differences 
+in the savings ratio. Masson et al. (1998) and Hussein and Thirlwall (1999) use a nonlinear 
+specification for the level of PCY, as discussed above, and find it more significant than the 
+linear specification, thus supporting the shape of the curve in Figure 13.1 above. Indeed, in 
+the Masson et al. study, a quadratic term for PCY is used so that the savings ratio is first 
+assumed to rise and then fall. For both developed and developing countries, the quadratic 
+term turns out to be significantly negative, with the savings ratio peaking at 60% of the US 
+level of PCY. The Loayza et al. (2000) study does separate analyses of developing countries 
+and OECD countries and finds the impact of PCY on the savings ratio larger in developing 
+countries than in developed countries, which is also evidence of nonlinearity. For the sample 
+as a whole, Loayza et al. find that a 10% difference in PCY is associated with a 0.47 percent-
+age point difference in the savings ratio. Loayza et al. (2000) conclude that ‘policies that spur 
+development are an indirect but most effective way to raise saving’ and ‘successful growth 
+policies may be able to set in motion a virtuous cycle of saving, capital accumulation and 
+growth’. The question is how to get this cumulative process started of rising income, more 
+saving and faster growth, leading to more saving. Monetary and fiscal policy, and the sophis-
+tication of the financial system, are likely to play an important part in this process. This leads 
+us on to the topic of the willingness to save and the role of the financial system in promoting 
+saving and allocating resources in the most efficient manner. All the studies mentioned above 
+include financial variables in their equations.
+373
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+The willingness to save
+Saving represents an intertemporal choice between consumption today and consumption tomor-
+row. It might be expected, therefore, that the price of present consumption, namely the real rate 
+of interest, will affect saving positively. The higher the rate of interest, the greater the amount of 
+saving. This assumed positive relation also reflects the classical idea of the rate of interest as the 
+reward for waiting, and lies behind the financial liberalization programmes in developing countries, 
+which seek to raise the real interest rate in order to encourage saving, investment and growth. Since 
+the 1970s, there has been extensive testing of the financial liberalization hypothesis, and the role 
+of the interest rate, in promoting saving, with mixed and largely inconclusive results. Perhaps this 
+is not surprising since the financial liberalization argument largely refers to financial saving, but 
+financial saving is only one component of total saving. If interest rates rise, financial saving may 
+rise but at the expense of other assets, leaving total saving unchanged (see Warman and Thirlwall, 
+1994). It is also standard theory that any price change has both income and substitution effects. The 
+substitution effect promotes saving, but the income effect reduces saving (because the same level 
+of income can now be generated by less saving) and the two effects may cancel each other out.
+Probably a more important determinant of the willingness to save is the existence of financial 
+institutions and the range and availability of financial assets to suit savers. There is no single 
+measure that can capture those institutional determinants of the willingness to save. The num-
+ber, proximity and diversity of financial institutions serving the different needs of savers could be 
+important. Equally, the volume and range of financial assets might matter as a measure of finan-
+cial deepening. Such measures include money and quasi-money as a percentage of GDP, money 
+and quasi-money growth, and quasi-liquid liabilities as a percentage of GDP. Domestic credit pro-
+vided by the banking system as a percentage of GDP is also a measure of financial deepening, but 
+its effect on saving is ambiguous. On the one hand, if bank credit finances investment and growth, 
+this will have a positive effect on saving. On the other hand, an increase in bank credit will relax a 
+liquidity constraint on consumption, resulting in a decline in saving.
+Finally, the rate of inflation can be expected to affect the willingness to save, but the effect is 
+ambiguous. On the one hand, inflation acts as a tax on money balance holdings. If individuals wish 
+to restore the real value of their money balance holdings (the so-called real balance effect), saving 
+will rise with the rate of inflation. On the other hand, it is natural to expect individuals to avoid 
+the tax if it becomes burdensome in relation to the convenience of holding money. Even if private 
+saving does increase, however, total saving may not increase if the government fully consumes the 
+proceeds of the inflation tax. Inflation will also redistribute income from wages to profits within 
+the private sector if the wage–price coefficient is less than unity. This will increase saving if the 
+propensity to save out of profits is higher than out of wages (as discussed above), but this process 
+can last only as long as there is money illusion and workers do not bid for wage increases to match 
+price increases. The most likely relation between inflation and the savings ratio is an inverted 
+U-shape (quadratic function) showing saving rising with mild inflation and then falling as inflation 
+becomes excessive. This type of nonlinear relation is also suggested by the evidence available on 
+the relation between inflation and growth (see later).
+The evidence from the four studies cited above (and others) is that financial variables matter 
+for the performance of saving, but financial deepening and credit availability are much more sig-
+nificant than interest rates. Edwards (1996) and Masson et al. (1998) find that the level of financial 
+development is an important determinant of private saving. Hussein and Thirlwall (1999) experi-
+ment with different measures of financial deepening and find a strong positive relation between 
+the domestic savings ratio of countries and the ratio of quasi-liquid liabilities of the banking 
+ 
+374
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+system to GDP. Loayza et al. (2000) take the ratio of M2 money to GNP as a measure of financial 
+deepening but find it only weakly significant. More interesting, they find that higher interest rates 
+and larger private domestic credit flows exert a negative effect on the private savings ratio. Loayza 
+et al. (2000) conclude that: ‘these results provide a bleaker view of the savings effects of financial 
+liberalization than previous studies suggested’. The process and effects of financial liberalization 
+are discussed later in this chapter.
+The overall conclusion would be that while financial variables may not be as important as 
+income variables in determining savings behaviour, economic development itself is dependent on 
+the sophistication of the financial system, and there is evidence that saving may be more respon-
+sive to interest rates when the level of income rises above subsistence. Research on this topic by 
+Ogaki et al. (1996) is reported in Table 13.2.
+It appears that saving is very unresponsive to interest rates in the very poorest low-income 
+countries where there is little margin of income over subsistence needs, but its responsiveness 
+increases as consumption rises above subsistence needs and people can exercise choice about 
+increasing their present or future consumption.
+This leads us to the extensive topic of financial systems, financial policy and economic 
+development.
+Financial systems and economic development
+One of the characteristic features of developing countries is that quite large sections of the econ-
+omy are either non-monetized or transactions take place outside the formal financial sector. In 
+other words, the economies of developing countries have a large sector where money is not used 
+as the primary means of exchange, as well as having a large informal financial sector or unorgan-
+ized money market. This has a number of consequences that are not conducive to development:
+•
+• If transactions take the form of barter, this is costly in time and wasteful of resources. Sellers 
+must spend time and effort finding buyers who have things they want. Money as a means of 
+exchange avoids the problem of the double coincidence of wants. In this sense, money is a re-
+source and its introduction and use in an economy can be highly productive.
+Table 13.2  Interest sensitivity of saving
+Initial real interest rate
+Country groupings
+3%
+4%
+5%
+Low-income
+Average for group
+0.312
+0.306
+0.300
+Average for 10 poorest
+0.177
+0.174
+0.171
+Lower middle-income
+0.532
+0.522
+0.512
+Upper middle-income
+0.560
+0.549
+0.539
+High-income
+0.584
+0.573
+0.562
+Note: The data refer to the change (in percentage points) in the saving rate owing to a 1 percentage point increase 
+in the real interest rate. For example, in high-income countries with a real interest rate of 3%, a 1 percentage point 
+rise in the real interest rate would raise the saving rate by nearly two-thirds of a percentage point (0.584 of a per-
+centage point). At higher baseline levels of the real interest rate, the saving response diminishes slightly.
+Source: Ogaki et al., 1996.
+375
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+•
+• Without a convenient and acceptable means of payment, the division of labour or specializa-
+tion is impeded, which hinders the process of capital accumulation and reduces productivity. 
+Remember that, for Adam Smith (see Chapter 4), it is the division of labour that is the source 
+of increasing returns by allowing complex processes to be broken up into simpler operations 
+that permit the use of machinery and mass production. Specialization is not worthwhile if the 
+market is limited by the difficulty of exchanging goods.
+•
+• Saving takes the form of the acquisition of real assets as opposed to monetary assets, for ex-
+ample land, cattle, gold, jewellery and so on, which absorb resources and may not be used 
+productively.
+•
+• Without the existence of financial institutions issuing monetary assets, investment will tend to 
+take place in the sector in which the saving takes place, and this may not be the most produc-
+tive sector.
+•
+• Much of the lending in the informal sector is for consumption purposes and interest rates are 
+very high, both of which can adversely affect total investment. The informal financial sector 
+has an important role to play in the development process, but its integration with the formal 
+financial sector is desirable for a number of reasons.
+The informal financial sector
+The informal financial sector refers to all institutions and transactions that take place outside a 
+country’s authorized banking system. The sector plays a significant role in the financing of economic 
+development, although exactly how significant no one really knows. Within the informal sector, 
+there are a wide variety of institutions and multifarious arrangements between depositors, lenders 
+and borrowers, some dating back for centuries, rooted in custom and tradition. Others are evolv-
+ing constantly in response to changing economic and social conditions. The sector is characterized 
+by a high degree of spontaneity and flexibility, with demand creating its own supply. The major 
+participants are moneylenders, merchants, loan brokers, savings groups, and friends and relatives.
+Moneylenders have a long tradition in the rural areas of developing countries. They may be 
+landlords, merchants, shopkeepers and pawnbrokers. Loans are typically for short periods at high 
+rates of interest, reflecting the scarcity of funds and the high demand for short-term loans to 
+finance consumption and investment, for example the holding of stocks (inventories). Merchants 
+often provide loans to clients based on the future sale or purchase of commodities (see Appendix 
+to Chapter 5). Loan brokers act as intermediaries between agents who have surplus funds and 
+those who require credit. The loans tend to be larger and the duration longer than for other sec-
+tors in the informal market.
+Savings groups take different forms and have different names in various countries, and are also 
+important sources of finance and credit in rural areas. In some cases, the savings group consists 
+of individuals who deposit money on a regular basis with a group leader or treasurer, sometimes 
+for special purposes such as tax payments, investment or paying for festivities. If the savings are 
+invested, the returns may be shared by the members. Rules and regulations are shaped by local 
+conditions and traditions. In other cases, members of the savings group take turns to borrow the 
+collected sums of money. One particular type of savings group with a long history in Africa is the 
+‘rotating savings and credit association’, which operates like a miniature credit union based on the 
+‘mutuality’ principle, whereby members of the association make a fixed contribution to the sav-
+ings fund on a periodic basis and are entitled to withdraw money on a rotational basis. Individuals 
+can decide on the cycle of payments and withdrawals that suit their needs. The advantage is that 
+376
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+large expenditures can be undertaken by members sooner than if they had to rely on their own 
+personal savings.
+Rural financial intermediaries (RFIs), including microcredit institutions, have grown in 
+importance in recent years, operating mainly in the rural sector to provide small, unsecured, 
+short-term loans to individuals (mainly women), households and small entrepreneurs. These 
+intermediaries are discussed in greater detail below.
+Finally, friends and relatives are major providers of credit. The credit is flexible and interest-
+free, and repayment is open-ended.
+Despite the growth of the formal financial sector in the majority of developing countries, the 
+informal financial sector continues to flourish because it fulfils needs that are not met elsewhere:
+1.	 Many rural areas have no ready access to financial institutions, either because they are non­
+existent or because they are not in the immediate vicinity. The formal financial sector is pre-
+dominantly urban based.
+2.	 Where banks do exist, there are a number of institutional barriers to their use, in the form of 
+rules of procedure for obtaining financial assistance. The conditions for obtaining loans can be 
+stringent and hard to satisfy for a number of people. It is difficult, for instance, for the poor and 
+illiterate to provide collateral for loans, which is usually required by the formal sector. In prac-
+tice, the formal financial sector tends to be out of reach of peasant farmers, small-scale entre-
+preneurs and ordinary households, so the informal financial sector fills the gap in the market.
+3.	 The informal sector sometimes acts as a complement to the formal sector. Individuals may 
+borrow from the formal sector but find such credits inadequate and therefore resort to the 
+informal sector to augment their borrowing. In recent years, the World Bank’s structural ad-
+justment programmes, implemented in several countries, have reduced the flow of credit from 
+the formal sector and demand has switched to the informal sector.
+A well-developed financial system serving the whole community has five main requisites, each 
+of which can contribute to the process of financial deepening, as well as raising the level of saving 
+and investment, the productivity of capital and the growth of output:
+•
+• Full monetization of the economy and the replacement of barter as a means of exchange.
+•
+• Integration of the informal and formal money markets.
+•
+• Development of a commercial banking system with central bank supervision.
+•
+• The creation of development banks and microcredit facilities for small-scale borrowing.
+•
+• Development of financial markets and financial intermediaries, issuing and dealing in financial 
+assets.
+Monetization and money market integration
+Monetization of an economy provides the potential to generate a real investible surplus in several 
+ways. As fiat (paper) money replaces barter in transactions, the demand for money relative to 
+income rises, which releases real resources of equivalent value. The increase in real saving is equal 
+to the increase in the real stock of money held. The issuer of money can appropriate the released 
+resources and increase the level of investment accordingly. In a growing economy, monetary 
+expansion is also required to allow an increased volume of transactions to take place. Monetary 
+expansion for this purpose can also be appropriated by governments for development purposes.
+The increased use of money not only releases resources, but it also saves and generates 
+resources. It saves resources by replacing barter objects, or commodity money, which may be 
+377
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+costly to produce, with money that is virtually costless to produce. It also saves time – which is a 
+resource if the marginal product of labour time is positive – by avoiding the double coincidence 
+of wants necessitated by barter. Money generates resources by facilitating exchange and thereby 
+permitting the greater division of labour (and specialization).
+Historically, the growth of the money economy has also been a powerful stimulus to the devel-
+opment of banking and credit mechanisms, which can themselves act as a stimulus to saving and 
+investment. When the range of financial assets is narrow, saving tends to take the form of the 
+acquisition of physical assets. While, in principle, this need not mean that the level of saving is 
+reduced, in practice, it depends on how sellers of physical assets dispose of the sale proceeds. If a 
+portion of the proceeds is consumed, the saving of one person is offset by the dissaving of another, 
+and less resources are released for investment than if financial assets had been acquired, issued by 
+financial institutions with an investment function.
+For a number of reasons, there is also the need to promote links between the informal and 
+formal financial sectors. The high interest rates charged in the informal sector add to costs and 
+add to household debt, and these could be reduced if the informal sector was exposed to greater 
+competition from the formal sector. This could be done by transforming informal institutions into 
+more formal ones, or using the informal sector as a conduit for formal funds, taking advantage 
+of the low transaction costs, local knowledge and greater flexibility in the informal sector. There 
+could also be support mechanisms to guarantee loans from the informal sector.
+It is also important that the capital market should be integrated, in the sense that the interest 
+rate structure is unified. The consequence of a fragmented capital market, in which interest rates 
+vary from one sector to another because of a lack of information and factor immobility, is that 
+some sectors of the economy may be able to borrow funds far below the rate of interest prevailing 
+in other sectors where the productivity of capital is higher. The allocation of capital is distorted 
+and inefficient and the capital–output ratio is higher than it would otherwise be: the solution is to 
+encourage funds into the organized money market, and extend the provision of financial institu-
+tions into sectors of the economy that lack them.
+Paradoxically (on a classical view of the world), development of the organized money market 
+can lower average interest rates in the economy at large and raise the level of saving because the 
+unorganized money market tends to charge higher interest rates and lends mainly for consump-
+tion purposes, whereas in the organized money market, interest rates are lower and lending is 
+more for investment purposes.
+Developing a banking system
+Developing a national banking system, comprising a central bank, a commercial banking system 
+and special development banks, is one of the first priorities of development strategy. The func-
+tions of a central bank include the following:
+•
+• Issuing currency and lending to government, whereby real resources are transferred to the gov-
+ernment in the manner described earlier (with a strong central bank, it is much easier to give 
+priority to government and public sector needs).
+•
+• Developing a fractional reserve banking system through which it can provide liquidity and control 
+credit (a central bank can require member banks to hold reserves in government bonds, and the 
+growth of the bond market itself can aid development without excessive monetary expansion).
+•
+• Developing other financial institutions, especially institutions that provide long-term loan finance 
+for development, and a market for government securities.
+378
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+•
+• Maintaining a high level of demand, through the appropriate use of monetary policy, to achieve 
+capacity growth.
+•
+• Applying selective credit controls when necessary, in the interests of developing particular sec-
+tors of the economy.
+The commercial banking system has two important functions: to create credit, and to encourage 
+thrift and allocate saving in the most socially productive manner. The ability of an economic system 
+to create credit is important for two main reasons. First, it can compensate for the failure of the eco-
+nomic system to generate enough investment to match planned saving. Second, it provides the means 
+by which growth is financed. This is the real significance of the invention of paper money and credit 
+– permitting the economic system to expand in response to the continual opportunities for growth 
+provided by technical progress, which a barter system or a purely metallic currency do not allow.
+Banks can encourage thrift and allocate savings more productively than would otherwise be 
+the case, by offering a return on savings and enabling savings to be used outside the sector in 
+which they originate. Banks can help to break down sectoral bottlenecks and unify interest rates. 
+But commercial banking is still rudimentary in many developing economies. The challenge for 
+developing countries is to promote financial inclusion. Approximately 2 billion people in the 
+world lack access to bank facilities, including 500 million in Asia. The ratio of bank deposits to 
+national income averages approximately 30% and the proportion of demand deposits to the total 
+money supply averages 40–50%. In developed countries, in contrast, the ratio of bank deposits 
+to national income usually exceeds 50% and the money supply consists largely of the deposits of 
+commercial banks. The number of banks relative to population size is also small. In developing 
+countries as a whole, the average number of banks per million of the population is about 20 com-
+pared with 200 in developed countries. Banks need to be numerous and dispersed if they are to 
+act as catalysts for small savings. Figure 13.2 shows the financial access gap between high-income 
+and low-income countries.
+While high-income countries have 85 ATM machines per 100,000 adults and 45 branch banks, 
+low-income countries have only 3 ATM machines and 6 branch banks. The case for branch ­
+banking 
+is that it can tap small savings. If savings institutions are near at hand, people will save more than if 
+the nearest savings institution is some distance away. Case example 13.1 describes mobile banking 
+in Vietnam, which is an example of microcredit, discussed in the next section.
+100
+Number per 100,000 adults
+80
+60
+40
+20
+High-income
+countries
+Upper middle-
+income countries
+Lower middle-
+income countries
+Bank branches
+ATMs
+Low-income
+countries
+0
+Figure 13.2  Financial access gap between high- and low-income countries, 2009
+Source: Oshima and Chan, 2011.
+379
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+Ma Seo Sang, a Hmong widow living on less than 25 cents a day in the mountainous 
+region of Vietnam, needed help. She had sold a pig to pay for her husband’s funeral, 
+paid a fine incurred by her son by selling one of her buffalo, and redeemed a debt with 
+the other. She had borrowed all she could from relatives. Moneylenders, if they would 
+even lend to her, would charge exorbitant interest (up to 10% per month). She needed 
+money to survive.
+Sang’s plight raises many issues related to extreme poverty, of which lack of access 
+to credit is one. Part of the solution is microfinance – the provision of basic financial 
+services to the poor. Microfinance can offer a path out of poverty. But how long is the 
+path, and can it be shortened? Vietnam’s experiment with the mobile banking pro-
+gramme under the World Bank’s Rural Finance Project provides a partial answer to 
+those questions. It suggests that creative ways can be found not only for lenders to 
+reach out to the poor but also for the poor to ‘reach in’ to lenders.
+In 1998 the Vietnam Bank for Agriculture and Rural Development (Agribank) ini-
+tiated a mobile banking programme modelled after similar programmes in Bangla-
+desh and Malaysia. It procured 159 vehicles equipped to travel on dirt roads and hilly 
+pathways, enabling loan officers to reach remote areas to process loan applications, 
+disburse money, collect payments, and mobilize savings deposits. The visits followed a 
+fixed calendar and were announced in advance.
+Once the programme was launched, it became clear that more than just difficult ac-
+cess prevented the poorest from taking advantage of its services. Their isolation caused 
+them to have feelings of helplessness and fear. In the upland ethnic group, the higher 
+up a mountain people lived and the longer their isolation, the more they seemed to 
+believe that they could not get credit. Suspicion was another issue. What if the lender 
+offered a loan and then, if a payment were late, took a farmer’s buffalo, as had hap-
+pened to Sang?
+Above all, the poorest people lacked confidence and self-esteem. For example, the 
+illiterate poor would wonder how they could fill in applications and receipts. Others 
+felt they could do nothing to earn extra income to repay a loan. Many were afraid to 
+venture into activities other than cultivation and animal husbandry, even though op-
+portunities existed.
+For mobile banking to work for borrowers, the following services had to be made 
+available: offering appropriate loan products, linking lending and saving, and combin-
+ing credit and human asset building.
+For lenders, it was necessary that the mobile banking experiment be financially self-
+sustaining. It thus required the following ingredients: group-based lending, linking for-
+mal and informal credit, and reasonable interest rates.
+Barely five years in operation, the mobile banking programme has proved to be rela-
+tively cost-effective, providing financial services to 315,000 poor households. Preliminary 
+data show that, on average, each mobile bank disbursed 1,921 loans, collected 1,387 pay-
+ments, and transported cash on 75 occasions to 16 local points monthly. The excellent re-
+payment rate suggests that the poor are good credit risks. The programme also mobilized 
+1,983 small savings accounts every month, showing that the poor can be good savers.
+As for Ma Seo Sang, she received a loan of about $300 and used the money to buy 
+some chickens and pigs to raise. The income she made from selling her animals helped 
+her earn a living.
+Source: Hung, 2004.
+Case example 13.1
+Vietnam’s bank on wheels
+380
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+In India, 65% of Indians do not have access to financial services, only 13% have debit cards, and 
+only 5% of Indian villages have branch banking. There is only one branch bank for every 160,000 
+people. Thus, India has launched a financial inclusion programme, where forty billion rupees is 
+to be spent on the attempt to increase financial inclusion, initially focusing on villages with more 
+than 2,000 people.
+Rural financial intermediaries and microcredit1
+Rural financial intermediaries (RFIs) and microcredit institutions play a crucial role in helping the 
+poor and fostering the growth of small business where potential entrepreneurs are precluded 
+from borrowing from the banking system because they are too poor and lack collateral. Within 
+the structure of RFIs, there is a diversity of organizations and financial services. In the rural sector 
+where most RFIs operate, and where most lending takes place, there are different niches and mar-
+kets to be served. There are several case studies of successful RFIs. One such study is for Indonesia 
+(Chaves and Gonzalez-Vega, 1996). In the 1980s and 1990s, the Indonesian government estab-
+lished a network of semi-independent, locally operated RFIs that have been highly successful, 
+largely through the recruitment of local agents to gather information on borrowers, monitor their 
+actions and enforce loan contracts. This has kept down loan defaults to less than 2% of lending. In 
+the early 1990s, there were 13,000 such intermediaries reaching out to over 4 million people, dis-
+pensing loans of between $50 and $600. Most of the RFIs made accounting profits because fixed 
+costs are kept low, and the effective interest rate is high, ranging from 30% to 84% per annum. 
+Interestingly, the loans are not group-based; they are to individuals, and the pressure to repay 
+comes from the local agents who are given appropriate incentives not to shirk, collude with the 
+borrower, or be bribed.
+This contrasts with the microcredit movement where most lending is through joint liability 
+lending, which makes all members of the group jointly liable for any loan given to its members. 
+If the group does not repay, there is no further access to loans. Thus, joint liability group lending 
+stimulates screening, monitoring and enforcement of contracts among borrowers, reducing costs 
+to the lenders. Because of the close proximity of borrowers within a group, information asym-
+metries between lenders and borrowers are reduced. Evidence shows (see Hermes and Lensik, 
+2007) that groups with stronger group ties have better repayment records, as do groups with 
+written rules and a strong group leader, and which are more open geographically with no other 
+access to credit.
+There are now over 3,000 microfinance institutions across the world (some now also in devel-
+oped countries), and it is estimated that at least 100 million poor people have benefited. The 
+lobby group Microcredit Summit Campaign wants to see a vast expansion of such institutions, 
+particularly to achieve the 2030 Sustainable Development Goals.
+It was Grameen (meaning village) Bank in Bangladesh that pioneered the concept of micro-
+credit in developing countries. It was formally established in 1983 (seven years after the initial idea) 
+by Muhammad Yunus, economics professor at Chittagong University in Bangladesh, who instead 
+of teaching the economics of poverty from an ivory tower decided to do something practical 
+about it, based on the philosophy that everyone has the right to credit, but the poor are excluded 
+from the conventional banking system. But the best way for people to help themselves out of 
+poverty is to be able to borrow to set up small businesses. Thus, Grameen Bank was founded as a 
+microcredit organization to lend sums as little as $10 to the rural poor, especially women, with-
+out collateral. A poor woman may obtain a microloan to buy an oven in order to sell hot food. 
+ 
+381
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+She repays the loan with interest, others can borrow, she can borrow more to buy another oven 
+and ultimately become a prosperous trader. Another poor woman uses her microloan to buy 
+chickens, starts selling eggs, repays the loan, borrows more and becomes a chicken farmer. These 
+are simple, real-life stories of what is possible.
+Lending and repayment take place within a group context (usually five people) where members 
+of the group agree to monitor one another, so that there is peer pressure to use loans wisely and to 
+repay. Each member of the group normally comes from the same village and members have a simi-
+lar economic and social background. Loans are first given to two members of the group, who are 
+closely observed for two months and must repay the loan in weekly instalments. If the repayments 
+are made, then two others can borrow. Loan use is monitored by the staff of Grameen Bank and 
+groups meet collectively to discuss the choice of new projects. All credit transactions are discussed 
+openly, so there is complete transparency concerning what is going on. There can be no ‘cover ups’ 
+and no corruption. The record of repayment to Grameen Bank is close to 98% of loans; far better 
+than the record of repayment to the commercial banking system where bad debts are rife.
+Muhammad Yunus
+Born 1940, Chittagong, Bangladesh. Professor of Economics at Chittagong 
+University; founder of Grameen Bank in 1983 lending small sums mainly 
+to groups of poor women, with the philosophy that everyone has the 
+right to credit, not just the rich with collateral. The microcredit move-
+ment has now spread throughout the developing world and lifted mil-
+lions of families out of poverty. Yunus and Grameen Bank were awarded 
+the Nobel Peace Prize in 2006.
+The conventional explanation for the low default rate at Grameen Bank is the peer pressure 
+from the group, but research shows (Pankaj, 1996) that the explanation is much deeper than 
+this; it lies within the culture and ethos that the bank has developed among its employees, and 
+the relationship between the bank’s employees and the client borrowers. Pankaj could find no 
+evidence of members of a group not being able to borrow if one member defaulted. The main 
+explanation for the very high repayment rate seems to be that the bank is tightly structured, 
+with checks on clients and borrowings at every stage. Each borrowing group has five members, 
+and six groups make a centre, which meets weekly at a fixed time. Each centre is supervised by 
+an employee from a Grameen branch bank who may look after 10–15 centres. Each branch bank 
+is answerable to an area manager. The line of command is clear and there is supervision at every 
+stage. It is this organizational structure of the bank that lies at the heart of its success. Other banks 
+serving the poor in rural communities could learn lessons from the Grameen structure.
+Grameen Bank also involves itself in social development programmes in the villages to improve 
+the quality of life, such as encouraging members to build houses and sanitation facilities, planting 
+trees and kitchen gardens. There is also a comprehensive training programme in maternal health, 
+nutrition and childcare. In Bangladesh alone, there are over 1,000 branches of the bank serving 
+36,000 villages, which have lent more than $6 billion to 8 million people. In 2006, Muhammad 
+Yunus and Grameen Bank were awarded the Nobel Peace Prize.
+382
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+The Grameen idea has now spread to over 100 countries. Not all microcredit banks oper-
+ate in the same way, but all are designed to lend to poor people denied access to credit from 
+the commercial banking system because they have no collateral. Other well-known microcredit 
+institutions across the world are BancoSol in Bolivia (the first microcredit bank to be set up in 
+Latin America in 1992), Banco Compartamos in Mexico (lending mainly to women), Accion 
+Internacional, based in the USA with affiliates in 13 Latin American countries (including Mibanco 
+in Peru), Kenya’s Rural Enterprise Programme and Bank Rakyat in Indonesia.
+At the beginning of the microcredit movement, almost all the banks relied on public subsidies 
+to operate because of the high overhead costs of administering very small loans, despite high 
+interest rates on loans of 20–30%. In the past ten years alone, microcredit institutions (many run 
+by NGOs) have received public subsidies of $10 billion.
+The challenge for the future is to see whether microfinance can be extended more on a com-
+mercial basis without long-term subsidies, but without compromising the basic purpose of micro-
+credit, which is to lend to the very poorest who are cut off from the normal banking system. Many 
+profit-making microfinance institutions have sprung up in recent years, but have been criticized 
+for high interest rates and exploitation of poor people. In Andhra Pradesh (India), more than 
+fifty people, mainly women, committed suicide in 2010, leading state officials to intervene in the 
+activities of commercial microlenders. Morocco, Bosnia, Nicaragua and Pakistan have all been hit 
+by microloan payment crises in recent years.
+At present, the evidence is that there seems to be a trade-off between the commercialization 
+of microfinance and reaching out to the poor. Cull et al. (2007) attempt to examine this issue 
+rigorously by taking a sample of 124 microcredit institutions in 49 countries to see whether there 
+is any significant relation between the profitability of banks and their outreach to the poor. Three 
+types of bank are distinguished: those that lend to groups (48), those that lend to individuals (56), 
+and village lenders (20). What the evidence shows is that individual-based lenders seem to have 
+higher profitability than group-based institutions, but the fraction of poor (and female) borrow-
+ers in the loan portfolio is lower in the latter case. Cull et al. (2007) conclude:
+we find examples of institutions that have managed to achieve profitability together with not­
+able outreach to the poor – achieving the ultimate promise of micro-finance. But they are so 
+far the exceptions. (emphasis added)
+Cull et al. (2009) have also used data from the Microfinance Information Exchange covering 
+364 institutions with £25 billion of assets and 10 million borrowers in the period 2002–04, distin-
+guishing between the activities of commercial microbanks and NGOs. They find that:
+•
+• Commercial microbanks account for more assets, but NGOs reach out to more people.
+•
+• More microbanks are profitable (73%) than NGOs (54%).
+•
+• Most microbanks lend to individuals, while most NGOs lend to groups.
+•
+• NGOs give much smaller loans than microbanks.
+•
+• NGOs charge higher interest rates (25% a year for the median bank) than microbanks (13%) 
+because operating costs are higher (26 cents per $ lent for NGOs compared with 12 cents per 
+$ for microbanks).
+•
+• Default rates don’t differ between the two types of microcredit institution.
+Cull et al. (2009) remark, however, that evidence on the social returns to microlending, and by 
+how much people have been lifted out of poverty, is scant. This is the research challenge for the 
+future. Case example 13.2 highlights a case study of a randomized control trial on the impact of 
+microfinance in India.
+383
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+In 2005, half of 104 slums in Hyderabad, India were randomly selected for the opening 
+of a branch of Spandana, a microfinance institution, while the remainder were not, 
+­
+although other microfinance institutions were free to enter those slums. Fifteen to 
+eighteen months after Spandana began lending to treated areas, households were 8.8 
+percentage points more likely to have a microcredit loan. They were no more likely to 
+start any new business, although they were more likely to start several at once, and 
+they invested more in their existing businesses. There was no effect on average monthly 
+expenditure per capita. Expenditure on durable goods increased in treated areas, while 
+expenditure on ‘temptation goods’ declined. Three to four years after the initial expan-
+sion, the probability of borrowing from a microfinance institution in treatment and 
+comparison slums was the same, but, on average, households in treatment slums had 
+been borrowing for longer and in larger amounts. There was no change in any of the 
+development outcomes that are often believed to be affected by microfinance includ-
+ing health, education and women’s empowerment. The results of this study are largely 
+consistent with those of other evaluations of similar programmes in different contexts.
+Source: Banerjee et al., 2013.
+Case example 13.2
+A randomized control trial of microfinance in Hyderabad, India
+BRAC was established in Bangladesh by Fazle Hasan Abed (now Sir) in 1972 designed to 
+help the ‘ultra-poor’ (mainly women) who could not qualify even for microloans. The 
+philosophy of the organization is to provide people with an asset base, such as a cow, 
+goat or a few chickens, which they are taught to manage themselves. While doing so, 
+they are given a small stipend for food. The programme is quite costly (at least $1,000 
+per household), but randomized control trials show that it works, and women do not 
+fall back into poverty when the help terminates. It is estimated that the rate of return to 
+women after going through the graduation programme is between 16 and 25%.
+BRAC is the largest nongovernmental development organization in the world, now 
+operating in eleven other countries outside Bangladesh. It employs over 100,000 people, 
+it is 70–80% self-funded, and has helped more than 126 million ultra-poor people. In 
+the early years, BRAC concentrated on community development through village devel-
+opment programmes including agriculture, fisheries, cooperatives, rural crafts, literacy, 
+health and family planning. Since then, it has branched out into other fields including, in 
+1986, its rural development programme that incorporates institution building, includ-
+ing functional education and training, credit provision, and income and employment 
+generation. Over the past 30 years, BRAC has given $1.5 billion in microloans – more 
+even than Grameen Bank. BRAC also focuses on the problem of youth unemployment. 
+To help fund its development programmes, BRAC has a number of commercial enter-
+prises, including a retail handicraft chain called Aarong, a dairy and food project, and 
+BRAC Salt.
+Source: http://brac.net.
+Case example 13.3
+BRAC
+Another major international development organization that lends to the ultra-poor is BRAC 
+(see Case example 13.3), which tries to tackle poverty from the bottom up in a way advocated by 
+the World Bank (2001) in World Development Report 2000/2001: Attacking Poverty.
+384
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Development banks
+Development banks play a particularly important role in the development process because it is 
+not the explicit function of the private commercial banking system to have development prior­
+ities in mind when making loans, unless directed by the government. The function of commercial 
+banks is to make a profit for their shareholders. This means that commercial banks are generally 
+risk-averse and have short time horizons. It also means that they are only interested in their own 
+cash flows and have no particular interest in the social profitability of the projects they lend for, 
+or in lending to poor people. Development banks can afford to have longer time horizons, take 
+more risks, pursue development objectives, and focus on the social profitability of lending, as well 
+as encouraging saving.
+The activities of Tonga Development Bank (where one of the authors was a consultant in 1995) 
+provide an interesting case study. The bank was established in 1977 ‘to promote the expansion of 
+Tonga for the economic advancement of the people of Tonga’. Its lending policy gives priority to 
+projects that have the potential to increase exports or reduce imports, involve local entrepreneur-
+ship, use local inputs, contribute to increased employment opportunities, particularly for women, 
+and increase income for the poorer sections of the community in rural areas and the outer islands. 
+Regarding exports, if economic growth is constrained by a shortage of foreign exchange, any project 
+financed by the bank that earns net foreign exchange will give a higher social return than private 
+return because the growth of output will be higher than would otherwise have been the case. In 
+Tonga, the commercial banking system would not lend to producers wishing to grow the vegetable 
+squash, because the venture was regarded as too risky. However, Tonga Development Bank lent nearly 
+$10 million to squash producers, and squash now accounts for 80% of the country’s export earnings. 
+The bank reaches out to nearly 50% of households in Tonga, and it funds 70% of all loans to the pri-
+vate sector. It fills an important gap in the market for small loans because commercial banks will not 
+lend for projects of less than $5,000. There can be little doubt that Tonga Development Bank plays 
+a pivotal role in the development of the economy of Tonga and is able to do things that the private 
+sector would not contemplate. The positive externalities conferred fully justify interest rate subsidies.
+All development banks have a role to play in stimulating the capital market. They can do this 
+by selling their own stocks and bonds to raise finance, by helping enterprises to float or place their 
+own securities, and by selling from their own portfolio of investments.
+Financial intermediaries
+The importance of having a wide variety of financial intermediaries is that they can offer a diver-
+sity of financial assets with different yields, maturities and divisibilities to suit savers and investors 
+with different requirements and different time horizons. This can increase the level of saving and 
+investment, and also improve the efficiency of resource allocation.
+As far as the level of saving and investment is concerned, financial intermediaries offer four 
+major advantages:
+1.	 In general, savers wish to lend for only a short period of time (to remain liquid), while investors 
+wish to borrow for a longer period of time. Direct lending from savers to investors, without 
+financial intermediation, would involve savers committing themselves for longer periods than 
+they would really like because investment does not generally generate returns immediately. 
+Financial intermediaries, however, are able to pool risks and can borrow short and lend long, 
+thus suiting both savers and investors.
+385
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+2.	 The use of financial intermediaries reduces transaction costs. Direct lending, whereby savers 
+have to find suitable borrowers or investors have to find suitable lenders, is time-consuming 
+and costly. Reduced transaction costs encourage saving and investment.
+3.	 Financial intermediaries can specialize in particular areas of business, which reduces informa-
+tion costs by accumulating knowledge of various markets. This lessens the credit risks associ-
+ated with lending, and also encourages greater saving and investment.
+4.	 Investment projects are invariably larger than the savings of any one individual or group of 
+individuals. The existence of financial intermediaries overcomes the problem of indivisibilities.
+As far as the efficiency of resource allocation is concerned, the great advantage of financial 
+intermediaries is that the creation of financial assets and liabilities allows savers to hold part of 
+their wealth in financial form. This means that investment is no longer confined to the sector 
+where the saving takes place, thereby facilitating the allocation of resources to the most product­
+ive sectors of the economy.
+Financial liberalization
+The formal financial sector, consisting of a central bank, a commercial banking system and various 
+other financial intermediaries, typically suffers from various forms of financial repression, which 
+may thwart the development process. For example, the government may have a near-monopoly 
+of the banking system and restrict the growth of financial institutions. Private sector banks may 
+have to keep high reserve requirements and lend compulsorily to the government to finance its 
+deficits. The central bank may impose credit rationing on the commercial banks, or insist that the 
+banks lend to certain priority sectors. Nominal interest rates may be kept artificially low, so that 
+with inflation the real rate of interest is negative, discouraging the acquisition of interest-bearing 
+financial assets. These are all examples of financial repression.
+The argument for financial liberalization is that the various forms of financial repression 
+impede the development of financial markets. The consequences, it is argued, are a reduction of 
+the flow of funds to the formal financial sector and distortion of the allocation of resources, lead-
+ing to lower levels of saving, investment and output growth than would otherwise be the case.
+The importance of the growth of the money economy and financial deepening for economic 
+development along the lines indicated above has been stressed in the development literature for 
+a long time (see, for example, Schumpeter, 1911, Gurley and Shaw, 1960 and Tun Wai, 1972), but it 
+was McKinnon (1973) and Shaw (1973) who independently in 1973 first highlighted the dangers 
+of financial repression in a rigorous way, and argued the case for maximum financial liberalization. 
+Their views became highly influential in the thinking of the IMF and the World Bank in the design 
+of programmes for the financial restructuring of countries as part of structural adjustment pro-
+grammes. Their arguments, however, emphasize different points:
+•
+• McKinnon’s argument is that money holdings and capital accumulation are complementary in 
+the development process. Because of the lumpiness of investment expenditure and the reliance 
+on self-financing, agents need to accumulate money balances before investment takes place. 
+Positive (and high) real interest rates are necessary to encourage agents to accumulate money 
+balances, and investment will take place as long as the real rate of return on investment exceeds 
+the real rate of interest.
+•
+• Shaw’s argument, on the other hand, stresses the importance of financial liberalization for 
+financial deepening, and the beneficial effect of high interest rates on encouragement to save 
+386
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+and discouragement to invest in low-yielding projects. The increased liabilities of the banking 
+system, resulting from higher real interest rates, enable the banking system to lend more re-
+sources for productive investment in a more efficient way. Figure 13.3 can illustrate the McKin-
+non–Shaw argument.
+Figure 13.3 is a standard classical savings and investment diagram showing saving as a positive 
+function of the real interest rate (reflecting the idea of time preference and the interest rate as the 
+reward for abstaining from present consumption), and investment as a negative function of the real 
+interest rate (reflecting the diminishing marginal efficiency of investment). With no interest rate con-
+trols, the equilibrium rate of interest would be r* and the level of saving and investment would be I*.
+Now suppose that the government imposes a ceiling on the nominal deposit rate for savers, 
+giving a real rate of interest of r1. This would mean that saving is I1, and on classical assumptions 
+that prior saving is necessary for investment, this also constrains investment to I1. If there was no 
+ceiling on the loan rate of interest, the banks could charge interest rate r2 to investors and the gap 
+between r1 and r2 would give substantial profits to banks, which they could use for various forms 
+of non-price competition. At r2 there is no unsatisfied demand for investment funds.
+Suppose, however, that the interest rate ceiling applies to loans as well as deposits. This means 
+that saving is still I1, but investment demand is now I2 and there is an excess demand for invest-
+ment funds equal to AB. Credit will have to be rationed. There will be a tendency for banks to 
+favour less risky projects with lower rates of return. This will lower the overall productivity of 
+investment.
+If the interest rate ceiling is raised so that real interest rates rise to r3, this encourages saving 
+from I1 to I3. This leads to more investment, credit rationing is reduced and the productivity of 
+investment rises. From this argument, it would seem to follow that saving and investment will be 
+optimal and credit rationing will disappear when the market is fully liberalized and the real rate of 
+interest is left to find its market clearing level at r*.
+Critics of financial liberalization and empirical evidence
+Many of the arguments for financial liberalization sound convincing on the surface, but a num-
+ber of qualifications need to be made. The experience of financial liberalization across the globe 
+has been very mixed, and we shall consider some of the empirical evidence relating to the effect 
+l1
+l 3
+l *
+l4
+l2
+B1
+A1
+r2
+r *
+r3
+r1
+l
+A
+S
+B
+Ceiling 1
+Ceiling 2
+X
+S
+Real interest rate
+Saving and investment
+Figure 13.3  The McKinnon–Shaw argument
+387
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+of ­
+liberalization on saving, investment and growth, as we examine some of the major criticisms 
+of the financial liberalization argument (see Gibson and Tsakolotos (1994) for a comprehensive 
+survey of the issues involved).
+First, the argument refers to financial saving, but financial saving is only one type of saving. 
+Financial saving may increase as interest rates are liberalized, but there may simply be a substi-
+tution between financial assets and other assets, leaving total saving unchanged. It is also well 
+known that any price change (in this case, the interest rate) has income as well as substitution 
+effects. The substitution effect promotes saving by making current consumption more ‘expen-
+sive’, but the income effect deters saving because at higher interest rates the same income can 
+be obtained with less saving, and the two effects may cancel each other out. This being so, it is 
+perhaps surprising, as Dornbusch and Reynoso (1989) once remarked: ‘to find so strong a belief in 
+the ability of higher interest rates to mobilise saving’.
+In fact, many of the empirical studies and surveys of the results of financial liberalization in 
+various countries are extremely cautious in their conclusions. Research by Gupta (1987) on 22 
+Asian and Latin American countries over the period 1967–76 suggests that there is little sup-
+port for the ‘repressionist’ hypothesis that the positive substitution effect of real interest rates on 
+savings dominates the negative income effect. The most important determinant of saving is real 
+income. Giovannini (1983) concludes from his research on eight Asian countries that his results 
+‘cast serious doubts on the view that the interest elasticity of savings is significantly positive and 
+easy to detect in developing countries’. Similarly, a study by Cho and Khatkhate (1990), two World 
+Bank economists, of the financial liberalization experience of five Asian countries concluded that:
+financial reform, whether comprehensive and sweeping or measured and gradual, does not 
+seem to have made any significant difference to the saving and investment activities in the lib-
+eralised countries. It was believed until recently that removal of the repressive policies would 
+boost saving. The survey in this paper of the consequences of reform does not reveal any sys-
+tematic trend or pattern in regard to saving … it lends support to the conclusion that decisions 
+to save are determined by several factors and the relationship between saving and real interest 
+rates is at best ambiguous.
+Bandiera et al. (2000) examined the liberalization experience of eight countries (Chile, Ghana, 
+Indonesia, South Korea, Malaysia, Mexico, Turkey and Zimbabwe) over 25 years and concluded:
+our results cannot offer support for the hypothesis that financial liberalization will increase 
+saving. On the contrary, the indications are that liberalization overall – and in particular those 
+elements that relax liquidity constraints– may be associated with a fall in saving.
+Maxwell Fry (1995), a leading authority on finance and development and an ardent advocate of 
+financial liberalization, has conceded that:
+what is agreed … is that if an effect [on saving] exists at all, it is relatively small [and that] posi-
+tive interest effects are easier to find in Asia than in other parts of the world, but even in Asia 
+the effects appear to have diminished over the past two decades.
+If financial liberalization does not increase aggregate saving, its positive impact on develop-
+ment must come through a more efficient allocation of resources, which raises the productivity of 
+investment. In other words, as stressed by Shaw (1973), financial liberalization should concentrate 
+388
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+on the quality of investment rather than the quantity. There is not much evidence on this point, 
+but the World Bank (1989) claimed, in its World Development Report 1989: Financial Systems and 
+Development, that in countries with positive real interest rates, the average productivity of invest-
+ment (as measured by the incremental output–capital ratio) is four times higher than in countries 
+with strongly negative real interest rates. Bandiera et al. (2000) also conclude their study by saying 
+that even if financial liberalization does not increase private saving, it does not follow that the 
+process contracts the volume of funds applied to productive investment. For one thing, financial 
+liberalization can increase the flow of capital from abroad, and, second, the reform process can 
+have the effect of eliminating less productive uses of loanable funds. This is an area where more 
+research needs to be done.
+A second major criticism of the financial liberalization argument is that the model seems 
+to treat banks simply as savings depositories, with the presumption that the supply of loans 
+from the banking system depends on deposits held by the banks, and if deposits increase, loans 
+will automatically increase. In short, the supply of credit is treated as exogenously determined. 
+However, if banks have the power to create credit (which they do), backed by a central bank 
+acting as lender of last resort, the supply of loans will depend on the demand for loans, not on 
+the supply of deposits. The supply of loans becomes endogenous. Within this framework, what 
+is important is not so much incentives for saving, but incentives for investment, which may 
+require lower interest rates. This is part of the Keynesian and post-Keynesian critique of the 
+financial liberalization school. The work of Paul Davidson (1986), the foremost post-Keynesian, 
+is representative of this line of argument. Davidson argues that all that is needed to initiate addi-
+tional real investment is finance provided by an increase in total bank loans and there is no need 
+for prior savings, ‘as long as the banks can create new finance via acceptable bank accounting 
+practices’.
+How the supply of credit responds to the interest rate, and how investment is affected by the 
+supply of credit and the rate of interest, becomes very much an empirical matter that can only be 
+settled by an appeal to the facts. Warman and Thirlwall (1994) found that for Mexico, over the 
+period 1960–90, financial saving responded positively to the rate of interest, and this led to an 
+increase in the supply of credit from the banking system to the private sector. However, while the 
+increased supply of credit affects investment positively, there is a strong negative effect of interest 
+rates on the level of investment, holding the supply of credit constant, and the net effect of higher 
+real interest rates on investment is adverse. This is also the central conclusion of Demetriades and 
+Devereux (1992) from research on 63 developing countries over the period 1961–90. They find 
+that the negative effect of a high cost of capital on investment outweighs the effect of a greater 
+supply of investible funds. Greene and Villanueva (1991), in a sample of 23 developing countries 
+over the period 1975–87, likewise show a negative effect of real interest rates on investment.
+This leads to a third worry about the financial liberalization model, which is that it ignores 
+the adverse effect that high real interest rates can have on costs and the level of demand in an 
+economy, which may lead to stagflation (a combination of cost inflation and rising unemploy-
+ment). This is another aspect of the post-Keynesian critique of the financial liberalization model 
+(see Dutt, 1990–91). High interest rates not only discourage investment, but may also lead to cur-
+rency overvaluation by attracting capital from overseas, which leads to a fall in exports, and also 
+increases the cost of servicing government debt, which leads to cuts in government expenditure. 
+This has occurred in Africa (see African Development Bank, 1994). Currency overvaluation and 
+cuts in government expenditure are both deflationary. In Latin America in the 1970s, financial 
+liberalization went wrong because there was an explosion of government debt, economic instabil-
+ity and excessively high real interest rates, which led to bankruptcies, bank failures and prolonged 
+389
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+recession. In the immortal words of Diaz-Alejandro (1985): ‘Goodbye financial repression, hello 
+financial crash.’ Financial liberalization programmes were abandoned (temporarily).
+A fourth critique of the financial liberalization school concerns the relationship between the 
+formal and the informal financial sectors. Higher real interest rates are likely to attract funds away 
+from the informal money market, or curb market, where there is no regulation over the use of 
+funds. If banks are subject to reserve requirements and are forced to lend compulsorily to govern-
+ments, the diversion of funds away from the informal sector may lead to the total supply of loans 
+to the private sector being reduced. This is part of the argument of the neostructuralist school 
+(see Buffie, 1984). The hypothesis is difficult to test directly without information on the supply 
+and composition of credit from the curb market. To the extent that curb loans are mainly for con-
+sumption purposes and the government uses the reserve requirements of the banks for product­
+ive investment, the problem may not be serious. If, however, the curb loans are for investment 
+and the government uses the banks to finance current account budget deficits, the reallocation of 
+funds between the sectors will adversely affect the total level of saving and investment.
+A final point to make is that it does not follow that credit rationing will necessarily be elimin­
+ated and resources allocated more ‘efficiently’ if interest rates are not controlled and are allowed 
+to reach their market clearing level. As Stiglitz and Weiss (1981) showed in a classic paper, banks 
+suffer from the problem of adverse selection because of asymmetric information on the part 
+of borrowers and lenders. Borrowers know more than lenders about the risks involved in a loan 
+transaction. A rational profit-maximizing bank may therefore be expected to practise credit 
+rationing to reduce risk, and not simply lend to those projects that seem to offer the highest 
+return but with more risk attached.
+Where do these various criticisms leave the financial liberalization argument? Clearly, the exist-
+ence of financial repression has to be taken seriously, but it does not follow that the more liber-
+alization there is the better, when we know that financial markets have many imperfections, and 
+that competition between banks and other financial institutions can lead to financial distress if 
+there are not institutional structures in place with adequate standards of accounting and auditing 
+to prevent bad loans. Governments will always need to intervene for prudential reasons, and also 
+for strategic reasons either as a major borrower or to direct credit. Particular care needs to be exer-
+cised in the liberalization of interest rates because of their impact on costs, investment demand, 
+the exchange rate and the cost of financing government deficits. This raises the intriguing ques-
+tion: What is the ‘optimum’ real rate of interest for a country? This is virtually impossible to answer 
+(see Clarke, 1996), but even in classical terms, it is not clear that the optimum real interest rate (r* 
+in Figure 13.3 above) is necessarily positive. The savings and investment curves could cut below 
+the horizontal axis if liquidity preference is very high and investment demand is very weak.
+Ultimately, financial liberalization has to be judged by its impact on economic growth and 
+development, and here the evidence is very mixed. In a major cross-section study of 80 countries 
+over the period 1960–89, King and Levine (1993) conclude that: ‘higher levels of financial devel-
+opment are significantly and robustly correlated with faster current and future rates of economic 
+growth, physical capital accumulation and economic efficiency improvements’. Using cross-sec-
+tion analysis, however, it is difficult to test for causality. It could be that financial development 
+is itself the product of growth and economic development. In fact, Demetriades and Hussein 
+(1996), taking time-series data for 16 countries, find considerable evidence of bidirectional causal-
+ity between levels of financial deepening and economic development, and conclude that different 
+countries exhibit different causality patterns, reflecting differences in financial sector policies and 
+institutional structures. Barajas et al. (2011) analyse the relationship between financial deepen-
+ing, measured by private sector credit as a percentage of GDP, across over 140 developed and 
+390
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+developing countries over the period 1975–2005 and find that the relation differs across regions 
+depending on the concentration of bank loans, the degree of competition in the banking sys-
+tem, and the level of state involvement. In North Africa and in oil-producing countries, the link 
+between financial depth and growth is weak. Arestis and Demetriades (1997) find that, in South 
+Korea, the real interest rate and growth performance have been negatively related, and despite 
+financial liberalization, South Korea has deliberately pursued a policy of keeping real interest rates 
+low in order to encourage investment. This is also the message from the World Bank’s (1993) 
+report The East Asian Miracle: Economic Growth and Public Policies: ‘a policy of moderate financial 
+repression at positive real interest rates may have boosted aggregate investment and growth in 
+the HPAEs [high-performing Asian economies] by transferring income from depositors, primarily 
+households, to borrowers, primarily firms’.
+De Gregorio and Guidotti (1995) suggest that the relationship between real interest rates and 
+growth is likely to be an inverted U-shape because negative real interest rates are not conducive to 
+financial development and growth, and very high real interest rates are also likely to reduce growth 
+by adversely affecting investment and leading to a concentration on risky projects. Somewhere in 
+between, growth is likely to be maximized. Fry (1997) tests this hypothesis across 85 countries for 
+the period 1971–95 and finds broad support for the idea, with the growth rate maximized with 
+the real interest rate at zero.
+What is clear from all the evidence across countries and continents is that if financial reforms 
+are to succeed, they must be implemented in an appropriate macroeconomic, financial and 
+institutional framework, with proper sequencing between internal and external liberalization. 
+Sequencing is important because if countries liberalize their external sector before or at the same 
+time as internal liberalization, it could have severe repercussions for the exchange rate. If there is 
+no confidence in the country, the relaxation of capital controls could lead to capital flight and 
+downward pressure on the exchange rate. On the other hand, higher real interest rates could 
+attract massive capital inflows, leading to excessive currency appreciation. Either way, exchange 
+rate instability is not conducive to macroeconomic stability.
+Liberalization has been more successful in Asia than in Latin America and Africa because it has 
+taken place in an environment of greater macroeconomic stability, with a sounder institutional 
+framework of regulation and supervision of the banking system. Macroeconomic stability means 
+manageable fiscal and balance of payments deficits and low inflation to encourage the holding of 
+financial assets and to allow funds to be devoted to the private sector. Confidence in the bank-
+ing system is also important and requires the restructuring of bank balance sheets, the removal 
+of bad debts, and a strengthening of the management and risk evaluation capabilities of bank 
+managers in order to avoid bankruptcies. Governments need to strengthen banking regulation 
+and supervision at the same time that liberalization takes place. For successful liberalization, Fry 
+(1997) outlines the following five prerequisites:
+1.	 Adequate prudential regulation and supervision of commercial banks, implying some minimal 
+levels of accounting and legal infrastructure.
+2.	 A reasonable degree of price stability.
+3.	 Fiscal discipline.
+4.	 Profit-maximizing, competitive behaviour by the commercial banks.
+5.	 A tax system that does not impose discriminatory explicit or implicit taxes on financial inter-
+mediation.
+The results of a meta-analysis of financial liberalization and growth are given in Case example 13.4.
+391
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+Since the early 1970s, the relationship between financial liberalization and economic 
+growth has been hotly debated, in policy and academic circles. On the one hand, this is 
+because, during the past two decades, many countries have liberalized their domestic 
+financial markets. On the other hand, views with respect to the impact of these lib-
+eralization policies differ. Whereas some have claimed that liberalization of financial 
+markets contributes to the efficiency with which these markets can transform saving 
+into investment, which ultimately fosters economic growth, others have pointed out 
+that these liberalizations have contributed to various financial and economic crises 
+in the past. Several papers have investigated the nature of the relationship between 
+financial liberalization and economic growth. The evidence from these studies remains 
+inconclusive.
+This study aimed to provide a systematic analysis of the empirical literature by con-
+ducting a meta-analysis of the relationship between financial liberalization and eco-
+nomic growth based on 60 empirical studies. Two main conclusions emerge. First, the 
+statistical results indicate that although, on average, there is a positive effect of finan-
+cial liberalization on growth, the significance of this is only weak. Second, for most of 
+the variables that may help explain the heterogeneity of results about the relation-
+ship between financial liberalization and economic growth, significant results were not 
+found, except:
+1.  
+Data from the 1970s generate more negative coefficients, which suggests that 
+ 
+financial liberalization policies carried out during the 1970s seem to have a stronger 
+negative effect on growth.
+2.  
+Studies that take into account a measure of the level of development of the finan-
+cial system show a weaker relationship between financial liberalization and eco-
+nomic growth.
+Notwithstanding these qualifying remarks, the meta-analysis is highly valuable, as it 
+provides the most comprehensive overview of the literature on the relationship be-
+tween financial liberalization and economic growth available to date. Moreover, it is 
+the first systematic analysis of this literature. The future challenge will be to improve 
+on the meta-analytical techniques to extend the analysis of the financial liberalization 
+growth nexus.
+Source: Bumann et al., 2012.
+Case example 13.4
+A meta-analysis of financial liberalization and economic growth
+Fiscal policy and taxation2
+There is another arm of the prior savings approach to the financing of development from domes-
+tic resources that needs to be considered, and that is the use of fiscal policy and taxation. Fiscal 
+policy has two major roles in the financing of development. The first is to maintain the economy 
+at full employment so that the savings capacity of the economy is not impaired. The second is to 
+design a tax policy to raise the marginal propensity to save of the economy as far above the aver-
+age as possible without discouraging work effort and consistent with an equitable distribution of 
+the tax burden.
+392
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Using fiscal policy to maintain full employment will involve deficit finance if unemployed or 
+underused real resources exist in the Keynesian sense due to a deficiency of aggregate demand. 
+While deficit finance may be inflationary in the short run until supply has had time to adjust, 
+there is an important analytical distinction between the means by which resources are made 
+available for investment through deficit finance at less than full employment and the means by 
+which savings are generated by inflation. In the former case, savings are generated by an increase 
+in real output; in the latter case, by a reduction in real consumption through a combination of 
+factors, including a ‘real balance effect on outside money’ (this refers to the attempt by holders of 
+money assets to restore the real value of their money balances, eroded by inflation, by redu­
+cing 
+their consumption. For a fuller discussion, see below); income redistribution from low to high 
+savers, and money illusion.
+Fiscal policy to raise the marginal propensity to save above the average is concerned with the 
+implementation of taxes to reduce consumption in the private sector. Saving brought about by 
+taxation is involuntary saving. How much taxation a country raises as a proportion of national 
+income depends on two major factors: the taxable capacity of the country, and the tax effort 
+made by the country in relation to its taxable capacity. The taxable capacity of a country depends 
+on factors such as the overall level of per capita income of the country, the distribution of income, 
+the level of literacy and urbanization, the size of the industrial sector, the importance of trade, 
+whether the country has mineral resources, and the amount of foreign investment. In turn, the 
+tax effort depends on the extent to which a country exploits these various tax bases and on the 
+rates of tax applied to the bases.
+The overall buoyancy of a tax system is measured by the proportional change in total tax 
+revenue (DT/T) with respect to the proportional change in national income (DY/Y), and is com-
+posed of two parts: the elasticity of tax revenue (DT/T) with respect to the tax base (DB/B), and 
+the elasticity of the base (DB/B) with respect to income (DY/Y), that is:
+(DT/T)/(DY/Y) 5 (DT/T)/(DB/B) 3 (DB/B)/(DY/Y)
+(13.3)
+If the tax system is progressive (with higher tax rates applied to higher levels of income or 
+expenditure), then the elasticity of tax revenue with respect to the base will be greater than unity, 
+and buoyancy will be greater than unity, provided the elasticity of the base with respect to income 
+is at least unity. If buoyancy is greater than unity, then tax revenue as a proportion of national 
+income will rise as national income rises. The buoyancy of the tax system can be increased by 
+increasing the rates of tax or extending the base.
+Any measured change in tax revenue with respect to income is likely to consist of an automatic 
+increase in tax revenue as income increases if the rate structure is progressive, and the effect of 
+discretionary changes in tax rates and extension of the tax base. The elasticity of a tax system is 
+measured as buoyancy minus the effect of discretionary tax changes. There are techniques for 
+estimating the elasticity of the tax system but we will not describe them here – suffice it to say 
+that the greater the elasticity, the more that tax revenue and saving can increase without the need 
+for discretionary changes. This is a desirable feature of tax systems in circumstances where it may 
+be difficult to implement discretionary changes.
+Tax effort depends on the elasticity of the system and overall buoyancy, and needs to be 
+measured in relation to capacity. One way of doing this, pioneered by the IMF (see Tait et al., 
+1979), is to take a cross-section of countries and relate their ratios of tax revenue to national 
+income to the various measures of tax capacity mentioned earlier, namely per capita income, 
+393
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+the importance of trade and industry and so on. Estimating such an international tax function 
+gives an equation of the form:
+T/GDP 5 a 1 b1(PCY) 1 b2(X/GDP) 1 b3(I/GDP) 1 other variables
+(13.4)
+where T/GDP is a country’s ratio of tax revenue to national income, PCY is per capita income, 
+X/GDP is the ratio of trade to GDP, I/GDP is the ratio of industrial output to GDP, and the coef-
+ficients b1, b2, b3 and so on measure the average effect of each of the variables on the tax ratio 
+across countries. For example, if b2 was estimated as 0.5, this would mean that a country with a 
+trade ratio that is 1% above the average for all countries will have a tax ratio that is 0.5 percentage 
+points above the average for all countries, other things remaining the same.
+By this method, a country’s tax effort can be measured by substituting its values for PCY, 
+X/GDP, I/GDP and so on in equation (13.4), predicting what the tax ratio should be and then 
+comparing the predicted value with the actual value of the tax ratio. If the actual value is greater 
+than predicted, the country can be said to be making a good effort; if it is less, then the tax 
+effort can be regarded as weak. A study of this nature has been made by Piancastelli (2001) for 
+75 developed and developing countries over the period 1985–95, and the results are shown in 
+Table 13.3. Any country with a tax effort index greater than 1 has a tax ratio greater than pre-
+dicted. It can be seen from Table 13.3 that there are several developing countries making a good 
+tax effort, including some of the largest and poorest such as India, Pakistan and Ghana. Equally, 
+however, there are other developing countries making a very poor effort, including many coun-
+tries in Latin America, notably Mexico, Argentina, Venezuela, Colombia, Bolivia and Peru.
+The facts on tax revenue in developing countries are that tax revenue as a percentage of 
+national income is typically low, averaging less than 20% compared with nearly 30% in high-
+income countries, and taxes on income are a minor source of tax revenue compared with indirect 
+taxes. The proportion of the population that pays income tax in developing countries is corres­
+pondingly low, averaging about 20%, compared with the vast majority of the working population 
+in developed countries, who constitute over 40% of the total population.
+On the surface, there would appear to be a great deal of scope for using tax policy to raise the level 
+of community saving relative to income. Two important points must be borne in mind, however. The 
+first is that the rudimentary nature of the tax system in developing countries is partly a reflection of 
+the stage of development itself. Thus, the scope for increasing tax revenue as a proportion of income 
+may, in practice, be severely circumscribed. There are the difficulties of defining and measuring the 
+tax base and of assessing and collecting taxes in circumstances where the population is dispersed and 
+primarily engaged in producing for subsistence, and where illiteracy is also rife. There is also the fact 
+that, as far as income tax is concerned, the income of the majority of the population is so low anyway 
+that it falls outside the scope of the tax system. whereas 70% of national income is subject to income 
+tax in developed countries, only about 30% is subject to income tax in developing countries.
+Even if there is scope for raising considerably more revenue by means of taxation, whether 
+the total level of saving will rise depends on how tax payments are financed – whether out of 
+consumption or saving – and how income (output) is affected. It is often the case that taxes that 
+make tax revenue highly elastic with respect to income are taxes that are met mainly out of sav-
+ing or have the most discouraging effect on incentives. For example, very progressive income tax 
+will discourage work effort if the substitution effect of the tax outweighs the income effect; and 
+to the extent that high marginal rates of tax fall primarily on the upper income groups with a low 
+propensity to consume, saving may fall by nearly as much as tax revenue rises.
+394
+Table 13. 3  Tax effort indices estimated over 1985–95
+Countries
+Actual tax 
+ratio  
+(a)
+Predicted 
+tax ratio 
+(b)
+Tax effort 
+index 
+((c)5(a)/(b))
+Countries
+Actual tax 
+ratio  
+(a)
+Predicted 
+tax ratio 
+(b)
+Tax effort 
+index 
+((c)5(a)/(b))
+Countries
+Actual tax 
+ratio  
+(a)
+Predicted 
+tax ratio 
+(b)
+Tax effort 
+index 
+((c)5(a)/(b))
+Fiji
+20.595
+9.023
+2.283
+Botswana
+26.766
+22.224
+1.204
+Peru
+10.728
+12.223
+0.878
+Kenya
+19.991
+10.497
+1.908
+PN Guinea
+18.825
+15.774
+1.193
+Jordan
+17.733
+20.938
+0.847
+Belgium
+42.357
+23.774
+1.782
+UK
+32.752
+27.542
+1.189
+Panama
+17.881
+22.197
+0.806
+South Africa
+25.182
+15.297
+1.646
+Luxembourg
+39.923
+33.653
+1.186
+Philippines
+13.696
+17.218
+0.795
+Netherlands
+44.273
+27.228
+1.626
+Portugal
+28.667
+24.307
+1.179
+Madagascar
+9.174
+11.641
+0.788
+Ethiopia
+11.665
+7.502
+1.555
+Sweden
+34.721
+29.484
+1.178
+Japan
+15.856
+20.236
+0.784
+Ghana
+11.76
+7.776
+1.512
+Costa Rica
+20.903
+17.913
+1.167
+Dominican Rep.
+12.677
+16.432
+0.772
+France
+37.808
+25.785
+1.466
+Cameroon
+12.784
+11.011
+1.161
+Colombia
+11.895
+15.431
+0.771
+India
+10.645
+7.279
+1.462
+Spain
+28.326
+24.437
+1.159
+El Salvador
+12.265
+15.979
+0.768
+Lesotho
+23.37
+16.058
+1.455
+Belize
+21.649
+18.685
+1.159
+Mexico
+13.752
+18.431
+0.746
+Italy
+37.482
+26.176
+1.432
+Finland
+28.219
+24.777
+1.139
+USA
+18.02
+24.251
+0.743
+Zimbabwe
+21.449
+15.062
+1.424
+Austria
+32.21
+28.559
+1.128
+Turkey
+12.452
+16.899
+0.737
+395
+Countries
+Actual tax 
+ratio  
+(a)
+Predicted 
+tax ratio 
+(b)
+Tax effort 
+index 
+((c)5(a)/(b))
+Countries
+Actual tax 
+ratio  
+(a)
+Predicted 
+tax ratio 
+(b)
+Tax effort 
+index 
+((c)5(a)/(b))
+Countries
+Actual tax 
+ratio  
+(a)
+Predicted 
+tax ratio 
+(b)
+Tax effort 
+index 
+((c)5(a)/(b))
+Uruguay
+25.515
+18.089
+1.411
+Syria
+16.334
+14.576
+1.121
+Congo (Dem. Rep.)
+6.885
+9.379
+0.734
+Morocco
+22.534
+16.027
+1.406
+Iceland
+24.347
+22.018
+1.106
+Switzerland
+19.878
+28.015
+0.71
+Namibia
+27.595
+19.957
+1.383
+Indonesia
+15.737
+14.533
+1.083
+Nepal
+7.16
+10.387
+0.689
+Egypt
+20.704
+15.121
+1.369
+Greece
+23.093
+21.862
+1.056
+Venezuela
+16.119
+23.675
+0.681
+Romania
+21.053
+15.797
+1.333
+Brazil
+17.103
+16.273
+1.051
+Argentina
+11.401
+17.434
+0.654
+Tunisia
+24.165
+18.171
+1.33
+Malaysia
+20.016
+20.417
+0.98
+Canada
+18.008
+27.743
+0.649
+New Zealand
+32.996
+24.815
+1.33
+Chile
+18.801
+19.451
+0.967
+Bolivia
+9.451
+14.62
+0.646
+Ireland
+34.487
+26.496
+1.302
+Thailand
+15.62
+16.45
+0.95
+Sierra Leone
+6.789
+10.772
+0.63
+Norway
+32.86
+25.263
+1.301
+Mauritius
+19.667
+20.72
+0.949
+South Korea
+15.619
+25.678
+0.608
+Pakistan
+12.999
+10.058
+1.292
+Malta
+25.688
+27.647
+0.929
+Paraguay
+9.139
+15.754
+0.58
+Denmark
+33.84
+26.369
+1.283
+Germany
+23.485
+26.413
+0.889
+Guatemala
+8.024
+14.269
+0.562
+Sri Lanka
+17.886
+14.422
+1.24
+Australia
+22.017
+24.904
+0.884
+Iran
+7.423
+13.702
+0.542
+Zambia
+18.286
+15.133
+1.208
+Ecuador
+14.836
+16.819
+0.882
+Singapore
+15.672
+38.905
+0.403
+Source: Piancastelli, 2001.
+Table 13. 3  Tax effort indices estimated over 1985–95 – continued 
+396
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+To avoid such large reductions in private saving, an expenditure tax on upper income groups, 
+which exempts saving from taxation, is an alternative to a progressive income tax, but the disincen-
+tive effect on work effort is not necessarily avoided. This is so because if the expenditure tax encour-
+ages saving, the tax rate must be higher to yield the same revenue as the income tax. If people work 
+to consume and the price of consumption is raised, work effort will be curtailed if the substitution 
+effect of the change outweighs the income effect. The more successful the expenditure tax is in 
+stimulating saving out of a given income, the higher must be the rate of tax to keep the yields from 
+the two taxes equal, and the greater the disincentive to work is likely to be. If the expenditure tax 
+is in addition to the income tax, however, there is no reason to expect any substitution effect in 
+favour of private saving, so that whether aggregate community saving increases depends on how 
+much work effort is discouraged and the relative propensities to consume and save of those who 
+pay the tax compared with those of the government. In general, the most effective tax policy to 
+raise the level of saving relative to income is to impose taxes on those with a high marginal propen-
+sity to consume, namely the poor, but there are obvious considerations of equity to bear in mind in 
+pursuing such a policy, as well as the practical consideration of political feasibility.
+The prominence of agriculture in developing countries makes agricultural taxation a poten-
+tially significant source of tax revenue and a means of transferring resources into investment. 
+There are a great variety of tax instruments for taxing agriculture, including taxes on land area, 
+land value, net income, marketing taxes, export taxes, land transfer taxes and so on. If revenue 
+is the aim, then marketing and export taxes are probably the most efficient and the easiest to 
+collect. As far as exports are concerned, two main systems may be adopted; the state-controlled 
+marketing board may pay the producer a price that is lower than the international price received, 
+or the government may require that all foreign exchange receipts be surrendered, with compensa-
+tion given in local currency at an exchange rate that overvalues the local currency.
+Export taxes may, however, have disincentive effects. The substitution effect of export taxes 
+will be to discourage production, or to switch production to the home market if the home market 
+is not saturated. Either way, the yield from tax will fall if the tax base (the level of exports) falls 
+more than in proportion to the rise in the export tax. Trade taxes have also been shown to be very 
+unstable because of the volatility of primary product exports (and imports), which can lead to 
+severe budgetary problems for countries that rely on them (see Bleaney et al., 1995).
+In theory, land taxes are probably the most desirable way to transfer resources from agricul-
+ture, but, in practice, land taxes are not important as a source of tax revenue. It is also worth 
+mentioning that no developing country has yet successfully applied a conventional income tax to 
+agricultural income. The nearest that countries have come to this is to tax the value of land, the 
+imputed income from land or the potential physical yield from land.
+The balance between direct taxes on income and indirect taxation on expenditures and trade 
+in the economy at large is heavily weighted in the direction of the latter, particularly in the form 
+of import duties and sales taxes. The emphasis on indirect taxes reflects the difficulties already 
+mentioned of levying direct taxes, and the disincentive effects that direct taxes can have. This is 
+not to say that indirect taxes are totally devoid of disincentive effects, but they are probably less, 
+especially if taxes such as sales taxes and import duties can be levied on necessities without too 
+much social hardship. Indirect taxes on luxuries will raise revenue, the more so the more price 
+inelastic the demand, but the taxes may largely be paid out of saving, to the extent that luxuries 
+are consumed by upper income groups with a low propensity to consume. The equity grounds for 
+such taxation, however, are still strong.
+Taxes on business are relatively easy to collect and administer, but again business taxation may 
+merely replace one form of saving with another. The marginal propensity to save out of profits is 
+397
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+typically high. The main justification for company taxation must be to retain control of resources 
+that might otherwise leave the country if the business is foreign-owned, or to substitute public 
+for private investment on the grounds that public investment is more socially productive than its 
+private counterpart.
+Tax reform in developing countries3
+Efficient utilization of the tax potential of developing countries raises problems that vary with 
+the circumstances of each country, but there are certain fundamental changes in most of these 
+countries that, if adopted, would make it possible to increase public revenue and reduce some of 
+the inequities that now exist. In particular, if a tax system is to be accepted by a poor community, 
+it must be seen to be administered honestly and efficiently, which means that every attempt must 
+be made to minimize the scope for avoidance (legal) and evasion (illegal).
+According to the classical canons of taxation, a tax system is to be judged by the standards of 
+equity, efficiency and administrative convenience. In most developing countries, the tax system 
+is neither equitable nor efficient and is administratively cumbersome. Avoidance and evasion 
+are rife.
+Equity requires a comprehensive definition of income and non-discrimination between 
+income sources. A major deficiency of tax systems all over the world, and particularly in develop-
+ing countries, is that there is no single comprehensive tax on all income. Typically, there is a ‘cedu-
+lar’ system, with separate taxes on different sources of income. Wage and salary earners (‘earned’ 
+incomes) tend to be discriminated against vis-à-vis the owners of property and capital and the 
+self-employed (professional people and small traders). An equitable system should also be such 
+that it discourages luxury consumption and makes it difficult to avoid and evade taxation.
+Taxable capacity is not measured by income alone, but also by wealth. Equity therefore also 
+requires the taxation of wealth. The ownership of wealth endows the owner with an inherent 
+taxable capacity, irrespective of the money income the asset yields. Consider the case of a beggar 
+with nothing and a rich man who holds all his wealth in the form of jewellery and gold, which 
+yields no money income. Judged by income, their taxable capacity is the same: nil. No one could 
+claim, however, that their ability to pay was the same, and that, for tax purposes, they should be 
+treated equally.
+Income tax is not only inequitable between those with property and those without, but also 
+between property holders. For example, two property holders may derive the same income from 
+property but the value of their property may differ greatly. One has a greater taxable capacity 
+than the other. Only a combination of income and property taxes can achieve equity according to 
+ability to pay. This is the case for a wealth tax.
+Equity also requires that gifts between individuals be taxed, on death and inter vivos.
+Efficiency requires that the entire tax system be self-reinforcing and self-checking so that the 
+attempt to escape one tax increases the liability to other taxes. The system should also be based, 
+as far as possible, on a comprehensive annual tax return.
+The above considerations suggest at least four major reforms of the tax system in developing 
+countries, which would also release resources for investment and act as an incentive to effort:
+1.	 All income (including capital gains) be aggregated and taxed in the same way, at a progressive 
+rate but not exceeding a maximum marginal rate of, say, 50%. Marginal rates above this level 
+may not only discourage incentive but may also be counterproductive by encouraging evasion 
+and avoidance.
+398
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+2.	 The institution of a progressive personal expenditure tax levied on rich individuals who reach 
+the maximum marginal rate of income tax.
+3.	 The institution of a wealth tax.
+4.	 The institution of a gifts tax.
+Inflation, saving and growth
+If voluntary and involuntary saving are inadequate, inflationary policies that ‘force’ saving by ‘taxing’ 
+money and redistributing income between classes within the private sector are an alternative pos-
+sibility. The price of financial conservatism may well be economic stagnation. The potential benefits 
+of inflationary finance, which embrace both the Keynesian and the quantity theory approach to 
+development finance, have been discussed by economists (including Malthus, Bentham, Thornton, 
+Robertson and, more recently, Kaldor) at least since David Hume in the eighteenth century; and 
+several economic historians (including Keynes) claim to have discerned a relationship in history 
+between periods of inflation and rapid economic development. Hamilton (1952) claims that infla-
+tion was a powerful stimulant to growth in a wide number of historical contexts through the 
+favourable effect of excess demand on profits, saving and investment, for example in England and 
+France in the sixteenth and seventeenth centuries and in England in the latter half of the eighteenth 
+century. Rostow (1960) also claims that inflation was important for several industrial take-offs.
+Keynes, in his Treatise on Money (1930), similarly remarked on the apparent extraordinary cor-
+respondence in history between periods of inflation and deflation and national rise and decline, 
+respectively. Keynes was certainly more predisposed to inflation than deflation. He described 
+inflation as unjust and deflation as inexpedient, but of the two, inflation is to be preferred because 
+‘it is worse in an impoverished world to provoke unemployment than to disappoint the rentier’ 
+(Keynes, 1931). While recognizing that inflation to increase capital accumulation may have regres-
+sive distributional consequences, Keynes (1930) further argued that the long-run gains to wage 
+earners can outweigh the short-term losses:
+the working class may benefit far more in the long run from the forced abstinence which a 
+profit inflation imposes on them than they lose in the first instance in the shape of diminished 
+consumption so long as wealth and its fruits are not consumed by the nominal owner but are 
+accumulated.
+The Keynesian approach to the financing of development
+The Keynesian approach to the financing of development by inflationary means stresses, first, 
+that investment can generate its own saving by raising the level of income when the economy is 
+operating below capacity, and by redistributing income from wage earners with a low propensity 
+to save to profit earners with a higher propensity to save when the economy is working at full 
+capacity. Second, inflation itself can encourage investment by raising the nominal rate of return 
+on investment and reducing the real rate of interest. Only the first of these two aspects of the 
+Keynesian approach will be considered here.
+Unemployed resources provide the classic argument for Keynesian policies of inflationary 
+finance. If resources are unemployed or underused, real output and real savings can be increased 
+by governments running budget deficits financed either by printing money or by issuing govern-
+ment bonds to the banking system and the public.
+399
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+In a situation of genuine ‘Keynesian’ unemployment, any tendency towards inflation, whatever 
+method of deficit finance is used, should burn itself out as the supply of goods rises to meet the 
+additional purchasing power created. Some economists have questioned, however, whether the 
+observed unemployment of labour in developing countries is strictly of the Keynesian variety, 
+and whether the supply of output would respond very much to increased demand. It is probably 
+true that most unemployment in developing countries results not from a shortage of demand, 
+but from a lack of cooperating factors of production for labour to work with (mainly capital); and 
+the direct multiplier effects of government expenditure may be low, but some deficit-financed 
+projects (e.g. infrastructure projects) may have considerable secondary repercussions on output 
+if they eliminate production and marketing bottlenecks at the same time.
+In the agricultural sector of developing countries, and in the production of consumer goods in 
+the industrial sector, there are many opportunities for investment that can yield outputs several 
+times more than the money value of capital invested in a very short space of time. In agriculture, 
+the use of fertilizers and the provision of transport facilities are good examples. Credit expansion 
+for these activities can soon generate sufficient output to absorb the demand-creating effects of 
+the new money in circulation.
+Thus, while it may be true that much of the unemployment in developing countries is not of 
+the Keynesian variety, it does not follow that monetary expansion cannot generate secondary 
+employment and output effects. The capacity-generating effects need to be considered in con-
+junction with the emphasis on demand in Keynesian static multiplier theory.
+Let us now turn to the Keynesian full employment case. At full employment, inflation is the 
+inevitable result of the Keynesian approach to development. In contrast to classical and neoclas-
+sical theory, Keynesian theory specifies independent saving and investment functions and allows 
+price changes in response to excess demand in the goods market to raise saving by redistributing 
+income. Inflation is the means by which resources are redistributed between consumption and 
+investment. In Keynesian models, investment is not constrained by saving, but by the inflation 
+rate willing to be tolerated by wage earners who have had their real wages cut.
+If plans to invest exceed plans to save, it is reasonable to suppose that investors and consumers 
+will both have their plans thwarted. Investment is less than firms desire, but greater than consum-
+ers plan to save. Let us assume, therefore, that the actual growth of capital is a linear combination 
+of planned saving and planned investment:
+dK
+K  5 a l
+K 1 (1 2 a) S
+K ,      a , 1
+(13.5)
+where K is the quantity of capital, l is planned investment and S is planned saving. Now assume 
+that the rate of inflation is proportional to the degree of excess demand, as measured by the 
+difference between plans to invest and save:
+dP
+P  5 la l
+K 2  S
+K b,     l . 0
+(13.6)
+where P is the price level. Substituting the expression for l/K into equation (13.5) gives:
+dK
+K  5  a(dP/P)
+l
+ 1  S
+K
+(13.7)
+400
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+S/K is planned saving, and a(dP/P)/l is forced saving, per unit of capital. Forced saving results from 
+the inability of consumers to fulfil their planned consumption in conditions of excess demand. 
+The underlying mechanism that thwarts the plans of consumers is inflation, which redistributes 
+income from wage earners to profits. Other things remaining the same, if prices rise faster than 
+wages, real consumption will fall and real saving increase as long as the propensity to save out of 
+profits is higher than the propensity to save out of wages.
+In Keynesian models, therefore, the effect of inflation on saving depends on two factors: the 
+extent to which income is redistributed between wages and profits, and the extent of the differ-
+ence in the propensity to save out of wages and profits. The relation between wages, prices and 
+profits, and the consequent effect of income redistribution on saving, is best illustrated using 
+simple algebra. Let Z be labour’s share of national income so that:
+Z 5  W
+PY 5  wL
+PY 5  w
+Pr
+(13.8)
+where W is the wage bill, w is the wage rate, P is price per unit of output, Y is income and r 5 Y/L 
+is the productivity of labour. Hence, the rate of change of labour’s share may be written as:
+dZ
+Z  5 a dw
+w  2  dP
+P  b 2  dr
+r 
+(13.9)
+From this equation, it can be seen that given a positive rate of growth of productivity, a sufficient 
+condition for a redistribution of income from wages to profits is that prices rise faster than wages. 
+Note, however, that in a growing economy (with positive productivity growth), it is not a neces-
+sary condition. Labour’s share will fall and the share of profits rise as long as (dw/w - dP/P) < 
+dr/r; that is, as long as the real wage rises less than the growth of labour productivity. In a growing 
+economy, therefore, there is no necessary clash between the real wage and profits. The real wage 
+can rise and the share of profits in income can also rise as long as some of the gains in labour prod­
+uctivity are appropriated by the capitalists.
+It is also obvious that on the classical savings assumption that all wages are consumed and all 
+profits are saved, the savings ratio will rise by exactly the same amount as the wage share falls.
+The basic Keynesian notion that investment determines saving forms the backbone of neo-
+Keynesian growth theory, as originally expounded by Robinson (1962) and Kaldor (1955–56). 
+Variations in the savings ratio resulting from inflation and income redistribution are one of the 
+many possible adjustment mechanisms for raising the warranted growth rate towards the natural 
+rate (see Chapter 4). As Robinson (1962) used to argue, in response to the neoclassical adjust-
+ment mechanisms of variations in interest rates and the capital–output ratio, there is nothing 
+in the laws of nature to guarantee growth at the natural rate, but if entrepreneurs wish to invest 
+sufficient to grow at the natural rate, then saving will adapt, subject to an inflation barrier. (In a 
+static economy, the ‘inflation barrier’ means a real wage so low that wage earners react to price 
+increases to prevent the real wage from falling further. In a growing economy, it is the point at 
+which labour resists any further reduction in its share of national income; that is, where labour 
+appropriates all increases in labour productivity itself in the form of increased real wages.) When 
+there is a steady rate of growth, the share of savings adapts to it. In effect, the actual growth rate 
+pulls up the warranted growth rate by forcing saving. Saving adapts to investment through the 
+dependence of saving on the share of profits in income, which rises with the level of investment 
+relative to income in the way that has been described. Profits depend, in turn, on what happens 
+401
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+to real wages when the system is out of equilibrium. The basic equation of Robinson’s model is the 
+distribution equation:
+PY 5 wL 1 pPK
+(13.10)
+where p is the gross profit rate R/K, and P, Y, w, L and K are as before. Dividing by P and rearran­
+ging to obtain an expression for the profit rate, gives:
+p 5  (Y/L) 2 (w/P)
+(K/L)
+ 5  R/L
+K/L 5  R
+K
+(13.11)
+Given the capital–labour ratio (K/L), the rate of profit depends on the relationship between out-
+put per head and the real wage. If all wages are consumed and all profits are saved, the rate of 
+profit gives the rate of capital accumulation and the rate of growth. This follows since S 5 I 5 pK, 
+and DK 5 pK; therefore DK/K 5 p. And if the capital–output ratio is fixed, DK/K 5 DY/Y; hence 
+ 
+p 5 DK/K 5 DY/Y.
+Variations in the rate of profit and corresponding variations in the real wage provide the mech-
+anism that equilibrates plans to save and invest and the actual and warranted growth rates. If the 
+actual growth rate equals the natural rate, the warranted and natural growth rates will also be 
+equalized. If the real wage remains unchanged as investment takes place, however, saving cannot 
+adapt and a greater volume of real investment cannot be funded. This is the inflation barrier in a 
+static model. It appears, in fact, that in a static context, the growth rate can only be raised at the 
+expense of the real wage, which comes close to the pessimistic development theories of Ricardo 
+and Marx, as discussed in Chapter 4. In a growing economy, however, such pessimism would be 
+unfounded because it can be seen from equation (13.11) that the rate of profit and capital accu-
+mulation can rise even if the real wage is rising, as long as the growth in labour productivity 
+exceeds the increase in the real wage.
+Kaldor’s model also makes saving adjust to the desired level of investment through a rise in the 
+share of profits in national income. The model consists of three basic equations:
+Y 5 W 1 R
+(13.12)
+I 5 S
+(13.13)
+S 5 swW 1 srR
+(13.14)
+where R is profits, W is wages, sw is the propensity to save out of wages and sr is the propensity to 
+save out of profits. Using the three equations we can write:
+I 5 sw(Y 2 R) 1 srR
+5 (sr 2 sw)R 1 swY
+
+(13.15)
+Making investment the independent variable in the system, and dividing by Y gives:
+R
+Y 5 a 
+1
+sr 2 sw
+ b l
+Y 2  
+sw
+(sr 2 sw)
+(13.16)
+The ratio of profits to income and the investment ratio are positively related as long as the 
+propensity to save out of profits exceeds the propensity to save out of wages. The investment 
+402
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+ratio must clearly be the independent variable in the system. Capitalists can decide how 
+much they are going to consume and invest but they cannot decide how much profit they 
+are going to make. If sr 5 1 and sw 5 0, then I/Y 5 R/Y, and, multiplying both sides of equa-
+tion (13.16) by Y/K, we have Robinson’s result that the rate of profit, the rate of capital 
+accumulation and the rate of growth are all equal. A higher level of investment can raise the 
+rate of capital accumulation by raising the profit rate and the share of saving in total income, 
+subject, of course, to the inflation barrier. The mechanism that gives this result is rising prices 
+relative to wages.
+The Kaldor model can be used for estimating how much inflation is necessary to raise the 
+savings ratio by a given amount (see Thirlwall, 1974 for the model). The inflation rate required 
+depends on three main factors:
+1.	 Labour’s initial share of national income.
+2.	 The difference in the propensity to save out of wages (sw) and profits (sr).
+3.	 How fast wages chase prices (the wage–price coefficient).
+If wages chase prices equiproportionately, and there is no difference in the propensity to save 
+out of wages and profits, there can be no redistribution effects on saving by generating inflation. 
+If there is a big difference in the savings propensities, and the wage–price coefficient is quite low, 
+mild inflation of approximately 3% can increase the savings ratio by one percentage point. If there 
+is only a small difference in the savings propensities, and the wage–price coefficient is very high 
+(close to unity), over 100% inflation would be required to raise the savings ratio by one percent-
+age point. Even Keynesians might regard such a rate as a high price to pay for extra growth (see 
+Thirlwall, 1974 for a full range of estimates).
+Reconciling the prior saving and forced saving approaches to 
+development
+There can be little doubt that the traditional development literature and the governments of 
+most developing countries have veered towards the classical view of development when making 
+policy prescriptions and formulating plans. But there is scope for a more eclectic approach. It is 
+not necessary to be a classicist to recognize the importance of voluntary saving in capital-scarce 
+economies, and it should not be necessary to be a Keynesian to admit that investors may lay claim 
+on real resources in excess of the community’s plans to save. Keynesians welcome prior saving. 
+What they dispute is that prior saving is necessary for investment; that investment is constrained 
+by prior saving. As Robinson (1960, vol. II) said when discussing the relation between savings and 
+investment at full employment:
+We cannot return to the pre-Keynesian view that savings governs investment. The 
+­
+essential point of Keynes’ teaching remains. It is decisions about how much investment 
+is to be made that govern the rate at which wealth will accumulate, not decisions about 
+savings.
+A start at reconciliation would be for the prior savings school to admit the possibility of forced 
+saving and to reduce their aversion to demand inflation. Equally, the Keynesians could admit that 
+saving depends on factors other than the functional distribution of income, and that for any 
+desired savings or investment ratio, inflation will fall as voluntary saving rises.
+403
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+The quantity theory approach to the financing of development
+The quantity theory approach to the financing of development stresses the effect of inflation 
+as a tax on real money balances. Suppose a government wishes to divert more of a country’s 
+resources to investment; one of the ways it can do so is to invest on society’s behalf, financing the 
+investment by expanding the money supply. In conditions where capital is already fully employed, 
+monetary expansion will be inflationary.
+Inflation is the means by which resources are effectively transferred to government. Inflation 
+imposes a tax on money holdings and consists of a reduction in the real purchasing power of money 
+and the real resources that the holders of money must forego to restore the real value of their money 
+holdings. The base of the tax is the level of real cash balances (M/P), and the tax rate is the rate at 
+which the real value of money is deteriorating, which is equal to the rate of inflation (dP/P). The real 
+yield from the tax is the product of the tax base and the tax rate; that is, (M/P)(dP/P), which will be 
+maximized (as in standard tax theory) when the elasticity of the base with respect to the rate of tax 
+is equal to -1. If the rate of inflation is equal to the rate of monetary expansion, the real tax yield (R) 
+will equal the real value of the new money issued; that is, (M/P)(dM/M) 5 dM/P. If dP/P . dM/M, 
+some of the potential tax yield will be lost owing to a reduction in the tax base.
+The inflation tax can be illustrated diagrammatically, as in Figure 13.4. DD is the demand for 
+real money balances in relation to the rate of inflation. When prices are stable, the demand for 
+real balances is D. At inflation rate P, however, which is expected to continue, the demand for real 
+balances falls to M. The area 0PXM thus represents the amount of real income that holders of real 
+money balances must substitute for money balances to keep real balances intact at level M. Since 
+money balances must be accumulated and real income forgone at the same rate as the rate of 
+inflation, the rate of tax is equal to the rate of inflation.
+Inflation as a tax on money redistributes resources from the private sector to the government 
+as the issuer of money – resources that are just as real as those obtained by more conventional 
+means of taxation. Keynes was fully aware of this other aspect of inflation, as well as the tendency 
+for demand inflation to transfer income from wages to profits. In his Tract on Monetary Reform 
+(1923), Keynes describes inflation as ‘a form of taxation that the public finds hard to evade and 
+even the weakest government can enforce when it can enforce nothing else’.
+The real yield from the inflation tax available for investment as a proportion of income (RI/Y) will 
+be the product of the money–income ratio, (M/P)/Y, the rate of inflation, dP/P 5 dM/M, and the 
+proportion of the increase in the real money supply captured for investment (RI)/(dM/P), that is:
+RI
+Y 5 a M
+PY b a dM
+M  b a
+RI
+dM/Pb
+(13.17)
+dP/P
+P
+D
+X
+D
+M
+M/P
+0
+Figure 13.4  Inflation tax
+404
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Suppose that the money–income ratio is 0.4 and 50% of new money issued is used for investment 
+purposes, then a 10% expansion of the money supply leading to a 10% rate of inflation would 
+yield 2% of the national income for the development programme. If all the new money is used for 
+investment purposes, the real yield from the tax is simply the ratio of the real value of the new 
+money issued to income (our earlier result), which in this example would be 2.5%. These calcula-
+tions assume, however, that the desired ratio of money holdings to income remains unchanged 
+regardless of the rate of inflation. In practice, the ratio is likely to be a decreasing function of the 
+rate of inflation because the opportunity cost of holding real money balances rises. Only if the 
+base of the tax falls more than in proportion to the inflation rate, however, will the yield from the 
+inflation tax actually decline.
+From the limited evidence available, it appears that the elasticity of the money–income ratio 
+with respect to the rate of inflation is quite low even in high inflation countries. This suggests that 
+inflation can operate effectively as a tax on money even in countries that have been experien­
+cing high rates of inflation for many years. It should also be remembered that while inflation may 
+reduce the desired ratio of money holdings to income, the ratio will have a continual tendency to 
+rise with the gradual monetization and development of the economy. On balance, the ratio may 
+be very little affected by monetary expansion.
+The fact that the demand to hold money relative to income rises as development proceeds, 
+and output is growing, also means that some government investment can be financed without 
+any increase in the price level. This is easily seen taking the fundamental equation of exchange:
+MV 5 PY
+or:
+M 5 KdPY
+(13.18)
+where M is the nominal money supply, V is the income velocity of circulation of money, Kd(5 1/V) 
+is the demand to hold money per unit of money income, P is the average price of final goods and 
+services, and Y is real income.
+Taking rates of growth of the variables, denoted by lower-case letters, gives:
+m 5 kd 1 p 1 y
+(13.19)
+It can be seen that if the demand for money per unit of income is increasing (kd . 0), m can be 
+positive without the price level rising. Similarly, if the economy is growing (y . 0), m can also be 
+positive without the price level rising. The government’s proceeds from monetary expansion will 
+equal m - p. In several developing countries, the rate of growth of the demand for money per unit 
+of income seems to be in the order of 5% per annum. This, combined with a growth rate of output 
+of 3% per annum, would mean that the non-inflationary growth of the money supply would be 
+in the order of 8% per annum.
+Finally, it should also be added that government investment projects financed by monetary 
+expansion can reduce an economy’s capital–output ratio (if the projects have high output–labour 
+ratios and low capital–labour ratios), enabling a higher rate of capital accumulation for any given 
+investment ratio, and therefore a higher rate of employment growth. Inflation is not necessarily 
+inegalitarian if the government investment projects financed by monetary expansion help the 
+poor in rural and urban areas by generating employment opportunities and raising productivity.
+405
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+The dangers of inflation
+Some of the benefits of inflation have been considered, especially the ability of inflation to release 
+resources for development by redistributing income between classes within the private sector 
+and from the private sector to government. Inflation is not without its dangers, however, and 
+these must be emphasized.
+First, a distinction needs to be made between the different types of inflation that may be exper­
+ienced by a developing country: demand inflation, cost inflation and structural inflation. The 
+argument for inflationary finance is an argument for demand inflation. Cost inflation, by reducing 
+profits, will not be conducive to development. Structural inflation may be the inevitable price of 
+development, but there is nothing in the process of structural inflation itself that will necessarily 
+accelerate the development process.
+There are also certain dangers and costs involved in deliberately pursuing an inflationary pol-
+icy to stimulate development. The most serious threats to growth from inflation come from the 
+effect on the balance of payments if foreign exchange is a scarce resource, and from the possibil-
+ity that voluntary saving, productive investment and the use of money as a medium of exchange 
+may be discouraged if inflation becomes excessive. If one country inflates at a faster rate than 
+others, its balance of payments may suffer severely, leading to protection and exchange con-
+trols, and hence inefficiency in resource allocation. As far as investment is concerned, if inflation 
+becomes excessive, investment in physical plant and equipment may become unattractive rela-
+tive to speculative investment in inventories, overseas assets, property and artefacts that absorb 
+a society’s real resources. If the real rate of interest becomes negative (that is, the rate of inflation 
+exceeds the nominal rate of interest), it may even become attractive to claim real resources and 
+not to use them.
+Inflation clearly reduces the purchasing power of money. If inflation becomes excessive, not 
+only may voluntary saving be discouraged but the use of money as a medium of exchange may be 
+discouraged, involving society in real resource costs and welfare losses. Since inflation reduces the 
+purchasing power of money, holders may be expected to avoid losses by cutting down their hold-
+ings of money for transactions purposes. The cost of inflation arises from the fact that cash bal-
+ances yield utility and contribute to production, and inflation causes energy, time and resources 
+to be devoted to minimizing the use of cash balances that are costless to produce; for example the 
+frequency of trips to the bank may increase, which absorbs labour time, and credit mechanisms 
+may be resorted to, which absorb society’s resources.
+There are also the distributional consequences of inflation to consider. These are difficult to 
+assess, but the following can be said with some confidence:
+•
+• Debtors benefit at the expense of creditors.
+•
+• Profit earners gain at the expense of wage earners in times of demand inflation and lose at the 
+expense of wage earners in times of wage inflation.
+•
+• Real asset holders probably gain relative to money asset holders.
+•
+• The strong (in a bargaining sense) probably gain relative to the weak; and the young gain rela-
+tive to the old, who tend to live on fixed contractual incomes.
+In developing countries, however, the possible inegalitarian distributional consequences of 
+demand inflation should not be allowed to constitute an argument against the use of mildly infla-
+tionary policies if one of the aims is to create additional employment. The major beneficiaries of 
+inflationary finance should be the unemployed and the underemployed, which represents a move 
+towards a more egalitarian structure of household incomes.
+406
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Having considered some of the potential dangers of inflation, it can be seen that there is plenty 
+of room for disagreement over whether inflation is a help or a hindrance to development. We 
+have seen that it can help to raise the level of real saving and encourage investment; on the other 
+hand, it may stimulate the ‘wrong’ type of investment, and inflation may get out of control and 
+retard development through its adverse effects on productive investment and the balance of pay-
+ments. A lot clearly depends on the type of inflation under discussion and its rate.
+Inflation targeting
+Because of the perceived dangers of inflation – inflation is harmful to growth and development – 
+many developing countries have recently copied developed countries, such as the UK and the 
+countries of the EU under the direction of the European Central Bank, and adopted inflation 
+targeting to control the rate of inflation. Countries such as Brazil, Chile, Colombia, Mexico, Peru, 
+South Korea, the Philippines and Thailand all started the process in the late 1990s and early 2000s. 
+Targeting a specific inflation rate, such as 5%, or a range between 4% and 6%, is a way of dampen-
+ing inflationary expectations in an economy and lending credibility to a government’s monetary 
+and fiscal policies for controlling the economy. The question is: Does it work, without sacrificing 
+growth and employment? To evaluate this properly, the countries adopting inflation targeting 
+need to be compared with a control group. When this is done, the evidence for developed coun-
+tries is that targeting has no significant effect on either inflation or its variability (see Lin and Ye, 
+2007). On the other hand, given that the credibility of central banks in developing countries is 
+significantly less than in developed countries, it might be expected that the credibility gain from 
+explicitly announcing an inflation target would be much more substantial in developing coun-
+tries. Goncalves and Salles (2008) find this to be so in a sample of 36 emerging economies, but 
+they do not compare their results with a control group. Lin and Ye (2009) rectify this deficiency 
+by comparing 13 developing countries that adopted inflation targeting up to 2004, using 39 other 
+countries as a control group. Their central conclusion is that inflation targeting has reduced the 
+inflation rate by about 3 percentage points on average, but the experience varies between coun-
+tries according to the length of time the policy has been adopted, fiscal discipline, exchange rate 
+variability, and governments’ commitment to meet the preconditions for the policy of adopting a 
+target inflation rate. Whether any costs have been incurred, however, in terms of slower growth or 
+higher unemployment, is not explored. But what does the empirical evidence show of the relation 
+between inflation and growth across countries? We examine this in the next section.
+Inflation and growth: the empirical evidence
+The discussion so far suggests that the relation between inflation and growth is likely to be non-
+linear, with growth positively related to inflation up to a certain rate of inflation and then nega-
+tively related as the disadvantages of inflation outweigh the advantages. This is in line with recent 
+empirical evidence from large datasets across developing and developed countries.
+A study by Bruno (1995) at the World Bank, taking pooled annual observations for 127 coun-
+tries over the years 1960–92, produced the pattern depicted in Figure 13.5. Inflation and growth 
+are positively related up to 5% inflation, and then ‘diminishing returns’ to inflation set in. Inflation 
+and growth are strongly negative once inflation rises above 30%, but for inflation rates below 
+20%, Bruno (1995) concludes that ‘there is no obvious empirical evidence for significant long-run 
+growth costs’.
+407
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+A study by Sarel (1996) at the IMF has produced a similar result. He takes 87 countries over 
+the period 1970–90 and divides the observations into 12 inflation groupings using the inflation 
+rate of group 6 as the standard of reference. He then estimates the effect that differential infla-
+tion has on the growth rate in the other groups. The results are shown in Figure 13.6. It can be 
+seen that inflation has a generally positive effect on growth up to group 7, with inflation averag-
+ing 8%. Thereafter, inflation and growth are negatively related. When inflation is very high (in 
+group 12), the difference in the effect of inflation on growth compared with group 6 is close to 
+4 percentage points (holding all other factors constant). (These results support the early work 
+of Thirlwall (1974), which also showed a nonlinear relation between inflation and the savings 
+ratio, and inflation and the investment ratio. For a survey of models of inflation and growth, and 
+some of the early empirical evidence, see Johnson (1984). See Temple (2000) for an overview.)
+Ghosh and Phillips (1998), also at the IMF, show the growth of GDP to be highest in the range 
+of inflation 3–5% for developed countries, and in the range 5–10% for developing countries (no 
+doubt reflecting greater structural inflation).
+3
+2
+1
+0
+–1
+–2
+–3
+–4
+–5
+–6
+–7
+–20 to 0 0–5
+5–10 10–15 15–20 20–30 30–40 40–50 50–70 70–100 100–200 200–10001000+
+Per capita income growth (per cent) 
+Range of annual inflation
+Figure 13.5  Inflation and per capita income growth, 1960–92 (pooled annual observations, 127 
+countries)
+0.02
+0.01
+0
+–0.01
+–0.02
+–0.03
+–0.04
+–0.05
+–0.06
+2
+4
+6
+8
+10
+12
+Inflation group
+Standard of reference for group 6
+Effect of inflation on growth
+Figure 13.6  Effects of different inflation rates on growth
+408
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Evidence of nonlinearity between inflation and growth is also found by Stanners (1993) in a 
+study of 9 countries over the period 1948–86 and 44 countries over the period 1980–88. First he 
+divides the 44 countries into four groups according to the rate of inflation and shows that the 
+highest growth occurred in the second group of countries, with an average rate of inflation of 
+8.2%. He then takes a scatter of 342 points for nine countries over 38 years and shows a positive 
+correlation between inflation and growth up to 8%.
+The most recent comprehensive study is by Pollin and Zhu (2006), who take 80 countries over 
+the period 1961–2000, distinguishing between OECD (rich) countries, middle-income countries 
+and poor countries. They find no significant relation between inflation and growth in the OECD 
+and middle-income countries, but in the poor countries, there is a positive relation up to 15–23% 
+inflation. Pollin and Zhu (2006) conclude:
+There is no evidence … supportive of a policy of maintaining inflation within a low band of 
+about 3–5 per cent, to the degree that government policy-makers are interested in promoting 
+growth and employment, rather than low inflation as an end in itself. … There is still a wide 
+range of inflation rates that are very likely to be associated positively with economic growth. … 
+This is most especially the case when inflation is resulting from, as Bruno (1995) puts it, ‘invest-
+ment demand pressure in an expanding economy’.
+It is not surprising from this evidence that Temple (2000) concludes his survey of inflation by 
+saying:
+since there is not yet robust evidence that moderate inflation has an adverse impact on 
+growth, any case for price stability which relies on a positive growth effect should continue to 
+be regarded with considerable suspicion.
+Similarly, Levine and Zervos (1993), in a review of studies of the macrodeterminants of growth, 
+conclude that:
+given the uncharacteristically unified view among economists and policy analysts that coun-
+tries with high inflation rates should adopt policies that lower inflation in order to promote 
+economic prosperity, the inability to find simple cross-country regressions supporting this 
+contention is both surprising and troubling.
+Indeed, we can be more categorical and say that there is no scientific evidence to suggest that a 
+necessary condition for faster growth is that inflation should be as low as possible. The evidence 
+suggests that mild inflation, up to 5–8%, can be positively beneficial for growth. After that, how-
+ever, the effects of inflation can be seriously damaging, certainly at rates in excess of 20%.
+The inflationary experience
+Having discussed the advantages of inflation and warned of the dangers of excessive inflation, the 
+fact is that the inflationary experience of most developing countries outside Latin America, at least 
+until the recent past, has been relatively mild. It is a myth that developing countries have been 
+typic­
+ally prone to high rates of inflation. Out of a sample of 48 developing countries over the period 
+1958–68, 38 recorded average rates of inflation of less than 6% per annum (see Thirlwall, 1974, p. 35 
+and Appendix 1). Historically, most developing countries have been very financially conservative.
+409
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+From the mid-1970s, however, there was a marked acceleration of inflation worldwide, sparked 
+by the oil price rises in 1973 and 1979, as well as other commodity price rises, and this contin-
+ued into the 1980s and 1990s in many countries. Since 2000, however, the rate of inflation has 
+subsided, at least in developed countries. The average rate of inflation country by country over 
+the period 2000–14 is shown in Table 13.4. It can be seen that there is a wide variety of experi-
+ence between countries, but, on balance, developing countries have been more prone to inflation 
+than developed countries. In developed countries, the average rate of inflation has been about 
+5%, whereas in low- and middle-income countries, it has been closer to 10%. Some notable high 
+inflation countries in the past decade have been in Africa: Ghana, 22.8%, Guinea, 16.1%, Nigeria, 
+15.7%, Malawi, 14.9%, and Sudan and Ethiopia, 13.7%. Some Latin American countries have also 
+recorded some high inflation rates: Venezuela, 25.3%, Argentina, 17.3%, Brazil and Uruguay, 
+8%, and Paraguay, 7.5% Historically, Latin America has been the most inflation-prone contin­
+ent, almost from the start of the industrialization process, and it was in Latin America that the 
+ 
+‘structuralist–monetarist’ controversy started over the causes of rapid inflation in poor countries. 
+We conclude this chapter with an overview of the debate, which still has relevance today.
+GDP implicit 
+deﬂator average 
+annual % growth 
+2000–2014
+GDP implicit 
+deflator average 
+annual % growth 
+2000 -2014
+GDP implicit 
+deflator average 
+annual % growth 
+2000 -2014
+Afghanistan
+8.0
+Belize
+1.8
+Channel Islands
+3.6
+Albania
+2.9
+Benin
+2.9
+Chile
+5.3
+Algeria
+8.1
+Bermuda
+3.6
+China
+4.6
+American Samoa
+Bhutan
+5.5
+Hong Kong SAR, 
+China
+0.1
+Andorra
+2.4
+Bolivia
+7.2
+Macao SAR, China
+5.4
+Angola
+Bosnia and 
+Herzegovina
+3.3
+Colombia
+5.3
+Antigua and Barbuda
+1.9
+Botswana
+7.3
+Comoros
+3.0
+Argentina
+17.3
+Brazil
+8.0
+Congo, Dem. Rep.
+17.9
+Armenia
+4.6
+Brunei Darussalam
+4.9
+Congo, Rep.
+6.2
+Aruba
+4.6
+Bulgaria
+5.1
+Costa Rica
+8.7
+Australia
+3.7
+Burkina Faso
+3.0
+Cote d’Ivoire
+3.2
+Austria
+1.8
+Burundi
+11.9
+Croatia
+3.1
+Azerbaijan
+9.2
+Cape Verde
+1.9
+Cuba
+2.7
+Bahamas, The
+1.4
+Cambodia
+4.4
+Curacao
+Bahrain
+5.7
+Cameroon
+2.6
+Cyprus
+2.6
+Bangladesh
+6.3
+Canada
+2.3
+Czech Republic
+1.6
+Barbados
+1.9
+Cayman Islands
+Denmark
+2.2
+Belarus
+25.6
+Central African 
+Republic
+2.7
+Djibouti
+3.9
+Belgium
+1.8
+Chad
+5.7
+Dominica
+1.5
+Table 13.4  Inflation
+continued overleaf
+410
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+GDP implicit 
+deﬂator average 
+annual % growth 
+2000–2014
+GDP implicit 
+deflator average 
+annual % growth 
+2000 -2014
+GDP implicit 
+deflator average 
+annual % growth 
+2000 -2014
+Dominican Republic
+10.6
+Ireland
+0.7
+Mexico
+5.2
+Ecuador
+7.4
+Isle of Man
+3.5
+Micronesia, Fed. Sts.
+2.7
+Egypt, Arab Rep.
+9.6
+Israel
+1.8
+Moldova
+9.6
+El Salvador
+3.1
+Italy
+2.0
+Monaco
+1.9
+Equatorial Guinea
+8.9
+Jamaica
+10.2
+Mongolia
+15.3
+Eritrea
+15.5
+Japan
+-0.9
+Montenegro
+5.5
+Estonia
+5.3
+Jordan
+6.2
+Morocco
+2.0
+Ethiopia
+13.7
+Kazakhstan
+14.2
+Mozambique
+6.2
+Faeroe Islands
+Kenya
+9.1
+Myanmar
+6.4
+Fiji
+4.5
+Kiribati
+1.4
+Namibia
+6.8
+Finland
+1.7
+Korea, Dem. Rep.
+Nepal
+8.2
+France
+1.6
+Korea, Rep.
+2.2
+Netherlands
+1.7
+French Polynesia
+Kosovo
+2.0
+New Caledonia
+Gabon
+5.3
+Kuwait
+7.5
+New Zealand
+2.7
+Gambia, The
+5.7
+Kyrgyz Republic
+9.9
+Nicaragua
+8.5
+Georgia
+6.1
+Lao PDR
+7.1
+Niger
+3.7
+Germany
+1.2
+Latvia
+6.0
+Nigeria
+15.7
+Ghana
+22.8
+Lebanon
+2.8
+Northern Mariana 
+Islands
+Greece
+2.2
+Lesotho
+6.9
+Norway
+4.4
+Greenland
+-2.1
+Liberia
+8.7
+Oman
+8.8
+Grenada
+2.4
+Libya
+10.4
+Pakistan
+11.0
+Guam
+Liechtenstein
+0.7
+Palau
+2.6
+Guatemala
+5.4
+Lithuania
+3.7
+Panama
+3.7
+Guinea
+16.1
+Luxembourg
+3.1
+Papua New Guinea
+5.1
+Guinea-Bissau
+2.4
+Macedonia, FYR
+2.8
+Paraguay
+7.5
+Guyana
+11.7
+Madagascar
+9.7
+Peru
+3.4
+Haiti
+11.2
+Malawi
+14.9
+Philippines
+4.3
+Honduras
+6.1
+Malaysia
+4.0
+Poland
+2.7
+Hungary
+4.2
+Maldives
+5.5
+Portugal
+2.0
+Iceland
+5.3
+Mali
+3.9
+Puerto Rico
+4.6
+India
+6.1
+Malta
+2.9
+Qatar
+8.4
+Indonesia
+10.5
+Marshall Islands
+2.6
+Romania
+11.2
+Iran, Islamic Rep.
+17.9
+Mauritania
+8.1
+Russian Federation
+13.4
+Iraq
+11.3
+Mauritius
+5.0
+Rwanda
+9.0
+Table 13.4  Inflation – continued
+411
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+GDP implicit 
+deﬂator average 
+annual % growth 
+2000–2014
+GDP implicit 
+deflator average 
+annual % growth 
+2000 -2014
+GDP implicit 
+deflator average 
+annual % growth 
+2000 -2014
+Samoa
+3.6
+St. Kitts and Nevis
+2.9
+Turkmenistan
+16.0
+San Marino
+2.2
+St. Lucia
+3.3
+Turks and Caicos 
+Islands
+Sao Tome and 
+Principe
+14.3
+St. Martin (French 
+part)
+Tuvalu
+2.4
+Saudi Arabia
+6.1
+St. Vincent and 
+the Grenadines
+2.2
+Uganda
+8.9
+Senegal
+2.5
+Sudan
+13.7
+Ukraine
+15.4
+Serbia
+11.1
+Suriname
+15.5
+United Arab Emirates
+7.0
+Seychelles
+10.4
+Swaziland
+9.0
+United Kingdom
+2.5
+Sierra Leone
+12.2
+Sweden
+1.7
+United States
+2.1
+Singapore
+1.4
+Switzerland
+0.8
+Uruguay
+8.0
+Sint Maarten (Dutch 
+part)
+Syrian Arab 
+Republic
+6.4
+Uzbekistan
+21.2
+Slovak Republic
+2.1
+Tajikistan
+17.4
+Vanuatu
+3.0
+Slovenia
+2.8
+Tanzania
+11.3
+Venezuela, RB
+25.3
+Solomon Islands
+6.5
+Thailand
+3.1
+Vietnam
+10.6
+Somalia
+Timor-Leste
+4.5
+Virgin Islands (U.S.)
+South Africa
+7.1
+Tonga
+5.8
+West Bank and Gaza
+4.5
+South Sudan
+Trinidad and 
+Tobago
+5.4
+Yemen, Rep.
+12.0
+Spain
+2.2
+Tunisia
+3.9
+Zambia
+12.8
+Sri Lanka
+10.8
+Turkey
+11.1
+Zimbabwe
+8.4
+Source: World Bank, World Development Indicators 2015, online (http://wdi.worldbank.org/table/4.16#).
+Table 13.4  Inflation – continued
+The structuralist–monetarist debate in Latin America
+The inflation rate in countries such as Argentina, Brazil, Peru, Bolivia, Chile and Uruguay has 
+reached over 100% at times since the Second World War. In the early postwar years, a heated 
+debate developed, which still smoulders today, over the major cause of rapid price increases. The 
+participants in the debate polarized into two schools, frequently referred to as the structuralists 
+and the monetarists. Although the debate is set in the Latin American context, it is nonetheless 
+of general interest and in many ways is analogous to the Keynesian–monetarist debate that took 
+place in developed countries in the 1970s and 1980s over the causes of inflation. It might also be 
+said that the two debates have been equally inconclusive.
+The essence of the structuralist argument is that the basic forces of inflation are structural in 
+nature, that inflation is a supply phenomenon and can only be remedied by monetary and fiscal 
+412
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+means at the expense of the underutilization of resources. The role of monetary expansion in 
+propagating inflation is not denied; what is disputed is that inflation has its origins in monetary 
+factors. In the structuralists’ view, monetary policy can only attack the symptoms of inflation, not 
+its root causes.
+In support of the argument that inflation emanates from the supply side, the structuralists 
+point to the characteristic features of developing countries: the rapid structural changes taking 
+place in the economy and supply inelasticities leading to bottlenecks, and refer back to the pre-
+industrialization era of Latin America when inflation was much less severe than it has been in the 
+recent past. Prior to 1930, there was relative price stability due to fairly elastic supplies of agricul-
+tural output and low population growth. But Latin America then entered the industrialization era 
+with a capitalist class that was reluctant to invest, and with growing population pressure on food 
+supplies, which together contributed to bottlenecks and the beginnings of inflation, subsequently 
+exacerbated by a wage–price spiral and currency depreciation.
+There is some dispute about whether this picture is accurate for the whole of Latin America, 
+however. According to some observers, the sequence of events described by the structuralist 
+school is more a description of a particular country, Chile. Indeed, Campos (1961) went as far 
+as to say that any visitor to the Economic Commission for Latin America in Santiago could 
+not help but feel that the thinking of the structuralist school had been affected by the pecu-
+liarities of Chilean inflation. But Campos was a confessed monetarist. For even in the Chilean 
+case, he claims that the bottlenecks observed were induced by inflation itself and were not 
+causal elements in the process. This is a more general claim of the monetarist school. They 
+argue that supply bottlenecks are created by policies that discourage investment, for example 
+price controls. Thus, they maintain that the act of repressing inflation, instead of tackling the 
+monetary causes of inflation, creates bottlenecks that subsequently feed the inflation. But, in 
+the first instance, inflation is caused by excess demand due to monetary expansion. In support 
+of the monetarists, it does seem to be the case that in countries where prices have risen the 
+fastest, the money supply has also grown most rapidly, but this does not answer the question 
+of whether monetary expansion initiates inflation or simply ‘finances’ inflationary tendencies 
+already present on the supply side. Moreover, if there was tighter monetary control, would 
+it be inflation or output that would fall the most? There is no consensus, but a majority of 
+observers seem to pinpoint supply factors as the main contributors to rising prices – particu-
+larly agricultural bottlenecks and exchange rate depreciation due to balance of payments dif-
+ficulties. It is possible to argue, of course, that all balance of payments deficits are a monetary 
+phenomenon, but the more relevant question is: What is the cause of deficits in the first place? 
+Most balance of payments difficulties in Latin America have to do with a high income elasticity 
+of demand for imports and low export growth because of the poor supply characteristics of 
+domestic goods (for a ‘structural’ interpretation of Bolivian hyperinflation, see Pastor (1991); 
+and see Chapter 16).
+Summary
+•
+• Development requires investment, and saving is necessary to fund investment (although not 
+necessarily to finance it).
+•
+• There are three main analytical approaches to the finance of development from domestic 
+ 
+resources: the prior saving approach, the Keynesian approach and the quantity theory 
+ 
+approach, which all focus on the ways in which saving and investment can be raised.
+413
+1 3  •  F I N A N C I N G  ­
+D E V E L O P M E N T  F R O M  D O M E S T I C  ­
+R E S O U R C E S
+•
+• The prior saving approach focuses on raising voluntary and involuntary saving through mon-
+etary and fiscal policy. The Keynesian approach emphasizes incentives to invest, which can 
+generate its own saving. The quantity theory approach focuses on ‘forcing’ saving through in-
+flationary policies.
+•
+• Voluntary saving depends on the capacity and willingness to save determined by the level of 
+income, the growth of income, the rate of interest and the availability of financial assets.
+•
+• Most developing countries have a dual financial structure with a large informal financial sector 
+serving the poor, rural, subsistence sector, and a formal financial sector serving those with col-
+lateral to borrow.
+•
+• Rural financial intermediaries and microcredit play an important role in the lending and bor-
+rowing activities of poor people.
+•
+• The formal financial sector often suffers various forms of financial repression impeding the 
+growth of the financial system.
+•
+• Financial liberalization programmes have been implemented in many developing countries, 
+often under pressure, with mixed results.
+•
+• Involuntary saving depends on tax policy. Tax effort is weak in many developing countries.
+•
+• Investment can generate its own saving through a rise in income if the economy is at less than 
+full employment, or through a redistribution of income by inflation from wage earners with a 
+low propensity to save to profit earners with a higher propensity to save if the economy is at full 
+employment (this is the Keynesian argument).
+•
+• Governments can invest on society’s behalf and finance the investment by monetary ­
+expansion. 
+If this is inflationary, this will ‘force’ saving (the idea of inflation as a tax on money).
+•
+• Inflation poses some dangers, but the empirical evidence shows a positive relation between 
+inflation and growth up to about 5–8% inflation.
+•
+• Many Latin American countries have experienced high inflation in the past, but the monetarist– 
+ 
+structuralist debate, which originated there, is largely inconclusive.
+1.	 What is the difference between voluntary saving, involuntary saving and ‘forced’ 
+saving?
+2.	 What are the main determinants of voluntary saving?
+3.	 How can ‘monetization’ of the economy help to raise the level and productivity of 
+capital accumulation in developing economies?
+4.	 What are the essential features of the informal financial sector in developing 
+countries?
+5.	 Outline the main requisites of a well-developed financial system.
+6.	 What forms do financial repression take in developing countries?
+7.	 What are the dangers of financial liberalization, and on what factors does the suc-
+cess of liberalization depend?
+8.	 What role do special development banks and microcredit play in financing 
+­
+development?
+Discussion questions
+Chapter 13
+414
+F I N A N C I N G  E C O N O M I C  D E V E L O P M E N T
+Notes
+1.  
+For a survey of microcredit, see Morduch (1999), Armendariz and Morduch (2005), and Hermes 
+and Lensink (2007).
+2.  For a comprehensive discussion of the general issues in this field, see Bird (1991) and Burgess and 
+Stern (1993).
+3.  For an excellent discussion of general issues, and with specific reference to Pakistan, see Ahmad and 
+Stern (1991).
+Websites on banking and finance
+Microcredit
+Grameen Development Bank www.grameen-info.org
+BancoSol in Bolivia www.bancosol.com.bo/
+Microcredit Summit Campaign www.microcreditsummit.org
+Banking
+Central bank list www.centralbanksguide.com/central1banks1list/
+9.	 Suggest reforms to the tax system in developing countries that would promote 
+equity and more saving for investment.
+10.	 What is meant by ‘inflation as a tax on money’?
+11.	 In what ways is demand inflation conducive to growth and development?
+12.	 What conclusions would you draw from the recent empirical evidence on the 
+relation between inflation and growth?
+Discussion questions – continued
+Chapter 13
+

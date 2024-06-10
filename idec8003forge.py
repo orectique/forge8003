@@ -6,6 +6,7 @@ from llama_index.core import Settings
 from llama_index.embeddings.llamafile import LlamafileEmbedding
 from llama_index.llms.llamafile import Llamafile
 from llama_index.core.node_parser import SentenceSplitter
+from llama_index.query_engine import CitationQueryEngine
 
 Settings.embed_model = LlamafileEmbedding(base_url="http://localhost:8080")
 
@@ -50,9 +51,22 @@ index = VectorStoreIndex.from_documents(
 # Save the index
 index.storage_context.persist(persist_dir="./storage")
 
-query_engine = index.as_query_engine()
-with open("./output.txt", "w") as f:
-	f.writelines(query_engine.query("What forms does financial repression take in developing countries?"))
+#query_engine = index.as_query_engine()
 
+query_engine = CitationQueryEngine.from_args(
+    index,
+    similarity_top_k=3,
+    # here we can control how granular citation sources are, the default is 512
+    citation_chunk_size=512,
+)
 
+with open("./test_output.md", "w") as f:
+	response = query_engine.query("What forms does financial repression take in developing countries?")
+	f.write("## What forms does financial repression take in developing countries?\n")
+	f.writelines(response)
 
+	f.write("\n ## Sources \n")
+
+	for i in range(len(response.source_nodes)):
+		source = response.source_nodes[i].node.get_text()
+		f.writelines(source)

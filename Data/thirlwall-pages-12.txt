@@ -1,0 +1,1839 @@
+•
+• Introduction
+•
+• A model of the environment 
+and economic activity
+•
+• The market-based approach to 
+environmental analysis
+•
+• Externalities
+•
+• Common property rights
+•
+• The discount rate
+•
+• The harvesting of renewable 
+resources
+•
+• Non-renewable resources
+•
+• Other environmental values
+•
+• Measuring environmental 
+values
+•
+• National income accounting
+•
+• Risk and uncertainty
+•
+• Economic growth and the 
+environment
+•
+• Sustainable development
+•
+• Natural capital, equity and 
+environmental values
+•
+• Economic thought and the 
+environment
+•
+• Climate change, the Stern 
+Review and predicting the 
+future
+•
+• Climate change and the poor
+•
+• International agencies, 
+agreements and the 
+environment
+•
+• Summary
+•
+• Discussion questions
+•
+• Notes
+•
+• Websites on the environment
+Development and the  
+environment*
+12
+326
+* This chapter has been written by our colleague, Professor Iain Fraser.
+327
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+Introduction
+The environment is vital to supporting life, absorbing waste and providing inputs for production. 
+Since the 1960s, there has been increasing concern about the effects of economic activity on the 
+environment. In particular, it has been argued that economic growth has caused serious environ-
+mental damage and that the current state of the environment will constrain future economic 
+development. For example, it is now widely, but not universally, accepted that recent economic 
+development has led to climate changes, and that changes will, unless adapted to, seriously disrupt 
+economic activity and society in the future. The poor in developing countries are often dependent 
+on the natural environment for their livelihood and even their continued existence. Thus, damage 
+to the environment and the relationship between the environment and the economy are often 
+thought to be of more importance to developing than developed countries.
+Table 12.1 shows how a range of selected environmental indicators vary by economic regions 
+globally. For example, there are significant differences between Africa and Europe in terms of for-
+est net change and access to sanitation. This chapter provides an introduction to the economic 
+analysis of the relationship between the environment (including the climate), development and 
+the economy.
+A simple model is developed that explains the services the environment provides for economic 
+activity and the effects of the economy on the environment. Next, the market-based approach 
+to analysing the interactions of the environment and the economy is examined. This approach 
+emphasizes the efficient use of the environment and considers market failures to be the main, and 
+perhaps the only, cause of market economies’ difficulties in allowing for environmental concerns 
+in economic development. It is shown how this approach can be used to provide valuations of 
+environmental services and improve the efficient use of the environment. The neoclassical ana­
+lysis of equity within and between generations is considered and its importance in the context of 
+the environment is examined.
+The concept of sustainable development is then explained. This idea defines forms of devel-
+opment that meet the needs of the present generation while maintaining the potential to meet 
+the needs of future generations. This is followed by a discussion of the recent Stern Review on 
+climate change and the effect of climate change on the poor. Finally, there is a brief review of how 
+environmentalists, economists and international agencies have approached the analysis of the 
+environment, climate change and the economy.
+A model of the environment and economic activity
+There are many different models of the relationship between the environment and the economy. 
+The model depicted in Figure 12.1 illustrates the four functions of the environment in supporting 
+economic activity and the effects of this activity on the environment. (This discussion of the rela-
+tionships between the environment and the economy is very general and simple; see Tarbuck et al. 
+(2008) for an introduction to earth sciences and the interaction of humans and the environment.) 
+These four functions are life support, supply of natural resources, absorption of waste products, 
+and supply of amenity services. The economy is represented in Figure 12.1 by households consum-
+ing goods and services, and firms producing, using natural resources provided by the environ-
+ment, and labour and man-made capital provided by households.
+The environment provides a biological, chemical and physical system that enables human 
+life to exist. This life support system includes the atmosphere, river systems, the fertility of the 
+328
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+Consumption of ozone-depleting
+substances
+Key environmental indicator
+Latest year
+on record
+World
+Africa
+2010
+2005–2010
+2000–2007
+1996–2005
+1996–2005
+2008
+2008
+2008
+2010
+2010
+2010
+43 292
+5.6
+167
+1 087
+651 748
+32.11
+4.8
+12.0
+61.0
+251 000
+2 559
+-3.4
+94
+1 167
+2 146
+1.14
+1.2
+10.1
+271.2
+39.9
+1 700
+29 971
+0.5
+181
+780
+237 395
+13.69
+3.5
+9.9
+57.4
+131 700
+537.9
+103
+0.9
+109
+1 259
+140 251
+6.61
+8.0
+10.2
+90.9
+103 700
+130.8
+5 199
+-3.9
+110
+1 924
+14 882
+1.65
+2.9
+19.3
+80.1
+7 231
+2 165
+0.4
+380
+2 689
+255 602
+6.01
+17.4
+9.5
+100.0
+5 500
+3 295
+Million tonnes ODP
+Gigagrams
+Billion tonnes of CO2
+Million hectares per
+year
+Per cent of total
+territorial area
+Million tonnes
+m3 per year per
+person
+m3 per year per
+person
+Per cent of total
+population
+Number of
+certifications
+Tonnes of CO2 per
+capita
+20.2
+345
+426
+1 471
+1.04
+8.3
+17.1
+78.3
+1 200
+Asia and
+the
+Pacific
+Europe
+North
+America
+West Asia
+Unit of
+measurement
+HFCs emissions – all gases
+Carbon dioxide emissions
+Carbon dioxide emissions per
+capita
+Forest net change
+Area protected to maintain
+biological diversity to surface area
+Municipal waste collection
+Total water footprint per capita
+of national production – blue
+Total water footprint per capita
+of national production – green
+Access to sanitation
+Number of certifications of the
+ISO 14001 standard
+Latin
+America
+and the
+Caribbean
+Table 12.1  Key environmental indicators data
+Source: UNEP, 2012.
+329
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+soil, and the diversity of plant and animal life. These environmental services are consumed by 
+households and are essential to life. Large reductions in these services, for example through major 
+climate change, would have catastrophic consequences for life.
+The environment provides raw materials and energy for economic production and household 
+activity. These natural resources are either renewable, as in forests and fisheries, or non-renewable, 
+as in minerals. Renewable resources can be used in a sustainable manner, although excessive use 
+or mismanagement can result in the complete loss of the resources, for example desertification 
+following deforestation. The ability to use renewable resources sustainably and increase the stock 
+of renewable resources is represented in Figure 12.1 by the flow from firms to natural resources. 
+However, the use of a non-renewable resource reduces the finite stock of the resource forever.
+The waste products of economic and household activity are absorbed by the environment. 
+This waste absorption function allows some of such waste to be disposed of safely. However, there 
+are certain wastes that are difficult or impossible for the environment to dispose of safely. For 
+example, the global warming gas carbon dioxide (CO2) is captured through the growth of forests 
+and absorption in the oceans. Deforestation and physical limits to absorption in the oceans mean 
+that the absorptive capacity of these processes has been reduced. Consequently, because of the 
+effect of rising levels of carbon dioxide on climate change, it has been argued that the world 
+economy has to change through reducing carbon dioxide emissions, seeking alternative means of 
+capturing these emissions and adapting to climate change.
+The environment also provides amenity services, such as natural beauty and space for out-
+door pursuits, which are consumed, but are not crucial to the continued existence of life.
+Parts of the environment may serve more than one function. The oceans, for example, are 
+important in determining the life support systems provided by the global climate and microcli-
+mates, they are sources of many minerals and other resources, they assimilate many different wastes, 
+and they provide the space and opportunity for marine pastimes. Thus, in Figure 12.1 above, the 
+four blocks representing the different functions of the environment overlap. The functions of the 
+Firms
+Households
+Goods and services
+Labour and capital
+Natural resources
+Waste
+absorption
+Amenity
+Life support
+The economy
+The environment
+Figure 12.1  A simple model of the relationship between the economy and the environment
+330
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+environment may be competitive; excessive discharges of waste materials into the oceans will, for 
+example, reduce their capacity to provide a habitat for fish stocks. Alternatively, environmental 
+functions can be complementary; as when appropriate forestry policies can provide a sustainable 
+source of timber (a natural resource function), reduce soil erosion (an improvement in the life sup-
+port function) and capture CO2 emissions (a waste absorption function).
+The market-based approach to environmental analysis
+The market-based approach to environmental analysis has probably been the dominant view of 
+the relationship between the environment and the economy (for an introduction to this subject, 
+see Common, 1996). In particular, many environmental policies and much analysis are based on 
+the view that markets may not function efficiently with regard to the environment and that the 
+state has a duty to intervene and correct market failures. The underlying assumptions of the mar-
+ket-based approach are examined and various applications to the environment are considered.
+The market or neoclassical approach to economics is concerned with how scarce resources are 
+allocated in a market economy (explanations of the neoclassical approach to economics can be 
+found in most intermediate microeconomics textbooks: see Varian, 2005). Allocation is assumed 
+to take place on the basis of consumers’ preferences, the distribution of economic assets and 
+the costs of production. It is assumed that each consumer is rational and decides to purchase 
+goods and services on the basis of prices and economic assets, which include labour income. It 
+is assumed that the value a consumer places on additional units of consumption declines with 
+increasing consumption. Economic rationality dictates that consumption of a good continues 
+up to the point at which the value placed on an additional unit is just equal to the price. Further 
+expenditure on the good would be inefficient as greater value could be obtained from using the 
+additional expenditure to purchase more preferred goods and services. Similarly, less expenditure 
+is inefficient, as greater value could be obtained by purchasing more of the good and fewer less 
+preferred goods and services. Thus, the neoclassical model assumes that economic rationality 
+gives efficiency in consumption.
+The neoclassical view also assumes that firms are profit maximizers. This implies that firms 
+minimize costs. This gives efficiency in production. Finally, it is assumed that competition among 
+firms forces them to charge prices that are equal to their marginal costs of production. As con-
+sumption decisions are based on prices, the equality between prices and marginal costs means 
+that these decisions are based on the marginal costs of production. This ensures efficiency 
+between consumption and production.
+The neoclassical view has various important implications for the analysis of the relationship 
+between the environment and the economy:
+1.	 It is implicitly assumed that the value of consumption is determined by the individual con-
+suming the good. The value of consumption is not determined by the state or some other 
+authority. Additionally, it is assumed that individual consumers and producers do not consider 
+the effects of their decisions on other economic agents. Consequently, there is no difference 
+between private and social costs or private and social benefits.
+2.	 Economic rationality implies that the value of the marginal consumption of a good or service 
+can be measured by price.
+3.	 The neoclassical analysis of the market is based on considering small changes in consumption 
+and production. This extends to the neoclassical view of the environment.
+331
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+4.	 The outcome of a market economy, in terms of prices, quantities and the distribution of eco-
+nomic welfare, depends on the initial distribution of economic assets. Different distributions or 
+reallocations of assets give different outcomes. It is frequently pointed out that under certain 
+conditions, the operation of the market may be efficient, but it may not be equitable. It may be 
+possible to assess the efficiency of a market economy in an objective manner, but evaluation of 
+the equity of a market outcome is a value judgement.
+Externalities
+The idea of externalities can be used to analyse many, but not all, types of environmental degrad­
+ation. Externalities occur when the actions of one economic agent affect other economic agents 
+and the actions are not controlled through the operation of the market. Externalities have two 
+related causes: lack of individual property rights, and jointness in either production or consump-
+tion (Baumol and Oates, 1988). Individual property rights are exercised over goods, services and 
+factors of production and allow markets to function efficiently. With a complete set of individual 
+property rights, all the effects of an action are controlled by the market, since consumption of a 
+good or service and use of a factor require payment to the owner. Beneficial or positive external­
+ities are likely to be undersupplied by a market, and negative externalities are likely to be over-
+supplied. For an externality to continue to exist, it is usually presumed that jointness in either 
+production or consumption is involved.
+An example of negative environmental externalities and economic development can be seen in the 
+building and operation of the Manantali and Diama hydroelectric dams in Mali (see Bond et al. (2001) 
+for details and evaluation of the external effects of these hydroelectric dams). These dams generate 
+cheap electricity, which has been distributed to Mali, Senegal and Mauritania since 2001. Downstream 
+from the dams, the annual floods have been reduced and this has decreased agricultural productivity. 
+Additionally, the elimination of salt water intrusion through the building of these dams has led to an 
+increased incidence of bilharzia and other health problems. Thus, the building and operation of these 
+hydroelectric dams has imposed external costs on those living and working downstream of the dams.
+These (negative) externalities are caused by jointness in production of electricity. At the same 
+time as electricity is being generated, the water system is being altered and this causes health and 
+productivity effects. The economic cause of the externalities is that no markets exist in the man-
+agement of water systems. In particular, there are not clear, legally enforceable rights to the owner-
+ship and services of the water system downstream. A simple model is developed in Figure 12.2 of 
+the interests of the electricity generators and the downstream population.
+The downstream environmental degradation by the generators produces a benefit to the econ-
+omy as it allows the production of electricity. This is denoted by the marginal benefit MB curve (meas-
+ured in dollars) and is assumed to be downward sloping. The downward slope can be justified by a 
+lower price being obtained for the sale of electricity as more is produced. The environmental effects 
+are mostly negative and are represented by an upward sloping curve, the marginal cost MC of environ-
+mental degradation. There is a threshold effect below which there is no environmental damage as the 
+environment can absorb a minor change in the water system without any cost. The curve then slopes 
+upwards as the environment has difficulty in coping with the increased environmental degradation.
+The neoclassical view is that there is an optimal level of environmental degradation at which 
+the marginal benefit is equal to the marginal cost, point X in Figure 12.2. Whether this level of 
+degradation is small or large depends on the shape of the marginal benefit and cost functions. This 
+conclusion considers environmental effects purely from the point of view of efficiency. However, 
+332
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+it should be remembered that outcome X may be efficient, but if the costs imposed on the inhab-
+itants are relatively large, the resulting distribution of welfare may not be desirable.
+The operation of a market economy is unlikely to lead to an efficient outcome. The downstream 
+inhabitants’ environment is being degraded by the actions of the generators. In an economy with 
+a complete set of individual property rights over all economic assets, the inhabitants or the gen-
+erators would own the property rights to the environment. If the inhabitants owned the rights, 
+the generators would have to pay to be allowed to degrade the environment. In the case of the 
+generators owning the rights, the inhabitants would have to pay the generators to restrict environ-
+mental degradation. In reality, such property rights are likely to be ill-defined, particularly across 
+national boundaries. It might be expected that no market controls this environmental degrad­
+ation. Generators are likely to continue to degrade the environment until the marginal benefit to 
+them of degradation is zero, point Z in Figure 12.2.
+This analysis is one of market failure. A conventional reaction to market failure is to suggest 
+the intervention of the state to secure a more efficient outcome. There are four feasible policies 
+that have been suggested as solutions to this type of externality problem: Pigovian taxes and sub-
+sidies, named after A.C. Pigou, well-known Cambridge economist; Coasian bargains, named after 
+Ronald Coase, Nobel Prize-winning economist; marketable permits; and administrative action 
+and legislation (see Perman et al., 2011).
+The Pigovian tax solution imposes an environmental use tax on the generators of the value 
+of the marginal cost of degradation at the point of the optimal outcome X. This forces the gen-
+erators to take account of the costs they impose on the inhabitants. This is shown in Figure 12.3, 
+where the generators face a new marginal benefit MB’ of environmental degradation schedule 
+that includes the tax (t).
+Generators will, out of self-interest, choose the efficient level of degradation. Examples of Pigovian 
+taxes have recently been observed in several countries that have started to charge for plastic shop-
+ping bags in an effort to reduce the associated pollution caused by plastic in the environment. 
+ 
+0
+C
+MC
+MB
+B
+A
+$
+X
+Z
+Environmental
+degradation
+Figure 12.2  Marginal benefits and environmental costs of a dam
+333
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+A Pigovian subsidy could alternatively be given to generators to reduce environmental degradation 
+and a similar solution occurs. An example of such a subsidy is the payment made to generators of 
+carbon emissions in Australia under the Emissions Reduction Fund introduced in 2014.
+When attempting to increase the supply of positive externalities, it has become widely 
+accepted that payments to correct market failure are legitimate. In this case, the provider gets 
+principle as opposed to the polluters pay principle is applied. An example of this approach that 
+has gained much attention by policy-makers is the payment for ecosystem services approach 
+(Pagiola et al., 2005). This policy mechanism rewards farmers and landowners for maintaining and 
+producing environmental goods and services that are typically undersupplied because of classic 
+market failure. However, the Pigovian solution suffers from a number of problems.
+Let us consider the dam example again. First, it is difficult to quantify and value the costs and 
+benefits of environmental degradation (this point is returned to later). The benefits and costs are 
+not likely to be uniform across different dams, which implies the complication of different tax 
+rates. Second, many of the downstream inhabitants are not part of the cash economy and the 
+state is unlikely to be able to tax and regulate generators or afford the cost of subsidies.
+The Coasian bargain solution assumes that individual property rights are established and 
+economic agents bargain an efficient outcome. If individual property rights over the environment 
+are given to inhabitants, then generators have an incentive to bargain and pay to be allowed the 
+right to degrade the environment, as their marginal benefit exceeds inhabitants’ marginal cost at 
+the origin in Figure 12.3 above. The potential efficiency gains of this bargaining are represented 
+by the area ABC. Similarly, if the generators are given the property right, there are incentives 
+for the inhabitants to pay the generators to reduce degradation from the point Z. The Coasian 
+solution suffers from the major problem of how property rights are established. Additionally, 
+there are incentives for individuals to free ride on the contributions that others make to reduce 
+externalities. It is difficult to see how bargains can be enforced when there are many inhabitants. 
+Finally, in many cases, the transaction costs of negotiating a Coasian bargain may be high and are 
+likely to prevent such solutions from emerging.
+0
+C
+MC
+MB
+$
+X
+A
+Z
+Environmental
+degradation
+t
+B
+MB' = MB – t
+Figure 12.3  Taxation, marginal benefits and costs of a dam
+334
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+In the real world, it is rare for Coasian bargains to occur as solutions to environmental prob-
+lems. The Global Environment Facility (GEF, www.thegef.org), which was established in 1991, 
+could be interpreted as such an example. The GEF is a partnership of many countries and inter-
+national organizations that addresses global environmental issues, and receives donations from 
+many sources, including countries, research institutions and so on. The GEF provides grants to 
+countries to address global problems such as climate changes and pollution of international 
+waters, and was charged with funding mechanisms to help achieve the three Rio Conventions 
+(climate change, biodiversity and desertification) of the 1992 Rio Earth Summit.
+The issuing of marketable permits that give the bearers the right to pollute is a potentially 
+elegant and efficient means of solving the problem of pollution and externalities such as global 
+warming and gas emissions. The size of the issue of permits directly controls the level of total pol-
+lution. Potential polluters have to decide whether to reduce their pollution or use their own or 
+purchased permits. This should result in the set level of pollution being obtained at the least cost. 
+Tietenberg and Johnstone’s review (2004) shows that the use of different types of tradable permit 
+schemes have increased and are often regarded as a valuable policy tool. A tradable permit ‘cap 
+and trade’ scheme lay behind the operation of the Kyoto Protocol to reduce global warming gas 
+emissions, and it is also an available policy instrument for the new global policy approach that 
+is attempting to reduce carbon emissions. The operation of tradable permit schemes does not 
+have universal support. There has been little investigation of the use of schemes by developing 
+countries, and experience suggests problems with their operation and outcomes; for example, in 
+2008 the European Commission responded to criticism of the EU Emissions Trading Scheme (EU 
+ETS) by implementing major changes. However, as policy-makers continue to gain experience, 
+the introduction of tradeable permit-type schemes has increased; one important example being 
+California’s Cap-and-Trade Program, which began in 2013, and is second in size after the EU ETS. 
+Ellerman et al. (2016) provide an overview of how the EU ETS has evolved and attempted to deal 
+with the various challenges it has faced in practice.
+The fourth solution to the externality problem is command and control. This approach takes 
+action to ensure that the externality is reduced to a lower level. The usual examples of this solu-
+tion are fixed standards backed up by legal sanctions, for example maximum allowable levels of 
+environmental degradation. The actions taken by the Mali government to deal with the environ-
+mental problems caused by the previously mentioned Manantali energy project have taken many 
+forms. The government enforced standards and monitored the building of the project. A reservoir 
+management plan was developed to help irrigate downstream areas, affected land was purchased, 
+people were resettled, and health programmes were implemented. These measures are practical, 
+but do not have the theoretical elegance of the three previous solutions.
+The one major problem facing all solutions to the problem of dealing with externalities is 
+assessing their physical nature and calculating their economic value. This is discussed later in the 
+section on the Stern Review (Stern, 2006) on the costs and benefits of preventing climate change. 
+In particular, the uncertainties surrounding environmental effects and their economic value are 
+discussed.
+Common property rights
+The common ownership of a renewable resource is likely to lead to an important externality. Such 
+circumstances are frequently referred to as the tragedy of the commons. However, Dasgupta 
+(1982) has forcefully argued that there has been considerable confusion over the economic 
+335
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+­
+analysis of this problem. In many cases, the confusion stems from describing something as being 
+common property when, in fact, it is open access. With open access, anybody can access the 
+resource in question. An example would be the oceans. In contrast, ‘common property’ refers to a 
+situation in which a closed group of individuals have access to a resource, such as a grazing com-
+mon or an area of forestry. The analysis is frequently considered in terms of the example of cattle 
+farmers grazing their animals on commonly owned land. The rational individual farmer will use 
+common land without regard to the cost this use imposes on all other farmers. This behaviour is 
+a negative externality and is inefficient. The cost imposed on other farmers is the exhaustion of 
+the fertility of the soil. This effect will decrease the future value of the resource to farmers. In this 
+sense, the problem of the commons is an intertemporal externality. However, it is not the case 
+that use of the common property resource of grazing land necessarily destroys the usefulness of 
+the land. The extent of overgrazing depends on the private cost of rearing animals, their market 
+value, and the ability of the land to support a large number of animals. Nevertheless, appropriate 
+cooperative action by farmers to reduce overgrazing would increase the economic welfare of the 
+farmers as a group.
+The negative implications that stem from the tragedy of the commons were challenged by 
+Elinor Ostrom (1990). The importance of her work resulted in her being awarded the Nobel Prize 
+for Economics in 2009.
+Elinor Ostrom
+Born 7 August 1933. Died 12 June 2012. Taught for most of her life at 
+the University of Indiana, USA, where she established, with her husband, 
+the Workshop in Political Theory and Policy Analysis to study how insti-
+tutional arrangements affect behaviour and policy outcomes in diverse 
+settings, particularly the efficient management of natural resources. 
+Awarded the Nobel Prize in Economics in 2009 for showing how the 
+problem of the tragedy of the commons can be ‘solved’ by appropriate 
+action.
+Ostrom’s analysis of common property resources was based on a series of studies that explained 
+that the tragedy of the commons did not always result simply because of an absence of property rights. 
+(see Case example 12.1 for an example of such an institutional arrangement). This was because, as she 
+identified, in many different circumstances, a set of institutional arrangements can emerge that allow 
+the common property to be efficiently managed and, as a result, the negative externalities that are fore-
+cast to remain are nothing but a theoretical possibility. Her work also showed that voluntary arrange-
+ments, that is, institutional structures that do not need the direct involvement of the state, could bring 
+about these alternative forms of resource management, such that voluntary management yields a 
+more sustainable resource management outcome than that achieved by state intervention. In addition, 
+her research also explained when the necessary conditions for the voluntary arrangements will begin to 
+unravel and potentially fail. In particular, she identified that voluntary arrangements struggle to work 
+when confronted with ever-increasing numbers of parties, when there is lack of social capital that exists 
+between the economic parties, such that trust cannot be taken as a given (see Ostrom, 2000).
+336
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+The discount rate
+The degradation of the environment reduces the supply of environmental services in the future. 
+Economic analysis of the environment requires a means of comparing the benefits and costs of 
+environmental effects in the present and the future. This comparison is usually made through a 
+weighting device called the discount factor. The practice of discounting environmental costs and 
+benefits has caused much confusion and dispute.
+In a neoclassical model of the behaviour of individual economic agents with finite lives, the dis-
+count rate is simply the market rate of interest. The level of the market rate of interest is the out-
+come of the preferences of individuals for present consumption over future consumption and the 
+physical possibilities of transforming present consumption into future consumption. However, 
+even with a set of perfect capital markets, the resulting intertemporal allocation of resources is 
+unlikely to be socially efficient for a number of reasons.
+First, the outcome of perfect capital markets reflects the preferences and actions of those 
+presently alive. All individuals will eventually die and presumably value their own consumption 
+more highly than that of their descendants. This implies the market outcome may underweight 
+the consumption of future generations. It might be argued that the state should decide on a dis-
+tribution of economic welfare over time that favours future generations more. Alternatively, it has 
+been argued that technical progress will increase future incomes, and fairness requires redistribu-
+The phrase ‘tragedy of the commons’ can be traced back to Hardin (1968) and his 
+classic paper on the inappropriate management of many types of natural resource. 
+Fisheries in the open oceans are an example, as there are an unconstrained number of 
+potential fishers that have no limits on access to the resource and the rate at which the 
+resource is harvested. In such a world, no one fisher has an incentive to reduce effort as 
+somebody else will simply harvest the fish that are not taken.
+A well-documented example of this problem is the impact of open access fishing 
+on the southern bluefin tuna. Tuna in general and this species in particular have been 
+heavily overfished by a number of countries. Southern bluefin tuna are a migratory 
+species of pelagic (live in the open oceans) fish that attract a high price because of 
+demand from the Japanese sashimi market. As anticipated by Hardin, the value at-
+tached to this species and the fact that they are pelagic have led to excessive fishing 
+that resulted in serious population decline, especially in mature adult fish. In an effort 
+to manage these effects, the existing voluntary management arrangement between 
+Australia, Japan and New Zealand was formalized in 1993 by, first, the Convention for 
+the Conservation of Southern Bluefin Tuna and then, in 1994, the Commission for the 
+Conservation of Southern Bluefin Tuna (www.ccsbt.org). Since 1994, more countries 
+have agreed to abide by the management rules implemented by the commission; for 
+example, South Africa joined in 2016.
+Although the spawning biomass of the southern bluefin tuna is very low by his-
+torical levels, estimates in 2014 indicated a small improvement compared to 2011. This 
+shows that the problems of resource management identified by Hardin can be resolved 
+if economic agents are willing to cooperate and not simply view a natural resource as 
+an asset to be used without thought for the future.
+Case example 12.1
+The tragedy of the commons: southern bluefin tuna
+337
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+tion from future generations to the present. However, it is unclear how the state can easily decide 
+which distribution should be preferred (see Pearce et al., 2006).
+Second, even with regard to the preferences of the present generation, the market outcome 
+may be inefficient. The present generation may wish to save for the benefit of future generations. 
+This can lead to two types of market failure, the assurance problem and the isolation paradox 
+(Sen, 1967). Both phenomena are examples of externalities. The assurance problem concerns sav-
+ing by one individual for future generations, which benefits all other individuals in the present 
+who place a value on the consumption of future generations. Thus, the market aggregate level of 
+saving is inefficient and the market rate of interest undervalues future consumption. Aggregate 
+saving would be increased if individuals were assured that their additional savings would be 
+matched by other altruistic individuals.
+The isolation paradox concerns the value individuals place on their descendants’ consumption 
+compared with that of the rest of future generations. If the return from saving for the benefit of 
+future generations cannot be captured entirely by an individual’s descendants, then it is likely that 
+even perfect capital markets will provide an inefficient level of saving.
+Imperfections in the capital market are widespread and there is no unique interest rate or dis-
+count rate. Instead of the use of an observed market interest rate, the ‘social opportunity cost of 
+capital’ has been used as a measure to discount the future. The social opportunity cost of capital 
+measures the social value of a loss of one unit of capital in the economy to fund the proposed 
+investment. If resources to fund a project displace other investments, rather than consumption, 
+the social opportunity cost of capital is the correct measure of the cost of capital. However, there 
+are practical difficulties in calculating the social opportunity cost of capital.
+The effect of the discount rate on environmental degradation is unclear. A low discount rate 
+weights future consumption more heavily and might be thought to give a better future environ-
+ment than a higher rate. However, most investments have costs at the beginning of their life and 
+benefits thereafter. Thus, a lower discount rate will make these investments appear more attract­
+ive as weighted future benefits will increase relative to present costs. Increased investment and 
+the consequent economic growth may lead to more environmental degradation.
+The harvesting of renewable resources
+Renewable resources are those whose stock is capable of growth as well as depletion. Renewable 
+resources are usually thought of as experiencing growth and regeneration through a biological 
+process. Fisheries, forests and the previous example of common pasture land are all examples of 
+renewable resources. The neoclassical analysis of renewable resources considers efficient harvest-
+ing, while biologists are often concerned with the maximum sustainable yield (MSY) that can be 
+obtained from the resource. These two ideas are examined in the context of a fisheries example.
+The growth of the stock of fish, DX, depends on the stock, X. This relationship is shown in 
+Figure 12.4. Below a critical level, Xc, the stock is in danger of terminal decline as it is not capable 
+of replication. The existence of a critical level may be explained by difficulties in reproduction. 
+Above this level, growth is positive. Eventually, the growth declines because of competition for 
+food supplies or the effects of predators. The MSY occurs at the point of greatest absolute growth.
+The efficient use of the fish stock is examined by considering a simple model in which harvest-
+ing is costless. The objective is to maximize the social value of the stock over time. The social gain 
+is examined in connection with reducing the harvesting of fish and allowing the present stock 
+to increase by one unit. The present marginal social value of one unit of fish is denoted by v. 
+ 
+338
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+The marginal productivity of the stock, F9(X), represents the change in growth from increasing the 
+stock by one unit. The social value of this gain is v F9(X). The marginal social value of an additional 
+unit of fish in the second period is (v 1 Dv), where Dv is the change in social value between the 
+first and second periods. With a discount rate of r, the present value of an additional unit of stock 
+in the next period is:
+vFr(X) 1 (v 1 Dv)
+1 1 r
+
+(12.1)
+The marginal social value of consuming one unit of fish in the present period is v. Thus, if equation 
+(12.1) exceeds v, an increase in social welfare can be obtained by reducing the level of harvesting. 
+This condition can be written more simply as:
+Fr(X) 1 Dv/v . r
+(12.2)
+This condition has a simple interpretation. If the marginal productivity of the stock plus the pro-
+portionate gain in the value of the stock over time exceeds the discount rate, then it is efficient 
+to reduce harvesting. A reduction in the harvest increases the stock, which is likely to decrease 
+F9(X) (see Figure 12.4). A reduction in the harvest means consumption will fall and the marginal 
+social value of present compared with future consumption will increase. These two effects may be 
+expected eventually to give equality in equation (12.2), and thus efficiency.
+Equation (12.2) has two important implications. First, the efficient outcome is not the same as 
+the MSY, as the latter is given by F9(X) 5 0. Second, for species that have a low marginal productiv-
+ity of stock and whose value does not increase appreciably with decreasing stock, extinction may 
+be an efficient outcome.
+The present analysis is concerned with maximizing the social value of the fish stock over time. 
+It is appropriate to consider whether the efficient outcome can be achieved through a market 
+system. The fisheries example is another case of common property rights. In the discussion of 
+common property rights, it was seen that it can be difficult to establish individual property rights 
+for renewable resources such as fisheries, forests and pasture land. Thus, the market use of such 
+renewable resources is likely to be inefficient.
+If the property rights for the resource are given to a few individuals, this will affect the dis-
+tribution of economic welfare and will result in monopoly power. Private monopoly control 
+Growth(∆X )
+Xc
+Xmsy
+Stock(X )
+F(X )
+0
+Figure 12.4  Relation between the growth and stock of a renewable resource
+339
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+of a renewable resource may result in its inefficient use, as marginal (private) revenue rather 
+than social value would appear in equation (12.2) and, in order to maximize profits, the 
+monopolist may restrict the use of the resource below the efficient level (see Hanley et al., 
+2013).
+Non-renewable resources
+Non-renewable resources cannot be regenerated over time. The present use of one unit of such a 
+resource prevents it from being used in the future. The finite levels of these resources means that 
+they are often referred to as ‘exhaustible resources’. This suggests that non-renewable resources 
+should be used with care.
+There are many estimates of the stocks of non-renewable resources. Calculation of the known 
+reserves of a non-renewable resource has to be made in the context of the extraction cost and 
+the price of the resource. It is considered inappropriate to include in estimates of reserves sources 
+for which the cost of recovery exceeds the current price or for which there is no proven extrac-
+tion technology. ‘Proven reserves’ refer to those sources that are presently known. It is likely that 
+there are sources yet to be discovered. However, uncertainty means that it is difficult to calculate 
+meaningful estimates for unproven reserves.
+The depletion of a non-renewable resource can be analysed in terms of the objective of maxi-
+mizing the social value of the stock. Figure 12.5 considers a one-period model and the maximiza-
+tion of the economic rent from extracting a mineral that has a price P. The economic rent is the 
+area between the price and the marginal cost curve. If the price is equal to the marginal social 
+value of consumption, a perfectly competitive industry will extract the resource up to the point 
+Q0, which is a socially efficient outcome. A monopoly faced with a downward sloping demand 
+curve is likely to restrict output below Q0, which is inefficient.
+The optimal depletion of a non-renewable resource over time can be analysed in a similar 
+manner to the harvesting of a renewable resource. Again, the objective is maximization of the 
+social value of the stock over time. The decision to extract a non-renewable resource is simpler, in 
+Q0
+P0
+$
+Q
+MC
+0
+Economic rent
+Figure 12.5  Economic rent and the use of a non-renewable resource
+340
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+that there is no marginal productivity of the stock to consider. It is assumed that the extraction of 
+the resource is costless. The resource should be further conserved if:
+Dv
+v  . r
+(12.3)
+E
+(12.3) has a simple interpretation. If the relative appreciation of the social value of the 
+resource is greater than the discount rate, then more of the resource should be saved for the 
+future.
+For an efficient outcome, the social value of marginal consumption should be increasing at the 
+rate r. This implies (through integration) that v is given by the function n0ert, where v0 is the social 
+value at time zero. If a constant marginal cost of extraction (mc) is introduced into the analysis, 
+the efficient outcome gives the equation:
+n(t) 5 mc 1 n0ert
+(12.4)
+E
+(12.4) reflects the optimal depletion path. It is possible for a perfect market to give this 
+outcome. In this case, the optimal price path is given by:
+p(t) 5 mc 1 r0ert
+(12.5)
+The r0ert term is referred to as the discounted rental premium. It may be interpreted as the social 
+cost of consuming the resource in the present rather than in the future.
+As before, if the price is equal to the marginal social value of consumption, a perfectly com-
+petitive market will maximize social welfare across time. A monopoly may restrict the use of the 
+resource below the efficient level and the price path will be inefficient (see Hanley et al., 2013).
+It has been pointed out by Kay and Mirrlees (1975) that, for reasonable discount rates, one 
+would expect the optimal price to be close to marginal cost for most of the lifetime of a non-
+renewable resource.
+Other environmental values
+It is a central tenet of neoclassical economics that prices should reflect the marginal costs of 
+production. In a competitive economy, prices may reflect private marginal costs, but there are a 
+number of other types of social costs that should be taken into consideration (see Garrod and 
+Willis, 1999). First, the external costs imposed on other individuals should be taken into account. 
+(The remaining values could strictly be classified as private or external costs, but for the purpose 
+of exposition they are separated into different categories.)
+Second, the economic rent in the use of non-renewable resources should be included in social 
+marginal costs. As noted before, the economic rent may be regarded as a premium that has to be 
+paid for the use of the resource in the present rather than in the future.
+There are four other types of value that have not yet been considered: option, quasi-option, 
+existence and bequest values:
+1.	 An option value is the value placed on an option that allows use to be made of the environ-
+ment in the future. Option values depend on attitudes to uncertainty, such as risk averseness. 
+The option is not necessarily taken up, but it gives value. An example of an option value is 
+341
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+biodiversity. The protection of species of animals and plants may be desired in order to allow 
+possible future uses of these species as inputs to production, and because many individuals 
+may wish to have the opportunity of seeing these species in the future.
+2.	 Quasi-option values are the values placed on an option given an expectation that there will 
+be increases in knowledge. For example, the value of certain plant species may depend on the 
+development of knowledge of new uses of the plants.
+3.	 Existence value is the value placed on a good or service independent of any actual or possible 
+future consumption. This value is different from the other types of value in that it is unrelated 
+to use. An example of existence value is the concern expressed by many individuals for the 
+preservation of elephants, even though they are unlikely ever to see them at first hand, or use 
+this resource.
+4.	 Bequest value, as the name suggests, is when an economic agent wishes to pass on resources 
+to members of future generations.
+Thus, the total social cost comprises seven components:
+social cost 5 private cost 1 external cost 1 rental premium 1  
+option value 1 quasi-option value 1 existence value 1 bequest value
+(12.6)
+Efficient allocation requires consideration of all seven components of social costs.
+Measuring environmental values
+The analysis of this chapter suggests that a market economy will not value all aspects of the 
+en­
+vironment appropriately. This view is widely held and has led to much intellectual and practical 
+effort being applied to the problem of how to introduce appropriate environmental values into 
+economic decision-making. The following discussion considers the introduction of environmental 
+considerations into social cost–benefit analysis and national income accounting.
+Appraisals of many investment projects in developing countries now include environmental 
+impact assessments (EIAs) that estimate the environmental effects of the projects. This should 
+be the first stage of the introduction of the environmental effects of a project into social cost–
+benefit analysis. Often, it is very difficult to assess a project’s physical effects on the environment. 
+For example, the British government argued that the Stern Review (Stern, 2006) had underesti-
+mated the physical impacts of climate change. EIAs can rarely firmly establish the type and extent 
+of environmental effects of projects. Thus, the introduction of previously unconsidered environ-
+mental effects into economic decision-making should take account of this uncertainty.
+Once the environmental effects of a project have been estimated, there are four approaches 
+to placing economic values on the effects (more precise details and discussion of economic valu-
+ation can be found in Garrod and Willis, 1999). First, the basic valuation technique in social cost–
+benefit analysis is to use market prices. This is justified by the neoclassical assumption that prices 
+reflect the social value of goods and services. In the case of environmental effects in developing 
+countries, markets and prices may not exist for many of the effects that require valuation. For 
+large environmental effects, the project may actually alter prices. In this case, the changes in the 
+values placed on environmental effects should be modelled. In practice, this is often impossible.
+If we are unable to employ market prices, then it is necessary to employ one or more of the 
+large number of valuation methodologies developed by economists. These methodologies have 
+been developed using varying degrees of economic theory and statistical methods. Figure 12.6 
+342
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+gives an overview of these methods. In this context, economic value is referred to as ‘total eco-
+nomic value’, which can be estimated in part or full by either employing non-demand (a theoret­
+ical) curve approaches or demand (theoretically consistent) curve approaches.
+Thus, the second approach calculates the value of environmental effects indirectly through 
+observed economic behaviour; this set of methods is shown on the left-hand side of Figure 12.6. 
+Within this approach, there are a number of different techniques. One is the mitigating behaviour 
+approach, which takes the expenditure that people are prepared to undertake to prevent degrad­
+ation as a measure of the value of the environmental effects. Another is the replacement cost 
+technique, which estimates the expenditure people are prepared to undertake to restore the envi-
+ronment to its previous state after degradation has occurred. (These expenditures and costs may 
+be difficult to observe and both techniques often require experts to estimate them.) The full long-
+term consequences of environmental effects may not be understood. Not all environmental effects 
+can be fully offset by preventive expenditure and the environment cannot always be restored after 
+degradation. Such problems may be particularly important for large changes in the environment, 
+Total economic
+value
+Non-demand
+curve approach
+Express
+preference
+methods
+Contingent
+valuation
+Choice
+experiments
+Travel cost
+method
+Revealed
+preference
+methods
+Hedonic pricing
+method
+Demand curve
+approach
+Dose-response
+methods
+Replacement cost
+Mitigating
+behaviour
+Opportunity cost
+Effect on
+productivity
+Figure 12.6  An overview of economic valuation methodologies
+343
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+for example changes in the ecology of a large watershed, and climate change. The ability of individ­
+uals to fund these expenditures may be limited by imperfect capital markets. For these reasons, it 
+is usually thought that the two techniques may underestimate environmental costs.
+The production function approach (or effect on productivity approach) values environmen-
+tal impacts by their effects on production. Thus, part of the environmental impact of a change 
+in climate conditions could be valued through the effects on agricultural output. Another exam-
+ple is the valuation of environmental health effects by estimating changes in the productivity of 
+affected individuals. This implies that the value of life is only determined by production and there 
+are no psychic costs to ill health and early death.
+The third approach is typically referred to as the revealed preference approach and these 
+methods are shown on the right-hand side of Figure 12.6. Why revealed preference? In the absence 
+of a market for an environmental effect, it is sometimes possible to derive the value placed on the 
+effect by the prices paid for other goods and services that implicitly value the effect. For exam-
+ple, property values vary with location, and this may, in part, reflect differences in the environ-
+ment. The hedonic prices method can produce estimates of the contribution of differences in the 
+en­
+vironment to the prices of property. This can be used to give an estimate of the implied value 
+of certain environmental qualities. In developing countries, there are often significant imperfec-
+tions in markets, for example rent controls, which affect the validity of the technique. The hedonic 
+price method requires large amounts of data. It is often difficult to measure the environmental 
+quality that is being considered. The importance of the environmental variable may not be prop-
+erly understood by individuals. These problems limit the usefulness of this technique, particularly 
+in developing countries.
+In contrast, the travel cost method values the time and costs that people are willing to incur 
+in travelling to areas with more pleasant environments. Thus, the method gives an implied value 
+of environmental quality. The formal assumptions of the model and its applicability to developing 
+countries have been criticized (see Garrod and Willis, 1999). The method implicitly considers the 
+environment in terms of the provision of recreational services rather than basic life support services.
+The fourth approach to valuing environmental effects is referred to as the stated or expressed 
+preference approach and these methods are shown in the middle of Figure 12.6. In this case, 
+survey instruments are developed that are used to directly ask the public how much they might 
+be willing to pay for a specific environmental outcome. The original stated preference approach is 
+contingent valuation. A subset of the population is surveyed and asked for their valuation of the 
+environment. There are two ways in which this question can be asked. Individuals can be asked 
+about either their willingness to pay for an environmental benefit or their willingness to accept 
+compensation for a loss of environmental quality. Economic theory suggests that the answers to 
+the two types of question should be similar. In many surveys, willingness to accept compensation 
+questions receive much higher responses. The questions asked are hypothetical and those sur-
+veyed may not be familiar with the environmental effect/resource being surveyed. Respondents 
+may respond to questions strategically, and there is evidence of other forms of bias in the replies 
+to surveys. The responses of individuals may reflect the context of the survey question. Thus, for 
+example, individuals could, with appropriate questions, be induced to respond as citizens con-
+cerned with the public interest rather than as consumers pursuing their own self-interest. It is not 
+always clear how to gross up the response from a survey to represent the general population’s 
+valuation of an environmental effect.
+More recently, choice experiments have become a popular stated preference methodology. 
+Like contingent valuation, they also make use of a survey but they do not directly ask what a 
+specific environmental good or service is worth. Instead, by drawing on Lancaster’s (1966) theory 
+344
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+of demand, they frame economic choices in terms of the attributes of a good or service that a 
+consumer will consider when making a choice (Hensher et al., 2015).
+Finally, benefit transfer is an alternative approach to all the above. As the name implies, bene­
+fit transfer takes existing benefit estimates and uses them in related or similar contexts. In recent 
+years, this practice has become much more straightforward with the development of databases 
+containing the results of many earlier valuation studies, such as the Environmental Valuation 
+Reference Inventory (www.evri.ca). This approach can be useful if primary valuation research 
+has not or cannot be conducted. However, there are potentially many biases that can occur in 
+undertaking this approach and, as such, much of the research and application of this approach is 
+directed at attempting to minimize biases that can occur in practice.
+In summary, the valuation of environmental benefits and costs is essential to improving eco-
+nomic decision-making on the environment, and social cost–benefit analysis has developed vari-
+ous techniques to this end. However, there remain theoretical and practical problems with the use 
+of all these techniques (IPCC, 2014a).
+National income accounting
+The neoclassical approach to economic analysis assumes that consumption in its widest sense is, 
+and should be, the objective of economic activity. The ethical issues concerning whose consump-
+tion should be considered were examined in Chapter 8. The conventional approach is to measure 
+economic welfare in terms of per capita income. This approach has been widely criticized and 
+alternative measures have been proposed, many of which emphasize the importance of account-
+ing for the environment.
+Measures of economic welfare have to be judged in terms of their theoretical definition and 
+practical application. The most obvious measure of current economic welfare is per capita current 
+consumption. Current consumption can be increased by reducing investment and thus future 
+consumption. This suggests that economic welfare in one period should be defined relative to 
+a fixed capital stock. So, additions to capital stock, although not increasing current consump-
+tion, should be reflected in a measure of economic welfare as they allow increases in future con-
+sumption. This idea underlies the conventional definition of income (see Hicks, 1946): ‘A person’s 
+income is what he can consume during the week and still expect to be as well off at the end of the 
+week as he was at the beginning.’
+There are many conceptual and practical problems with the definition of income, so only those 
+directly concerned with accounting for the environment are examined here. Environmental degrad­
+ation can be mitigated by the actions of economic agents, for example soil erosion can be reduced 
+by planting forests. In national income accounts, such defensive expenditures are taken as giving 
+rise to increases in economic welfare rather than as attempts to maintain the environment. It is 
+commonly argued that these expenditures should be excluded from measures of economic welfare 
+and account be taken of the environmental effects that give rise to these expenditures.
+Environmental degradation affects economic welfare as individuals directly consume environ-
+mental services, for example unpolluted air. As there is not always a market in such services, or 
+only an indirect one, they are not recorded in national income accounts. Degradation also reduces 
+the productive potential of the environment, for example non-natural causes of soil erosion 
+ 
+and reductions in the ability of the environment to absorb waste products. Reductions in the 
+product­
+ive potential of the environment are examples of the depreciation of the stock of natural 
+capital. These types of change are not recorded in national income accounts.
+345
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+The use of non-renewable resources, for example fossil fuels, is not allowed for in a correct 
+manner in national income accounts. These resources are part of the natural capital of the 
+en­
+vironment. Their use in the present reduces the supply available for future generations. National 
+income accounts consider the use of non-renewable resources as a simple productive activity. It 
+should also be considered as a depreciation of natural capital. (A similar analysis applies in the 
+case of renewable resources, as regeneration can require time and investment, and thus present 
+consumption of renewable resources can impose costs on future generations.)
+At the international level, there is the London Group on Environmental Accounting, a UN 
+research group that has attempted to update and modify the System of National Accounts (SNA) 
+to take account of environmental issues in a manner consistent with the SNA. The result was 
+the development in 1993 of the System of Environmental-Economic Accounting (SEEA) (unstats.
+un.org/unsd/envaccounting/seea.asp). The SEEA has adopted some of the ideas that have been 
+developed by economists to extend the SNA but there are limits to the modifications that are 
+considered, as there is the need to maintain consistency with the SNA.
+There have been four general responses to the failure of national income measures to account 
+for the environment, some of which have been adopted within the SEEA, but many of which have 
+not and go far beyond the modifications considered by the London Group. The first method fol-
+lows Nordhaus and Tobin’s (1972) calculations of measures of economic welfare, which attempt 
+to recalculate national income accounts to allow for environmental effects. Progress on devel-
+oping measures of national income that allow for the use of natural capital and environmental 
+degradation has been slow for most developing countries, although the World Bank now reports 
+the value of natural capital in many developing countries. A report in Nature (1998) suggested 
+that adjusting for environmental effects may have reduced national income for Brazil, India and 
+Indonesia by 12–17% in the mid-1990s, but a more recent estimate using World Bank data on 
+adjusted national income for Taiwan suggests a reduction of only 1%. Allowing for the environ-
+ment can often give quite different estimates of economic welfare and economic growth.
+The second method of accounting for the environment follows the weak sustainability view 
+that total capital should be at least maintained. In this approach, the level of saving is calcu-
+lated and the depreciation of natural, man-made and other forms of capital is deducted. If the 
+resulting number is negative, this may be taken as evidence of unsustainable development. The 
+method is explained in World Bank (2002). Genuine savings (or adjusted net saving allowing 
+for changes in environmental capital stocks) are reported for many developing countries and 
+are sometimes negative. At the global level, genuine savings do not tend to evolve in a linear or 
+constantly increasing manner. Figure 12.7 indicates that there is a rising trend in genuine savings 
+globally but there can be significant year-on-year variations that indicate the problems faced in 
+constantly being able to achieve even weak sustainability.
+A third method of accounting for the environment in economic growth is to construct physical, 
+rather than monetary, accounts of the environment. These accounts divide up the environment 
+into different sectors and estimate the changes that have taken place over time. For example, the 
+use and discovery of mineral and energy resources would be recorded. The World Bank (2011) has 
+argued for the collection of physical indicators across time of the effect of human activities on the 
+environment and the effect of the environment on human activities (see www.worldbank.org).
+A fourth set of methods starts with national accounts and then makes a series of modifica-
+tions, many of which remove the underlying theoretical consistency of the accounts. However, the 
+motivation for making these changes is not to remain consistent with national accounting pro­
+cedures but to yield a measure of economic activity that better reflects economic, environmental 
+and societal policy objectives. An example that has attracted much attention is the ecological 
+346
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+footprint method. This approach has proved popular with environmentalists who do not feel 
+comfortable with simply relying on monetary measures of sustainability. The ecological footprint 
+has also proved useful as a way for environmentalists to highlight what they consider to be exces-
+sive levels of human consumption and use of the environment. For example, Edward O. Wilson 
+(2002), in his book The Future of Life, observes that if all individuals consume resources at the 
+same level as the average individual in the USA, then with the current state of technology, we 
+will require four additional planets. This powerful statistic is arrived at by converting all forms of 
+consumption into a land use equivalent measure. Unsurprisingly, it has added another dimension 
+to the ongoing debate about whether or not current levels of consumption are sustainable.
+Importantly, the four methods of accounting for the environment are not substitutes. The mon-
+etary approach of the first of the two methods also requires the calculation of physical accounts. 
+Physical environmental accounts are useful for considering ecological and environmental issues. 
+Monetary environmental accounts are useful as they reduce all effects to a common measure and 
+estimate a net figure for the use of the environment. However, because of the difficulty of doing 
+this, they have been criticized on theoretical and practical grounds (see Perman et al., 2011).
+Risk and uncertainty
+Risk exists where there is doubt about a future outcome and it is possible to estimate objective prob-
+abilities of the occurrence of different possible future outcomes. The outcome of a throw of a dice is 
+an example of risk. Uncertainty exists where there is doubt about the outcome and it is not possible 
+Figure 12.7  Global genuine savings, 1990–2014
+12
+10
+8
+6
+4
+Adjusted net savings (% GNI)
+2
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014
+0
+Source: World Bank staff estimates based on World Bank, 2011.
+Note: Adjusted net savings equals net national savings plus education expenditure minus energy depletion, mineral depletion, net forest deple-
+tion and carbon dioxide and particulate emissions damage.
+347
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+to estimate probabilities of the occurrence of the different possible future outcomes. It is difficult 
+to analyse uncertain events and most environmental analysis that considers risk and uncertainty 
+assumes, either explicitly or implicitly, that it is possible to estimate probabilities with some degree of 
+objectivity, that is, the circumstances are assumed to be those of risk rather than uncertainty.
+Uncertainty about the relationship between the environment and the economy complicates 
+analysis. As previous examples have shown, there is scientific dispute about many important 
+environmental effects. In the analysis of environmental policies, it is possible to distinguish two 
+approaches to managing this uncertainty.
+First, the different possible outcomes of a policy are predicted. Then probabilities are estimated for 
+these different outcomes, although these probabilities are necessarily subjective. It could be argued 
+that the notion of estimating probabilities for events such as global warming is not appropriate, as 
+they cannot be considered as repeated probabilistic events like the throwing of a dice. However, 
+recent studies have attempted to provide probability estimates of different levels of global warming 
+and Stern (2006) suggests that there is a 63–99% chance of warming exceeding 20C after a doubling of 
+greenhouse gas concentrations. Notwithstanding this, policy analysis could proceed by selecting the 
+most preferred policy on the basis of the probabilities of the different outcomes of the policies. If soci-
+ety is averse to taking risks, it can be shown that uncertain costs should be given more weight than the 
+expected value of costs, and uncertain benefits should be given less weight than their expected value.
+The alternative procedure is to select the mean estimates of the effects of different environ-
+mental policies. These estimates are then used to decide the most preferred policy. This pro­
+cedure is often used. The choice of the mean estimates is highly subjective. More importantly, this 
+approach does not take account of either risk or uncertainty.
+The potential importance of uncertainty in the area of environmental economics has been 
+highlighted by Pindyck (2007), who argues that the uncertainty society faces in the area of environ-
+mental economics is far more complicated than in any other area of economics for three reasons:
+1.	 The cost and benefit functions that describe the relationship between the economy and the 
+environment might be highly nonlinear, meaning that we struggle to understand the conse-
+quences of our actions.
+2.	 It is highly likely that there are important irreversibilities that exist in terms of policy choices 
+and decisions as well as environmental damages.
+3.	 Many of the most important environmental issues we confront have long time horizons, which 
+conventional project and policy appraisal techniques do not deal with very well.
+Economic growth and the environment
+Figure 12.1 above indicates that the environment is essential for economic activity and growth, and 
+shows the importance of the effects of economic growth on the environment. Environmentalists 
+have argued that unconstrained economic growth will lead to the exhaustion of non-renewable 
+resources and to levels of environmental degradation and climate change that will seriously affect 
+economic production and the quality and existence of life (Meadows et al., 1972; Forrester, 1971). 
+Economists who believe in the effectiveness of market-based policy instruments have responded 
+to these arguments (see Sterner, 2003).
+If markets operate effectively, the increased scarcity of non-renewable resources will increase 
+their prices. These higher prices will give incentives for changes in economic behaviour:
+•
+• The direct consumption of these resources may fall: for example, lower consumption of scarce 
+fossil fuels.
+348
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+•
+• There will be incentives to search for new supplies of these resources: for example, the level of 
+exploration for new oilfields will increase.
+•
+• The use of higher priced non-renewable resources in production will decline through substitu-
+tion with production techniques that are less intensive in these inputs: for example, production 
+will become less fossil fuel-intensive.
+•
+• Higher prices will encourage the development of new technologies that provide substitutes for 
+scarce resources: for example, non-fossil fuels such as ‘biomass’ or wind power – or utilize it 
+more efficiently: for example, fuel-efficient cars.
+Thus, efficient markets may provide a solution to the running down of non-renewable resources.
+Supporters of economic growth often argue that its contribution to environmental degrad­
+ation has been overestimated. Alternatively, there is a common view of the existence of opportun­
+ities for simultaneous economic development and improvement in the environment, as argued 
+by the World Bank (2001). However, the pursuit of these twin goals is usually assumed to require 
+the state to intervene and improve the operation of markets with regard to the environment.
+It has been argued by Grossman and Krueger (1995) that in the early stages of economic 
+development, the level of environmental degradation increases, but after this phase, the 
+environment improves with economic development, but it is important to note that CO2 
+emissions increase with the level of development (see T
+12.1 above). This proposition 
+is in line with the World Bank (1992) and the results that are reported at the beginning of 
+this chapter. However, there is an extensive debate on the relationship between the environ-
+ment and economic growth and development. In particular, the relationship has been char-
+acterized by an inverted U-shaped relationship, referred to as the environmental Kuznets 
+curve (see Hanley et al., 2013). The shape of this relationship between the environment and 
+economic activity could be explained by changes in the mix of output at different levels of 
+development, changes in the demand for the environment at different levels of income and 
+the policy responses to these demands, and the availability and use of more environmentally 
+friendly technologies in developed countries.
+All the different views of economic growth and environmental degradation considered here 
+are likely to be true in part. It is unlikely that the debates on the relationships between the environ-
+ment and the economy can be resolved through exhaustive scientific and economic investigation. 
+Economic and environmental policies have to be formulated and carried out on the basis of exist-
+ing uncertain and disputed evidence.
+Sustainable development
+Much of the vast literature on the environment and the economy could be interpreted as a 
+response to the concern that present patterns of economic growth may seriously degrade the 
+environment and may be unsustainable, as the environment cannot support economic growth 
+forever. This proposition may or may not be substantially true. At its heart lies the view that 
+past and present economic policies have usually been concerned with providing the conditions 
+for equilibrium economic growth, as measured by standard national accounting methods. Many 
+environmentalists are concerned that these policies have not attempted to ensure ‘the existence 
+of ecological conditions necessary to support human life at a specified level of well-being through 
+future generations’ (Lele, 1991). This concern is of major importance in the concept of sustainable 
+development. Sustainable development has perhaps become the most important approach to 
+considering the environment and development.
+349
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+There is a wide range of definitions and interpretations of the meaning of ‘sustainable develop-
+ment’. The term first came to prominence in the World Conservation Strategy, presented in 1980 
+by the International Union for the Conservation of Nature and Natural Resources (IUCN/UNEP/
+WWF, 1980). It was popularized by the World Commission on Environment and Development’s 
+study Our Common Future (UN WCED, 1987), which is also known as the Brundtland Report, 
+named in honour of its chairperson, the Norwegian prime minister. These and other studies have 
+defined sustainable development in different ways. The most frequently quoted definition comes 
+from the latter study: ‘Sustainable development seeks to meet the needs and aspirations of the 
+present without compromising the ability of future generations to meet their own needs.’
+This definition would appear uncontroversial and is remarkably similar to the neoclassical 
+definition of income given earlier by Hicks (1946). However, the interpretation differs in that Our 
+Common Future examined how sustainable development can be achieved (UN WCED, 1987). 
+This inevitably requires making value judgements that link the definition and the operational 
+objectives, which, it has been suggested, will result in the attainment of sustainable develop-
+ment. For this reason, there has been criticism of the connection between the definition and 
+the operational objectives. The objectives are increasing economic growth, meeting basic needs, 
+involving more of the population in decision-making and development, controlling popula-
+tion growth, conserving and improving the environment, accounting for the environment in 
+­
+economic decision-making, changing technology, managing risk, and changing international 
+economic relationships.
+The concept of sustainable development has gained wide acceptance and has become a 
+standard model for thinking about the environment, development and the economy. Most 
+countries that attended the Rio Earth Summit in 1992 accepted the general idea of sustainable 
+development, as enshrined in the Agenda 21 process agreed at that summit (UN, 1993). The UN 
+2005 World Summit: ‘reaffirmed [its] commitment to achieve the goal of sustainable develop-
+ment [and its] three components … economic development, social development and environ-
+mental protection’ (UN, 2005). However, as observed above, what the concept of sustainable 
+development should imply for economic and environmental policies is disputed. In particular, 
+the concern for equity between and within generations is central to most interpretations of the 
+concept, but it is unclear how the welfare of individuals can be compared. One of the major 
+controversies concerning the approach of the Stern Review (Stern, 2006) is the low discount 
+rate used to compare costs and benefits for different generations. This is a central problem in 
+neoclassical economics and the concept of sustainable development does not appear to provide 
+a solution to the problem.
+The new Sustainable Development Goals (SDGs), which superseded the Millennium 
+Development Goals (MDGs) in 2015, are an important set of policy objectives across a wide 
+range of economic, environmental and social contexts (see Chapter 1). In particular, efforts 
+to deal with climate change are a specific SDG (Goal 13) that articulate several important 
+policy targets. Specifically, this goal argues for the need to integrate climate change policy 
+actions into all national policy decisions. In addition, there is a commitment by all parties to 
+the UN Framework Convention on Climate Change (UNFCCC) to have an annual fund of 
+$100 billion by 2020 to ensure that the necessary policy actions are realized. The $100 billion 
+target can be viewed as an explicit test of the willingness of richer nations to help poorer 
+nations tackle climate change. The UNFCCC, which entered into force in 1994, is very import­
+ant as it provides the primary international intergovernmental forum where global negotia-
+tions take place that attempt to deliver policy solutions to issues such as climate change and 
+biodiversity loss.
+350
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+Natural capital, equity and environmental values
+In defining the notion of sustainable development, it is common to require that the stock of cap­
+ital be non-declining through time. A constant or increasing stock of capital allows consumption 
+levels to be maintained or increased. However, there are major differences of opinion over the 
+capital stock that must be held constant or increased. The weak sustainability view considers all 
+the different forms of capital – man-made, human, natural and social – to be substitutes, which 
+can be aggregated into total capital. Thus, for example, degrading the natural fertility of the soil 
+can be compensated for by using fertilizers and the methods of agricultural science to maintain 
+crop yields. In this example, human capital and man-made capital are used to substitute for nat­
+ural capital.
+The alternative view of strong sustainability takes the position that it is only natural capital 
+that needs to be held constant or increased. In this view, the focus is often on critical natural cap­
+ital, which is either required for human survival or cannot be substituted for with other forms of 
+capital. Thus, one might take atmospheric global warming gas levels as critical natural capital, as 
+higher levels cannot be offset by other capital. For an economic comparison and analysis of weak 
+and strong sustainability, see Hanley et al. (2013). However, it might be argued that some of the 
+effects of climate change resulting from higher global warming gas levels can be adapted to by 
+additional sea defences and migration of population (see the discussion of the Stern Review later 
+in the chapter).
+Underlying the analysis of the environment and development, and the importance of nat­
+ural capital, are views about environmental values. The study of environmental values suggests 
+three possible ways in which these values could be generated. First, the preferences of individ­
+uals give rise to values that with a complete set of perfect markets are reflected in the prices of 
+goods and services. This is the neoclassical approach to valuation, and examples of market failure 
+have already been examined. Market failures suggest that the environment will not be adequately 
+accounted for in the operation of market economies.
+The second source of environmental values is that of social preferences. Sagoff (1988) sug-
+gested that individuals are capable of considering issues, in particular those concerning the 
+en­
+vironment, from the point of society. It is not clear how such values could be established in the 
+psyche of individuals. A possible explanation is a sociobiological one, in that individuals behave 
+as social organisms for the benefit of the species (Dawkins, 1976). Environmental choices are so 
+complex that even if social preferences exist, it is difficult to assume that, apart from in a tauto-
+logical sense, they will result in decisions that improve social welfare. However, it has been sug-
+gested that the poor in developing countries are the most dependent on the environment. Thus, 
+if social preferences are to give weight to the circumstances of the poor, the environment should 
+be given greater weight than would occur from simple aggregation of the individual values placed 
+on the environment.
+The third source of environmental values follows from the belief that ecological systems have 
+an intrinsic value independent of any value placed on them by humans (see Booth, 1994; Common 
+and Stagl, 2005). The individual preferences basis for values considers only human beings to have 
+rights. The ecological view represents the extension of rights to other species. How these rights 
+can be measured is a difficult problem. The ecological values view suggests that greater weight 
+should be attached to the environment than would be given by taking just social values or simple 
+aggregation of individual values.
+Preserving or increasing the stock of natural capital has important effects on intergener­
+ational equity. If it is believed that present levels of environmental degradation and resource use 
+351
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+will ­
+substantially alter future human economic welfare, then intergenerational equity may be 
+improved by the constraint that the stock of natural capital should be preserved. This is the strong 
+sustainability view. However, the substitution of this constraint by a more flexible approach that 
+allows some use of natural capital could conceivably increase economic welfare measured across 
+all present and future generations. This is the weak sustainability view.
+The use of a positive discount rate weights future environmental effects less heavily than those 
+occurring in the present. This has been criticized as underestimating the importance of environ-
+mental degradation and resource use. This criticism is misplaced. If the arguments are accepted 
+for the social preference of the present compared with the future, then discounting is appropriate. 
+If it is felt that too little weight is being attached to future environmental effects, their estimated 
+values should be adjusted, but not the discount rate.
+Many environmental effects are irreversible, for example the extinction of a species. 
+Irreversibility has been used as an argument for maintaining the natural capital stock. However, 
+the dislike of irreversible losses in natural capital can be captured by the concepts of option, quasi-
+option and existence values.
+The resilience of an ecosystem is its ability to maintain its normal functions after an external 
+disturbance (Common and Stagl, 2005). It has been suggested that the larger the stock of natural 
+capital, the more resilient an ecosystem is likely to be. This argument is justified on the basis of the 
+idea that the diversity of the ecosystem increases its resilience. However, the notion of resilience 
+and the related concept of stability have been criticized, as no ecosystem is likely to be globally 
+stable and constant through time. This implies that the size of the external disturbance is import­
+ant (Norton, 1987).
+As discussed earlier, uncertainty is crucial to the analysis of the relation between the 
+en­
+vironment and the economy. A possible policy response to such uncertainty is to adopt 
+policies that provide insurance against possibly disastrous future outcomes. This risk-averse 
+strategy of emphasizing the worst possible outcome might be justified by, say, the worst fore-
+casts of the disastrous outcomes of global warming. This argument supports the setting of a 
+constraint that keeps the stock of natural capital fixed. Alternatively, it has been argued (see 
+Lomberg, 2001) that the vast expenditure necessary to reduce global warming, the long period 
+before such effects become important, and the lack of absolutely clear scientific proof of the 
+size of these effects suggest that a conservative approach ought to be adopted. It is unclear 
+how uncertainty should be included in environmental decision-making, but it is clear that the 
+treatment of uncertainty has a very important effect on the actual decisions that have been or 
+will be taken.
+Arguments about weak and strong sustainability, sources of environmental values, discount-
+ing, irreversibility, uncertainty and resilience suggest that perhaps a higher value should be placed 
+on the environment than the operation of a market economy would give. Strictly, this is not the 
+same as suggesting that the stock of natural capital should be maintained. However, the complex-
+ity of decision-making on the environment might require an approximate constraint on the use 
+of the environment, such as preserving the stock of natural capital.
+This critical discussion of the concept of sustainable development suggests that the environ-
+ment has an important role in economic development and this may not have been fully under-
+stood in the past. The concept of sustainable development has won many academic and political 
+adherents. However, there are differences in opinion whether natural capital deserves special 
+protection in economic development or whether it can be traded off against man-made and 
+human capital. These differences are important in determining how the environment enters into 
+economic decision-making.
+352
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+There are also practical difficulties with the implementation of a constraint that keeps the 
+stock of natural capital fixed. The environment is made up of many different resources and ser-
+vices. Constancy of the stock of natural capital could be interpreted as constancy of all types 
+of natural capital. This interpretation implies that any positive use of non-renewable resources 
+would not be compatible with sustainable development and is difficult to justify.
+The alternative interpretation is to consider a single measure of natural capital that appro-
+priately weights the different types of natural capital. The obvious weights are the values of the 
+various types of natural capital. These values may not only reflect the ideas considered in equa-
+tion (12.6), but also the distributional views that are often associated with the idea of sustainable 
+development. However, placing values on the different types of natural capital would appear to 
+deny the special role of such capital. If different forms of natural capital can be valued so as to give 
+a single measure, this suggests that it can be traded off against man-made and human capital and 
+requires no special protection in the process of development.
+It may be the case that a single measure of most types of natural capital would be desirable, 
+with individual measures for the remaining critical types of natural capital, for example atmos-
+pheric levels of greenhouse gases.
+If the view is taken that the environment must be preserved, then a social cost–benefit analysis 
+of a project should be carried out, subject to the additional constraint that the net effects on the 
+environment are zero or positive. The strength of this additional constraint can be weakened by 
+adding environmentally friendly investments to the project that allow the constraint to be met. If 
+it is considered necessary to preserve the different types of natural stock, then there must be an 
+additional constraint for each type of natural capital.
+The constraint of preservation of all aspects of the environment implies that national income 
+accounting methods cannot be altered to allow the calculation of one measure of economic wel-
+fare that includes environmental effects. Thus, it has been suggested that measures of economic 
+welfare be presented alongside a set of indicators of the state of the environment.
+The less restrictive interpretation of the concept of sustainable development allows substitu-
+tion between different forms of capital and the simple inclusion of the environment in social 
+cost–benefit analysis and national income accounting (see www.worldbank.org). The inclusion of 
+the environment simply requires the correct valuation of environmental effects.
+Economic thought and the environment1
+Classical economists, such as Malthus ([1798]1983), Ricardo ([1817]1992) and Mill ([1856]1986), 
+were generally pessimistic about the possibility of continued economic progress (see also Chapter 4). 
+ 
+These economists assumed that there were diminishing returns to factors of production and the 
+supply of land was fixed. The growth in population, and thus the labour force, would lead to 
+reductions in the marginal product of labour and a declining average product of labour. Malthus 
+and Ricardo assumed a constant technology, with the inevitable result that average agricultural 
+production per unit of labour would decline. Mill considered that technical progress could offset 
+the effect of diminishing returns to a factor, but was unlikely to do so in the long run. Marshall 
+(1890) invented the idea of an externality, which was developed by Pigou (1920). However, in 
+general, environmental externalities were considered to be unimportant.
+The start of the debate about the environment and the economy is usually attributed to 
+Rachel Carson and her book Silent Spring (1962). Other early contributions to the environmen-
+tal debate were made by Boulding (1966), Ehrlich and Ehrlich (1970), Goldsmith et al. (1972), 
+353
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+Forrester (1971), Schumacher (1973) and Commoner (1972). A most influential environmental 
+publication was The Limits to Growth by Meadows et al. (1972). The basic point of this study was 
+that there is a number of non-renewable resources whose present levels of consumption are such 
+that the known reserves will be exhausted in the not so distant future. The study was heavily criti-
+cized for not allowing for the effects of the price mechanism to reduce consumption and provide 
+incentives to explore for new reserves and develop new technologies. A useful summary of the 
+early developments of environmental economics is provided by Sandmo (2015).
+These environmental contributions to the debate stimulated economic interest in the relation 
+between the environment and the economy. Barnett and Morse (1963) could find little evidence 
+of resource scarcity in the US economy in the period 1850–1957. Dasgupta and Heal (1979) pro-
+vided a rigorous neoclassical analysis of the depletion of exhaustible natural resources. Kneese 
+et al.’s (1970) development of the materials balance approach changed the view that some econ-
+omists had of how the economic system dealt with the environment’s waste absorption function. 
+This simple principle states that all resources that flow into an economic system must eventually 
+end up as waste products.
+The debate about the environment and the economy has changed public views, and, in par-
+ticular, the views of international agencies have changed.
+Climate change, the Stern Review and predicting the future
+Climate change occurs because the earth absorbs energy from the sun and re-emits this energy. 
+Some of this energy is absorbed by greenhouse gases and warms the earth. The existence of the 
+greenhouse effect and the warming of the planet since the middle of the twentieth century are uni-
+versally agreed. The extent of the contribution to climate change from man-made greenhouse gas 
+emissions, however, has been disputed by some scientists and is difficult to prove beyond doubt.
+The impacts on nature of global warming are sea level rises, loss of land and species, ecosys-
+tem changes in agriculture, relocation of forests and fisheries, changes in water availability and in 
+local climates, and more unpredictable weather episodes. The impacts on humans are increased 
+mortality and morbidity from climate-related diseases, lack of food, air pollution, and weather-
+related disasters. Climate change also increases costs to society related to human migrations, 
+changes in economic activity, adaptation to climate changes, and measures to reduce greenhouse 
+gas emissions. The World Meteorological Organization and the UN Environment Programme 
+set up the Intergovernmental Panel on Climate Change (IPCC) (www.ipcc), which reports on 
+the scientific and economic research literature on climate change. These reports (including the 
+current 6th report) suggest that global temperatures will rise by 1–60C during the twenty-first 
+century. The variation in the estimates is due to the differing assumptions concerning the com-
+plex mechanisms and feedback systems that cause global warming.
+The 2006 Stern Review on the economics of climate change was commissioned by the UK 
+government to review the possible impacts of global climate change, to investigate the costs of 
+these impacts, and to advise on policy actions. This review is the most widely quoted report on 
+the economic effects of climate change, and possible policy responses. The review concludes on 
+the scientific evidence that climate change is a serious threat, with many of the impacts being 
+irreversible, and requires an urgent global response. The review estimates that with a ‘business as 
+usual’ scenario, the overall costs of climate change will be in the region of 5% of GDP for each year 
+over the next two centuries. Stern suggests that with alternative modelling assumptions, the costs 
+may be as high as 20% of GDP for each year.
+354
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+Stern calculated that a 20C rise in global temperatures would cost about 1% of GDP. Subsequently, 
+Stern (2008) has increased this estimate to 2% of GDP because of faster than expected climate 
+change. The World Development Report 2010: Development and Climate Change puts the cost to 
+Africa at 4% of GDP and India 5% (World Bank, 2010). The Stern Review estimates that greenhouse 
+gas emissions need to be stabilized at 20% of current levels. It argues that the majority of these cuts 
+must be borne by developed countries, but developing countries must also take significant action. 
+It is suggested that such policies can help promote growth and development and, in particular, 
+‘[do] not cap the aspirations for the growth of poor countries’ (Stern, 2006).
+The different sources of global greenhouse gas emissions measured as CO2 equivalents in 2014 
+are given in Figure 12.8. As can be seen in Figure 12.8, the biggest polluters are power generators 
+and industry. We can also consider regional estimates of the use of energy and emission of green-
+house gases per capita and per $1,000 of GDP, as shown in T
+12.2.
+It is clear from Table 12.2 who are the big energy users and where greenhouse gases come from. 
+The USA uses by far the most energy per capita and is the biggest polluter per capita. Developed 
+countries produce five times more CO2 emissions per capita than developing countries. This is 
+why poor countries think it is unfair that they should bear as much of the burden of adjustment 
+to global warming as rich countries.
+However, energy use and greenhouse gas emission measured relative to GDP are slightly 
+higher for developing countries compared to developed countries, with transition economies 
+Electricity
+and heat production
+25%
+AFOLU
+24%
+Buildings
+6.4%
+Transport
+14%
+49 Gt CO2eq
+(2010)
+Industry
+21%
+Energy
+1.4%
+Industry
+11%
+Transport
+0.3%
+Buildings
+12%
+AFOLU
+0.87%
+Other
+energy
+9.6%
+Direct emissions
+Indirect CO2 emissions
+Figure 12.8  Greenhouse gasses by economic sector, 2014
+Source: IPCC, 2014a.
+355
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+faring the worst. This suggests that economic development is associated with energy and emis-
+sion-intensive economic activity, which is most apparent in the intermediate and later stages 
+of economic development. Thus, while the higher per capita use of energy and emissions in 
+developed countries indicates that they should bear the major burden of reducing CO2 emis-
+sions, developing and transition economies also need to take significant action to become more 
+energy-efficient.
+The Stern Review (Stern, 2006) believes that emissions can be reduced through the trading of 
+emission permits, the pricing of carbon, the development and use of low-carbon technologies 
+such as carbon capture, and action to reduce deforestation. Throughout the review, it is empha-
+sized that the poorest countries are the most vulnerable to climate change. It concludes that it is 
+the duty of rich countries to bear the majority of the emission reductions and provide technical 
+and financial assistance to developing countries to reduce their emissions and adapt to climate 
+change.
+The Stern Review has received strong support from a number of experts, including five Nobel 
+Prize-winning economists: Kenneth Arrow, Robert Solow, James Mirrlees, Amartya Sen and 
+Joseph Stiglitz. But it has also been criticized for overestimating the costs of climate change, 
+underestimating the costs of reducing emissions, and, conversely, underestimating the costs of 
+global warming to the environment. These criticisms are important, and, as the range and vari-
+ety of views in the debate show, it is difficult to evaluate the weight of evidence on this complex 
+subject.
+A more technical, but important, criticism of the Stern Review is its use of a low discount rate 
+over time for estimating the present value of the costs of climate change (see Nordhaus, 2007; 
+Dasgupta, 2007). As discussed earlier, the choice of discount rate is a complex technical and ethical 
+issue concerning how to value the future relative to the present. The low values taken by the Stern 
+Review result in greater estimated costs of global warming than may be found in less pessimistic 
+studies (e.g. Nordhaus, 2007).
+Table 12.2  Energy use and CO2 emissions, 2006
+Energy use per capita
+(tons of oil equivalent)
+Energy use per
+$1,000 GDP
+CO2 emissions
+per capita (tons)
+CO2 emissions
+per $1,000 GDP
+World
+1.80
+0.20
+4.4
+0.5
+Developed countries
+4.70
+0.18
+10.9
+0.4
+  Europe
+3.49
+0.15
+7.6
+0.3
+  Japan
+4.13
+0.15
+9.5
+0.3
+  United States
+7.74
+0.21
+15.2
+0.5
+Transition economies
+3.87
+0.48
+8.1
+1.3
+Developing countries
+0.97
+0.21
+2.3
+0.5
+Africa
+0.66
+0.28
+1.0
+0.4
+Latin America
+1.17
+0.15
+2.2
+0.3
+West Asia
+2.76
+0.36
+6.8
+0.9
+Other Asia, excl. China
+0.63
+0.17
+1.3
+0.4
+India
+0.51
+0.15
+1.1
+0.3
+China
+1.44
+0.21
+4.3
+0.6
+Source: UNCTAD, 2009.
+356
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+The Stern Review is undoubtedly the most important report on probably the most press-
+ing economic issue that faces the world in the future. It has many detractors and as many sup-
+porters. Either way, the importance of climate change to future economic development requires 
+expensive decisions to be made by the world economic community in the short term. The World 
+Bank (2010) calculates that to keep global warming down to an increase of 20C by 2050 will cost 
+developing countries alone a minimum of US$140 billion a year (compared with $8 billion they 
+are currently receiving for climate change mitigation). The cost of adapting to global warming (as 
+opposed to trying to stop it) would be $75 billion, compared to the $1 billion now available.
+However, it needs to be understood that all these estimates, as well as those contained in the 
+5th IPCC report (IPCC, 2014b), are generated by complex models that combine science and eco-
+nomics. As recently argued by Stern (2013), many of these models appear to seriously underesti-
+mate the risks, which means that achieving the 2oC target is unlikely and that temperature rises of 
+4oC are potentially plausible. As Stern (2013, p. 839) clearly explains:
+The economic models add further underassessment of risk on top of the underassessment em-
+bodied in the science models, in particular because they generally assume exogenous drivers 
+of growth, only modest damages from climate change and narrow distributions of risk.
+Therefore, we should treat all the cost estimates presented in the literature with a great deal of 
+caution and be prepared for unanticipated economic shocks that may well result from the impact 
+of climate change in the future.
+Climate change and the poor
+It is now widely acknowledged that climate change is taking place in a serious way, and that poorer 
+countries are most vulnerable to the impacts of such change (Stern, 2006; World Bank, 2003, 
+2010; Greenstone and Jack, 2015). This vulnerability results from the close dependence of poor 
+countries and poor people on the natural environment and their limited human, institutional 
+and economic capacity to respond to the effects of climate change. The World Bank (2010), in its 
+World Development Report 2010: Development and Climate Change, gives four major reasons why 
+the poor are more vulnerable to climate change than the rich:
+1.	 Natural disasters, such as hurricanes and floods, hurt them more because of poor housing, 
+poor health and inadequate healthcare. In the early 1980s, fewer than 500 million people re-
+quired international disaster assistance. In the early 2000s, the number was 1.5 billion.
+2.	 Related to the above, global warming increases the chances of catching life-threatening dis-
+eases such as malaria, meningitis, dengue fever and diarrhea. It is estimated that by 2030, 90 
+million extra people in Africa alone may be exposed to malaria as the temperature rises.
+3.	 Poor countries are particularly prone to flooding. Of the fifteen largest cities in the developing 
+world, ten are in low-lying coastal areas, including cities such as Shanghai, Dhaka and Cairo, all 
+with over 10 million inhabitants.
+4.	 Climate change affects agriculture and fishing on which many poor countries still rely for every­
+day living. The climate, by becoming more extreme, with more drought and more flooding, is 
+starting to affect agricultural productivity. In the short term, some countries may benefit from 
+being able to grow new products, but for most developing countries, agricultural productivity 
+ 
+is predicted to fall as a result of climate change. This is likely to lead to greater hunger and 
+famine. The number of malnourished children could rise by 25 million. Warren et al. (2006) 
+357
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+estimate an additional 600 million people in poor countries are at risk from starvation by 2050 
+if nothing is done. The IPCC (2007) predicts that yields in agriculture may fall by up to 50% by 
+2050, and the price of staples such as wheat and rice could more than double. Africa is regarded 
+as the most vulnerable continent because of climate variability and its weak capacity to adapt.
+As a consequence of the vulnerabilities faced by the poorest nations, it has been suggested that 
+it is critical that developing countries adapt to the consequence of climate change (see Nyong, 2009; 
+Brainard et al., 2009). This adaptation includes increased foreign financial and technical assistance, 
+improved governance, better planning and information, the sharing of information between similar 
+regions and countries, and increasing the resilience of the present types of economic activity and infra-
+structure to climate change. A particular concern is that climate change will result in substantial migra-
+tion of population within and between countries and increased pressure on scarce natural resources 
+such as water. Their impacts are likely to result in increased conflict between and within countries (see 
+Bushby (2009) for an analysis of the security implications in developing countries of climate change).
+One policy to mitigate fossil fuel CO2 emissions is to grow biomass (e.g. maize or oil crops) that 
+can be converted into liquid fuels (see IPCC, 2014a). An effect of the shift in the use of land to 
+biomass production can, however, be a reduction in food production, resulting in reductions in 
+supply and finally price increases, especially for the poor. Indeed, it was argued by some that such 
+policy induced changes brought about the price spikes observed in food commodities in 2007/8. 
+Yet, as observed by Wright (2014), biofuel policies adopted in the West are not the typical sources 
+pointed to as causing the price spikes by many of the research agencies that have an agricultural 
+development agenda. Also, Wright (2014) observes that the price increases during this period are 
+far from unprecedented within recent times.
+Despite these important policy implications, the IPCC (2014b) has once again argued that agri-
+culture and forestry could become important sectors in mitigating CO2 emissions via the deploy-
+ment of bioenergy. If this is to be achieved, it will involve significant adaptation within many 
+farming and forest management systems that will require significant international efforts. And, 
+more importantly, such a policy proposition needs to be sensitive to potential real market effects 
+of government policy, which have, in the past, been ignored by the policy-makers (Wright, 2014).
+Of potentially most importance for policy-makers attempting to understand and cope with 
+the issues that arise for the poor as a result of climate change are the Sustainable Development 
+Goals (SDGs). The SDGs of eradicating extreme poverty and hunger and ensuring environmental 
+sustainability are closely linked. Unfortunately: ‘the plight of the poor is directly linked to natural 
+resources around them [and as] total emissions continue to grow … the expected repercussions 
+of climate change will affect [them]’ (UN, 2005). As previously noted, given the obvious challenges 
+faced, the SDGs have an explicit action (Goal 13) to deal with climate change and an associated 
+set of targets. It remains to be seen if the SDGs are more successful than the MDGs in helping the 
+poor to deal with the potentially huge impacts that may result from climate change.
+Finally, despite the obvious relationship between environmental quality and associated health 
+and productivity consequences, the value that households in many developing countries place on 
+the environment remains low (Greenstone and Jack, 2015). This puzzle has led to more research 
+that attempts to address the following question: Why is environmental quality so poor in devel-
+oping countries? Greenstone and Jack (2015) identify four possible answers:
+1.	 Society places a low value on environmental quality (this argument is related to the environ-
+mental Kuznets curve).
+2.	 The costs of achieving improvements in environmental quality are high so there is a lack of effort.
+358
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+3.	 The political economy can be such that the environment is undervalued.
+4.	 There may well be a large number of market failures that have not been corrected and, as such, 
+cause a simple misallocation of resources and economic activity.
+This clearly indicates that the nexus between the environment and development is and will remain 
+a key area of research for many years to come.
+International agencies, agreements and the environment2
+Since 1990, international agencies have begun to accept the importance of allowing for the 
+en­
+vironment in economic development and have started to change their practices.
+The World Bank (1992) has accepted that the environment is directly relevant to its mission 
+of supporting development and supports the sustainable development view. There are various 
+aspects to its new policy view. First, it is accepted that there is a need for appropriate valu­
+ation of environmental effects. Since 1989, the World Bank has formally required environmental 
+assessments of all projects that are expected to have a significant adverse environmental impact. 
+However, there have been criticisms of whether these assessments contribute to actual pro-
+ject decision-making (see Lawrence, 2003). The World Bank (2001) has also recognized that ‘the 
+environment has yet to be fully mainstreamed in to the Bank’s operations’, but argues that the 
+environment has a ‘core task in supporting development and poverty reduction’.
+Second, poverty is seen as a major cause of environmental damage and the poor are regarded as 
+being heavily dependent on the environment (see earlier section on climate change and poverty).
+Third, it is argued that high-income countries must accept financial responsibility and take the 
+initiative for dealing with major worldwide environmental problems. However, it is also clear that 
+the World Bank disagrees with the view that economic development should take place under the 
+constraint that the stock of natural capital should not be depleted. It does now lend explicitly for 
+environmental projects, and through the Global Environment Facility (GEF) makes grants to protect 
+the environment. (Although the World Bank helped set up the GEF in 1991, at the Earth Summit in 
+1992, it was restructured to be a separate institution.) To date, the GEF has provided $US14.5 billion 
+in grants and another $US75.4 billion in financing environmental projects (for details, see www.
+thegef.org). However, the benefits to the environment and native peoples of this lending have been 
+disputed in the past (World Bank, 2001). There are also examples of other international sources of 
+funding directly linked to climate change, such as the Green Climate Fund (see Case example 12.2).
+The Green Climate Fund sits within the 2015 Paris Agreement on how to deal with 
+climate change and is an example of a financial mechanism that aims to help sup-
+port the achievement of the main objectives of the Paris Agreement, especially 
+with regard to developing nations.
+An example of the type of funding provided by the fund is the support of vulner-
+able communities in the Maldives to manage climate change-induced water short-
+ages. In the Maldives, the outer islands are frequently short of water during the dry 
+season. This has an obvious hard impact on the affected communities, in which 
+more than 25% live below the US$2 per day poverty line. This means that some 
+105,000 people are affected and the majority of these are vulnerable households.
+continued overleaf
+Case example 12.2
+International funding of environmental projects: the Green Climate Fund
+359
+1 2  •  D e v e l o p m e n t  a n d  t h e  e n v i r o n m e n t
+Similarly, the IMF has slowly begun to recognize the need to take account of the environment 
+in its structural adjustment programmes (SAPs) (see www.imf.org). The IMF has been criticized 
+for only making token and superficial changes in policy (see Friends of the Earth website, www.
+foe.co.uk). Both the World Bank and the IMF are large international agencies where change is diffi-
+cult to implement, and whether there is a commitment to implement changes in policies properly 
+to protect the environment and the most disadvantaged persons in developing countries remains 
+to be seen.
+The World Trade Organization (WTO, www.wto.org) exists to promote the liberalization of 
+world trade. The WTO’s position is that sustainable development and environmental protec-
+tion are important goals of the organization. WTO rules allow for trade-related measures to 
+be adopted in order to protect the environment. However, the WTO believes that such meas-
+ures are best managed through multilateral environmental agreements. Although the WTO 
+has a dispute settlement procedure, it has not been used to deal with fundamental environ-
+ment issues such as climate change. An important environment and trade issue is when devel-
+oped countries reduce their production of goods that generate high levels of global warming 
+gases and instead import such goods from developing countries. This helps developed coun-
+tries meet their UN climate change obligations but it is likely to increase total global warming 
+gas emissions. This complex and important subject is only just beginning to be considered by 
+the WTO (see www.wto.org for details). The WTO believes that it is not appropriate for it to 
+set environmental policies and standards. It believes that such issues should be considered by 
+specialist and international negotiation. However, the WTO supports the objective of sustain-
+able development and has been involved in assisting multilateral environmental agreements 
+and increasing the awareness of links between trade and the environment (see Stokke and 
+Thommessen, 2003).
+The UN has been responsible for the two reports – World Conservation Strategy (IUCN/UNEP/
+WWF, 1980) and Our Common Future (UN WCED, Brundtland Report, 1987) – that have greatly 
+influenced world opinion in favour of sustainable development. The UN Framework Convention 
+on Climate Change (UNFCCC) was signed in June 1992 at the Rio Earth Summit, with the specific 
+object­
+ive of stabilizing greenhouse gas concentrations at levels low enough to prevent serious 
+change to the climate system. Subsequently, the Kyoto Protocol of 1997 established legally binding 
+commitments to reduce greenhouse gas emissions. The intention was to reduce by 2012 emissions 
+of industrial countries to an average 5.2% below 1990 levels (the exact targets varied between coun-
+tries). China, India and other developing countries were not given targets by the Kyoto Protocol but 
+Case example 12.2
+International funding of environmental projects – continued
+The proposed funding to be provided will enable three outcomes to be 
+achieved by:
+1.  Increasing the scale of the water supply system to include vulnerable households.
+2.  The adoption and use of cost-effective dry water supply systems.
+3.  
+Improvements in groundwater use and management to ensure longer term en­
+vironmental resilience.
+To enable this to happen, the proposed project has a five-year duration, and a budget 
+of almost $US30 million.
+Source: www.greenclimate.fund/home.
+360
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+were expected to take responsibility for reducing emissions of greenhouse gases, while their share 
+of global emissions would be allowed to rise in order for them to meet their development needs.
+There is general agreement on the Rio Declaration on Environment and Development’s sup-
+port of sustainable global development, and Agenda 21 considers speciﬁc programmes to achieve 
+sustainable development in the twenty-ﬁrst century (UN, 1993). However, the Rio Earth Summit 
+was criticized for its failure to secure a binding commitment to increase aid, reduce debt and 
+fundamentally shift resources from rich to poor countries. But, since then, the UN has linked the 
+goal of sustainable development to the goal of eradicating extreme poverty and hunger. However, 
+for this to happen, it is necessary for governments and international organizations to intervene 
+and improve the operation of markets with regard to the environment, in particular the impacts 
+of climate change on developing countries.
+Finally, the most recent global agreement on how to deal with climate change was achieved by 
+195 countries at the Paris climate conference (COP21) in 2015, which has become known as the 
+Paris Agreement. It builds on the UNFCCC, in that it aims to improve the global response to the 
+potential dangers from climate change, with a speciﬁc target of keeping temperature increases to 
+less than 20C of pre-industrial levels. Furthermore, there is a stated intention to help and support 
+developing nations deal and cope with the challenges that climate change will bring.
+The Paris Agreement was reached by the implementation of a novel solution to the complex 
+coordination problem that this issue faces. Speciﬁcally, every nation (party to the UNFCCC) was 
+required to submit its proposed best set of activities and eﬀorts to deal with climate change, both 
+domestically and, in some cases, linked to policies that support developing economies’ eﬀorts, 
+called nationally determined contributions (NDCs). Importantly, the NDCs make explicit refer-
+ence to the use of market-based instruments that use economic incentives to change and modify 
+behaviour. In total, by April 2016, there were 161 intended NDCs from 189 parties. Thus, not all 
+parties have provided their intended NDCs but the 161 accounts for 96% of all the parties to the 
+UNFCCC, which covers almost 99% of all global emissions.
+Although the Paris Agreement is an important achievement in terms of eﬀorts to deal with cli-
+mate change, serious questions exist in relation to the NDCs and the ability to limit the temperature 
+increase identiﬁed. Current research suggests that the NDCs will reduce global average per capita 
+emissions, but to achieve the temperature target, additional eﬀorts will be required. Thus, although 
+the Paris Agreement is a ground-breaking policy mechanism, the current level of intended actions 
+are insuﬃcient. For this reason, the Paris Agreement, signed in December 2015 and likely to come 
+into eﬀect by 2017, is only the start of global eﬀorts to deal with the consequences of climate change.
+Summary
+ 
+t Economic development in the past has caused serious environmental damage and the current 
+state of the environment will constrain further economic development in developing coun-
+tries. The environment provides four major functions for the economy and society: life support, 
+amenity, natural resources and waste absorption.
+ 
+t The neoclassical view of the economy is that markets allocate scarce resources eﬃciently. Many 
+environmental economists argue that markets fail to allocate eﬃciently and fairly, and the state 
+should intervene to correct these market failures.
+ 
+t Externalities occur when the action of one economic agent aﬀects other economic agents 
+and the actions are not controlled through the operation of the market. The burning of fos-
+sil fuels and the release of global warming gases is an example of an externality. The eﬀects of 
+361
+1 2  •  D E V E L O P M E N T  A N D  T H E  E N V I R O N M E N T
+ 
+externalities and, in particular, pollution can be corrected to an extent by taxation, subsidiza-
+tion, bargaining, marketable permits and regulation.
+ 
+• Economic analysis of the environment requires the comparison of the costs and beneﬁts of environ-
+mental eﬀects in the present and future, and this is achieved using the device of the discount rate.
+ 
+• The eﬃcient use of renewable and non-renewable resources across time depends on their social 
+value, the growth of renewable resources, the reserves of non-renewable resources, and the dis-
+count rate. The market will not necessarily use renewable and non-renewable resources eﬃciently.
+ 
+• Economic analysis of market failures suggests that they can be corrected for in environmental 
+decision-making by estimating and allowing for additional environmental values: external costs, 
+a premium on the prices of non-renewable resources such as oil; value placed on the existence 
+of environmental goods and services by the present generation and its wish to pass on the envi-
+ronment to future generations, and impact of uncertainty on the environment.
+ 
+• The World Bank and other agencies have attempted to adjust measures of national income 
+for environmental degradation caused by economic activity. The relation between economic 
+development and the environment is complex and the subject disputed.
+ 
+• The major idea of sustainable development has emerged since the 1980s, in which the well-
+being of future generations is not compromised by meeting the material needs of the present 
+generation. This idea emphasizes the natural environment supporting economic activity and 
+suggests that the world should be very cautious in depleting natural capital.
+ 
+• The mitigation of climate change, and global warming, is a major challenge in the twenty-ﬁrst 
+century.
+ 
+• The Stern review (2006) is the most comprehensive analysis to date of the costs of climate 
+change and the costs of mitigation.
+1. What are the functions of the environment in supporting economic activity?
+2. What are the diﬀerent possible solutions to externalities?
+3. Explain the causes of ‘the tragedy of the commons’.
+4. What conditions determine the eﬃcient use of renewable and non-renewable 
+resources?
+5. What are the diﬀerent types of economic value that should be included in social 
+costs?
+6. How might one allow for environmental eﬀects in social cost–beneﬁt analysis and 
+national income accounting practices?
+7. Deﬁne and explain the idea of sustainable development.
+8. What are the arguments for and against keeping the stock of natural capital ﬁxed?
+9. What are the physical and economic impacts of climate change?
+10. How are the poor in developing countries aﬀected by climate change?
+11. How have international organizations responded to the ideas of sustainable devel-
+opment and the economic importance of the environment?
+Discussion questions
+Chapter 12
+362
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+Notes
+1.  See Barbier (1989) for a good survey of the history of economic thought on the environment and 
+development.
+2.  For a clear summary of the objectives and activities of most international agencies working in the 
+environmental and development fields, see Stokke and Thommessen (2003).
+Websites on the environment
+International Institute for Environment and Development www.iied.org
+World Watch Institute www.worldwatch.org
+World Resources Institute www.wri.org
+United Nations Environment Program www.unep.org
+UN Sustainable Development Knowledge Platform https://sustainabledevelopment.un.org
+World Bank www.world bank.org.
+Friends of the Earth www.foe.org
+Environmental Democracy Index www.environmentaldemocracyindex.org
+World Trade Organization www.wto.org
+International Monetary Fund www.imf.org
+

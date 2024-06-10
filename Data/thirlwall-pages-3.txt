@@ -1,0 +1,1885 @@
+59
+•
+• Introduction
+•
+• The dominance of agriculture and petty services
+•
+• Low level of capital accumulation
+•
+• Rapid population growth
+•
+• Exports dominated by primary commodities
+•
+• The curse of natural resources
+•
+• Weak institutional structures
+•
+• Other dimensions of the development gap
+•
+• Inequality: vertical and horizontal
+•
+• Growth and distribution
+•
+• Poverty-weighted growth rates
+•
+• Stages of development and structural change
+•
+• Rostow’s stages of growth
+•
+• Diversification
+•
+• Industrialization and growth
+•
+• Kaldor’s growth laws
+•
+• Summary
+•
+• Discussion questions
+•
+• Notes
+•
+• Websites on structural change and income distribution
+THE CHARACTERISTICS OF 
+UNDERDEVELOPMENT AND 
+STRUCTURAL CHANGE
+3
+60
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+Introduction
+This chapter is about the distinguishing characteristics of poor developing countries, and the pro-
+cess of structural change necessary for a rise in living standards. There cannot be an increase in 
+living standards and a reduction in poverty without an increase in output per head of the working 
+population or an increase in labour productivity. This is the sine qua non of development. Rich 
+countries have high levels of labour productivity, poor countries have low levels of productivity. 
+Why is productivity low in poor countries, and what are the major sources of productivity growth?
+The major distinguishing characteristics of poor countries that contribute to low levels of 
+prod­
+uctivity and poor economic performance are: the dominance of low-productivity agriculture 
+and petty service activities in the economic structure; low levels of capital formation, physical and 
+human (education); rapid population growth; and exports dominated by primary commodities. 
+Some of these major characteristics of underdevelopment are both causes and effects of poverty; 
+for example, low savings and investment, poor education, and rapid population growth can be 
+causes of poverty but also symptoms.
+In addition to these major distinguishing features of poor countries, some suffer from what is 
+called ‘the curse of natural resources’, which refers to the detrimental effects that high depend-
+ence on natural resource exploitation and exports can have on an economy, because of an over-
+valued exchange rate (the Dutch disease), corruption and rent-seeking behaviour.
+Many poor countries possess weak institutional structures such as lack of property rights, 
+absence of the rule of law and political instability, all of which act as disincentives to investment.
+In this chapter we also discuss many other dimensions of poverty in poor countries such as 
+unemployment, income inequality, and the basic needs of people.
+The chapter ends with a discussion of the stages of growth and development that countries 
+go through, and the strong association that seems to exist between the progress of nations and 
+the shift of resources from agriculture into industry and sophisticated service activities, known in 
+the literature as Kaldor’s growth laws. The fastest growing developing countries today are those 
+where the share of industry in GDP is rising the fastest; and this is no accident, because manufac-
+tured goods have production and demand characteristics that make them the ‘engine of growth’.
+The dominance of agriculture and petty services
+One of the major distinguishing characteristics of poor developing countries is the fact that their 
+economies are dominated by agriculture and petty service activities. There is very little manufac-
+turing industry in many of the poorest countries. Table 3.1 shows the distribution of employment 
+by sectors of the economy in low-, middle- and high-income countries in different continents. 
+It can be seen that in low-income countries, a large proportion of the labour force still relies 
+on agriculture to make a living: 71% in sub-Saharan Africa and 67% in South Asia. By contrast, 
+the proportion engaged in agriculture in high-income countries is less than 5%. The proportion 
+employed in industry in low-income countries is very low – only 7% in sub-Saharan Africa. In 
+high-income countries, employment is dominated by high-productivity service activities.
+Most of those working on the land in poor countries are either subsistence farmers (producing 
+only for themselves), tenant farmers (with no land rights and no incentive to increase output) or 
+landless labourers (selling their labour in a daily labour market). Some high-productivity commer-
+cial agriculture does exist, but it forms a small proportion of total agricultural activity. The domin­
+ance of agriculture has a number of implications and poses a number of problems for developing 
+61
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+Table 3.1  Distribution of employment, by sector (percentage)
+Region
+Agriculture (%)
+Industry (%)
+Services (%)
+Asia and the Pacific
+53.7
+17.9
+28.4
+Eastern Asia
+34.8
+23.8
+41.4
+Latin America and the Caribbean
+43.3
+10.8
+45.9
+South-Eastern Asia and the Pacific
+50.1
+16.8
+33.1
+Southern Asia
+67.5
+14.6
+17.9
+Sub-Saharan Africa
+71.2
+7.1
+21.7
+Asia and the Pacific
+43.8
+21.8
+34.4
+Latin America and the Caribbean
+28.7
+18.2
+53.1
+South-Eastern Asia and the Pacific
+38.1
+19.0
+42.9
+Southern Asia
+46.0
+23 .0
+31.0
+Sub-Saharan Africa
+49.0
+10.9
+40.2
+Asia and the Pacific
+24.5
+25.7
+49.8
+Eastern Asia
+24.0
+25.7
+50.3
+Latin America and the Caribbean
+15.2
+21.2
+63.6
+South-Eastern Asia and the Pacific
+34.3
+22.0
+43.7
+Southern Asia
+19.8
+32.0
+48.2
+Sub-Saharan Africa
+18.8
+16.1
+65.1
+Asia and the Pacific
+4.0
+25.5
+70.5
+Eastern Asia
+4.2
+26.2
+69.6
+Latin America and the Caribbean
+4.9
+22.5
+72.7
+South-Eastern Asia and the Pacific
+2.9
+21.2
+75.9
+Source: ILO, 2015, Table R4.
+Lower middle  
+income
+Upper middle  
+income
+Lower income
+High income
+countries. First, agriculture is a diminishing returns activity because cultivatable land is ultimately 
+a fixed factor of production. There are only a few incontrovertible laws in economics, but one is 
+that if a variable factor is added to a fixed factor, its marginal product will eventually fall: the law 
+of diminishing returns. This principle is illustrated in Figure 3.1.
+As labour is added to the land, the marginal product of labour first rises because land requires 
+a certain amount of labour for each unit of labour to work with maximum efficiency, but then 
+the marginal product declines and could become zero (or even negative in extreme cases where 
+Figure 3.1  The law of diminishing returns
+Subsistence
+wage
+Labour
+Marginal
+product
+of labour
+(MP)
+L*
+MP
+62
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+there is so much labour on a fixed piece of land that everyone gets in each other’s way, reducing 
+total output).
+If the marginal product of labour falls below the subsistence level, the unit of labour will not be 
+able to survive unless total output is shared. This may characterize family farms. If labour is hired, 
+however, or works on commercial farms, no (profit-maximizing) employer will pay a wage above 
+the marginal product of labour. We reach the conclusion that in a diminishing returns activity, 
+such as agriculture, there is always a limit to employment set by the minimum subsistence wage. 
+This can lead to unemployment, open or disguised (see Chapter 5), particularly in a society where 
+the population is growing rapidly and there are limited alternative employment opportunities.
+Second, on the demand side, the demand for most agricultural products (and other primary 
+products derived from the land) is income inelastic. This means that the rise in demand is pro-
+portionately less than the rise in income, and the growth of demand for agricultural output is less 
+than the growth of supply potential determined by the growth of the labour force plus the growth 
+of labour productivity. For example, suppose that the agricultural labour force is growing at 2% 
+and labour productivity is growing at 1%, so that the growth of productive potential in agricul-
+ture is 3%. Now suppose that income growth in the economy is 3% but the income elasticity of 
+demand for agricultural products is only one-half (0.5). The demand for output therefore grows 
+by only 1.5%. The gap between the growth of potential supply and demand is 1.5%, which will 
+manifest itself in unemployment.
+There are thus two major causes of surplus labour in agriculture: one arises from the low 
+income elasticity of demand for agricultural output; the other arises from the fact that agriculture 
+is a diminishing returns activity, so that there is a limit to the employment of (paid) labour set by 
+the minimum subsistence wage. What happens to this surplus labour? First, it may stay in the rural 
+sector and work is spread, with each unit of labour working a suboptimal day. This is described 
+as disguised unemployment (see Chapter 5). This, of course, depresses labour productivity and 
+therefore per capita income. Second, the surplus agricultural labour may migrate to the towns to 
+find alternative work. If work cannot be found in the formal sector of the economy, the labour 
+attempts to make a living in the informal sector by providing petty services of various kinds: 
+street trading, haircutting, shoe-shining, transport and so on. These are also very low-productivity 
+activities.
+Industry has very different characteristics from agriculture. First, it is not a diminishing returns 
+activity. If anything, it is an increasing returns activity. All factors of production are variable, and 
+no limit to employment is set by the marginal product of labour falling below the minimum 
+(subsistence) wage. Second, the demand for most industrial goods is income elastic so that the 
+demand for labour may rise faster than labour productivity, leading to increases in employment – 
+at least in the early stages of industrialization. Also, there is greater scope for capital accumulation 
+in industry, which enhances labour productivity. Overall, the productivity of labour in industry is 
+much higher. As discussed later, there is a strong association across countries between the level 
+of per capita income, and the share of resources devoted to industrial activities, and between the 
+growth of industry and the growth of economies as a whole.
+Low level of capital accumulation
+A second major distinguishing characteristic of developing countries is their low level of capital 
+accumulation – both physical and human. Physical capital refers to the plant, machinery and 
+equipment used in the production of output. Human capital refers to the skills and expertise 
+63
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+embodied in the labour force through education and training. (The role of education in the devel-
+opment process will be discussed in Chapter 7.) Low levels of capital accumulation are a cause 
+of low productivity and poverty, but are also a function of poverty, because capital accumulation 
+requires investment and saving and it is not easy for poor societies to save. The process of develop-
+ment can be described as a generalized process of capital accumulation, but the levels and rates 
+of capital accumulation in poor countries are low. The amount of physical capital that labour has 
+to work with in a typical developing country is no more than one-twentieth of the level in Europe 
+and North America. This reflects the cumulative effect over time of much higher savings and 
+investment ratios in rich countries.
+The saving and investment ratios for various regions are shown in Table 3.2. Domestic invest-
+ment can differ from domestic saving owing to capital inflows from abroad. This can be seen in 
+Table 3.2 for the low-income countries where domestic saving is only 16% but gross capital forma-
+tion is 28%. Notice the high ratios of savings and investment in East Asia and the Pacific region. 
+In general, savings and investment rise with development and then fall, as shown by the figures 
+for the high-income countries. If we exclude China, the savings ratio of low-income countries is 
+less than half that of the middle- and high-income countries, although their investment ratio is 
+still relatively high because of capital inflows from abroad. These are not always stable, however.
+Sir Arthur Lewis, distinguished development economist, once described development as the 
+process of transforming a country from a net 5% saver and investor to a 12% saver and investor.1 
+Walt Rostow, in his well-known book The Stages of Economic Growth (1960), defines the take-off 
+stage of self-sustaining growth in terms of a critical ratio of savings and investment to national 
+income of 10–12% (see below for a discussion of Rostow’s model). What is the significance of 
+this ratio? It has to do with a very simple growth formula, which originally came from the growth 
+model of British economist (Sir) Roy Harrod (see Chapter 4). The formula is:
+g 5 s/c
+(3.1)
+where g is the growth of output (ΔY/Y), s is the savings ratio (S/Y) and c is the incremental 
+ 
+capital–output ratio – that is, how much investment is associated with an increase in the flow of 
+Table 3.2  Savings and investment as a percentage of GDP, 2014
+Gross capital formation
+Gross savings
+Low income
+28
+16
+Middle income
+31
+31
+Lower middle income
+27
+29
+Upper middle income
+32
+32
+Low and middle income
+31
+31
+East Asia and Pacific
+42
+45
+Europe and Central Asia
+21
+16
+Latin America and Caribbean
+21
+18
+Middle East and North Africa
+30
+–
+South Asia
+30
+31
+Sub-Saharan Africa
+22
+16
+High income
+20
+21
+Source: World Bank, 2015.
+64
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+output by one unit (I/ΔY). Substituting these definitions of s and c into equation (3.1) shows that, 
+in an accounting sense, the formula is an identity since in the national accounts S 5 I
+ΔY/Y 5 (S/Y)/(I/ΔY)
+(3.2)
+That is, if S 5 I, then g 5 s/c.
+Now, for the level of per capita income to rise, output growth must exceed population growth. 
+If population growth is 2% per annum, output growth must exceed 2% per annum. It can be seen 
+from equation (3.1) that how much saving and investment as a proportion of national income is 
+required for growth depends on the value of the incremental capital–output ratio (c). If 4 units of 
+capital investment are required to produce a 1 unit flow of output year by year over the life of the 
+investment, then c 5 4, so s must exceed 8% for the growth of output to exceed 2%. A net rate of 
+saving and investment to national income of at least 8% or more is therefore necessary if there is to 
+be sustained growth of per capita income. In most developing countries, the net savings and invest-
+ment ratio is above this critical magnitude, but the fact remains that a major cause of low produc-
+tivity and poverty in developing countries is the low level of capital that labour has to work with. In 
+Case example 3.1, the interrelationship between saving, investment and growth is discussed.
+Rapid population growth
+A third distinguishing feature of most developing countries is that they have a much faster rate of 
+population growth than developed countries – in fact, their population is growing faster than at 
+any time in the world’s history (see Chapter 11 for a full discussion). This can confer advantages, but 
+Case example 3.1
+The interrelationship between savings, investment and growth
+The relationship between savings, investment and growth is complex, with causality 
+running in several different directions, but recent research suggests two important 
+conclusions: first, saving often seems to follow, rather than precede, investment and 
+growth (contrary to orthodox theory); and second, investment and innovation are the 
+centrepieces of growth.
+Saving may not be the chief driving force behind growth, but ensuring an adequate 
+savings level must remain a central policy concern – to ensure enough financing for 
+capital accumulation and to prevent inflationary pressures or balance of payments 
+disequilibrium, or both. And encouraging private saving may be essential to expand in-
+vestment, considering capital market imperfections and liquidity constraints on firms 
+and households in many developing countries. Four main policy conclusions emerge:
+1	 Public saving does not crowd out private savings one to one, so increasing public 
+saving is an effective direct way to raise national saving
+2	 Foreign saving should be allowed to support domestic investment
+3	 Higher private saving should not be expected in response to the liberalization of 
+interest rates. Pension reform may be a better way to raise domestic savings
+4	 The best way to promote investment and growth is a supportive policy and insti-
+tutional environment ensuring macroeconomic stability, social consensus, and a 
+low cost of doing business.
+Source: Schmidt-Hebbel et al., 1994.
+65
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+it also imposes acute problems. Population growth in the developing countries as a whole averages 
+1.3% per annum, resulting from a birth rate of 24 per 1,000 population (or 2.4%) and a death rate of 
+11 per 1,000 population (or 1.1%). The rapid acceleration of population growth compared with its 
+historical trend is the result of a dramatic fall in the death rate without a commensurate fall in the 
+birth rate. Population growth in developed countries averages no more than 0. 6% per annum. The 
+population growth rate in low-, middle- and high-income countries is shown in Table 3.3. Population 
+growth in low-income countries is over four times higher than in high-income countries.
+Table 3.3  Population growth (average % per annum)
+2000-05
+2005–10
+2010–15
+Low income
+2.72
+2.69
+2.69
+Middle income
+1.28
+1.21
+1.18
+High income
+0.59
+0.69
+0.52
+Source: UN DESA, 2015.
+Table 3.4  Primary commodities as a percentage of total exports, 2014
+East Asia and Pacific
+13
+Latin America and Caribbean
+43
+Middle East and North Africa
+84 (2006)
+South Asia
+35
+Sub-Saharan Africa
+73
+Source: World Bank, 2015, Table 4.4.
+Rapid population growth, like low capital accumulation, may be considered as both a cause 
+and a consequence of poverty. High birth rates are themselves a function of poverty because 
+child mortality is high in poor societies and parents wish to have large families to provide insur-
+ance in old age. High birth rates also go hand in hand with poor education, a lack of employ-
+ment opportunities for women, and ignorance of birth control techniques. Population growth, 
+in turn, helps to perpetuate poverty if it reduces saving, dilutes capital per head, and reduces the 
+marginal product of labour in agriculture. The pressure of numbers may also put a strain on gov-
+ernment expenditure, lead to congestion and overcrowding, impair the environment, and put 
+pressure on food supplies – all of which retard the development process, at least in the short 
+run. In the longer run, population growth may stimulate investment and technical progress, and 
+may not pose such a problem if there are complementary resources and factors of production 
+available, but the short-run costs may outweigh the advantages for a considerable time.
+Exports dominated by primary commodities
+A fourth distinguishing characteristic of developing countries is that their trade tends to be domi-
+nated by the export of primary commodities and the import of manufactured goods. This has 
+consequences for the terms of trade of developing countries, the distribution of the gains from 
+trade between developed and developing countries, and the balance of payments situation – all 
+of which may adversely affect real income per head. Table 3.4 shows primary commodities as a 
+percentage of the total exports of different continents. The trade of Africa, the Middle East, Latin 
+66
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+America and the Caribbean is still dominated by primary commodities. Only Asia and the Pacific 
+region have made headway in reducing dependence on commodity exports.
+The barter terms of trade measures the ratio of export prices to import prices. There has been 
+a historical tendency for the terms of trade of primary goods relative to manufactured goods to 
+deteriorate over the past 100 years or so – by about 0.5% per annum on average. This tendency 
+is known in the literature as the ‘Prebisch–Singer thesis’ (see Chapter 15). The falling price of 
+exports relative to imports reduces the real income of a country because more exports have to be 
+exchanged to obtain a given quantity of imports.
+A second point to note is that the income elasticity of demand for primary commodities in 
+world trade is less than unity, while the income elasticity of demand for manufactured goods is 
+greater than unity. This means that as world income grows, the demand for primary commodities 
+grows at a slower rate, but if developing countries grow at the same rate as the world economy, 
+their demand for manufactured imports grows at a faster rate. As a consequence, developing 
+countries specializing in the production and export of primary commodities suffer acute balance 
+of payments difficulties. Often, the only means available to developing countries to adjust the 
+balance of payments is to slow down their economies in order to reduce the growth of imports.
+The prices of primary commodities are also more cyclically volatile than the prices of manufac-
+tured goods. This can also cause havoc with a country’s balance of payments and its tax revenues 
+if it relies heavily on trade taxes. The resulting instability makes planning difficult and may deter 
+private domestic investment and investment from overseas.
+For all these reasons, the structure of trade poses severe problems for many developing coun-
+tries and may keep countries poorer than they would be if they were able to produce and export 
+more industrial goods. It is not possible to understand the growth and development process – and 
+the perpetuation of divisions in the world economy – without reference to the unequal trading 
+relations between rich and poor countries and the balance of payments consequences of special-
+izing in primary commodities.
+The curse of natural resources
+In general, it seems to be the case that the more natural resources a country has, the worse it per-
+forms. This phenomenon is referred to in the literature as the curse of natural resources (Sachs 
+and Warner, 2001; Gylfason, 2001). This is illustrated in Figure 3.2, which shows a scatter diagram 
+for 105 countries of the relationship between the growth of per capita income over the period 
+1965–98, and the share of the labour force employed in the primary sector. There is a very strong 
+negative relationship (R2 5 0.7218), and the regression coefficient of −0.0871 indicates that a 
+country with a primary sector share 10 percentage points above the average has experienced a 
+growth of per capita income of nearly 1 percentage point below the average (controlling for the 
+initial level of per capita income). This represents a substantial loss of welfare.
+The same negative pattern emerges when the growth of per capita income is regressed against 
+the export of natural resources as a share of GDP; and the negative relation persists even when 
+controlling for other variables, such as differences in the level of investment between countries, 
+and climate and geography (Sachs and Warner, 2001). Most countries that have grown rapidly in 
+recent decades started as resource poor, not resource rich. There are exceptions to this general 
+rule – countries such as Malaysia, Thailand, Indonesia and Botswana, for example – but most of 
+these exceptional countries have grown fast not through the exploitation of natural resources but 
+through diversification into manufacturing industry.
+67
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+What lies behind this ‘curse of natural resources’? A number of interrelated factors can be 
+mentioned that seem to have an adverse effect on many of the important determinants of devel-
+opment. Gylfason (2001) shows a negative relation across countries between the share of the 
+primary sector in the labour force and export performance, domestic and foreign investment 
+and education, and a positive relation with the size of external debt, the level of protection, cor-
+ruption and income inequality. We have already seen why primary production can lead to poor 
+export performance because many natural resources are income inelastic and suffer terms of 
+trade de­
+terioration, but why should natural resource-abundant countries neglect investment and 
+education, and be more corrupt? There are two major explanations.
+First, natural resource abundance may ‘crowd out’ other activities through two mechanisms: 
+higher wages or earnings in the natural resources sector discouraging entrepreneurial activity and 
+innovation in other sectors; and revenues from natural resource exports keeping the exchange 
+rate artificially high, which makes the rest of the economy uncompetitive. This is known as the 
+Dutch disease – so named because of the effect that the discovery of natural gas in Holland in the 
+1960s had on the exchange rate and other sectors of the economy. Sachs and Warner (2001) test 
+this ‘crowding-out’ hypothesis across 99 countries and find a positive correlation between natural 
+resource abundance and the domestic price level. The higher relative price level is then found to 
+impede the export growth of manufactured goods. It could also be that a country rich in natural 
+resources simply neglects to develop other sectors of the economy.
+A second major explanation why natural resource abundance may lead to poor performance is 
+that the rents from natural resources may be misused by politicians and bureaucrats. Democracy 
+and the rule of law seem to be inversely related to natural resource abundance, and Gylfason 
+(2001) shows corruption to be more widespread in natural resource-abundant countries. This is 
+not surprising since limiting access to a resource provides a rent, and where the state owns the 
+resource, bureaucrats will take bribes in return for exploitation rights. Rent earners may not be 
+interested in schooling and education, having lined their own pockets and those of their children, 
+without acquiring an education. Thus, rent-seeking leads to low levels of expenditure on educa-
+tion and school enrolment. It is also the case that the primary sector of an economy does not have 
+the same educational needs as a more diversified economy.
+Figure 3.2  Natural resources and economic growth
+4
+2
+0
+–2
+–4
+–6
+–8
+y = –0.0871x + 4E–05
+Singapore
+Hong Kong
+Korea
+0
+20
+40
+60
+80
+100
+R2 = 0.7218
+Share of primary sector in labour force 1965–98 (%)
+–10
+–12
+Growth of GNP per capita 1965–98,
+adjusted for initial income (%)
+68
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+Weak institutional structures
+Economies cannot function in an institutional vacuum, otherwise there is economic (and political) 
+chaos. At the very minimum there has to be the rule of law, the protection of property rights, and 
+constraints on power and corruption if private individuals are to be entrepreneurial, to take risks and 
+invest. In many developing countries, the rule of law and the protection of property rights is still rudi-
+mentary, and politicians (and bureaucrats) abuse their powers. Many economists (e.g. Acemoglu, 
+2003; Rodrik, 2007) have argued that it is weak institutional structures that are the fundamental cause 
+of underdevelopment, because the character of institutions is the determinant of all the proximate 
+causes of progress such as investment, technology, education and trade. There are several measures 
+of institutional quality that economists focus on, and they will be discussed in detail in Chapter 8. 
+Three main ones are: the extent of legal protection of private property, the quality of governance 
+(including the strength of the rule of law), and the limits placed on political leaders. Attempts have 
+been made to distinguish econometrically the relative importance of institutions compared with 
+other factors (including geography) in explaining different levels of per capita income across the 
+world, with interesting, but controversial, results. Rodrik et al. (2004) take a large sample of devel-
+oped and developing countries, measuring the quality of institutions mainly by a composite indica-
+tor of a number of elements that capture protection afforded by property rights, and conclude: ‘Our 
+results indicate that the quality of institutions overrides everything else. Controlling for institutions, 
+geography has, at best, weak direct effects on income … similarly trade … has no direct positive 
+effect on income.’ Easterly and Levine (2002) also test the influence of institutions compared with 
+geography and policy variables across 75 rich and poor countries and find that institutions seem to 
+matter most as the determinant of per capita income. Even countries with ‘bad policies’ do well with 
+good institutions. We will examine the evidence for this in more detail in Chapter 8.
+It is recognized, however, that the correlation found between institutions and economic 
+development could reflect reverse causality, or omitted factors. We need to find a source of 
+ex­
+ogenous variation in institutions where institutions differ or change independently of other fac-
+tors. Acemoglu et al. (2001) argue that the different experience of colonization is one exogenous 
+source where, at one extreme, colonizers set up exclusively extractive institutions (to exploit min-
+erals and other primary products) – such as slavery and forced labour – which neither gave prop-
+erty rights to inhabitants nor constrained the power of elites. This was the experience in Africa and 
+Latin America. At the other extreme, colonizers created settler societies, replicating the European 
+form of institutions protecting private property and controlling elites and politicians, in countries 
+such as Australia, New Zealand and North America. But what determined why some countries 
+were settled and others not? Acemoglu et al. (2001) argue that the major determinant was the 
+mortality rate faced by the early settlers, and that there is a strong negative correlation between 
+past mortality rates and current institutional quality (because institutions persisted) and between 
+past mortality and the current levels of per capita income. In fact, over 50% of the variation in per 
+capita income across the 75 countries is associated with variation in one particular index of institu-
+tional quality, which measures ‘protection against expropriation’. Acemoglu et al. (2001) conclude:
+There is a high correlation between mortality rates faced by soldiers, bishops and sailors in 
+the colonies and European settlements; between European settlements and early measures of 
+institutions, and between early institutions and institutions today. We estimate large effects of 
+institutions on income per capita using this source of variation. … this relationship is not driven 
+by outliers, and is robust controlling for latitude, climate, current disease environment, religion, 
+natural resources, soil quality, ethnolinguistic fragmentation, and current racial composition.
+69
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+But this is where the controversy starts because presumably the mortality rates of the early set-
+tlers, which affected the nature of institutions, was strongly influenced by geography because 
+this affects disease. In the same vein, Sachs (2008) argues that Acemoglu et al.’s (2001) finding 
+concerning the negative relation between mortality rates 200 years ago and per capita income 
+today is simply picking up the pernicious effects of malaria (which still persists), not institutions. 
+Development is not simply about good government and institutions. Institutions might make 
+anti-poverty policies more effective, but that is all. Poor countries need resources to fight disease, 
+to provide education and infrastructure, and all the other resource prerequisites of development. 
+Sachs (2008) classifies three types of countries combining institutions and geography, which is a 
+sensible approach:
+•
+• Countries where institutions, policies and geography are all reasonably favourable, for example 
+the coastal regions of East Asia.
+•
+• Countries with favourable geography, but weak institutions, for example many of the transition 
+economies of Eastern Europe and the former Soviet Union.
+•
+• Countries impoverished by a combination of unfavourable geography, such as landlocked 
+countries and those plagued with disease, and poor governance, for example many of the coun-
+tries of sub-Saharan Africa.
+One manifestation of poor governance and weak institutions is wars both within countries 
+(civil wars) and between countries. According to Oxfam (2007), conflicts in Africa since 1990 have 
+cost the continent $150 billion, equivalent to the total amount of foreign aid received over the 
+same period. The economic damage to economies is immense. In countries such as the Democratic 
+Republic of the Congo, Burundi and Rwanda, for example, wars have reduced national output by 
+over 20%. This is the ‘conflict trap’ referred to by Collier (2007) in his book The Bottom Billion. In 
+war-torn countries, inflation, debt and unemployment are all higher, public investment in edu-
+cation, health and infrastructure suffer, life expectancy is lower, and people are more prone to 
+disease and malnourishment.
+Other dimensions of the development gap
+Deprivation in developing countries is not simply a matter of low levels of per capita income. 
+There are many other dimensions to the development gap between rich and poor countries. 
+Developing countries generally experience much higher levels of unemployment – open and dis-
+guised – than developed countries. The levels of education, health and nutrition are often abys-
+mally low, and income distribution tends to be much more inegalitarian. Policy in developing 
+countries is increasingly concerned with these other features of the development gap. The basic 
+needs approach to development, originally pioneered by the World Bank, is a reflection of this 
+switch of emphasis from exclusive concern with per capita income to these wider development 
+issues. Here, we consider unemployment and the distribution of income. In Chapter 7, we discuss 
+education, health and nutrition.
+Unemployment
+The developing countries contain a huge reservoir of surplus labour. For a long time, poor coun-
+tries, particularly since the population explosion, have been characterized by underemployment 
+or disguised unemployment in rural areas (see Chapter 5). What has happened in recent years is 
+70
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+that disguised rural unemployment has transferred itself into disguised and open unemployment 
+in the towns. Unemployment in the urban areas of developing countries is another dimension of 
+the development problem and an increasingly serious one. The rationale for rural–urban migra-
+tion will be considered later, but first it is appropriate to outline some of the facts on employment 
+and unemployment. According to the International Labour Organization (ILO, 2009) in Geneva, 
+1 billion people in developing countries are either jobless or underemployed, which amounts to 
+one-third of the total working-age population.
+This represents a colossal challenge, particularly as the workforce is expected to grow by another 
+1.5 billion by the year 2025. The ILO argues for a renewed commitment by developing countries 
+to the goal of employment creation, and not to treat current unemployment levels as natural 
+and the inevitable outcome of market forces, as if nothing can be done. The World Bank devoted 
+its 1995 and 2013 World Development Reports to the conditions of employment in developing 
+countries, and it painted a sombre picture (World Bank, 1995, 2012). (See Case example 3.2.) To 
+stop unemployment rising, there has to be employment growth of at least 2% per annum, which 
+requires output growth of at least 4% per annum. Not many countries are able to grow this rapidly 
+and consistently over time.
+Case example 3.2
+The importance of jobs
+Jobs provide higher earnings and better benefits as countries grow, but they are also a 
+driver of development. Poverty falls as people work their way out of hardship and as 
+jobs empowering women lead to a greater investment in children. Efficiency increases 
+as workers get better at what they do, as more productive jobs appear, and less pro-
+ductive ones disappear. Societies flourish as jobs bring together people from different 
+ethnic and social backgrounds and provide alternatives to conflict. Jobs are thus more 
+than a byproduct of economic growth. They are transformational – they are what we 
+earn, what we do, and even who we are.
+High unemployment and unmet job expectations among youth are the most 
+immediate concerns. But, in many developing countries, where farming and self-­
+employment are prevalent and safety nets are, at best, modest, unemployment rates 
+can be low. In these countries, growth is seldom jobless. Most of the poor work long 
+hours but simply cannot make ends meet. And the violation of basic rights is not un-
+common. Therefore, the number of jobs is not all that matters: jobs with high develop-
+ment payoffs are needed.
+Confronted with these challenges, policy-makers ask difficult questions:
+•
+• Should countries build their development strategies around growth, or should they 
+focus on jobs?
+•
+• Can entrepreneurship be fostered, especially among the many microenterprises in 
+developing countries, or are entrepreneurs born?
+•
+• Are greater investments in education and training a prerequisite for employability, 
+or can skills be built through jobs?
+•
+• In times of major crises and structural shift, should jobs, not just workers, be pro-
+tected?
+•
+• Is there a risk that policies supporting job creation in one country will be at the ex-
+pense of jobs in other countries?
+71
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+All this is a very aggregative analysis. The issue still to be addressed is the emergence of increas-
+ing urban unemployment. The problem is not so much one of a deficiency of demand for labour 
+in an aggregate demand sense. The causal factors relate to the incentives for labour to migrate 
+from rural to urban areas, and the incapacity of urban areas to provide employment owing to a 
+lack of other necessary factors of production to work with labour, particularly capital. As far as 
+migration is concerned, there are both push and pull factors at work.
+The push factors have to do with the limited job opportunities in rural areas and a greater 
+desire and ability to move, fostered by education and improved communications. The pull fac-
+tors relate to the development of urban industrial activities that offer jobs at a higher real wage 
+than can be earned in rural areas, so that even if a migrant is unemployed for part of the year, 
+they may still be better off migrating to the town than working in the rural sector. If there is no 
+work at all in the rural sector, the migrant loses nothing, except friends and the security of the 
+extended family system. The rate of growth of job opportunities in the rural sector depends on 
+the rate of growth of demand for the output of the rural sector and the rate at which jobs are 
+being ‘destroyed’ by productivity growth.
+As we saw earlier, if the demand for agricultural output is growing at 1.5% and productivity is 
+growing at 1%, then the growth of labour demand will be 0.5%. But if the labour force is growing 
+at 2%, there will be a 1.5 percentage point gap between the supply and demand for labour. If the 
+level of disguised unemployment in the rural sector does not increase, this figure constitutes the 
+potential volume of migrants. If the urban labour force is one-half of the size of the rural labour 
+force, a 1.5% migration of rural labour would represent a 3% increase in the urban labour force 
+owing to migration.
+On average, this is about the extent of the influx from the rural sector into the urban areas of 
+developing countries. On top of this, there is the natural increase in the workforce in urban areas 
+of 2% to consider. If job opportunities in urban areas are increasing at only 3%, then 2–3% of the 
+urban labour force will be added to the amount of urban unemployment year by year, forcing 
+labour into the informal service sector. In that case, unemployment shows up as poverty.
+Historically, the process of development has always been associated with, and character-
+ized by, an exodus from the land, continuing over centuries. The uniqueness of the present 
+situation is not the migration itself, but its magnitude and speed. And the problem is that 
+the urban sector cannot absorb the numbers involved. For any given technology, the rate at 
+Case example 3.2
+The importance of jobs – continued
+The World Development Report 2013: Jobs offers answers to these and other difficult 
+questions by looking at jobs as drivers of development – not as derived labour demand 
+– and by considering all types of jobs – not just formal wage employment. The report 
+provides a framework that cuts across sectors and shows that the best policy responses 
+vary across countries, depending on their levels of development, endowments, demog-
+raphy and institutions. Policy fundamentals matter in all cases, as they enable a vibrant 
+private sector, the source of most jobs in the world. Labour policies can help as well, 
+even if they are less critical than is often assumed. Development policies, from making 
+smallholder farming viable, to fostering functional cities, to engaging in global markets, 
+hold the key to success.
+Source: World Bank, 2012.
+72
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+which the urban (industrial) sector can absorb migrants largely depends on the rate of capital 
+formation. If labour and capital must be combined in fixed proportions, and the rate of capital 
+accumulation is only 3%, then the rate of increase in job opportunities can be only 3% also. 
+Unfortunately, however, as will be shown in Chapter 5, the problem is not necessarily solved 
+by a faster rate of capital accumulation in the urban sector, because migration is not simply 
+a function of the actual difference in real remuneration between the two sectors, but also of 
+the level of job opportunities in the urban sector. If the rate of job creation increases, this may 
+merely increase the flow of migrants, with no reduction in unemployment. The solution would 
+seem to be to create more job opportunities in the rural sector. This requires, however, not 
+only the redirection of investment but also the extension of education and transport facilities, 
+which, in the past few years, have themselves become powerful push factors in the migration 
+process. Whereas formerly redundant labour might have remained underemployed on the fam-
+ily farm, now­
+adays education and easy transportation provide the incentive and the means to 
+seek alternative employment opportunities. While education and improved communications 
+are desirable in themselves, and facilitate development, their provision has augmented the flow 
+of migrants from rural to urban areas.
+The pull factors behind migration are not hard to identify. The opportunities for work and 
+leisure provided by the industrial, urban environment contrast sharply with the conservatism 
+and stultifying atmosphere of rural village life and naturally act as a magnet for those on low 
+incomes or without work, especially the young. Given the much higher wages in the urban 
+sector, even the prospect of long spells of unemployment in the towns does not detract from 
+the incentive to migrate. Moreover, the choice is not necessarily between remaining in the 
+rural sector and migrating to the urban sector, with the prospect of long periods of unemploy-
+ment. The unemployed in the urban sector can often find work, or create work for themselves, 
+on the fringes of the industrial sector – in particular in the informal service sector of the 
+urban economy. The wages may be low, but some income is better than no income. In other 
+words, unemployment in urban areas may take the form of underemployment, or become 
+disguised, just as in the case of the rural sector – its manifestation being low income. This 
+has led to the notion of an income measure of unemployment, which needs to be added to 
+registered unemployment to obtain a true measure of unemployment and the availability of 
+labour supply.
+One way of measuring the extent of unemployment disguised in the form of low- productiv-
+ity/low-income jobs is to take the difference between the actual labour employed at the sub-
+standard income and the labour that would be required to produce a given level of output or 
+service at an acceptable level of income per head. Before measurement can take place, of course, 
+the acceptable (standard) level of income has to be defined. It could be that the level is set as the 
+‘poverty line’, below which health and welfare become seriously impaired. The income measure of 
+unemployment would thus be:
+U 5 L 2 L* 5 O
+O/L 2
+O
+O/L*
+where L is the actual labour employed, L* is the labour consistent with an acceptable level of 
+income per person employed, O/L is the actual level of productivity (or income per head), O/L* 
+is the acceptable level of income per employed person, and O is output. Let us work an example. 
+Suppose that the annual flow of output of an activity or service, such as haircuts, is $1 million and 
+that the existing number employed is 5,000, giving a level of productivity of $200. Now suppose 
+that the acceptable level of productivity to produce an acceptable level of income per person 
+73
+  t  5 ) &  $ ) " 3 " $ 5 & 3 * 4 5 * $ 4  0 '  6 / % & 3 % & 7 & - 0 1 . & / 5  " / %  4 5 3 6 $ 5 6 3 " -  $ ) " / ( &
+employed is $500 (roughly the international poverty line of $1.90 a day). The income measure of 
+unemployment is then:
+U5 1,000,000
+200
+ 2 1,000,000
+500
+ 5 3,000
+that is, over one-half of the existing labour force is disguisedly unemployed, in the sense that the 
+level of output is not suﬃcient for those who currently work to maintain an adequate standard 
+of living.
+The above analysis of employment and unemployment trends in developing countries points 
+to a number of policy implications that were also highlighted by the ILO as long ago as 1969, when 
+it ﬁrst sponsored missions to several countries to undertake a detailed diagnosis of the employ-
+NFOUQSPCMFN	TFFʾPSCFDLF
+$FSUBJOMZBOBEFRVBUFSBUFPGPVUQVUHSPXUIJTSFRVJSFEUP
+employ workers entering the labour market for the ﬁrst time and to absorb the eﬀects of product-
+ivity growth, but much more is required. There is a case for the use of more labour-intensive tech-
+OJRVFTPGQSPEVDUJPO	TFF$IBQUFS
+BOEUIFJTTVFPGSVSBMoVSCBONJHSBUJPOOFFETUPCFUBDLMFE
+by promoting more employment opportunities outside the urban centres, particularly for young 
+people. Without such measures, unemployment will continue to grow, especially in urban areas. 
+'FMJQFBOE)BTBO	
+BUUIF"TJBO%FWFMPQNFOU#BOLBSHVFUIBUFNQMPZNFOUDSFBUJPOBOE
+combating unemployment, is the major development challenge facing Asian economies today 
+because unemployment is a major cause of poverty and social unrest.
+One way of mitigating the eﬀects of unemployment is through public employment schemes. 
+India has a national rural employment guarantee scheme, which was launched in 2006, whereby 
+every rural household is guaranteed up to 100 days of unskilled manual wage employment per 
+year at the statuary minimum wage for agricultural workers. If employment is not provided within 
+15 days, the worker is entitled to an unemployment allowance. So far, over 5 million public works 
+have been undertaken across India, providing employment to more than 50 million households, 
+and over 3 billion person days of work have been generated on projects such as water conserva-
+tion, rural connectivity and land development. A beneﬁcial side eﬀect of the scheme is that it 
+raises productivity in agriculture and raises agricultural incomes as the demand for food rises. The 
+scheme costs the Indian government about 0.6% of GDP.
+In 2002, Argentina launched a programme for providing a subsistence income to unemployed 
+heads of households with at least one child in return for work for a minimum of 20 hours a week 
+on small projects that improve local infrastructure. About 2 million households have beneﬁted 
+from the scheme, at a cost of 1% of GDP. The impact on unemployment and poverty has been 
+signiﬁcant, with multiplier eﬀects on the rest of the economy estimated as 2.5 times the amount 
+of initial expenditure.
+There is much scope for these programmes to be adopted more widely across developing 
+countries.
+Inequality: vertical and horizontal
+As well as the average per capita income being low in developing countries, the distribution 
+of income, wealth and power is also typically very unequal, and much more unequal than in 
+developed countries. All too often, the growth and development that takes place in poor coun-
+tries beneﬁts the richest few, and the vast mass of the population is left untouched. Rural and 
+urban poverty are still widespread, and if anything the degree of income inequality within many 
+74
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+developing countries is increasing. The way income is distributed across individuals and house-
+holds is referred to as vertical inequality, and is the traditional measure of inequality that devel-
+opment policy focuses upon. There is also the concept, however, of horizontal inequality, which 
+is concerned with how different groups in society are treated, based on race, religion, language, 
+class, gender and so on. The well-being of people can be affected as much by horizontal inequality 
+as by vertical inequality. First, we will consider vertical inequality and then horizontal inequality.
+It should come as no surprise that the transformation of economies from a primitive subsist-
+ence state into industrial societies, within a basically capitalist framework, should be accompanied 
+in the early stages by widening disparities in the personal distribution of income. Some people are 
+more industrious than others and more adept at accumulating wealth. Opportunities cannot, 
+by the very nature of things, be equal for all. In the absence of strong redistributive taxation, 
+income inequality will inevitably accompany industrialization because of the inequality of skills 
+and wealth that differences in individual ability and initiative – and industrialization – produce.
+The observation that income inequality increases with the level of development and then 
+declines is often called the Kuznets curve, named after the famous development economist Simon 
+Kuznets, who did pioneering research on structural change and income distribution in the 1950s 
+and 1960s (e.g. Kuznets 1955, 1963), which earned him the Nobel Prize for Economics in 1971. 
+Kuznets showed that in many of the present developed countries, the degree of inequality first 
+increased and then decreased in the later stages of industrialization, giving an inverted U-shaped 
+curve. For the developing countries, the pioneering work of Adelman and Morris (1971), extended 
+by Paukert (1973), also showed fairly conclusively that inequality increases up to a certain stage of 
+development and then declines, graphically showing an inverted U-shape similar to the work of 
+Kuznets for developed countries. The greater degree of inequality in developing countries appears 
+largely due to the higher share of income received by the richest 5% of income recipients – nearly 
+30% of income in developing countries compared with 20% in developed countries.
+Deininger and Squire (1996), of the World Bank, have surveyed 682 studies of income distribu-
+tion in over 100 countries and calculated average Gini ratios for each country, together with the 
+ratio of the share of income received by the top 20% of income earners (top quintile) to that of the 
+bottom 20% of income earners (bottom quintile). Latin America, the Caribbean and Africa have 
+by far the largest degree of income inequality, with the Gini ratio well over 50 in many countries, 
+for example Brazil (57.3), Mexico (53.8) and South Africa (62.3). In contrast, income inequality in 
+Asia, the Pacific region and Eastern Europe appears to be much less. In China and India, the two 
+largest countries in the world measured by population, the Gini ratio is just over 30, much the 
+same as for high-income countries. Generally speaking, the higher the Gini ratio, the greater the 
+ratio of income shares between the top and bottom 20% of income earners. In South Africa that 
+ratio is 32:1 and in Brazil 23:1.
+Income inequality has been increasing in most countries since the mid-1980s, supporting the 
+Kuznets curve for developing economies, but defying the Kuznets curve for developed countries. 
+The exception is some Latin American countries, particularly Brazil, Mexico and Argentina, where 
+inequality is still high, but declining. In China and India, inequality is increasing.
+The traditional view used to be that inequality was good for growth because investment relied 
+on savings from the rich. This view is now challenged because physical capital accumulation has 
+become less important than human capital (education and skills) for growth, and income ine-
+quality is not good for growth if those on low incomes suffer poor health, a lack of education 
+ 
+and low productivity. Income inequality can also lead to a lack of social cohesion and dam­
+aging political lobbying by rich vested interests. It has been estimated by the World Bank that 
+a 5 point increase in the Gini ratio reduces growth by about 0.5% per annum (Milanovic, 2011). 
+75
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+Redistributing income to reduce inequality can promote growth. Table 3.5 gives some representa-
+tive figures for the Gini ratio in countries with the highest and lowest levels of inequality.
+South Africa has the second highest degree of income inequality as measured by the Gini ratio. 
+This is the legacy of the apartheid policy pursued in South Africa over many years, with a minority 
+white population discriminating against the black and Asian majority with regard to jobs, hous-
+ing, education and health. Four other African countries stand out – Central African Republic, 
+Zambia, Lesotho and Rwanda. Notice also that many of the countries with the highest degree of 
+inequality are located in South and Central America, but there are no countries in Asia with Gini 
+ratios over 50. Countries with the lowest Gini ratios are either Scandinavian or former territories 
+of the Soviet Union.
+There are several formidable barriers to narrowing the income distribution gap:
+1.	 There is the dualistic nature of many economies (see Chapter 10), perpetuated by feudal land 
+tenure systems and urban bias in the allocation of investment resources.
+2.	 There is inequality in the provision of education facilities, and a particular lack of facilities in 
+rural areas where the poorest are concentrated.
+3.	 There is disguised rural unemployment, underemployment and open unemployment in urban 
+areas created by rural–urban migration, a shortage of investment resources and inappropriate 
+production techniques.
+Until development policy comes to grips with these problems, there will continue to be large 
+pockets of absolute poverty and a marked degree of inequality in income distribution. When 
+deciding on the allocation of investment resources and the choice of projects, a high weight must 
+be given to projects that raise the income of the poorest if the income distribution is to be nar-
+rowed (see Chapter 6).
+Now let us turn to horizontal inequality (HI), which is concerned with how economic differ-
+ences, social demarcations and political power combine to produce differences in entitlements and 
+Table 3.5  The Gini ratio for high and low inequality countries, 2013
+High inequality
+Gini ratio
+Low inequality
+Gini ratio
+Namibia
+63.9
+Sweden
+25.0
+South Africa
+63.1
+Ukraine
+25.6
+Haiti
+59.2
+Norway
+25.8
+Zambia
+57.5
+Slovakia
+26.0
+Bolivia
+56.3
+Belarus
+26.5
+Central African Republic
+56.3
+Finland
+26.9
+Colombia
+55.9
+Romania
+27.4
+Guatemala
+55.7
+Afghanistan
+27.8
+Brazil
+54.7
+Bulgaria
+28.2
+Lesotho
+52.3
+Germany
+28.3
+Chile
+52.1
+Montenegro
+28.6
+Paraguay
+52.4
+Kazakhstan
+29.0
+Panama
+51.9
+Austria
+29.2
+Rwanda
+50.8
+Serbia
+29.6
+Source: World Bank, 2015.
+76
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+capabilities for different groups in society. Groups may be defined in a number of ways, as already 
+mentioned: race, religion, gender, location, class, language and so on. Stewart (2001) develops the 
+hypothesis that not only is HI responsible for much conflict within societies, but it also affects 
+the development process in a number of ways. For example, some groups may be denied access 
+to public goods such as education and healthcare. This impoverishes not only the group, but the 
+economy at large. Certain regions may be deprived of infrastructure investment because of par-
+ticular groups located in these regions, which not only damages the region but the progress of the 
+whole economy. To be discriminated against on the basis of a particular group identity has psycho-
+logical effects, and affects the core goals of development discussed in Chapter 1: life sustenance, 
+self-esteem and freedom. Thus, HI is an important dimension of well-being, and can have eco-
+nomic and political consequences highly detrimental to development. Despite this, international 
+development policy is rarely focused on the narrowing of group divisions. HI would not matter 
+so much if there was mobility between groups, or if individuals were free to choose which group 
+they belonged to, but this is rarely the case in often highly stratified developing countries. Stewart 
+(2001) gives examples of several case studies of the basis and consequences of horizontal inequality, 
+for example, in Mexico, Brazil, Fiji, Malaysia and South Africa. The situation in several countries is 
+given in Case example 3.3. It is clear that development policy needs to tackle horizontal inequality 
+between groups, as well as vertical inequality with respect to income distribution across individuals.
+Case example 3.3
+Inequalities between groups can fuel conflict and tension
+The root causes of violent conflict are rarely simple. But as the examples below show, 
+a common theme is emerging from recent research into conflict: the role that socio-
+economic and political inequalities between groups can play in causing tensions and 
+violence. Less research has been done on the role that cultural exclusions of groups 
+may play (such as lack of recognition of languages or religious practices), but these are 
+also issues that can lead to mobilization and protests and so may also be important 
+root causes or triggers of conflict.
+•
+• Severe rioting against the Chinese in Malaysia in the late 1960s has been attributed 
+largely to the animosity felt by the politically dominant but economically sidelined 
+Bumiputera majority towards the economically dominant Chinese minority.
+•
+• Civil war in Sri Lanka since the early 1980s has been linked to tensions resulting 
+from inequalities between the Tamil minority and Sinhalese majority. Colonial ad-
+ministrators had favoured the Tamil minority economically, but this advantage was 
+sharply reversed once the Sinhalese gained power and increasingly sidelined the Ta-
+mil minority in areas such as educational opportunities, civil service recruitment 
+and language policy.
+•
+• In Uganda, the Bantu-speaking people (largely in the centre and south) have been 
+economically dominant but politically sidelined compared with the non-Bantu- 
+speaking people (largely in the north). These economic and political inequities have 
+played a role in major conflicts, including the violence initiated by Idi Amin (1970s) 
+and by the second Obote regime (1983–85).
+•
+• Indigenous people in the state of Chiapas, Mexico have long suffered political and 
+socioeconomic deprivation. They have demanded greater political autonomy, im-
+proved socioeconomic conditions and protection of their cultural heritage, culmin­
+ating in uprisings against the Mexican state in four municipalities.
+77
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+Growth and distribution
+The observation that income inequality increases with the level of development and then declines 
+is not to say that faster economic growth within a country necessarily worsens the income dis-
+tribution. Recent international evidence suggests that rapid structural transformation and fast 
+economic growth have benefited the poor as much as the rich. Nor, for that matter, is inequality 
+a necessary condition for growth because it generates more saving, as it is sometimes claimed. 
+Naqvi (1995) looked in detail at 40 developing countries and found that high growth rates and 
+distributive justice (as well as macroeconomic stability) have tended to move together. This is also 
+the conclusion of Dollar and Kraay (2000), who examined the relationship between growth and 
+income distribution across 80 countries over 40 years. They found that the income of the poor 
+(the bottom 20% of the population) rises one to one with overall growth, and the relation is no 
+different in poor countries than in rich ones. Nor has the poverty–growth relationship changed 
+much over time. In other words, growth seems to benefit the poor as much as the rich, so that rela­
+tive inequality (the Gini ratio) stays the same (although absolute inequality still widens, of course, 
+because the same growth of income gives more dollars to a rich person than a poor person).
+On the question of whether inequality promotes growth, the answer seems to be ‘no’. If the 
+Gini ratio is included in a cross-section equation to explain differences in growth between coun-
+tries, the coefficient is normally negative, not positive (see Forbes, 2000). In other words, a more 
+equal distribution of income is good for growth. Income equality is probably standing here as a 
+proxy for such growth-inducing factors as good governance, civil society, equal property rights 
+and equality of opportunity. The successful Asian ‘tiger economies’ have much more equal distri-
+butions of income, and better governance, than most other developing economies.
+Case example 3.3
+Inequalities between groups can fuel conflict and tension – continued
+•
+• In South Africa before 1994, the black majority was severely disadvantaged politic­
+ally and socioeconomically, which led to many uprisings between 1976 and the 
+transfer of power in 1993.
+•
+• Catholics in Northern Ireland have suffered economic and political deprivation 
+since the sixteenth century. The continuance of Northern Ireland as part of the UK in 
+the 1920s ensured that Protestants would enjoy permanent political and economic 
+dominance – fuelling demands by northern Catholics to become part of the pre-
+dominantly Catholic Republic of Ireland. Violent conflict started in the late 1960s and 
+began to ease in the 1990s following systematic efforts to reduce these inequalities.
+•
+• Constitutional crises and coups have occurred in Fiji, notably in 1987 and 1999, as 
+economically sidelined indigenous Fijians have feared losing political control to the 
+economically dominant Indian-origin Fijians.
+•
+• Increasing tensions between Muslims and Christians in Poso, Central Sulawesi, In-
+donesia began surfacing in the mid-1990s as the Muslim community increasingly 
+gained more than indigenous Christians from new economic policies.
+•
+• Since colonial times, the indigenous people of Guatemala have suffered political 
+and economic discrimination, contributing to the country’s ongoing conflicts.
+•
+• The Maoist insurgency launched in Nepal in 1996 may be attributed to deep griev-
+ances stemming from the systematic marginalization and exclusion of certain ethnic 
+groups, castes and women.
+Source: UNDP, 2004.
+78
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+Poverty-weighted growth rates
+Whether progress is being made towards achieving the twin objectives of faster growth and a 
+more equal distribution of income can be examined simultaneously by constructing poverty-
+weighted indices of growth.
+GNP growth as conventionally measured is a weighted average of the growth of income of 
+different groups of people, where the relevant weights are each group’s share of total income. The 
+measured growth rate pays no regard to the distribution of income. A high growth rate may be 
+recorded, but this may have benefited only the rich. For example, suppose the bottom third of 
+the population receive 10% of income, the middle third receive 30% of income, and the top third 
+receive 60% of income. GNP growth would be measured as:
+% growth of GNP 5 r1(0.1) 1 r2(0.3) 1 r3(0.6),
+where r1, r2 and r3 are the respective rates of growth of income of the three groups. Suppose 
+ 
+r1 5 1%, r2 5 1% and r3 5 10%. A GNP growth rate of 6.4% would then be recorded, which looks 
+very respectable but the position of the poorest will hardly have changed.
+The idea of constructing poverty-weighted indices of growth is to give at least equal weight to 
+all income groups in society, if not a higher weight to the poor, in order to obtain a better measure 
+of the growth of overall welfare combining the growth of income with its distribution.
+In the above example, for instance, if each group is given an equal weight of one-third, the 
+measured growth of welfare becomes:
+% growth of ‘welfare’ 5 1(0.33) 1 1(0.33) 1 10(0.33) 5 4%
+which is much less than the rate of growth shown by the conventional measure of GNP growth 
+when distributional considerations are taken into account.
+A society could go further and say that it places no value or weight on income growth for the 
+richest third of the population, and places all the weight on the lower income groups with, say, 
+a 60% weight to the bottom third and a 40% weight to the middle third. The growth of ‘welfare’ 
+would then look derisory:
+% growth of ‘welfare’ 5 1(0.6) 1 1(0.4) 1 10(0) 5 1%
+This approach has been experimented with by economists from the World Bank (see Ahluwalia 
+et al., 1979) to compare countries, giving a 60% weight to the lowest 40% of the population, a 
+40% weight to the middle 40% and no weight to the top 20%. In countries where the distribu-
+tion of income had deteriorated, the poverty-weighted measure of the growth of welfare showed 
+less improvement than GNP growth, and where the distribution of income had improved, the 
+poverty-weighted growth rate showed more improvement than GNP growth.
+Stages of development and structural change
+It is often argued that countries pass through certain phases during the course of development 
+and that by identifying the particular characteristics of these phases, a country can be deemed to 
+have reached a certain stage of development. The simplest stage theory is the sector thesis of Fisher 
+(1939) and Clark (1940), who employed the distinction between primary, secondary and tertiary 
+production as a basis of a theory of development. Countries are assumed to start as primary 
+producers and then, as the basic necessities of life are met, resources shift into ­
+manufacturing or 
+79
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+secondary activities. Finally, with rising income, more leisure and an increasingly saturated market 
+for manufactured goods, resources move into service or tertiary activities producing ‘commod­
+ities’ with a high income elasticity of demand.
+Naturally enough in this schema, less developed countries are identified with primary produc-
+tion, more developed countries with the production of manufactured goods, and mature devel-
+oped economies have a high percentage of their resources in the service sector.
+There can be no dispute that resource shifts are an integral part of the development process, 
+and that one of the main determinants of these shifts is a difference in the income elasticity of 
+demand for commodities and changes in their elasticity as development proceeds. But just as 
+care must be taken to equate (without qualification) development and welfare with the level of 
+per capita income, caution must also be exercised in identifying different degrees of underdevel-
+opment, industrialization and maturity, with some fairly rigid proportion of resources engaged in 
+different types of activity. Such an association would ignore the doctrine of comparative advan-
+tage, which holds that countries will specialize in the production of those commodities in which 
+they have a relative cost advantage, as determined by natural or acquired resource endowments. 
+The fact that one country produces predominantly primary products while another produces 
+mainly manufactured goods need not imply that they are at different stages of development, 
+particularly if productivity in the primary sector matches productivity in the industrial sector. 
+Such an association would also ignore the different types of service activities that may exist at 
+different stages of a country’s history. There are three broad categories of service activities. Newer 
+service activities linked with the growth of leisure and high mass consumption tend to have a 
+high income elasticity of demand; services linked to the growth of manufacturing also grow, but 
+at a declining rate; and traditional services of pre-industrial times, such as domestic servants, 
+decline. In short, tertiary production is an aggregation of many dissimilar service activities, some 
+of which are related to low per capita incomes and some to high per capita incomes. Thus, the 
+same proportion of total resources devoted to services may be associated with very different 
+levels of development.
+Having said all this, however, the fact remains that there is a good deal of empirical support for 
+the Fisher–Clark view that the pattern of development across countries evidences many common 
+characteristics, especially the shift of resources from agriculture to industry.
+Figure 3.3 plots the relation between the level of per capita income and the share of employ-
+ment in agriculture, industry and services across 69 countries using simple regression analysis. The 
+broad thesis of Fisher and Clark is confirmed. On average, in low-income countries, the share of 
+employment in agriculture is approximately 40% (and much higher in the very poorest countries 
+of Africa), while only 15% is employed in industry. By contrast, in high-income countries, less 
+than 5% is employed in agriculture and nearly 30% in industry. The proportion of the labour force 
+employed in services rises inexorably, but the nature of the service activities is different – petty 
+services in low-income countries and sophisticated services in the high-income countries.
+What is true of the sectoral distribution of the labour force is also true of the sectoral distri-
+bution of output, although the magnitude of the proportions differ in lower income countries 
+because productivity differs between sectors. Figure 3.4 shows the sectoral distribution of output 
+across 141 countries also by regressing the shares on per capita income. In low-income countries, 
+on average, the share of agriculture in total GDP is 30% compared with an employment share of 
+over 40%, because productivity is lower in agriculture than in industry. Industry’s share of output 
+in poor countries is 20% compared with an employment share of 15%. The share of output and 
+employment in services is roughly equal.
+80
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+90%
+Services
+Agriculture
+Industry
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+233
+584
+786
+962
+1,039
+1,181
+1,106
+1,589
+2,107
+2,166
+2,396
+2,494
+3,425
+3,892
+4,403
+4,505
+4,733
+3,966
+5,719
+6,163
+6,548
+8,094
+11,093
+13,240
+16,054
+23,031
+23,799
+25,301
+25,968
+27,033
+30,124
+31,597
+35,960
+38,962
+51,950
+Figure 3.3  The distribution of the labour force (%)
+Source: Data from the World Bank, 2009 and the ILO, 2009 for 69 countries.
+Source: Data from the World Bank, 2009 and the ILO, 2009 for 141 countries.
+Services
+Agriculture
+Industry
+233
+253
+284
+321
+400
+428
+524
+588
+942
+1,007
+1,117
+1,257
+1,451
+1,589
+1,871
+2,104
+2,199
+2,396
+2,494
+3,425
+4,221
+4,403
+4,630
+5,047
+5,719
+6,548
+8,143
+9,864
+15,688
+23,031
+24,997
+25,968
+30,124
+35,960
+100
+100%
+80%
+60%
+40%
+20%
+0%
+51,590
+Figure 3.4  The distribution of output (%)
+Notice also that while the share of agriculture falls continually, and the share of services increases 
+continually, the share of employment and output in industry first rises and then falls as countries 
+get richer. The latter is referred to as the process of deindustrialization. This process started in 
+developed countries many years ago (see Rowthorn and Ramswamy, 1999), but is now begin-
+ning to hit middle-income (and even some low-income) countries (see Pieper, 2003; Tregenna, 
+2009). The level of per capita income at which the share of industry peaks seems to be falling; 
+a phenomenon referred to as ‘premature deindustrialization’ or ‘premature non-­
+industrialization’ 
+(Rodrik, 2016). Some African and Latin American countries seem to be deindustrializing before 
+they have ever been properly industrialized. This is worrying in an open economy where export 
+growth is highly correlated with the growth of manufacturing output (see Pacheco-López and 
+81
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+Thirlwall, 2014). One explanation is that poor countries lack the capabilities and infrastructure 
+ 
+to compete in the global marketplace for industrial goods, particularly with freer trade and 
+the free movement of labour and capital. Manufacturers seek locations where wage costs per 
+unit of output (the efficiency wage) are lowest, which are not necessarily the poorest coun-
+tries. Another explanation would be that the world is becoming more and more saturated with 
+ 
+manufactured goods, and there is a continued shift in the purchase of, and trade in, service activ­
+ities. India has responded to this shift to the neglect of its industrial base. Pakistan, Sri Lanka and 
+Nepal are imitating India and, to a large extent, skipping the stage of industrialization. If countries 
+can acquire an early comparative advantage in tradable service activities, their exports may not 
+suffer, but other countries are likely to get left behind. Also, many service activities, particularly in 
+the information technology sector, require skilled labour, and are increasingly automated, which 
+presents an enormous employment challenge as the labour force continues to grow. Only in East 
+Asia and the Pacific region is the importance of industry increasing.
+Table 3.6 gives a summary of output shares of GDP by activity in the different regions of the 
+world. The shares of agriculture can be seen to go down the richer the countries, and the share of 
+services to rise. The share of manufacturing starts very low in low-income countries and reaches 
+a peak in the upper middle-income countries, and then falls again. Notice the very small share of 
+manufacturing output in sub-Saharan Africa.
+As already mentioned, the changing structure of output and employment is a function of the 
+different income elasticities of demand for different products. It is possible to make estimates of 
+the income elasticity of demand for different commodities by using an estimating equation of 
+the form: log V 5 log a 1 b log Y, where V is value-added (or output) per capita for good X, Y 
+is per capita income and b is the income elasticity of demand for good X. An income elasticity 
+less than unity would imply that the share of the good in total output declines as income grows. 
+Conversely, an income elasticity greater than unity means that the good’s relative importance 
+in total output will increase. To estimate the income elasticities, the equation is applied to data 
+Table 3.6  The shares of output in GDP by region
+Agriculture
+Industry
+Services
+% of GDP
+Total % of GDP
+Manufacturing 
+% of GDP
+% of GDP
+World
+  3
+26
+16
+71
+Low income
+32
+22
+  9
+47
+Middle income
+10
+35
+22
+56
+Lower middle income
+17
+31
+17
+52
+Upper middle income
+10
+36
+24
+57
+Low and middle income
+10
+34
+22
+55
+East Asia and Pacific
+10
+42
+32
+48
+Europe and Central Asia
+  8
+28
+16
+63
+Latin America and Caribbean
+  5
+30
+14
+65
+Middle East and North Africa
+11
+37
+14
+52
+South Asia
+18
+29
+17
+53
+Sub-Saharan Africa
+15
+27
+11
+58
+High income
+  2
+25
+15
+74
+Source: World Bank, 2015, Table 4.2.
+82
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+across countries at different stages of development. When this is done, the income elasticity for 
+agricultural products is typically estimated at about 0.5, while the income elasticity for services 
+is significantly above unity. The income elasticity for industries is nonlinear. Up to a certain level 
+of income, the elasticity is above unity, and then it falls below unity (consistent with the share of 
+industrial output first rising and then falling).2
+Within the industrial sector, there are also differences in the income elasticity of demand for 
+products, which cause the pattern of industry to change as development proceeds. The most 
+notable demand shift is the relative switch from basic necessities and low value-added goods to 
+high value-added consumer durables.
+Rostow’s stages of growth
+Interest in stage theories of development was given a major impetus with the publication of 
+Rostow’s The Stages of Economic Growth (1960), which represents an attempt to provide an alter-
+native to the Marxist interpretation of history – hence its subtitle, A Non-Communist Manifesto. 
+Rostow presents a political theory as well as a descriptive economic study of the pattern of the 
+growth and development of nations.
+Walt Rostow
+Born 1916, New York, USA. Died 2003. Professor of Economic History, 
+MIT (1950–61) and, after US government service in the 1960s during the 
+Kennedy and Johnson administrations, Emeritus Professor of Political 
+Economy, University of Texas, Austin. Famous for his bestselling, but 
+controversial book The Stages of Economic Growth: A Non-Communist 
+Manifesto (1960), in which he identifies several necessary conditions for 
+countries to take off into self-sustaining growth: important among them 
+an agricultural revolution, an investment ratio at least 10% of GDP, and an 
+institutional environment conducive to entrepreneurship.
+The essence of Rostow’s thesis is that it is logically and practically possible to identify stages of 
+development and to classify societies according to those stages. He distinguishes five such stages: 
+traditional, transitional, take-off, maturity and high mass consumption.
+All we need say about traditional societies is that, for Rostow, the whole of the pre-­
+Newtonian 
+world consisted of such societies; for example, the dynasties of China, the civilizations of the 
+Middle East, the Mediterranean and medieval Europe and so on. Traditional societies are charac-
+terized by a ceiling on productivity imposed by the limitations of science. Traditional soci­
+eties are 
+thus recognizable by a very high proportion of the workforce in subsistence agriculture, coupled 
+with very little mobility or social change, great divisions of wealth and decentralized political 
+power. Today, few societies could be classed as traditional, except perhaps some of the primitive 
+tribes of Amazonia or Papua New Guinea. Most societies emerged from the traditional stage some 
+time ago, mainly under the impact of external challenge or the rise of nationalism. The exceptions 
+to the pattern of emergence from the traditional state are those countries that Rostow describes 
+83
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+as having been ‘born free’, such as the USA and certain British dominions. Here, the preconditions 
+of ‘take-off’ were laid in a more simple fashion by the construction of ‘social overhead capital’ 
+(growth-promoting institutions) and the introduction of industry from abroad. But, for the rest 
+of the world, change was much more basic and fundamental, consisting not only of economic 
+transformation but also a political and social transition from feudalism.
+The stage between feudalism and take-off Rostow calls the transitional stage. The main eco-
+nomic requirement in the transition phase is that the level of investment should rise to at least 
+10% of national income to ensure self-sustaining growth. The main direction of investment must 
+be in transport and other social overhead capital to build up society’s infrastructure. The precon-
+ditions for a rise in the investment ratio consist of the willingness of people to lend risk capital, the 
+availability of entrepreneurs, and the willingness of society at large to operate an economic system 
+geared to the factory and the principle of the division of labour. But a country shifting resources 
+out of agriculture needs to feed itself, so an agricultural revolution is also necessary.
+On the social front, a new elite must emerge to fabricate the industrial society, and it must 
+supersede in authority the land-based elite of the traditional society. Surpluses must be chan-
+nelled by the new elite from agriculture to industry, and there must be a willingness to take risks 
+and to respond to economic incentives. And because of the enormity of the task of transition, 
+the establishment of an effective modern government is vital. The length of the transition phase 
+depends on the speed with which local talent, energy and resources are devoted to moderniza-
+tion and the overthrow of the established order. In this respect, political leadership has an import­
+ant part to play.
+Then there is the take-off stage. The characteristics of take-off are sometimes difficult to dis-
+tinguish from the characteristics of the transition stage, and this has been a point of contention 
+between Rostow and his critics. Nonetheless, let us describe the take-off stage as Rostow sees 
+it – a ‘stage’ to which reference is constantly made in the development literature. Since the pre-
+conditions of take-off have been met in the transitional stage, the take-off stage is a short stage 
+of development, during which economic growth becomes self-sustaining. Investment must rise 
+to a level in excess of 10% of national income in order for per capita income to rise sufficiently to 
+guarantee adequate future levels of saving and investment. Also important is the establishment 
+of what Rostow calls ‘leading growth sectors’. Historically, domestic finance for take-off seems 
+to have come from two main sources. The first was from a diversion of part of the product of 
+agriculture by land reform and other means. The examples of Tsarist Russia and Meiji Japan are 
+quoted, where government bonds were substituted for the landowner’s claim to the flow of rent 
+payments. A second source was from enterprising landlords voluntarily ploughing back rents into 
+commerce and industry.
+In practice, the development of major export industries has sometimes led to take-off permit-
+ting substantial capital imports. Grain in the USA, Russia and Canada, timber in Sweden and, to a 
+lesser extent, textiles in Britain are cited as examples. Countries such as the USA, Russia, Sweden 
+and Canada also benefited during take-off from substantial inflows of foreign capital. The sector 
+or sectors that gave rise to the take-off seem to have varied from country to country, but in many 
+countries railway building seems to have been prominent. Certainly, improvement of the internal 
+means of communication is crucial for an expansion of markets and to facilitate exports, apart from 
+any direct impact on industries such as coal, steel and engineering. But Rostow argues that any 
+industry can play the role of leading sector in the take-off stage, provided four conditions are met:
+1.	 The market for the product is expanding rapidly to provide a firm basis for the growth of output.
+2.	 The leading sector generates secondary expansion.
+84
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+3.	 The sector has an adequate and continual supply of capital from ploughed-back profits.
+4.	 New techniques of production can be continually introduced into the sector, leading to 
+ 
+increased productivity.
+Rostow contends that the beginnings of take-off in most countries can be traced to a particular 
+stimulus. Historically, this has taken many different forms, such as a technological innovation or, 
+more commonly, political revolution, for example Germany in 1848, the Meiji Restoration in Japan 
+in 1868, China in 1949 and Indian independence in 1947. Rostow stresses, however, that there is 
+no one single pattern or sequence of take-off. Thus, there is no need for the developing countries 
+today to repeat the course of events in, say, Britain, Russia or America. The crucial requirement 
+is that the preconditions for take-off are met, otherwise take-off, whatever form it takes, will be 
+abortive. Investment must rise to over 10% of national income; one or more leading sectors must 
+emerge; and there must exist or emerge a political, social and institutional framework that exploits 
+the impulse to expand. The examples are given of the extensive railway building in Argentina 
+before 1914, and in India, China and Canada before 1895, which failed to initiate take-off because 
+the full transition from a traditional society had not been made. The dates of take-off for some of 
+the present developed countries are given as follows: Britain 1783–1802; France 1840–60; the USA 
+1843–60; Germany 1850–73; Sweden 1868–90; Japan 1878–1900; and Russia 1890–1914.
+Then there is the maturity stage, which Rostow defines as the period when society has effect­
+ively applied the range of modern technology to the bulk of its resources. During the period of 
+maturity, new leading sectors replace the old. By this criterion, Rostow sees the development of 
+the steel industry as one of the symbols of maturity. In this respect, the USA, Germany, France and 
+Britain entered the stage of maturity roughly together.
+Accompanying changes in the industrial structure will be structural changes in society, such 
+as changes in the distribution of the workforce, the growth of an urban population, an increase in 
+the proportion of white-collar workers, and a switch in industrial leadership from entrepreneur 
+to manager.
+Maturity also has important political features. This is the period when nations grow confident 
+and exert themselves – witness Germany under Bismarck and Russia under Stalin. This is also the 
+period when fundamental political choices have to be made by society on the use to which the 
+greater wealth should be put. Should it be devoted to high mass consumption, the building of a 
+welfare state, or imperialist ends? The balance between these possibilities has varied over time 
+within countries, and between countries. Eventually, however, every nation will reach the stage 
+of high mass consumption whatever the balance of choices at the stage of maturity. Since there 
+is no likelihood of developing countries reaching this stage in the foreseeable future, and only a 
+handful of rich countries have reached it already, we shall ignore this fifth stage here.
+Instead, let us evaluate Rostow’s thesis and consider the usefulness of this type of stage theory, 
+apart from its use in providing a valuable description of the development process and pinpoint-
+ing some of the key growth variables. Most criticisms have hinged on whether a valid and oper­
+ationally meaningful distinction can be made between stages of development, especially between 
+the so-called transitional stage and take-off, and between take-off and maturity. Critics have 
+attempted to argue that the characteristics that Rostow distinguishes for his different stages are 
+not unique to those stages. Thus, the demarcation between take-off and transition is blurred 
+because the changes that take place in the transition stage also seem to take place in the take-off 
+phase, and similarly with the demarcation between take-off and maturity.
+Despite these points of criticism, Rostow’s stage theory still offers valuable insights into the devel-
+opment process. While the concept of a stage may be quibbled with, and stage theory dismissed 
+85
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+as a blueprint for development, there are certain features of the development process that do fol-
+low a well-ordered sequence. Moreover, there are certain development prerequisites that countries 
+neglect at their peril. The importance of agriculture in the early stages of development cannot be 
+overemphasized, together with the provision of infrastructure and political stability, if the precon-
+ditions for take-off into self-sustaining growth are to be met. The role of investment is also high-
+lighted: investment must reach a certain ratio of GDP (at least 10%) if per capita income growth 
+is to be positive. Finally, there is the transition from the rural to the industrial society, with growth 
+based on the development of leading sectors and foreign trade, which propels a society from take-
+off to the stage of maturity and eventually high mass consumption. The process of industrialization 
+is crucial.
+Diversification
+Another feature of structural change is that, as well as resource shifts from agriculture to industry 
+and services, the structure of production tends to become more diversified as countries develop, 
+at least up to a fairly high level of per capita income – after which there is evidence that it becomes 
+more specialized again. This is well documented in the work of Imbs and Wacziarg (2003) on ‘stages 
+of diversification’ (see also Felipe, 2009). They take several different measures of industrial concen-
+tration (including the Gini ratio) and, using ILO and the UN Industrial Development Organization 
+(UNIDO) data, show how the concentration of employment and value-added tends to fall as 
+countries get richer up to about $9,000 per head (at 2000 prices) and then increases, giving a 
+U-shaped curve. Obvious explanations for this pattern are that people’s preferences widen as they 
+get richer, and there are more risk-takers willing to undertake new investments, which increases 
+diversification. But at later stages of development, international trade increases the degree of spe-
+cialization due to agglomeration benefits (increasing returns) and falling transport costs.
+Industrialization and growth
+From a global perspective, there seems to be a close association across countries between living 
+standards and the share of resources devoted to industrial activities, at least up to a certain point. 
+In very poor countries there is virtually no industrial activity at all, while middle- and high-income 
+countries devote 20–40% of resources to industry. Only three countries in the world have become 
+rich on agriculture alone: Australia, New Zealand and Canada. In all other countries, living stand-
+ards have risen rapidly only as resources have shifted out of agriculture into industry and sophis-
+ticated services (see Szirmai, 2012).
+Furthermore, research (see, for example, Szirmai et al., 2013; Thirlwall, 1983; Hansen and Zang, 
+1996; Guo et al., 2012; Wells and Thirlwall, 2003; Libanio, 2006; Necmi, 1999) also shows a close 
+association across countries between the growth of industry and the growth of GDP; or more 
+precisely, GDP growth is faster, the greater the excess of industrial growth relative to GDP growth; 
+that is, when the share of industry in total GDP is rising the fastest. Figure 3.5 shows this relation-
+ship across 131 developing countries over the period 2000–14, with GDP growth measured on the 
+vertical axis and the growth of industry on the horizontal axis. The scatter points represent the 
+individual country observations. A line through the points with a slope less than unity shows that 
+the greater the excess of industrial growth over GDP growth, the faster GDP growth seems to be. 
+The point where this line cuts the 45° line gives the average growth rate that divides countries 
+86
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+into those where the share of industry is falling and are growing slowly, and those where the share 
+of industry is rising and are growing fast. A linear equation fitted to the scatter points in Figure 3.5 
+gives the following regression result:
+g 5 2.529 1 0.394x	
+r2 5 0.507
+The equation says that a country with industrial growth one percentage point above the average 
+for all countries will have GDP growth of 0.394 percentage points above the average; and the point 
+where the regression line cuts the 45° line is approximately 4.5%.3 This rate of industry growth 
+separates the slow-growing countries from the faster-growing countries.
+The structural thesis of the role of manufacturing is supported by the research of Szirmai 
+and Verspagen (2015), who take a panel of 88 countries over the period 1950–2005 and regress 
+the growth of per capita income on the share of manufacturing output and services in total 
+GDP. Their results support the hypothesis of ‘manufacturing as the engine of growth’. A 10 
+percentage point rise in the share of manufacturing is associated with a 0.5 percentage point 
+increase in the growth of per capita income. The impact has got weaker over time, however, as 
+countries have got richer; the impact is stronger in low-income countries than in high-income 
+countries. The significance of the service sector for growth is much weaker, but increases in 
+high-income countries.
+The question is: What is special about industry, and particularly manufacturing industry, 
+which accounts for these empirical associations, and which makes industry ‘the engine of 
+growth’? Since differences in the growth of GDP are largely accounted for by differences in the 
+rate of growth of labour productivity, there must be an association between the growth of 
+industry and the growth of labour productivity. This is to be expected for two main reasons. 
+First, if there are increasing returns to scale in industry, both static and dynamic, a relation is 
+to be expected between the growth of industrial output and the growth of labour productiv-
+ity in industry. Static economies of scale refer to the economies of large-scale production 
+whereby the mass production of commodities allows them to be produced at a lower aver-
+age cost. Dynamic economies of scale refer to the induced effect that output growth has 
+on capital accumulation and the embodiment of new technical progress in capital. Labour 
+14.0
+12.0
+10.0
+8.0
+6.0
+4.0
+2.0
+–2.0
+–4.0
+5.0
+Industrial growth (x)
+GDP growth (g)
+10.0
+25.0
+ 15.0 
+20.0
+–10.0
+–5.0
+Figure 3.5  Association between growth of industry and growth of GDP
+87
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+Case example 3.4
+Structural change as the driver of growth: China, South Korea 
+and Indonesia compared
+Structural change – as the transition from low-productivity activities with low value-
+added, such as agriculture and garment production, to high-productivity activities 
+that can absorb surplus labour, generate higher profits and wages, and are most closely 
+associated with technological development and innovation, such as manufacturing – 
+promotes economic growth. The speed at which such a transition takes place also has 
+an impact on the rate of economic growth. Countries that quickly climb the ladder 
+towards more technologically advanced economic activities grow more rapidly and are 
+more successful at lifting people out of poverty.
+The remarkable economic growth of China and Southeast Asia, for example, is linked 
+to the decline in the significance of the traditional agricultural sector, and rapid expan-
+sion of the industrial sector and subsequent higher value-added. When the programme 
+of economic reforms was initiated in China in 1978, 70% of the total labour force was 
+engaged in primary sector activity. This figure declined to 38% in 2009, while the share of 
+the labour force in industry rose from 17% to 28%. Today, China is an economic power-
+house, on account of its profound and planned structural change, spurred by economic 
+reforms, liberalized foreign trade, and high domestic and foreign investment in industry.
+Structural change analysis is a powerful tool with which to compare and contrast 
+the development experience of different countries. Looking at how much and how 
+fast countries have diversified their structure as they climbed the stairway of devel-
+opment can reveal useful insights into the sustainability of their growth strategies. 
+ 
+A comparison of the development experience of South Korea and Indonesia illustrates 
+this point. Comparing the two countries from the same starting point when their per 
+capita incomes were equivalent, structural change has been much more rapid in South 
+Korea than in Indonesia. As a result, South Korea has become one of the fastest grow-
+ing manufacturing economies of the world. In Indonesia, by contrast, no profound 
+structural change took place, resulting in much slower growth of the economy.
+There is widespread agreement by development economists that structural change 
+is necessary for economic growth, and that the state – and not market forces alone – 
+has a role to play. It is also argued that the government should not attempt to modify 
+the structures of the current economy too quickly or too drastically. Yet, how closely a 
+government’s industrial policies should conform to the country’s current comparative 
+advantage, or to what extent a country’s industrial structure should deviate from it, 
+continue to be debated.
+Source: UNIDO, 2012.
+productivity also increases as output grows through learning by doing. Second, if activities 
+outside industry, such as agriculture and petty services, are subject to diminishing returns, 
+with the marginal product of labour less than the average product, then if resources are drawn 
+from these activities into industry as industry expands, the average product of labour will rise 
+in non-industrial activities. Case example 3.4 illustrates the role of structural change. These 
+relationships between industrial growth, productivity growth and GDP growth are known 
+in the growth and development literature as Kaldor’s growth laws, named after the well-
+known Cambridge economist (Lord) Nicholas Kaldor, who first enunciated them in the 1960s 
+(Kaldor, 1966, 1967).
+88
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+Kaldor’s growth laws
+There are three basic laws that have been widely tested in developed and developing countries 
+using cross-section data (that is, across countries), time-series data, and panel data combining 
+time-series and cross-section data.
+The first law is that there exists a strong positive correlation between the growth of manufac-
+turing output (gm) and the growth of GDP (gGDP), that is:
+gGDP 5 f1 (gm)      fr
+1.0
+(3.3)
+where f1 is the functional relationship that is hypothesized to be positive.
+The second law is that there exists a strong positive correlation between the growth of manu-
+facturing output and the growth of productivity in manufacturing (pm), that is:
+pm 5 f2(gm)      fr
+2 . 0
+(3.4)
+where f2 is the functional relationship that is assumed to be positive. This law is also known as 
+Verdoorn’s law after the Dutch economist P.J. Verdoorn, who, in the 1940s, first discovered such a 
+relationship across a sample of European countries.
+The third law is that there exists a strong positive relationship between the growth of manu-
+facturing output and the growth of productivity outside manufacturing (pnm), that is:
+pnm 5 f3 (gm)      fr
+3 .0
+(3.5)
+where f3 is the functional relationship that is assumed to be positive.
+The most rigorous test of these laws is to take a cross-section of countries, or a cross-
+section of regions within a country, and to perform correlation and regression analyses for 
+each equation. We will illustrate this with reference to an interesting study that applies the 
+model across 28 regions of China, taking average data for the period 1965–91 (Hansen and 
+Zhang, 1996). See Case example 3.5 below for an application of the model to the countries 
+of Africa.
+Case example 3.5
+Testing Kaldor’s growth laws across African countries
+One of the striking features about Africa since the 1980s is that there has been virtually 
+no structural change. This is undoubtedly one of the explanations for its poor growth 
+performance. Over the period 1980–96, the average growth of GDP was 2.09% per an-
+num. The growth of manufacturing output was 2.11%, and the growth of agricultural 
+and service output were both 2.07%. On the other hand, some African countries grew 
+faster than others (e.g. Uganda, Botswana, Mauritius, Equatorial Guinea, Swaziland and 
+Cape Verde grew particularly fast). To what extent can this differential growth perform­
+ance be explained by the differential performance of manufacturing industries?
+Regressing GDP growth against the excess of manufacturing growth (gm) over non-
+manufacturing growth (gnm) across 45 countries (the side test of Kaldor’s first law) gives:
+gGDP 5 0.021 1 0.408 (gm 2 gnm) 	 	
+r2 5 0.188
+This suggests that a country with excess growth of manufacturing of 1 percentage point 
+has experienced a GDP growth rate of 0.41 percentage point above average.
+89
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+Fitting equation (3.3) to the Chinese regional data gives the following regression result:
+gGDP 5 1.79 1 0.56 (gm) 	
+r2 5 0.67
+The r2 measures the correlation between the two variables, so this equation says that 67% of the 
+difference in the growth rate of output between the 28 regions in China can be accounted for by 
+variation in the growth of manufacturing output between regions. This is a high degree of explana-
+tory power. The regression coefficient of 0.56 says that a region with manufacturing output growth 
+of 1% above the average for all regions will grow 0.56% above the average for all regions.
+But before the equation can be used to support the hypothesis of manufacturing industry as the 
+engine of growth, some words of warning are in order. If manufacturing output is a large fraction of total 
+output, the correlation will, to a certain extent, be spurious because the same variable appears on both 
+sides of the equation. There are ways to overcome this problem, however. One is to regress the growth 
+of output on the difference between manufacturing and non-manufacturing output growth. The other 
+is to regress non-manufacturing output growth on manufacturing output growth. Also, for manufac-
+turing industry to be regarded as special, it needs to be shown that there is no significant relationship 
+between total output growth and the growth of other major sectors, such as agriculture or services.4
+Turning to the second law, fitting equation (3.4) to the regional data for China gave the fol-
+lowing result:
+pm 5 20.009 1 0.71 gm	
+r2 5 0.73
+We see again that the correlation is very high, with 73% of the difference in the growth of labour 
+productivity between regions accounted for by differences in the growth of output itself. On 
+average, a 1% difference in the growth rate of output induces a 0.71 percentage point difference in 
+the growth of labour productivity. This coefficient is referred to as the Verdoorn coefficient. The 
+coefficient here is higher than typically found in developed countries, which is normally about 0.5, 
+but this may reflect the large economies of scale to be reaped in the early stages of development. 
+Again, for manufacturing industry to be regarded as special, this second law (or Verdoorn’s law) 
+should be weaker for other activities, which it will be in the absence of scale economies.
+Case example 3.5
+Testing Kaldor’s growth laws across African countries – continued
+When GDP growth is regressed against the excess of agricultural growth over non­
+agricultural growth, there is a strong negative correlation.
+Estimating Kaldor’s second law gives a Verdoorn coefficient of 0.878, which suggests 
+substantial increasing returns in industry.
+Estimating Kaldor’s third law gives:
+pT 5 0.020 1 0.524 (gi) 2 1.606 (eni) 	
+r2 5 0.712
+This shows that overall productivity growth (pT) across African countries is posi-
+tively related to the growth of industry (gi), but negatively related to the growth of 
+employment outside industry (eni).
+These results support Kaldor’s structural thesis that there is something special 
+about industrial activity that makes it the ‘engine of growth’.
+Source: Wells and Thirlwall, 2003.
+90
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+The third law is difficult to test directly because it is not easy to measure productivity growth 
+in many activities outside manufacturing, particularly service activities where output can only be 
+measured by inputs; for example, public services such as teaching, health, defence, the civil service 
+and so on. It can be tested indirectly, however, by taking overall productivity growth (pGDP) as the 
+dependent variable to be explained and linking this to employment change in non-­
+manufacturing 
+activities (enm), holding constant the effect of output growth in manufacturing (gm). The equation 
+to be estimated is thus:
+pGDP 5 a3 1 b3 (gm) 1 c3 (enm)
+(3.6)
+with the expectation that c3 , 0.
+Fitting equation (3.6) across the Chinese regions gives:
+pGDP 5 0.02 1 0.49 gm 2 0.82 (enm) 	
+r2 5 0.70
+The coefficient on enm is significantly negative so that the slower employment growth outside 
+manufacturing industry, the faster overall productivity grows. This study of China is supported by 
+the work of Guo et al. (2012), who conclude: ‘[our] study validates Kaldor’s laws in the regional 
+economies of China … the strong emphasis on the manufacturing sector has now proven to accel-
+erate the growth of GDP and living standards in regions where the sector is concentrated’.
+Kaldor’s first and second laws have recently been confirmed in two major studies of a cross-
+section of 63 middle- and high-income countries over the period 1990–2013 (Marconi et. al., 
+2016), and a panel of 29 developing countries in Africa, Asia and Latin America over the period 
+1975–2005 (Di Meglio et al., 2015). In the former study, the relationship between manufactur-
+ing growth, productivity growth and GDP growth is particularly strong in middle-income coun-
+tries, which include the newly industrializing countries of Southeast Asia. The study also confirms 
+the importance of manufacturing exports in driving manufacturing growth and economies as a 
+whole (see also Pacheco-López and Thirlwall, 2014). The latter study also finds that some service 
+sectors, such as business services with their use of knowledge and technology, may also act as an 
+engine of growth where industrialization is faltering, particularly in some Asian countries.
+The complete Kaldor model of the relationship between industrial growth and the develop-
+ment process also contains a number of subsidiary propositions. First, as the scope for absorbing 
+labour from diminishing returns activities dries up, the overall growth of GDP will slow down. The 
+successful newly industrializing countries in Southeast Asia will not go on growing at close to 8% 
+per annum forever. Second, there is the question of what determines the rate at which industry 
+grows in the first place. In the early stages of development, it must be demand coming from the 
+agricultural sector because this is what dominates the economy. In the later stages of develop-
+ment, however, it is export demand that drives the system. The internal market is often too small 
+to reap economies of scale, and selling to the home market does not provide the foreign exchange 
+to pay for necessary imported inputs. The most successful developing countries are those that 
+have geared themselves to export markets. The third proposition is that the fast growth of exports 
+and output can set up a virtuous circle of growth that other countries will find difficult to break 
+into without exceptional enterprise or protection. This can lead to polarization between coun-
+tries, which is the essential feature of the centre–periphery models of growth and development, 
+which will be discussed in Chapter 10.
+Finally, there is the big policy question of how developing countries bring about structural 
+change in favour of industrial activities if growth and development are to be accelerated. Should 
+everything be left to market forces, or is there a role for government? The late Cambridge 
+ 
+91
+3  •  T H E  C H A R A C T E R I S T I C S  O F  U N D E R D E V E L O P M E N T  A N D  S T R U C T U R A L  C H A N G E
+development economist Ajit Singh tells the story of when he first went to Cambridge University 
+as a student of Kaldor in the 1960s, Kaldor taught him three things: first, developing countries 
+must industrialize; second, they can industrialize only by protection; and third, anyone who says 
+otherwise is being dishonest. It is indeed worth remembering that none of today’s developed 
+countries developed on the basis of free trade. All countries protected and promoted their infant 
+industries in one way or another (see Chang, 2002; Reinert, 2007). And it is a myth, of course, that 
+the highly successful countries of Southeast Asia have developed on the basis of minimalist state 
+intervention and simply allowed markets to work freely (Wade, 1990). In Japan, South Korea, 
+Singapore and other ‘Asian tigers’, there has been heavy state involvement in the promotion of 
+industry, often working through the banking system. The issue is not whether to protect, but how 
+to protect and promote industry while preserving efficiency and international competitiveness. 
+These are issues that will be addressed when we turn to the topic of trade and development in 
+Chapter 15.
+Summary
+•
+• Poverty and underdevelopment of poor countries are associated with many characteristics that 
+combine to keep labour productivity low.
+•
+• The economic structure of poor countries tends to be dominated by low-productivity agricul-
+ture and petty service activities. Still over 50% of the labour force in many poor countries live 
+and work in the rural sector where value-added per head is barely US$2 a day.
+•
+• Levels of saving and investment are low in poor countries because poor people naturally lack 
+the capacity to save, and investment can be risky.
+•
+• Poor countries tend to have higher rates of population growth than rich countries and while 
+this can confer some benefits, it can cause major difficulties by depressing saving, putting pres-
+sure on food supplies and the environment, and adding to unemployment.
+•
+• Some poor countries suffer the ‘curse of natural resources’. Mineral and oil production can lead 
+to corruption and rent-seeking behaviour and keep the exchange rate high, making the produc-
+tion and export of other goods uncompetitive.
+•
+• Unemployment is high in poor countries because there are limited employment opportunities 
+on the land, and the growth of alternative employment opportunities is constrained by a lack 
+of investment. Rural–urban migration exacerbates unemployment in the cities.
+•
+• The distribution of income tends to be more unequal in poor countries than rich, and also in 
+power relations between sections of society. There is very often discrimination on the grounds 
+of gender, religion, race and ethnic origin.
+•
+• Countries pass through stages of development – what Rostow describes as traditional, tran-
+sitional, take-off, maturity, and high mass consumption. Many poor countries are still in the 
+transitional or early take-off stages. Certain preconditions must be met for full take-off includ-
+ing: an agricultural revolution; investment in infrastructure; the emergence of leading sectors 
+in the economy; saving and investment of at least 10% of GDP; and an institutional structure 
+conducive to risk-taking and investment.
+•
+• Countries grow fast and living standards rise when resources shift into industrial activities, be-
+cause manufacturing industry experiences considerable static and dynamic returns to scale. 
+This is the experience of history and the contemporary experience of the fast-growing countries 
+of the world today (Kaldor’s growth laws).
+92
+D E V E L O P M E N T  A N D  U N D E R D E V E L O P M E N T
+Notes
+1.	 ‘Net’ in the sense of making an allowance for investment to cover depreciation of worn-out plant 
+and machinery.
+2.	 For pioneering studies of structural change, see Chenery and Syrquin (1975) and Chenery et al. 
+(1986). For a more recent assessment, see Naqvi (1995).
+3.	 Setting g 5 x, and solving for x gives: 2.529/(1 2 0.394) 5 4.17%.
+4. An alternative explanation of Kaldor’s first law of growth in an open economy is that export growth 
+drives GDP growth, and export growth is faster, the faster the growth of manufacturing output 
+(Pacheco-López and Thirlwall, 2014). The importance of export growth for overall growth is dis-
+cussed in Chapter 15.
+Websites on structural change and income distribution
+Labour market statistics
+International Labour Organization http://laborsta.ilo.org
+Income distribution
+University of Texas, Inequality Project utip.gov.utexas.edu
+UNU-WIDER www.wider.unu.edu/project/wiid-%E2%80%93-worldincome-inequality-database
+Stone Center on Socio-Economic Inequality www.gc.cuny.edu/stonecenter
+1.	 What are the major reasons why some countries are rich and others poor?
+2.	 What is the importance of the distinction between diminishing returns activities 
+and increasing returns activities?
+3.	 Why have economists identified a certain ratio of investment to GDP as a neces-
+sary condition for self-sustaining growth?
+4.	 What are the causes of growing urban unemployment in developing countries?
+5.	 What is meant by ‘income measure’ of unemployment?
+6.	 Why is the distribution of income more unequal in developing countries than in 
+developed countries?
+7.	 What major structural changes take place in a country during the course of devel-
+opment?
+8.	 What contribution does Rostow’s stage theory make to an understanding of the 
+development process?
+9.	 What accounts for the fact that a close association exists between industrial 
+growth and the growth of GDP?
+10.	 What is the difference between static and dynamic returns to scale?
+Discussion questions
+Chapter 3
+

@@ -1,0 +1,2162 @@
+141
+•
+• Introduction
+•
+• The role of agriculture in development
+•
+• Barriers to agricultural development
+•
+• Land reform
+•
+• The supply response of agriculture
+•
+• Transforming traditional agriculture
+•
+• The growth of the money economy
+•
+• Finance for traditional agriculture
+•
+• The interdependence of agriculture and industry
+•
+• Economic development with unlimited supplies of labour
+•
+• A model of the complementarity between agriculture and industry
+•
+• Rural–urban migration and urban unemployment
+•
+• Disguised unemployment: types and measurement
+•
+• Incentives and the costs of labour transfer
+•
+• Summary
+•
+• Appendix: the functioning of markets in agrarian societies
+•
+• Discussion questions
+•
+• Notes
+•
+• Websites on agriculture
+THE ROLE OF AGRICULTURE 
+AND SURPLUS LABOUR FOR 
+INDUSTRIALIZATION
+5
+142
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Introduction
+The task of a true theory of economic growth and development must be to explain why some 
+societies developed sooner than others, why some societies have experienced such rapid increases 
+in living standards while others have lagged behind, and why development has not spread more 
+evenly across the globe.
+The answer must be that at different stages of development, different constraints on progress 
+operate. While some of these factors are likely to be sociological and political, the major con-
+straints are likely to be economic. One of the most critical factors in the early stages of develop-
+ment is the health of the agricultural sector, because without a surplus of food production over 
+subsistence needs, little else can be done. There would be no surplus labour, no saving, no invest-
+ment and no food to feed labour working in alternative activities.
+It is no coincidence that the material progress of mankind started 8,000 years ago in the region 
+of Mesopotamia (the cradle of civilization, now Iraq), where, for the first time, agriculture became 
+settled. Unless agriculture is settled, there is no prospect of agricultural productivity increasing to 
+provide the basis for the development of non-agricultural activities, the building of cities and the 
+enjoyment of leisure. Where shifting agriculture is practised, as by nomadic tribes in the Kalahari 
+Desert of Botswana and Namibia, for example, there is no basis for an agricultural surplus.
+As the World Bank says in its World Development Report 2008: Agriculture for Development 
+(World Bank, 2007):
+agricultural growth was the precursor to the industrial revolutions that spread across the tem-
+perate world from England in the mid-18th century to Japan in the late-19th century. More 
+recently, rapid agricultural growth in China, India and Vietnam was the precursor to the rise of 
+industry . . . the special powers of agriculture as the basis for early growth are well established.
+In many developing countries today, agriculture is still extremely backward. Low productivity 
+is a major cause of poverty and retards development of the whole economy. Over 3 billion people 
+live in rural areas, and most of them live in households engaged in agriculture earning just a few 
+dollars a day. The World Bank (2007) recognizes ‘that agriculture must be a prominent part of 
+the development agenda whether for delivering growth in the agricultural-based countries or for 
+reducing rural poverty’. It also recognizes that the state has a role to play in providing core public 
+goods and incentives for investment in the agricultural sector.
+In this chapter, we consider some of the reasons for agricultural backwardness, and why prod­
+uctivity is so low. We look at the process of transforming traditional agriculture and the growth 
+of the money economy, and model the interrelationship between the growth of agriculture and 
+industry. Then, we use Arthur Lewis’s (1954) well-known model of economic development with 
+unlimited supplies of labour to illustrate the important role that surplus labour in agriculture 
+(and other sectors) plays in the development process and in fuelling industrial growth. The precise 
+meaning of surplus labour is addressed, as well as the rural–urban migration process. An appen-
+dix describes the various markets in agrarian societies – land, labour and credit – and how they 
+interlock.
+The role of agriculture in development
+Agriculture makes four major contributions to the process of economic development: a product, 
+a factor, a market and a foreign exchange contribution.
+143
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+Product contribution
+The product contribution of agriculture refers to the fact that agriculture must supply food above 
+subsistence needs in order to feed labour working in alternative occupations. If other sectors of 
+the economy are to be developed, labour needs to be fed, and this cannot be done by imports 
+until export activities have been developed to provide foreign exchange to pay for the imports. 
+It will be remembered from Chapter 3 that in Rostow’s model of economic growth, the take-
+off stage of development must be preceded by an agricultural revolution. Indeed, as mentioned 
+above in the quote from the World Bank, one of the major reasons why Britain was the first coun-
+try to industrialize was that it was the first to experience a significant agricultural revolution based 
+on the abolition of serfdom and on the enclosure movement, which raised agricultural productiv-
+ity and provided surplus labour and food to support industrial expansion.
+The difference between total agricultural output and subsistence needs is called the mar-
+ketable surplus. Economic progress in the early stages of development requires an increase 
+in the marketable surplus, which, in turn, requires an increase in labour productivity. If prod­
+uctivity does not increase naturally or ‘voluntarily’, a marketable surplus can be forcibly 
+extracted, as it was in Japan at the time of the Meiji Restoration in 1868, when landowners 
+were compulsorily taxed, and more dramatically in the Soviet Union in the 1920s, when there 
+was mass genocide of the kulaks (small prosperous landowners) during Stalin’s collectiviza-
+tion programme.
+‘Marketable surplus’ is an important concept in the neoclassical model of the development 
+process, because unless the marketable surplus rises as the demand for food increases, the price of 
+food will tend to rise. This will turn the terms of trade against industry, higher wages will have to 
+be paid to workers in industry, which will eat into profits and capital accumulation. The market-
+able surplus therefore becomes the major constraint on industrial growth.
+Factor contribution
+The factor contribution of agriculture consists of two parts: a labour contribution and a capi-
+tal contribution. Labour for industry and other activities must come from agriculture, but can 
+be released only if productivity in agriculture rises. The existence of surplus labour (or disguised 
+unemployment) plays a major role in the development process, as we shall see when we consider 
+the Lewis model of economic development with unlimited supplies of labour. The lower the cost 
+of industrial labour, the faster the rate of industrial expansion is likely to be, but this depends on 
+the rate at which the agricultural sector is releasing labour. Industrial development today in many 
+of the rapidly growing countries of Southeast Asia is being fuelled by cheap labour drawn from 
+agriculture. In this respect, China’s industrial potential is enormous.
+Agriculture is a source of saving and capital accumulation for industrial development. The sav-
+ing can be voluntary or involuntary. Examples of voluntary saving are rich landlords voluntarily 
+investing in industrial activities (the Industrial Revolution in Britain was partly financed in this 
+way), and peasant farmers investing small savings in rural banks. Involuntary saving could take 
+the form of the government taxing the agricultural sector and using the proceeds for investment, 
+or, more drastically, the forced extraction of the agricultural surplus through expropriation or col-
+lectivization (as in Stalinist Russia).
+Another traditional way in which governments have taxed the agricultural sector is through 
+the pricing policies of marketing boards, established to market agricultural produce. The prices 
+paid to farmers are lower than the prices at which the goods are sold on the market – the differ-
+ence providing net revenue to the government.
+144
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+The general policy in developing countries of keeping agricultural prices low used to be justified 
+on two main grounds: that low prices benefit the industrial sector, and that peasant farmers have 
+limited horizons and do not respond to incentives, so if prices are higher, they may actually produce 
+less if all they are interested in is a fixed money income. This is the notion of a backward-bending 
+supply curve of effort. It can be said without hesitation that the deliberate policy of keeping agri-
+cultural prices low has done enormous damage to the agricultural sector in developing countries. As 
+we shall see later, there is ample evidence that peasant farmers do respond to price incentives. They 
+not only increase supply in response to price rises, but also switch crops as relative prices change.
+Market contribution
+The market contribution of agriculture refers to the fact that the demand from agriculture must 
+be the major source of autonomous demand for industrial goods. If industry is to grow and pros-
+per, it must be able to sell its goods. In the early stages of development, the agricultural sector is 
+likely to provide the largest market for industrial goods. There is a complementarity between agri-
+cultural and industrial growth. This is well documented in the historical experience of developed 
+countries, and in the contemporary world economy. In his classic study of Japanese economic 
+development, Lockwood (1954) wrote:
+The growth of primary production was interrelated with industrialization and urbanization 
+at every point . . . As industry developed, it offered a widening market for the food and raw 
+material surpluses of the countryside . . . On the other hand, the increasing productivity of the 
+primary industries created a growing home market for manufactures and services.
+The World Development Report 1979 (World Bank, 1979) noted that ‘a stagnant rural econ-
+omy with low purchasing power holds back industrial growth in many developing countries’. 
+The World Development Report 1982 (World Bank, 1982) documented the close correspondence 
+across countries between agricultural development and industrial growth: ‘fast growth of indus-
+try and sluggish agriculture were evident only in countries with oil or mineral-based economies, 
+such as Algeria, Ecuador, Mexico, Morocco and Nigeria . . . These were exceptions but they prove 
+the rule.’ In other words, a precondition for rapid industrial growth is a rapidly expanding agricul-
+tural sector, at least in terms of purchasing power.
+This has implications for the pricing of agricultural goods relative to industrial goods, or what 
+is called the agricultural (or industrial) terms of trade. Low farm prices are good for industry from 
+the point of view of supply potential, because this means that industry can obtain cheaper raw 
+material inputs and wage goods, which increases profitability. On the other hand, low farm prices 
+are bad for industry from the demand side, because this means low farm purchasing power and 
+therefore a lower demand for industrial goods. There needs to be an equilibrium terms of trade 
+between the two sectors to achieve balanced growth between the two sectors, so that indus-
+trial growth is not constrained from the supply side by agricultural prices being too high or con-
+strained from the demand side by agricultural prices being too low. Later in the chapter, we bring 
+the two sectors together in an equilibrium framework and derive the equilibrium terms of trade 
+that maximizes the growth rate of the economy as a whole.
+Foreign exchange contribution
+In the early stages of development, the only source of foreign exchange is likely to be primary 
+commodity exports. Agriculture therefore makes an important foreign exchange contribution. 
+Foreign exchange is a resource, just like savings. It provides access to goods that either cannot be 
+145
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+produced domestically or can be produced only at higher cost in an opportunity cost sense. Either 
+way, the imports made possible by exporting agricultural products will be very ­
+productive – the 
+more so if they are investment-type goods necessary for the development process. There are 
+not many countries in the world that could not grow faster, given the greater availability of for-
+eign exchange. The link between trade, the balance of payments and growth is explored fully in 
+Chapters 15 and 16.
+Barriers to agricultural development
+For the agricultural sector to supply food, release labour, provide savings, contribute to the mar-
+ket for industrial goods, and earn foreign exchange, it must generate a steadily rising surplus of 
+production in excess of subsistence needs. Since land is relatively fixed in supply, this requires ris-
+ing agricultural productivity. The ‘grassroots’ school of economic development, which came into 
+fashion as a reaction against the emphasis on industrialization at any cost, lays stress on policies 
+to raise the level of productivity in agriculture as the most crucial development priority and an 
+indispensable element of a long-run development strategy. Overall, agricultural productivity in 
+developing countries is less than one-twentieth of the level in developed countries, and there are 
+even bigger differences between countries.
+Table 5.1 gives figures on agricultural productivity in selected regions of the world in 2013 
+measured in US dollars at 2005 prices. Notice the huge disparities that exist, which go some way 
+to explaining divisions in world income. In low-income countries, in which over half of the popu-
+lation are engaged in agriculture, value-added per head is only $310, which is less than a dollar a 
+day. In sub-Saharan Africa and South Asia (which includes India, Bangladesh and Pakistan), prod­
+uctivity is less than $2 a day. In East Asia and the Pacific region (which includes China), value-
+added is just over $2 day. By contrast, in the high-income countries, productivity is over $24,000. 
+Some progress has been made in recent years with particular crops in particular countries, but 
+Table 5.1  Agricultural productivity, 2013
+Value-added per worker, US$
+World
+1,406
+Low income
+310
+Middle income
+1,053
+Lower middle income
+939
+Upper middle income
+1,156
+Low and middle income
+956
+East Asia and Pacific
+803
+Europe and Central Asia
+5,247
+Latin America and Caribbean
+4,125
+Middle East and North Africa
+3,264
+South Asia
+711
+Sub-Saharan Africa
+706
+High income
+24,509
+Source: World Bank, 2015.
+146
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+the performance of the agricultural sector is still disappointing, and the lack of marketable sur-
+plus still holds back development on a wide front. So what impedes agricultural productivity? 
+There are several factors, particularly related to geography and land–labour ratios, the existence 
+of urban bias in the treatment of agriculture and the allocation of resources, and unfair competi-
+tion in world markets, but the most important factors of all are the structure of rural societies, the 
+organization of agriculture and the land tenure system that operates.
+As far as geographical factors are concerned, climate and terrain determine, to a large degree, 
+what goods a country can produce, the amount of cultivatable land available per inhabitant 
+and the land’s fertility. To some extent, the application of capital to land can compensate for 
+un­
+favourable natural forces, but there are obvious limits. Mountains cannot easily be flattened or 
+deserts readily watered. This is the concept of geographic determinism, which can be advanced 
+as a hypothesis of underdevelopment in its own right. Having said this, however, differences in 
+natural conditions and the fertility of the soil can be no more than a partial explanation of low 
+productivity. Poor people are to be found along the highly productive alluvial banks of the Nile, as 
+well as on the barren plateaus of Asia and South America.
+Productivity is also affected by land–labour ratios. Low labour productivity may be associated, 
+ 
+for example, with a high population density and a high ratio of labour to land. In this case, product­
+ivity might be increased substantially with small applications of capital in the form of drainage 
+schemes, fertilizers and so on. On the other hand, low productivity may be associated with the 
+opposite situation of a high ratio of land to labour, in which case the solution to low productivity 
+is likely to involve much larger doses of capital for labour to work with. Most countries in Asia 
+have high ratios of labour to land, while in Latin America and Africa, the reverse is true, as was 
+the case in many of today’s richest countries at an equivalent stage in their economic history, for 
+example the USA, Canada and Australia.
+Urban bias against agriculture takes many forms:
+•
+• The holding down of agricultural prices to favour the industrial/urban sector.
+•
+• The concentration of investment in industry.
+•
+• Tax incentives and subsidies to industry.
+•
+• Overvalued exchange rates, which keep the price of industrial inputs low, and the domestic 
+price of agricultural exports low.
+•
+• Tariff and quota protection for industry, which raises the price of fertilizers, seeds and equipment.
+•
+• Greater spending in urban areas on education, training, housing, nutrition and medical provi-
+sion, which all affect productivity and the quality of life.
+Unfair competition consists of the subsidies that developed countries give to their farm-
+ers, and the tariffs that developed countries impose on imported agricultural products from 
+developing countries. The USA and the European Union (EU) alone spend nearly $150 billion a 
+year on farm subsidies. This has two major consequences. First, it leads to overproduction, and 
+the surpluses are then frequently dumped on the markets of developing countries, impoverish-
+ing domestic farmers. Second, farmers in developing countries are not able to compete in their 
+own markets, let alone overseas markets. The situation is made worse by developing countries 
+being forced by international agreements to lower their tariffs against imported agricultural 
+produce, while developed countries continue to protect their own agricultural sectors. The 
+average global tariff on agricultural commodities is 62%. The maize growers of Mexico cannot 
+compete with cheap maize from the USA; nor can the cotton growers of West Africa compete 
+against subsidies of $4 billion a year given to the 20,000 cotton growers in the southern states of 
+America. Unfair competition between developed and developing countries in the markets for 
+147
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+agricultural goods is one of the central issues in ongoing world trade talks under the auspices 
+of the World Trade Organization.
+Geographic factors, the land–labour ratio, urban bias and competition from developed coun-
+tries can only explain a small part of the low productivity of agriculture in most developing coun-
+tries. There are more fundamental forces at work concerned with the structure of rural society, the 
+organization of agriculture, the incentives to produce and the supply of inputs (see Binswanger 
+and Deininger, 1997).
+In a typical developing country, rural society consists of rich landowners, peasants, share-
+croppers, tenants and labourers. Apart from the landowners, most others in the rural sector are 
+extremely poor. Because they live on the margin of subsistence, they tend to be risk averse. In all 
+developing countries, peasant subsistence farming is a traditional way of life, and attempts to raise 
+productivity will alter that way of life and necessarily involve risk. As Theodore Schultz (1980) 
+perceptively remarked in his Nobel Prize-winning lecture:
+Most of the people in the world are poor, so if we knew the economics of being poor we would 
+know much of the economics that really matters. Most of the world’s poor people earn their 
+living from agriculture so if we knew the economics of agriculture we would know much of 
+the economics of being poor. People who are rich find it hard to understand the behaviour of 
+poor people. Economists are no exception, for they, too, find it difficult to comprehend the 
+preferences and scarcity constraints that determine the choices that poor people make. We 
+all know that most of the world’s people are poor, that they earn a pittance for their labour, 
+that half and more of their meagre income is spent on food, that they reside predominantly in 
+low-income countries and that most of them are earning their livelihood in agriculture. What 
+many economists fail to understand is that poor people are no less concerned about improv-
+ing their lot and that of their children than rich people are.
+Poor people on the margin of subsistence may be reluctant to make the changes necessary to 
+improve productivity because if things go wrong it will spell disaster. But even if poor people 
+wanted to change the traditional ways of doing things, there is the serious constraint of lack of 
+access to credit to finance the purchase of new inputs such as seeds, fertilizers, pesticides, drain-
+age schemes and so on.
+Then there is the question of the incentive to change. Where there are tenant farmers, there 
+is little or no security of tenure, and therefore no incentive to invest in improved methods of 
+production. Where there is sharecropping, a certain proportion of output must be relinquished 
+to the landowner, which also reduces the incentive to invest. Any serious programme of agrarian 
+reform must provide greater security of tenure for farmers and give incentives to raise agricultural 
+production, coupled with access to credit, water, fertilizers and extension services for advice.
+The appendix to this chapter gives a detailed description of the markets for land, labour and 
+credit in rural societies, how they are interlocked, and the inefficiencies that arise as a result of the 
+structure of the agricultural sector of developing countries.
+Land reform
+The system by which land is held and farmed is a serious impediment to increased productivity in 
+many developing countries. The structure of peasant agriculture differs between countries, largely 
+for historical reasons, but the structures have many common characteristics that keep productiv-
+ity low. In many countries, landholding tends to be highly concentrated. The average Gini ratio for 
+148
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+the concentration of landholdings in Latin America is 0.8, and in Asia, 0.4. In Latin America, 1% 
+of landowners own roughly 70% of the land. In Brazil, 15% of landowners own 90% of the land. In 
+many parts of Latin America, agriculture is based on a combination of large estates (latifundios), 
+owned by a wealthy few, and small farms (minifundios), which are often so small that they cannot 
+support a single family. When land is held and worked in the form of large estates, it is frequently 
+underutilized and farmed inefficiently by peasants, who may have no security of tenure and may 
+have to relinquish to the landowner a large fraction of their output. In these circumstances, there 
+is little incentive to increase efficiency and improve productivity.
+In Asia, the organization of peasant agriculture is also an important determinant of productiv-
+ity. Because of the high population density, the major problem is that too many small farms are 
+operated by sharecroppers and tenant farmers, the land being owned by absentee landlords. As 
+families multiply and debts rise, land is continually sold and subdivided, leading to a very inef-
+ficient structure.
+Land reform has two aspects: first, the redistribution of land in favour of landless or near-
+landless households, and second, tenancy reform in favour of sharecroppers and other forms of 
+tenant farming. Such reforms involving land rights, and security for tenants, can contribute both 
+to an increased intensity of land use and to improved efficiency and initiative on the part of the 
+tenant farmers, particularly if they are allowed to reap fully the rewards of their own labour.
+There is impressive evidence that where a change in the tenure system has permitted the pro-
+ducers themselves to reap the rewards of new techniques, peasant farmers have been ready to 
+break with custom and tradition. The task of persuading producers to adopt more modern meth-
+ods of production and to purchase improved seeds and fertilizers has been much easier. In a study 
+of China from 1978, Lin (1992) finds that the shift from collective to household farming led to 
+big increases in agricultural productivity related to the acquisition of property and land rights. 
+Likewise, in a study of India, Besley and Burgess (2000) find that rural poverty was reduced by land 
+reform, particularly reforms that strengthened property rights over land. In Vietnam, efficiency 
+has increased and poverty has been reduced since the end of collectivization in the 1990s.
+As was first discovered by Amartya Sen (1964), using Indian farm data, small farms are more 
+productive (per hectare) than large farms. This has been shown in many other studies subse-
+quently. The reason is that land tends to be more fertile on small farms, and family labour tends 
+to work the land more intensively. In other words, small farms tend to employ more labour per 
+unit of land than large farms. Thus, land redistribution from owners of large estates to smaller 
+family farms can raise agricultural output and employment simultaneously, helping to reduce 
+poverty.
+Land reform may be a necessary condition for increased productivity, but it is clearly not 
+a sufficient condition. It needs to be accompanied by other measures of agrarian reform. New 
+landowners must be given access to credit, water, fertilizers and extension services for advice. 
+Farmers need to be brought within the organized money market to improve access to credit and 
+to reduce the role of village moneylenders, who charge exorbitant interest rates. Improved farm 
+implements, irrigation and new social infrastructure are likely to be important. There needs to 
+be improved dissemination of agricultural research. Too often, the agricultural extension services 
+available are perfunctory and ineffective because the personnel are ill-trained and ill-equipped. 
+Conditions vary from country to country, but in theory at least, agrarian reform, coupled with the 
+application of complementary inputs, offers substantial scope for increased agricultural product­
+ivity.1 See Case example 5.1 on the attempt to raise productivity in Africa, and Case example 5.2 
+on the approach of the World Bank.
+149
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+African agriculture was often neglected by most governments and donors in the 1980s 
+and 1990s. Now, however, there is a renewed commitment to agriculture centred on 
+the Comprehensive Africa Agricultural Development Programme. There is broad 
+agreement that there needs to be more investment in agriculture, particularly in public 
+goods, such as rural roads, agricultural research and extension services, rural schooling, 
+clean water and healthcare. But, often in rural Africa, there are market failures in that 
+farmers cannot get access to credit, insurance and necessary inputs. These failures can 
+be severe and leave small farmers in a poverty trap from which they struggle to escape 
+even when the technology exists for them to produce more.
+Subsidies can help overcome poor farmers’ inability to obtain credit or take risks 
+and to allow farmers to learn about new agricultural inputs such as new seeds and 
+fertilizers. Subsidies can also be justified, on the grounds of equity, to overcome soil 
+degradation and improve soil quality in the case of fertilizers, and to stimulate produc-
+tion to reduce the cost of food and raise the real incomes of the poor. But subsidies can 
+be costly, with costs rising over time if not targeted properly. Where subsidies are used, 
+they need to be ‘smart’: targeted to those who need them most, limited in time, and 
+designed to enhance commercial distribution rather than supplant it. Complementary 
+investment in transport and input dealer training can reinforce these programmes and 
+make it easier to reduce or remove subsidies in the future. There are alternatives to 
+subsidies, as Keyna’s experience of liberalized fertilizer distribution shows.
+Source: Africa Progress Panel, 2010.
+Case example 5.1
+Raising agricultural productivity in Africa
+The World Bank is committed to boosting agricultural productivity and agricultural-
+related investment. The world needs to produce at least 50% more food by the year 
+2050 to feed a projected 9 billion people. To help meet this goal, the bank is working 
+with countries to boost the productivity of farms, livestock and fisheries.
+To raise yields sustainably, the bank supports ‘climate-smart’ approaches that have 
+the potential to increase productivity, enhance resilience, promote agricultural innov­
+ation through research and education, and facilitate responsible agricultural invest-
+ment. Gender-specific interventions are important because women account for the 
+majority of smallholder farms – up to 70% in Africa.
+Improved land governance can help smallholder farmers increase the productivity 
+of their land and improve their livelihoods. The bank supports government policies 
+that implement systematic land surveying and titling programmes that recognize all 
+forms of land tenure.
+The bank is committed to agricultural innovations that boost productivity, as well as 
+better land and water management. It also promotes the use of new livestock breeds, bet-
+ter animal nutrition, improved veterinary services, vaccinations and improved husbandry 
+to sustainably increase livestock productivity for about 1 billion farmers who depend on 
+livestock for their livelihoods. The bank supports work on breeding and animal nutrition 
+in India, grassland management in China, and sustainable aquaculture at coastal fisheries 
+in Tanzania and Vietnam. These are just a few examples of the World Bank’s work.
+Source: World Bank, 2013.
+Case example 5.2
+The World Bank tackles low productivity in agriculture
+150
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+The supply response of agriculture
+What may also be required is a rise in the price of agricultural products relative to industrial 
+products in order to induce extra supply. Traditionally, attempts have been made to ‘tax’ the 
+agricultural sector by keeping prices low in order to maintain the terms of trade in favour of 
+the industrial sector. This policy was justified by the widespread belief that peasant producers in 
+traditional societies would not respond to price incentives, but this assumption has proved to be 
+wrong. Depressing the agricultural terms of trade has depressed agricultural output and caused 
+problems for the feeding of a growing urban population.
+Many countries have had to introduce a positive price policy to act as a stimulus to agricultural 
+output in general and to alter the composition of agricultural output as circumstances warrant. 
+There is, in fact, considerable evidence that producers, especially those in close proximity to large 
+markets with good transport facilities, respond positively to price changes, as economic theory 
+would predict. Schultz (1964) gave early warning that ‘the doctrine that farmers in poor countries 
+either are indifferent or respond perversely to changes in prices . . . is patently false and harmful. 
+Price policies based on it always impair the efficiency of agriculture.’
+When discussing the supply response of agricultural output to price, however, a distinction 
+needs to be made between three types of response:
+•
+• A change in the composition of agricultural output to a change in the relative price of indi-
+vidual agricultural commodities.
+•
+• An increase in total agricultural output with respect to an improvement in the relative price of 
+agricultural commodities compared with industrial goods.
+•
+• An increase in the marketed surplus in response to an increase in the price of agricultural 
+­
+commodities.
+Most of the studies on the supply response in peasant agriculture in developing countries relate 
+to how producers respond to changes in the relative price of different agricultural commodities. 
+But, of course, it would be quite possible for the supply of any individual commodity to be quite 
+elastic with respect to price, yet the total supply of agricultural output and the marketed surplus 
+to be quite inelastic, or even to fall, in response to a change in prices.
+Having said this, there are reasons for believing that the other two elasticities are likely to be 
+positive if the supply of individual commodities is positive, especially when crops are grown not 
+just for subsistence purposes. For example, for any crop grown commercially, the elasticity of 
+marketed supply will be virtually equal to the output elasticity, and unless inputs are withdrawn 
+from the production of other commodities, the elasticity of total agricultural supply will also be 
+positive. Only in cases where peasants are content with a fixed money income, or all increased 
+production of a commodity is consumed within the subsistence sector, will the elasticity of mar-
+keted supply be zero or negative at the same time as the price elasticity of supply is positive. These 
+conditions are not likely to prevail.
+Empirical research on the supply response of agriculture can be divided into four main 
+categories:
+1.	 Cross-country studies that look at output differences in relation to price differences across 
+countries.
+2.	 Time-series studies that examine output movements in relation to price movements within 
+countries over time.
+3.	 Cross-section studies that look at output differences in relation to price differences across 
+farms within a country.
+151
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+4.	 Intersectoral general equilibrium models that examine how the output of agriculture varies in 
+response to changes in the prices of agricultural goods relative to the price of other goods in 
+the economy.
+The evidence shows that aggregate supply elasticities of agricultural output range from 0.3 to 0.9 
+(Chhibber, 1988).2 Long-run elasticity is obviously higher than short-run elasticity, and elasticity 
+tends to be higher in the more advanced and land-abundant developing countries. The supply 
+response of farmers to price changes depends crucially on the ability of farmers to respond to price 
+signals, which, in turn, depends on transport, infrastructure and access to agricultural inputs. In 
+poorer countries with inadequate infrastructure, supply elasticity is low (0.2–0.5). In fact, the sup-
+ply elasticity of agriculture with respect to non-price factors (e.g., the provision of public goods and 
+services) is much higher than it is with respect to price, especially in poorer developing countries 
+with inadequate infrastructure and marketing facilities. In a study of farm households in Ethiopia, 
+Abrar et al. (2004) find a high supply response of different crops to changes in relative prices, but 
+non-price factors such as access to fertilizers, land, infrastructure and marketing are often more 
+important than prices in determining how much of which crops is produced for market.
+The International Monetary Fund (IMF) and the World Bank are naturally concerned with the 
+performance of the agricultural sector in countries to which they lend under various adjustment 
+programmes (see Chapters 14 and 16). Three interrelated issues are typically addressed:
+•
+• The terms of trade between agriculture and the rest of the economy.
+•
+• The efficiency of the agricultural sector.
+•
+• The supply response of agriculture to price changes.
+With regard to the agricultural terms of trade, the IMF normally insists that the prices paid by 
+state marketing boards to producers be increased. Traditionally, governments have ‘taxed’ the 
+agricultural sector through agricultural marketing boards, driving a large wedge between the 
+prices paid to producers and the market prices of the commodities concerned. One implication, 
+therefore, of raising producer prices is that government revenue may fall. This has implications 
+for government expenditure if there is a budget constraint. Only if the elasticity of the supply of 
+output with respect to producer prices is greater than unity will government revenue not fall; but 
+as we saw above, supply elasticity is typically less than unity.
+To achieve efficiency within agriculture, the IMF concentrates on factors such as improving 
+storage and transport facilities, increasing the availability of agricultural inputs, improving exten-
+sion services, insisting on the economic pricing of output and inputs, and privatizing marketing 
+and extension services.
+We saw earlier that the supply response of farmers to price changes depends a great deal on 
+the ability to respond, which, in turn, depends on infrastructure, transport, access to inputs and 
+so on. Governments may be in a dilemma here because raising producer prices and reducing their 
+own revenue may impair their ability to spend on infrastructure and other facilities. Given that 
+the elasticity of supply with respect to non-price factors is higher than with respect to price, it 
+would seem unwise to cut public expenditure as far as it affects the agricultural sector.
+Transforming traditional agriculture
+The task of transforming traditional agriculture is not simply a question of land reform or price 
+policy, however. The transformation of traditional agriculture is also dependent on new inputs. 
+The policy issue is to determine the form that the new inputs should take if agriculture is to 
+152
+F A C T O R S  I N  T H E   
+D E V E L O P M E N T  P R O C E S S
+attract an adequate share of investment resources. New seeds are especially important to raise 
+agricultural productivity (see Lipton and Longhurst, 1989).
+The way to transform traditional agriculture into a dynamic source of growth is by investment 
+to produce a supply of new agricultural inputs that will be proﬁtable for farmers to adopt. What is 
+lacking is not so much an unwillingness on the part of the agricultural sector to accept new ideas, 
+but public expenditure and the organization of particular public activities to serve the agricultural 
+sector. Agricultural research, and investment in people to improve human capabilities in agricul-
+ture, has been neglected.
+The state of agriculture in Africa is particularly dire. Agricultural yields are low and food short-
+ages and undernourishment are rife. Much of the support in place for agriculture in Africa was 
+dismantled in the 1970s by World Bank structural adjustment programmes (see Chapter 14); for 
+example, subsidies for fertilizers and seeds, guaranteed prices for crops, and research and devel-
+opment – all the policies that supported Asia’s so-called Green Revolution in the 1960s, which 
+tripled and quadrupled yields of crops such as wheat, rice and maize.
+ʾFGBUIFSPGUIFT(SFFO3FWPMVUJPO	XIJDICZQBTTFE"GSJDB
+XBTNorman Borlaug, an 
+American biologist working in Mexico, who crossed Japanese dwarf wheat with a disease-resistant 
+local strain to produce a high-yielding hybrid, which came to be known as ‘Mexican dwarf wheat’. 
+In countries such as India and Pakistan, yields increased threefold. Borlaug is credited with saving 
+more lives than anyone in history – at least 1 billion in Asia alone. His motto was ‘it is impossible 
+to build a peaceful world on empty stomachs’. He was awarded the Nobel Peace Prize in 1970 and 
+died in 2009, aged 95. Borlaug’s breakthrough – the result of 30 years’ research – is a prime example 
+of the impact that technology can have on the productivity of agriculture.
+"TJNJMBSCSFBLUISPVHIPSALJDLTUBSUJTSFRVJSFEJO"GSJDB5PUIJTFOEBO"MMJBODFGPSB(SFFO
+3FWPMVUJPOJO"GSJDB	"(3"
+XBTGPVOEFEJOXJUIBNJMMJPOHSBOUGSPNUIF3PDLFGFMMFS
+'PVOEBUJPO BOE UIF #JMM  .FMJOEB (BUFT 'PVOEBUJPO UP IFMQ SBJTF ZJFMET UISPVHI JNQSPWFE
+farming methods, new seeds and fertilizers, working with the African Agricultural Technology 
+Foundation based in Nairobi, Kenya. One of the major projects is to develop ‘water-eﬃcient’ 
+maize to cope with long periods of drought now being experienced in southern Africa.
+*OHFOFSBMUIFSFJTBOFFEGPSBTFDPOE(SFFO3FWPMVUJPOJOBHSJDVMUVSFUPGPMMPXUIFmSTUJO
+the 1960s, which has now run its course. Modern science can help. Biotechnology, including 
+genetically modiﬁed (GM) technology, has the potential to raise productivity substantially and 
+UPSFEVDFUIFJODJEFODFPGGBNJOFBOENBMOVUSJUJPO"(.DSPQJTBOZDSPQWBSJFUZUIBUIBTIBE
+a gene or genes from a diﬀerent species or variety inserted into its genetic material using genetic 
+engineering techniques. Currently, about 15% of the world’s farmland (approximately 180 million 
+IFDUBSFT
+JTEFWPUFEUP(.DSPQT3FTFBSDIJTCFJOHEPOFPONBOZDSPQTCVUWJSUVBMMZBMMQMBOUJOH
+covers just ﬁve crops: soya beans, maize, cotton, rice and oilseed rape (canola). There is, however, 
+TUSPOHPQQPTJUJPOUP(.DSPQTGSPNDPOTVNFSTBOEFOWJSPONFOUBMHSPVQTPOUIFHSPVOETPG
+SJTLUPIVNBOIFBMUICVU(.DSPQTBSFBMSFBEZJOUIFGPPEDIBJOCFDBVTFUIFZBSFXJEFMZVTFE
+as processed food ingredients and for animal feed. So far, there is no scientiﬁc evidence that they 
+are harmful.
+ʾFCFOFmUPG(.UFDIOPMPHZJTUIBUJUDBOQSPEVDFDSPQTUIBUDBOSFTJTUQFTUTDBOHSPXJO
+salty soil, are drought resistant, use nitrogen more eﬃciently, can be stored for longer, and are 
+more nutritious. Rice is an important staple food for poor people. Over 3 billion people in the 
+world get at least 20% of their calorie intake from rice. The International Rice Research Institute 
+in Manila, Philippines is at the forefront of research to produce diﬀerent varieties of rice to suit 
+particular environments where the problem may be drought, ﬂooding, heat or salty water. With 
+152
+153
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+regard to nutrition, Ingo Potrykus, working in Zurich, teamed up with Peter Beyer to genetic­
+ally engineer a type of rice (‘golden rice’) to contain beta-carotene, which is the pigment that 
+produces vitamin A. This is an important breakthrough since vitamin A deficiency kills 2 million 
+children a year and blinds many more. This research has been funded not by biotechnology com-
+panies, concerned with maximizing returns by patenting and the exercise of intellectual property 
+rights, but by the Swiss government and the Rockefeller Foundation. The plan is for growers to be 
+given the new rice free by national research centres supervised by the International Rice Research 
+Institute. Agricultural innovation cannot flourish without well-resourced agricultural extension 
+services within countries. Research is now under way to cross ‘golden rice’ with a grain implanted 
+with three genes to boost iron content to combat anaemia, which many people suffer from in 
+developing countries. A quality protein maize has also been developed by Norman Borlaug, con-
+taining many important amino acids that could dramatically reduce the number of children who 
+die of malnutrition. GM cotton has increased yields by nearly 100% in India by being more disease 
+resistant.
+Some people argue that GM is the only technology that can prevent future world food crises 
+and rising prices of basic foodstuffs. Malnutrition remains a major scourge in developing coun-
+tries, and by 2030, there will also be 2 billion more mouths to feed. The application of new tech-
+nology is urgently required.
+What matters most are the incentives and associated opportunities that farm people have 
+to augment production by means of investments that include the contribution of agricul-
+tural research and the improvement of human skills. We emphasize again that subsistence 
+agriculture is an uncertain activity and therefore risky, particularly when survival is at stake, 
+and this is another factor that breeds conservatism and makes change difficult, even in the 
+face of opportunities. Poor people prefer to be safe than sorry; they tend to prefer an inferior 
+outcome that is relatively certain to the prospect of a higher average return with a greater 
+degree of risk attached. They are risk averse. This is clearly not irrational behaviour for poor 
+people living on the margin of subsistence, even if the greater risk is imagined rather than real. 
+To overcome inertia on this score, an integral element of agrarian reform must be policies 
+designed to minimize risk and uncertainty through the provision of various types of insurance 
+(as discussed in Chapter 2).
+The growth of the money economy
+The question of the willingness to change customs and traditions leads naturally to a consid-
+eration of how peasant subsistence economies, producing goods for consumption only, typically 
+transform themselves into money economies with an export and industrial sector. From historical 
+experience (see Chang, 2009), two factors would appear to be crucial for the expansion of the 
+agricultural sector and the eventual production of goods for exchange at home and abroad:
+1.	 The expansion of communications to create outlets and markets for surplus production – and 
+to encourage the production of the surplus itself.
+2.	 The emergence of a class of middlemen or export–import merchants acting as agents between 
+world markets and the domestic agricultural sectors.
+If these conditions prevail, purely subsistence farming can develop first into mixed agriculture, 
+where part of the crop is retained for subsistence and part is sold in the market, and then into 
+modern agriculture with production entirely for the market, very often based on one crop. In 
+154
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+the transition from subsistence agriculture, cash crops can utilize slack labour and land when the 
+­
+subsistence crops are finished; but the transition into mixed farming is possible only if the farmer 
+has the inputs to raise productivity and the credit to purchase those inputs, as well as the market-
+ing facilities.
+Modern agriculture, run on strictly commercial lines for profit and based on one crop, must 
+rely on exports since the size of the domestic market will generally be too small. The system of 
+modern commercialized agriculture, upon which many developing countries depend for their 
+export earnings, is often termed agribusiness. This is a catch-all phrase referring not only to 
+the production of the commodity in question, but also to the backward and forward linkages 
+associated with the production process: the provision of finance, machinery, fertilizers, seed and 
+so on at the input end, and the processing, manufacturing and marketing of the product at the 
+output end.
+Today, multinational corporations have a powerful position and a strong hold over the pro-
+duction and export of major agricultural commodities produced in developing countries. To give 
+just a few examples: three US firms control over one-half of the global banana trade, five European 
+companies control 90% of the tea sold in developed countries, and the two largest coffee com­
+panies control 20% of the world market.
+The ability to export and the ability to market internally imply surplus production over sub-
+sistence needs, and it is the size of this surplus that will largely determine the speed with which 
+the subsistence sector can be drawn into the money economy. Again, we come to the fact that 
+unless productivity in agriculture increases, the expansion of the monetized sector will tend to 
+decelerate as the land for cultivation dries up. When land has been exploited to the full, it acts as 
+a constraint on development unless agricultural productivity increases or non-agricultural activ­
+ities can be established.
+The emergence of an export sector provides a powerful stimulus to the development and 
+extension of the money economy. Exports create the capacity to import, and the very purchase of 
+foreign products can encourage further export specialization. A population that acquires a taste 
+for imported goods provides the impetus to producers to export more. In the case of new goods, 
+as well as new techniques, there is strong evidence that peasant producers respond to incentives, 
+and are not as different from ‘Western economic man’ as is sometimes claimed. Imports also 
+provide a stimulus to industrialization. If a market for a foreign manufactured good becomes 
+established, it becomes easier and less risky, with the aid of tariff protection, for a domestic 
+manu­
+facturer to set up in business because the market is assured. Imports can also substitute for 
+domestic capital and raise the growth rate directly.
+When farmers start to specialize in goods for export, and rely on other producers for goods 
+they previously produced themselves, the money economy will spread from the foreign trade 
+sector to the rest of the domestic economy. This is nothing more than the international division 
+of labour giving rise to the need for a means of exchange within a country as well as between 
+countries.
+The emergence of an export sector, the spread of the money economy and the establishment 
+of industries typically occur concurrently. What form industrialization takes will depend, in the 
+first instance, on the initial impetus. One stimulus to industrialization that we have already 
+mentioned is imports creating a market for goods that can be produced domestically without 
+much difficulty. A more obvious factor leading naturally to industrialization is the availability 
+of resources from the land, forming an indigenous industrial base. In this case, industrialization 
+takes the form of the processing of raw materials. There are few countries that do not possess 
+155
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+some natural resource or other, and every country will have a comparative advantage in the 
+production of one or other raw material that can be processed. These are the agribusinesses 
+mentioned earlier.
+In many of the present developing countries, formerly under colonial rule, the initiating 
+force behind industrialization was the foreign exploitation of resources. Industrial activity took 
+the form of mining operations and plantation agriculture. The establishment of foreign enclave 
+activities undoubtedly exerted a development impact, but it is sometimes argued that devel-
+opment would have been more rapid if countries had been left to their own devices. Some 
+claim that the long-run development of these countries was impaired because the availabil-
+ity of cheap labour from the subsistence sector discouraged the installation of more mod-
+ern productive machinery, and also that the foreign ownership and exploitation of countries’ 
+resources considerably reduced the potential level of investment through the remittance of 
+profits to the host country. This is the argument of dependency theorists, which is discussed 
+more fully in Chapter 10.
+Finance for traditional agriculture
+For many years, traditional agriculture has been starved of investment resources. While it 
+accounts for approximately 30% of output and 50% of total employment, it attracts little more 
+than 10% of total investment resources. Private capital has no doubt been deterred by the risks 
+involved and the low returns in traditional agriculture. But institutional investment has also 
+been meagre. For example, in the early years of the World Bank, 1947–59, only $124 million was 
+spent on agriculture out of total loans of $4 billion. Official development assistance (ODA) to 
+agriculture from multilateral and bilateral sources rose sharply in the 1970s, but since 1979, the 
+share of ODA going to agriculture decreased from 18% to 3.5% in 2004. In absolute terms, it 
+reached a peak of $8 billion (measured at 2004 US$) in 1984, falling to only £3.4 billion in 2004 
+(World Bank, 2007).
+Within agriculture-based developing economies, the share of public expenditure spent on 
+agriculture has also decreased from 7% in 1980 to 4% in 2004 (World Bank, 2007). This gives some 
+measure of the neglect of agriculture, which was partly responsible for the world food crisis and 
+food price rises in 2007–08.
+The public sectors of developing countries, and multilateral institutions such as the World 
+Bank, have a responsibility to invest in agriculture to raise productivity and combat poverty. Some 
+projects will involve increasing the output of traditional crops through the more effective use of 
+seeds, fertilizers and water. Other projects will involve changing the product mix from subsistence 
+crops to the production of high-value crops.
+At present, the largest single component of lending to agriculture is irrigation, which permits 
+the expansion of cultivation and makes more intensive cultivation possible by permitting dou-
+ble cropping. Bank-financed irrigation schemes have had a major impact on rice yields and pro-
+duction in Asia. The World Bank has also become the most important source of financial and 
+technical assistance for the construction of fertilizer plants in developing countries, and these 
+have played an important role in increasing yields and output. The World Bank gives credit for 
+rural infrastructure projects, such as roads to reduce marketing and supply bottlenecks, and rural 
+electrification schemes. Agricultural extension is another important aspect of the World Bank’s 
+assistance to the rural sector. In India, where ‘contact’ farmers disseminate knowledge to their 
+neighbours of improved techniques learnt from field agents, over 10 million farm families have 
+156
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+been helped. The rural poor now have more extensive and easier access to credit financed by the 
+World Bank. In India, much of the credit has been used by small farmers to provide supplemen-
+tary irrigation.
+Finally, the World Bank operates various multipurpose projects that combine a wide range 
+of activities, normally in conjunction with a regional development programme. In Mexico, some 
+75,000 low-income families have benefited from such a project in about 30 localities through 
+investments in irrigation, soil conservation, electrification, schools, healthcare, water supplies and 
+marketing services. Each dollar the bank invests in rural development is supplemented by local 
+investment, and the bank rightly stresses that its contribution to the total flow of resources can 
+be effective only if appropriate national policies are pursued on pricing, taxation, land reform and 
+so on. The major part of the World Bank’s programme to reach the rural poor is still in the process 
+of implementation, and is therefore difficult to assess reliably, but indications suggest that a com-
+bination of additional resources, institutional reforms and national government commitment to 
+improvement in the rural sector can have a major impact.
+Apart from the World Bank, other multilateral institutions exist to help traditional agriculture, 
+notably the UN’s International Fund for Agricultural Development (IFAD), which seeks to inte-
+grate small farmers and landless people into the development process. IFAD states that its priority 
+is for ‘projects which will have a significant impact on improving food production in developing 
+countries, particularly for the benefit of the poorest sections of the rural population’. Between 
+1978 and 2014, $15 billion had been dispersed.
+In the absence of external institutional investment, the sources of capital for the expansion 
+of agriculture and industry are relatively limited in the early stages of development. In a truly 
+subsistence economy, in the sense of an economy producing only what it needs for itself and 
+no more, everyone is a Robinson Crusoe, supplying their own capital by refraining from present 
+consumption. With specialization in the production of goods for export, and the producer’s need 
+for capital to expand productive capacity, mechanisms grow up spontaneously to meet the need 
+for credit. It is a good market maxim that demand will create a supplier at a price. The suppliers 
+are generally village moneylenders, shopkeepers, landlords and, not infrequently, the Church – 
+­
+especially in South America – charging rates of interest that often exceed 50%.
+The interdependence of agriculture and industry
+Once agriculture emerges from its subsistence state and starts to specialize and produce goods 
+for export, and industry develops under the impact of growth in the agricultural sector, the two 
+sectors of agriculture and industry become interdependent. The industrial sector adds to the 
+demand for goods produced by agriculture and absorbs surplus labour, which may raise product­
+ivity in agriculture. In turn, the agricultural sector provides a market for industrial goods out of ris-
+ing real income, and makes a factor contribution to development through the release of resources 
+if productivity rises faster than the demand for commodities. Adam Smith, in Wealth of Nations 
+(1776), clearly recognized this interdependence (Kim, 2015).
+Demand coming from agriculture can be a major stimulus to industrialization. Adelman (1984) 
+has described the process as ‘agricultural demand-led industrialization’. Taking 27 social account-
+ing matrixes for low- and high-income economies, Vogel (1994) has shown that the impact of 
+agriculture on industry is much higher than the impact of industry on agriculture, and it increases 
+with the level of income. At low levels of income, a $1 expenditure in agriculture generates a 
+$2.75 increase in induced demand for non-agricultural inputs and services, and a $10 increase 
+157
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+in high-income countries. It is rural household demand that contributes most to the backward 
+multiplier, which leads Vogel (1994) to conclude: ‘the early development theorists failed to articu-
+late a place for rural household demand for consumer goods. Not recognizing the centrality of 
+these institutional feedbacks in agriculture’s production linkages in developing economies has 
+been one of the great failures of theories of economic development.’ It is true that a stagnant rural 
+sector has held back industrial development in several developing countries. (See section below, 
+A model of the complementarity between agriculture and industry.)
+The transfer of resources from agriculture to industry may be in the form of capital or labour 
+or both. Since labour is in abundant supply in most low-income countries, there is generally no 
+difficulty in releasing labour for industry, except during harvest time. In any case, labour will tend 
+to migrate naturally in response to seemingly better opportunities in the industrial sector and 
+higher real incomes. The real earnings of labour in the industrial sector may be more than twice 
+as much as the agricultural wage. If the industrial sector is to be guaranteed an adequate supply 
+of labour, some wage differential is inevitably required to offset the higher real living costs in an 
+urban environment, to compensate for the forfeit of non-monetary benefits of rural life, and to 
+compensate for greater job uncertainty in the industrial sector. Real earnings may also be higher 
+because of genuinely higher productivity in the industrial sector, where labour has more factors 
+of production to work with. Most models of rural–urban migration make migration a positive 
+function of the expected urban–rural wage differential, which is the difference between the urban 
+wage, adjusted for the proportion of the total urban labour force employed (as a proxy for the 
+probability of finding work), and the agricultural real wage (see the section below, Rural–urban 
+migration and urban unemployment, for an outline of the model).
+Capital may be less ‘mobile’ than labour, and if there is considered to be insufficient lending 
+from the agricultural sector on a voluntary basis, it may become necessary for a government 
+to extract savings compulsorily from the agricultural sector by taxation. As mentioned already, 
+this method was resorted to in a harsh manner by Japan at the time of the Meiji Restoration 
+and Soviet Russia after the communist revolution. In Japan between 1880 and 1900, the land 
+tax provided approximately 80% of central government tax revenue, and in Russia forced extrac-
+tion of the agricultural surplus took the form of expropriation of land and the extermination 
+of labour. Industrialization in Western Europe, and particularly in England, was also financed to 
+a large extent by surpluses generated on the land, but transference of these surpluses was, on 
+the whole, voluntary through a rapidly expanding banking system. Today, developing countries, 
+despite their access to foreign sources of capital, must also rely heavily on extracting the sur-
+plus from agriculture to finance industrialization. The difficulty is to decide on the best means of 
+extraction without impairing the incentive to produce, or damaging the growth of productivity, 
+on which a growing agricultural surplus depends. The financing of economic development will be 
+discussed more fully in Part IV.
+Economic development with unlimited supplies of labour
+The process of the emergence of a money economy from a subsistence state was formalized by 
+Sir Arthur Lewis in his classic paper ‘Economic Development with Unlimited Supplies of Labour’ 
+(1954).3 There, he presented a ‘classical’ model of a dual economy with the purpose, as he 
+described it, of seeing what can be made of the classical framework for understanding the issues 
+of distribution, capital accumulation and growth in developing countries. His ultimate aim was to 
+emphasize the crucial role of the capitalist surplus in the development process.
+158
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+The Lewis model therefore starts with the assumption of a dual economy with a modern 
+exchange (capitalist) sector and an indigenous (non-capitalist) subsistence sector, and assumes 
+that there are unlimited supplies of labour in the subsistence sector, in the sense that the supply 
+of labour exceeds the demand for labour at the subsistence wage; that is, the marginal product 
+of workers in the subsistence sector is equal to, or less than, the subsistence or institutional wage.
+It has even been argued that the marginal product of labour may be zero or negative in an 
+economy that is still at a fairly low level of development and experiencing a rapid growth of popu-
+lation. Indeed, Lewis (1954) said: ‘there are large sectors of [a developing] economy where the 
+marginal productivity of labour is negligible, zero or even negative’.
+One of the distinguishing features of agriculture is that it is an activity that is subject to dimin-
+ishing returns owing to the fixity of the supply of land. If there is rapid population growth and 
+labour has little employment opportunity other than on the land, a stage may be reached where 
+the land cannot provide further workers with a living unless the existing workers drastically reduce 
+their hours of work. These propositions are illustrated in Figure 5.1. The curve drawn represents 
+the marginal product of successive units of labour added to the land. After the employment of X 
+units of labour, the marginal product of labour begins to fall owing to diminishing returns; after 
+X1 units of labour, labour’s marginal contribution to output falls below the subsistence wage; and 
+Arthur Lewis
+Born 1915, St Lucia, West Indies. Died 1991. Professor of Economics, 
+Manchester University, University of the West Indies and Princeton 
+University. Vice-Chancellor, University of the West Indies; Director of the 
+Caribbean Development Bank. Wrote the first textbook on development 
+economics, The Theory of Economic Growth (1955), but most famous 
+for his 1954 paper, ‘Economic Development with Unlimited Supplies of 
+Labour’, one of the most influential papers in development economics, 
+still widely consulted today. One of the ‘fathers’ of development econom-
+ics; awarded the Nobel Prize for Economics, 1979.
+W
+0
+X
+X1X2
+Subsistence wage
+Units of labour
+added to land
+Marginal product of labour
+Figure 5.1  Marginal product of successive units of labour added to the land
+159
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+after X2 units of labour, labour’s contribution to output becomes negative and total product will 
+decline with successive additions of labour beyond X2.
+In Lewis’s model, labour in excess of X1 in Figure 5.1 is in completely elastic supply to the 
+industrial sector at whatever the industrial wage.4 The industrial or capitalist sector is repre-
+sented in Figure 5.2. The curve NR represents the marginal product of labour in the capitalist 
+sector, W is the industrial wage and, on the profit-maximizing assumption, labour is employed 
+in the capitalist sector up to the point where the marginal product is equal to the wage rate. 
+That is, M will be employed. Workers in excess of M earn what they can in the subsistence sec-
+tor. The industrial wage is assumed to be determined in some relation to the wage that workers 
+can earn in the subsistence sector. The differential (WW1) between the industrial wage and the 
+subsistence wage will be a function of many factors, some of which were mentioned earlier, 
+for example higher real living costs in the capitalist sector and greater job uncertainty. Given 
+that the industrial wage is based on earnings in the subsistence sector, capitalists have a direct 
+interest in holding down productivity in the subsistence sector, and Lewis commented that 
+the record of every imperial power in Africa in modern times was one of impoverishing the 
+subsistence economy.
+In Figure 5.2, the total product of labour, 0NPM, is split between the payment to labour in 
+the form of wages, 0WPM, and the capitalist surplus, WNP. The expansion of the capitalist sector 
+and the rate of absorption of labour from the subsistence sector depends on the use made of the 
+capitalist surplus. If the surplus is reinvested, leading to greater capital formation, this will increase 
+the total product of labour. The marginal product curve will shift upwards to the right, say N1R1, 
+which means that if wages remain constant, the capitalist sector can now afford to employ more 
+labour and will do so by drawing on labour from the subsistence sector to the extent of MM1 
+workers. The size of the capitalist surplus will increase from WNP to WN1P1, which is available for 
+further reinvestment and so the process goes on. For Lewis, this is the essence of the development 
+process. The stimulus to investment in the capitalist sector comes from the rate of profit, which 
+must rise over time because all the benefits of increased productivity accrue to capital if the real 
+wage is constant.5
+According to Lewis (1954), the share of profits in the national income (P/0) will also rise. First, 
+the share of profits in the capitalist sector (P/C) will increase, and second, the capitalist sector 
+relative to the national income (C/0) will tend to expand; that is, if P/0 5 P/C 3 C/0, then P/0 will 
+rise as P/C and C/0 increase. For Lewis, the latter is the more important. Lewis (1954) said: ‘if we 
+ask why the less developed countries save so little, the answer is not because they are so poor but 
+because their capitalist sector is so small’.
+N
+M
+R
+P1
+P
+W1
+N1
+W
+M1
+R1
+0
+Industrial wage
+Subsistence
+wage
+Units of labour
+Marginal product
+Figure 5.2  Industrial/capitalist sector
+160
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+The process outlined by Lewis comes to an end when capital accumulation has caught up 
+with population, so that there is no surplus labour in the subsistence sector left to absorb. When 
+all surplus labour is absorbed, the supply of labour to the industrial sector becomes less than 
+perfectly elastic. It is now in the interests of producers in the subsistence sector to compete for 
+labour, since the marginal product of labour is no longer below the institutional wage. This is the 
+so-called ‘Lewis turning point’. This change in producer behaviour in the subsistence sector has 
+also been defined as the end of the take-off stage (Ranis and Fei, 1961). There is a debate in the 
+literature over whether China has reached the Lewis turning point (Islam and Yokota, 2008). Some 
+argue that its arrival can be seen in more assertive workers and wage rises. Others argue, however, 
+that recent wage rises represent an upward shift in the whole labour supply curve, not a turning 
+point, because the reserves of labour in agriculture are still vast and where labour’s productivity 
+is less than 20% of the rest of the economy. Lewis gave several reasons why wages may rise before 
+the turning point is reached (see below).
+Implicit in the Lewis model is the assumption that employment growth in the capitalist sec-
+tor will be proportional to the rate of capital formation. If profits are reinvested in labour-saving 
+technology, however, this will not be so, and the rate of growth of employment in the industrial 
+sector, as well as the rate of absorption from the agricultural sector, may be very low.
+It is also possible that the process of absorption may end prematurely before surplus labour 
+in the subsistence sector is fully exhausted, owing to checks to the expansion of the capitalist 
+surplus. Capital accumulation and labour absorption may be checked due to the expansion of the 
+capitalist sector itself. For example, as the capitalist sector expands, the terms of trade may turn 
+against it. If the demand for food expands faster than agricultural output, the capitalist sector will 
+be forced to pay higher prices for food in exchange for industrial goods, reducing the size of the 
+capitalist surplus. This will have two effects.
+First, if the capitalists are forced to pay higher prices for the goods they buy relative to those 
+they sell, this means less saving for investment. The problem does not arise if productivity in 
+agriculture is expanding rapidly, but Lewis recognized that the failure of peasant agriculture to 
+increase its productivity has probably been the chief factor holding back the expansion of the 
+industrial sector in many developing countries. If this is so, argue Lewis’s critics, the growth of 
+non-farm employment can be said to depend on the growth of the agricultural surplus. This is, in 
+fact, the starting point of neoclassical models of development (see Jorgenson, 1966), in contrast 
+to classical models with their emphasis on surplus labour.
+The second effect arising from the expansion of the capitalist sector if there is a shortage of 
+food is that the real wage may have to rise in industry, further squeezing the capitalist surplus. If 
+labour is needed in agriculture to meet the demand for food, unlimited supplies of labour at a 
+constant real wage may be very limited indeed. The assumption of an unlimited supply of labour 
+is the central proposition underlying the classical approach to the theory of development, and 
+Jorgenson has argued that the classical approach stands or falls by this hypothesis. Historically, 
+of course, real wages have risen in agriculture and industry, and the capitalist sector has also 
+expanded rapidly, which lends support to a middle view between the classical and neoclassical 
+approaches. Lewis (1954) recognized the importance of both capital accumulation and food sup-
+ply, and it is this consideration that forms the basis of his argument for the balanced growth of the 
+agricultural and industrial sectors.
+Capital accumulation in the industrial sector may also be checked for reasons unrelated to the 
+expansion of the capitalist sector and its demand for food. For example, real wages may be forced 
+up directly by trade unions, or indirectly through rising real wages in the subsistence sector due to 
+increased agricultural productivity. Lewis (1954) states that:
+161
+  t  5 ) &  3 0 - &  0 '  " ( 3 * $ 6 -5 6 3 &  " / %  4 6 3 1 - 6 4  - " # 0 6 3
+anything which raises the productivity of the subsistence sector (average product per person) 
+will raise real wages in the capitalist sector, and will therefore reduce the capitalist surplus and 
+the rate of capital accumulation, unless it at the same time more than correspondingly moves 
+the terms of trade against the subsistence sector.
+Lewis reached this conclusion because one of the simplifying assumptions of his classical two-
+sector model is that the expansion of the capitalist sector is limited only by a shortage of capital, 
+so that any increase in prices and purchasing power for farmers is not a stimulus to industrializa-
+tion but an obstacle to the expansion of the capitalist sector. How does this square with the idea 
+of the agricultural sector providing a market for industrial goods, and the view of the World Bank 
+(1979) that ‘a stagnant rural economy with low purchasing power holds back industrial growth in 
+many developing countries’? The answer is that there does seem to be a contradiction, because 
+the classical approach emphasizes supply to the exclusion of demand, or rather takes for granted 
+that there will always be a market clearing price for industrial goods. In practice, there will always 
+be a minimum below which the price of industrial goods cannot fall, set by the subsistence level 
+wage in industry.
+Johnston and Mellor (1961) recognized this worrying feature of the Lewis model many years 
+ago, when they perceptively remarked: ‘there is clearly a conﬂict between emphasis on agricul-
+ture’s essential contribution to the capital requirements for overall development, and emphasis 
+on increased farm purchasing power as a stimulus to industrialization. Nor is there any easy rec-
+onciliation of the conﬂict.’ The challenge of reconciliation has never been taken up in a satisfactory
+way, but there is a resolution of the conﬂict if the complementarity between the two sectors 
+is recognized from the outset, and it is remembered that there must be an equilibrium terms of 
+trade that balances supply and demand in both sectors. The basis of a model of reconciliation is 
+provided by Kaldor (1979).
+A model of the complementarity between agriculture and industry6
+We have seen that agriculture provides the potential for capital accumulation in industry by pro-
+viding a marketable surplus. The greater the surplus, the cheaper industry can obtain food and 
+the more saving and capital accumulation can be undertaken. This is the supply side. But industry 
+also needs a market for its industrial goods, which, in the early stages of development, must largely 
+come from agriculture. This is the demand side, and the higher the price of agricultural goods, the 
+HSFBUFSBHSJDVMUVSBMQVSDIBTJOHQPXFSXJMMCF(JWFOUIJTDPOnJDUCFUXFFOMPXGPPEQSJDFTCFJOH
+good for industrial supply and high food prices being good for industrial demand, what is required 
+is a simple model that brings together agriculture and industry in an equilibrium framework, 
+where the terms of trade between agriculture and industry provide the equilibrating mechanism, 
+ensuring that supply and demand grow at the same rate in each sector.
+Let us ﬁrst model growth in the agricultural sector in relation to the terms of trade, then 
+growth in the industrial sector, and then bring the two sectors together. Agriculture’s growth rate 
+will be a function of how much it invests relative to output and of the productivity of investment. 
+How much investment goods it obtains from industry in exchange for food that it ‘saves’ depends 
+on the price of industrial goods relative to food; that is, on the terms of trade between industry 
+and agriculture. The higher the price of investment goods, the lower the possible investment for a 
+given amount of food and the lower the growth of supply capacity. This inverse relation between 
+the industrial terms of trade (the price of industrial goods relative to the price of food) and the 
+agricultural growth rate (gA) is shown in Figure 5.3.
+161
+162
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Industry’s growth rate will also be a function of its investment ratio and the productivity of 
+investment. But there is a certain minimum to the terms of trade, below which industry would 
+not be able to invest anything because all output would be required to pay for workers’ wage 
+goods (food). If all wages are consumed, the cost of food input per unit of output in industry will 
+depend on the real wage rate in industry divided by the productivity of labour, that is w/(O/L) 5 
+(W/O), where w is the real wage and W is the wage bill. Industrial prices must cover W/O, and this 
+sets the lower limit to industrial prices relative to food prices. At the other extreme, industrial 
+growth cannot exceed a certain maximum where the price of food is so low relative to indus-
+trial goods that all industrial goods are retained for investment in industry. The investment ratio 
+approaches, in effect, 100%, and the upper limit to growth is given by the productivity of invest-
+ment. The positive relation between the industrial terms of trade and the industrial growth rate 
+(gI) is shown in Figure 5.4.
+If we now assume for simplicity (although without loss of generality) that the income elasticity 
+of demand for agricultural and industrial goods is unity, then at a given terms of trade, the rate of 
+growth of agricultural output represents the rate of growth of demand for industrial goods, and 
+the rate of growth of industrial output represents the rate of growth of demand for agricultural 
+output, and where gA and gI cross, there will be balanced growth of agriculture and industry (g*) 
+at equilibrium terms of trade (p*), as shown in Figure 5.5.7 In this model of the complementar­
+ity between agriculture and industry, we can see the implications of what happens if the terms 
+of trade are not in equilibrium, as well as the checks to the expansion of industry that Lewis 
+mentioned.
+gA
+0
+Growth
+Industrial
+terms of
+trade
+Figure 5.3  Industrial terms of trade and agricultural growth rate
+gI
+0
+Growth
+Minimum
+terms of
+trade
+Industrial
+terms of
+trade
+Maximum
+growth rate
+Figure 5.4  Industrial terms of trade and industrial growth rate
+163
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+If the terms of trade are not in equilibrium – if the price of food is ‘too low’ or ‘too high’ in 
+relation to industrial goods – then industrial growth is either demand constrained or supply con-
+strained. For example, if in Figure 5.5, the terms of trade were at P1, because the price of food was 
+‘too low’, industrial growth would be demand constrained to g1 by a lack of agricultural purchas-
+ing power over industrial goods. Industry could accumulate capital, but it could not sell its goods. 
+Alternatively, if the terms of trade were below equilibrium at P2, industrial growth would be sup-
+ply constrained to g2 because the price of food would be ‘too high’, impairing capital accumula-
+tion in industry. Agriculture could buy, but industry could not supply. Growth is maximized at P*
+We can now examine what happens if there are shifts in the curves. Clearly, shifts in the curves 
+will cause both the growth rates and the equilibrium terms of trade to vary. An improvement 
+in agricultural productivity that shifts gA outwards will mean both higher industrial growth and 
+an improvement in the industrial terms of trade. The importance of agricultural productivity 
+improvement could not be better illustrated. An improvement in industrial productivity will shift 
+gI outwards, which will also mean higher industrial growth but at the expense of worse terms of 
+trade for industry.8 If there is a tendency for real wages in industry to rise commensurately with 
+productivity increases, however, the gI curve will remain stable and the terms of trade will never 
+move against industry in favour of agriculture unless agricultural productivity falls and the gA 
+curve shifts inwards.
+The checks to industrial expansion in Lewis’s model are easily illustrated. A rise in the real wage 
+in industry will shift the gI curve inwards, which will choke industrial expansion unless an equivalent 
+increase in agricultural productivity shifts the gA curve outwards (see the earlier quote from Lewis).
+A final implication of the model is that if, through time, agriculture is subject to diminishing 
+returns, productivity in agriculture will fall, shifting inwards the gA curve and reducing the rate 
+of industrial growth. If the gI curve is relatively stable, industrial growth depends fundamentally 
+on the rate of land-saving innovations (technical progress) in agriculture to offset the effect of 
+diminishing returns.
+Rural–urban migration and urban unemployment
+Lewis (1954) spoke of an urban–rural wage differential of approximately 30% to attract labour to 
+the industrial sector. What has happened in recent years, however, is that the urban–rural wage 
+differential has widened considerably beyond this level – there has been rural–urban migration on 
+gI
+gA
+P 1
+P 2
+g1 g2
+g*
+P *
+0
+Growth
+Industrial
+terms of
+trade
+Figure 5.5  Growth equilibrium and disequilibrium
+164
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+an unprecedented scale, but the expansion of the industrial sector has not generated sufficient 
+employment for all those available to work. The urban–rural wage differential in China is over 300%, 
+in Guatemala 300%, and in Vietnam 210% (World Bank, 2007). Migration has thus served to transfer 
+unemployment from rural to urban areas, as described in Chapter 3. In 2008, for the first time in 
+human history, the number of people living in urban areas exceeded those living in the rural sector. 
+The informal economy of the urban sector harbours the bulk of unemployed labour in transition 
+from the rural sector into industrial employment. The conclusion to be drawn is that the expected 
+value of the urban wage, notwithstanding the probability of long spells of unemployment, still 
+exceeds the wage in the rural sector, and as long as it does so, the process of migration will continue.
+In these changed circumstances, development theory has focused its attention in recent years on 
+urban unemployment and policies to combat it. Most of the models of the rural–urban migration 
+process are pessimistic about reducing the level of urban unemployment by conventional means 
+such as subsidies to labour or public works programmes in the urban areas. The reason is that migra-
+tion from the land is made to be a function not only of the actual urban–rural wage differential but 
+also of the level of employment opportunities. More employment opportunities reduce unemploy-
+ment immediately but encourage more migration. It thus becomes an empirical question whether 
+increasing the rate of growth of employment in urban areas will actually reduce unemployment. New 
+migrants may exceed the number of new jobs created. The very real possibility exists that urban areas 
+may be caught in a ‘high level unemployment equilibrium trap’ as long as surplus labour on the land 
+remains and development policy concentrates new activity in established urban (industrial) centres.
+One of the earliest and simplest models of the rural–urban migration process, which is also 
+operational in the sense of being testable, is that of Todaro (1969, 1971). Let us consider its main 
+features and implications.
+The supply of labour to the urban sector is assumed to be a function of the expected urban– 
+rural wage differential (d), where the expected urban–rural wage differential is equal to the actual 
+urban wage times the probability of obtaining a job in the urban sector minus the average rural 
+wage. Thus:
+S 5 fs(d)
+(5.1)
+where S is the supply of labour to the urban sector and:
+d 5 wπ 2 r
+(5.2)
+where w is the urban real wage, r is the average rural wage, and π is the probability of obtaining a 
+job in the urban sector.
+The probability of obtaining a job in the urban sector is assumed to be directly related to the 
+rate of new job creation and inversely related to the ratio of unemployed jobseekers to the num-
+ber of existing job opportunities,9 that is:
+p 5  
+gN
+W 2 N 5  gN
+U 	
+
+(5.3)
+where g is the net rate of new urban job creation, N is the level of urban employment, W is the 
+total urban labour force,10 and U is the level of urban unemployment. Substituting equation (5.3) 
+into equation (5.2) gives:
+d 5  wgN
+U  2 r
+(5.4)
+165
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+If it is assumed that migration will come to a stop when the expected urban wage equals the rural 
+wage (that is, when d 5 0), we can derive from equation (5.4) the equilibrium level of unemploy-
+ment as:
+Ue 5  wgN
+r
+
+(5.5)
+It can be seen from equation (5.5) that a reduction in the actual urban wage will reduce the equi-
+librium level of unemployment, and a rise in the rural wage will also reduce it, but (paradoxically) 
+an increase in the rate of new job creation will raise the equilibrium level of unemployment by 
+increasing the probability of obtaining a job and encouraging migration. Whether policies such 
+as wage subsidies can reduce unemployment therefore depends on whether the increase in the 
+demand for labour as a result is greater or less than the induced supply.
+From equation (5.5), we can solve for the equilibrium ratio of unemployment to employment 
+and give some quantitative content to the model. Dividing both sides by N gives Ue/N 5 wg/r. 
+Thus, for example, if the industrial wage is twice as high as the rural wage (w/r 5 2), and g 5 0.05, 
+the equilibrium ratio of unemployment to employment will be 10%.
+To consider the policy implications more fully, and to answer the question: Under what condi-
+tions will the actual level of urban unemployment rise?, let us suppose that the rate of urban job 
+creation is a function of the urban wage, w, and a policy parameter, a (e.g., a government policy 
+variable to increase employment). Thus:
+g 5 fd(w,a) 	
+ 'g
+'a . 0
+(5.6)
+If the growth of urban labour demand is increased, the response of labour supply can be written as:
+'S
+'a 5  'S
+'d 'd
+'g 'g
+'a
+(5.7)
+Now, from equation (5.4) by partial differentiation, we have:
+'d
+'g 5 w N
+U
+(5.8)
+Substituting equation (5.8) into equation (5.7) gives:
+'S
+'a 5  'S
+'d wN
+U  'g
+'a
+(5.9)
+There will be an increase in the absolute level of urban unemployment if the increase in supply 
+in response to a policy change exceeds the increase in the absolute number of new jobs created, 
+that is, if:
+'S
+'d wN
+U  'g
+'a . N 'g
+'a
+(5.10)
+166
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Now, cancelling N and ∂g/∂a from both sides and multiplying both sides by d/w and U/W, the 
+condition for unemployment to increase becomes:
+'S/W
+'d/d  .  d
+w U
+W 
+(5.11)
+or substituting equation (5.2) into equation (5.11):
+'S/W
+'d/d  .  wp 2 r
+w
+ U
+W
+(5.12)
+In words, equation (5.12) says that unemployment will increase in the urban sector as a result of 
+a policy change to increase employment if the elasticity of the urban labour supply (by migra-
+tion) with respect to the urban–rural wage differential exceeds the expected urban–rural wage 
+differential as a proportion of the urban wage times the unemployment rate. Equation (5.12) is 
+clearly testable. It transpires, in fact, that equation (5.12) is satisfied with a very low elasticity. For 
+example, suppose that the actual urban wage is twice the rural wage,11 that the probability of 
+obtaining a job in the urban sector is 0.8 and that the unemployment rate is 10%, then the level 
+of unemployment will increase if the elasticity of the urban labour supply with respect to the 
+expected urban–rural wage differential is 0.03.
+Note that the growth of total labour supply as a result of migration (∂S/W) is not the same 
+thing as the rate of growth of migration (∂S/S), so that the elasticity of supply with respect to a 
+change in job opportunities is not the same as the elasticity of migration with respect to a change 
+in job opportunities. We could, however, convert equation (5.12) into the elasticity of migration 
+with respect to ∂d/∂ by multiplying both sides of equation (5.10) by U/S instead of U/W. This 
+would give:
+'S/S
+'d/d .  wp 2 r
+w
+ U
+S 
+(5.13)
+Since the ratio of unemployment to migration (U/S) is much higher than U/W, the elasticity of 
+migration itself would have to be higher than the elasticity of labour supply for unemployment 
+to increase following a job expansion programme. If, as before, we assume that w/r 5 2, π 5 0.8 
+and, say, U/S 5 2, the migration elasticity would have to exceed 0.6 for unemployment to rise. In 
+principle, this elasticity is easy to estimate by specifying a migration function in which migration is 
+a function of the expected urban–rural wage differential, holding constant other factors affecting 
+migration. For an interesting case study on Tanzania, see Barnum and Sabot (1977), who estimate 
+an elasticity of migration with respect to the urban wage itself, holding other things constant, of 
+between 0.7 and 2.0.12
+Disguised unemployment: types and measurement
+We must now examine more critically the classical assumption of unlimited supplies of labour, 
+defined as labour’s marginal product below the subsistence wage.
+If the marginal product of labour in the rural sector is positive (which is not precluded in Lewis’s 
+model as long as it is below the subsistence wage), the withdrawal of labour from the subsistence 
+167
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+sector will reduce total output. To argue that development via unlimited supplies of labour is feas­
+ible and relatively painless, one must implicitly assume that the marginal product of labour is virtu-
+ally zero. The term disguised unemployment is usually defined loosely in this way. But the question 
+arises of how workers can survive on the land if their marginal product is zero, or even positive but 
+below subsistence. Who would employ such labour? Would output in the subsistence sector really 
+remain unaffected if substantial quantities of labour migrated? In short, what precisely is meant by 
+the term ‘disguised unemployment’? Can it be quantified, and what are we to make of the argu-
+ment that industrial development in surplus labour economies is a relatively painless process?
+Let us redraw Figure 5.1 from the point of diminishing returns and describe more formally 
+three possible interpretations of the concept of disguised unemployment that are commonly 
+found in the literature. Let A in Figure 5.6 be the actual number of workers employable. One pos-
+sible measure of disguised unemployment is the difference between A and S, or the gap between 
+the number of workers available for work and the amount of employment that equates the mar-
+ginal product of labour and the subsistence wage. This is the definition of unlimited supplies of 
+labour in Lewis’s model where, if the marginal product of labour is below the subsistence wage, 
+landowners have no interest in retaining these workers and therefore do not compete for them 
+with the industrial sector.
+A second possible measure of disguised unemployment is the difference between A and D, or 
+the gap between the actual number of workers available for employment and the level of employ-
+ment at which the marginal product of labour is zero, which is sometimes referred to as the static 
+surplus. This surplus is clearly less than if disguised unemployment is defined as labour with a 
+marginal product below the subsistence wage.
+A third measure of disguised unemployment is the difference between the actual number of 
+workers available and the level of employment at which the marginal product of labour would be 
+zero if some change occurred that enabled the same level of output to be produced with fewer 
+workers. This is represented by a pivoting of the marginal product curve to MP1. Disguised unem-
+ployment is now measured by the difference between A and U, which is sometimes referred to as 
+the dynamic surplus. The dynamic surplus clearly embraces many ‘types’ of disguised unemploy-
+ment because there are many reasons, particularly in developing countries, why labour productiv-
+ity may be low and why small changes in technique and organization of production may release 
+substantial quantities of labour.
+There are three main ways of ascertaining whether surplus labour exists in the sense that 
+labour’s marginal product is zero. The first is to examine instances where substantial numbers of 
+MP1
+MP
+W
+S
+U
+D
+A
+Marginal product of labour
+0
+Number of workers
+Subsistence wage
+Figure 5.6  Disguised unemployment
+168
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+the agricultural labour force have been withdrawn from the land, either to work on some industri-
+alization project or as the result of illness, and to observe whether agricultural output falls or not.
+This method was followed by Schultz (1964), who examined the effect of the influenza epi-
+demic in India in 1918–19, which killed approximately 8% of the agricultural labour force. He 
+found that acreage and output during the following year declined, and concluded from this that 
+surplus labour in Indian agriculture did not exist. An important criticism of Schultz’s study, how-
+ever, is that he failed to distinguish between the summer and winter season of the year following 
+the epidemic. Mehra (1966) has shown that summer production, which just followed the epi-
+demic, was not in fact reduced and that the decline in agricultural production in 1919–20 found 
+by Schultz was entirely due to a reduction in the winter crop, which could have resulted from low 
+rainfall. Notwithstanding the criticism, this is one method of approach.
+A second method of estimating the static surplus is to take the difference between the labour 
+available and the labour required to produce the current level of agricultural output with given 
+techniques, making due allowance for the seasonality of production. The estimate of the magni-
+tude of surplus labour in this case will vary with local conditions, and what is regarded as a normal 
+working day.
+A third approach is to estimate agricultural production functions (see Chapter 4) to test 
+whether the elasticity of output with respect to labour input is significantly different from 
+zero. This approach indicates whether or not there is surplus labour, but does not measure its 
+magnitude.
+When discussing labour’s marginal product in agriculture and the extent of disguised 
+un­
+employment, two important distinctions need to be made: between harvest and non-harvest 
+time; and between farms that hire labour and those that do not. Within the production function 
+approach, this distinction is easily made explicit and is a fruitful approach for that reason. As far as 
+the distinction between hired and non-hired labour is concerned, the marginal product of family 
+labour is unlikely to be zero if workers are hired, nor can the marginal product of the hired workers 
+be zero if they are paid.
+We now turn to the measurement of the dynamic surplus, which is the difference between the 
+actual labour employed and the labour required, given some small change in technique (including 
+an increase in the number of hours worked per day).
+Unfortunately, those investigators who have measured the dynamic surplus have generally not 
+distinguished between the causes of the surplus, nor made explicit the assumptions on which 
+their estimates of labour requirements are based, and this is a major reason why estimates and 
+opinions differ on the extent and existence of disguised unemployment. If the surplus is measured 
+simply by the difference between the amount of labour that, in the investigator’s opinion, should 
+be necessary to produce a given output and the amount of labour that there actually is, this does 
+not distinguish between the different causes of low productivity, such as poor health, lack of 
+incentive, primitive technology or institutional factors. One interesting case study is by Foster and 
+Rosenzweig (2010), who calculate that approximately 20% of the Indian agricultural workforce 
+could be in dynamic surplus based on estimates of the minimum efficient scale of farms measured 
+by the land–labour ratio. Increasing efficiency by expanding farm size could release substantial 
+quantities of labour. The dynamic surplus in this case is related to unspecified barriers to land 
+consolidation.
+The simplest reconciliation between those who argue that there is such a phenomenon of dis-
+guised unemployment, in the sense of a very low marginal product of labour in agriculture, and 
+those who disagree, is provided by the distinction between the amount of labour time employed 
+169
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+and the number of persons employed. In a wage payment system, it is extremely unlikely that 
+labour would be used up to the point where its marginal product is zero. If the wage is positive, 
+the marginal product will be positive too. But profit-maximizing behaviour is quite consistent 
+with redundant labour. Labour is employed up to the point where the marginal product of a 
+unit of labour time is equal to the wage, and disguised unemployment takes the form of a small 
+number of hours worked per person. It is not that there is too much labour time but too many 
+labourers spending it. Total output would fall if workers were drawn from the land, unless those 
+remaining worked longer hours to compensate. How much disguised unemployment is estimated 
+to exist depends on what is regarded as a normal working day. Estimates may be subjective, but 
+unlimited supplies of labour exist in the classical sense provided those remaining on the land work 
+harder or longer. Let us illustrate these points diagrammatically.
+In Figure 5.7, total output is measured on the vertical axis above the origin, and the amount 
+of labour time on the horizontal axis. Let L1 be the point where the marginal product of labour 
+time is equal to the subsistence wage corresponding to total output, Q. The number of workers is 
+measured on the vertical axis below the origin, so that the tangent of the angle 0YL1 (tan a) gives 
+the average number of hours worked by each unit of labour. If the tangent of the angle 0XL1 is 
+regarded as the normal length of a working day so that the same output, Q, could be produced by 
+X labour instead of Y, the amount of disguised unemployment would be equal to XY. It can eas-
+ily be seen that if there was a reduction in the labour force from Y to t and the number of hours 
+worked per worker remained the same (that is, tan 0tS 5 tan 0YL1), total output would fall from 
+Q to P. If the normal working day is considered to be longer or shorter than the hours given by tan 
+b, the amount of disguised unemployment will be greater or less than XY.
+Let us now give a practical example. Suppose a producer employs 10 workers (Y 5 10), each 
+doing 5 hours’ work a day (tan a 5 5), and the marginal product of the 50th hour is equal to the 
+subsistence wage (L1 5 50). If one worker leaves (say, Yt), total output will fall from Q to P unless 
+the 9 workers now do the 50 hours’ work previously done by 10 workers; that is, the working day 
+must be increased by five-ninths of an hour. The amount of disguised unemployment depends on 
+what is considered to be a full day’s work. If 10 hours is considered normal, then only 5 workers 
+would be required to do 50 hours’ work and 5 could be regarded as disguised unemployed.
+The precise conditions under which the remaining labour force would supply more work 
+effort have been formalized by Sen (1966). If workers are rational, they will work up to the point 
+P
+Q
+Q
+P
+X
+Y
+t
+S
+L1
+L2
+b
+Total output
+Number of workers
+0
+Labour time
+(hours)
+Subsistence wage
+a
+Total
+output
+Marginal
+product
+Figure 5.7  The dynamic surplus
+170
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+where the marginal utility of income from work (dU/dL) is equal to the marginal disutility of work 
+ 
+(dV/dL). Now the marginal utility of income from work can be expressed as:
+dU
+dL  5  dY
+dL #  dU
+dY
+(5.14)
+where dY/dL is the marginal product of labour and dU/dY is the marginal utility of income. Welfare 
+maximization therefore implies that:
+dY
+dL #  dU
+dY 5  dV
+dL
+(5.15)
+or:
+dY
+dL 5  dV
+dY 4  dU
+dY 5  Marginal disutility of work
+Marginal utility of income
+(5.16)
+Sen (1966) defines the ratio of the marginal disutility of work to the marginal utility of income as 
+the real cost of labour.
+Now consider Figure 5.8. Equilibrium is at N where the marginal product is equal to the real 
+cost of labour. The removal of one worker reduces total output from 0PXN to 0PX1N1, and mar-
+ginal product rises from X to X1. Equilibrium will be restored again at N if the real cost of labour 
+remains constant – that is, if the ratio of the marginal disutility of work to the marginal utility of 
+income does not increase. If the real cost of labour rises, there will not be full compensation for 
+output lost. In other words, disguised unemployment in the sense of zero marginal product (or 
+full compensation for lost output) implies a non-increasing marginal disutility of work and a 
+non-diminishing marginal utility of income. Sen (1966) gives a number of reasons why this may 
+be the case for people near subsistence with little work and a lot of leisure; for example, rising 
+aspirations and more public expenditure on things such as education may prevent the marginal 
+utility of income from falling, and higher incomes may prevent the marginal disutility of work 
+from increasing if people are better fed.
+The amount of underutilized labour is likely to be greater, the less capitalistic the organization 
+of agriculture. In fact, in the extreme situation of no wage payment system with no competitive 
+P
+W
+P
+X
+N1
+N
+X1
+0
+Marginal
+product
+Real cost of labour
+Hours worked
+Figure 5.8  Effect of labour withdrawal
+171
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+pressure and little desire to maximize, the distinction between a unit of labour and a unit of 
+labour time becomes largely redundant, as in the classical model. It is perhaps this type of environ-
+ment that the originators of the classical model mainly had in mind. In an extended family-type 
+system, for example, the marginal product of both workers and labour time may be below the 
+subsistence wage. It is the average product that matters for the group as a whole, not the product 
+of the last worker or hour, and the average product may still be above the subsistence level when 
+the marginal product of labour time is below it. It is difficult to represent both cases on the same 
+diagram, but if the marginal product of labour is zero, the marginal product of labour time is 
+bound to be zero (and probably negative), so we may continue to illustrate the argument in terms 
+of labour time, as in Figure 5.9.
+The basis of Figure 5.9 is the same as Figure 5.7. When the marginal product of labour time 
+is zero at L2, the average product of labour time is P1, or PP1 in excess of the subsistence wage P. 
+The amount of labour time could be extended to L3 without the average product of labour time 
+falling below subsistence, and the amount of labour time could be made up of any combination 
+of workers and hours worked. If the number of workers was Y1, they could work hours equal 
+to the tangent of 0Y1L3 without the average product of labour time falling below subsistence. 
+Even though the marginal product of labour time, L2L3, is negative, all workers can subsist if 
+the total product is equally shared. A zero or negative marginal product of labour time is not 
+inconsistent with rational worker behaviour if positive utility is attached to work, regardless of 
+the effect on output.
+Suppose, as in Figure 5.10, that the marginal product of a unit of labour time is zero after 4 
+hours’ work but the marginal disutility of leisure is still negative at this point. The worker may 
+substitute work for leisure, working, say, 6 hours, despite the fact that the marginal product of 
+labour time is negative after the fourth hour. If such behaviour is observed, the presumption 
+must be that the marginal utility attached to working exceeds the loss of utility resulting from 
+a lower average product. The fact that people receive positive utility from work may partly 
+explain why, in some societies, the time taken to do specific tasks seems to be much longer 
+than in others.
+P
+Y
+P1
+P1
+L2
+L3
+P
+Y1
+0
+Marginal
+and
+average
+product
+Number of
+workers
+Average
+product
+Subsistence wage
+Labour time
+Marginal
+product
+a
+a
+Figure 5.9  Maximum sustainable labour
+172
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Incentives and the costs of labour transfer
+Whether workers are willing to work more intensively to compensate for lost production as labour 
+migrates, or whether capital is substituted for labour to raise productivity, requires some discus-
+sion of worker motivation and attitudes towards industrialization in general in a predominantly 
+rural society.
+Some economic incentive will almost certainly be required to induce agricultural labour to 
+work extra hours. At the least, there will need to be goods with which to exchange their surplus 
+production. It is sometimes argued, however, that peasant producers, accustomed to a traditional 
+way of life, may not respond to such incentives – that their horizons are so limited that they have 
+no desire to increase their surplus either by investing in capital or by working longer hours. The 
+corollary of this argument is that as labour productivity increases, workers will ultimately reduce 
+the number of hours they work. This is the notion of the backward-bending supply curve of 
+effort, illustrated in Figure 5.11. SS is the supply curve of effort relating hours worked to the wage, 
+determined by productivity. Total income is equal to the product of hours worked and the wage. 
+Up to income level SWZX, supply responds positively to the wage. Beyond the wage SW, however, 
+fewer hours will be offered. This is the point where the positive substitution effect of work for lei-
+sure (leisure is more ‘expensive’ the higher the wage) is offset by a negative income effect because 
+of low aspirations.
+A backward-bending supply curve of effort is not necessarily indicative, however, that peasants 
+work for a fixed income and no more. The total income from work effort will still increase as long 
+W
+W1
+0
+4
+6
+Subsistence level
+0
+18
+20
+Marginal utility
+of leisure
+Units of labour time
+(hours)
+Average
+product
+Marginal
+product
+24 hours’
+leisure
+Figure 5.10  The possibility of negative marginal product
+W
+S
+S
+Z
+X
+Hours worked
+Wage
+Figure 5.11  Backward-bending supply curve
+173
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+as the number of hours worked falls less than in proportion to the increased wage. But the need 
+for incentives implies a claim on the community’s real resources, which creates added difficulties 
+for the argument that a pool of disguised unemployment can be used to build up ‘productive’ 
+goods and expand the industrial sector in a ‘costless’ way. Not only may the opportunity cost of 
+agricultural labour not be zero, but resource costs will also be involved in providing incentives to 
+increase effort and productivity in order for resources to be released from agriculture in the first 
+place. The resource costs will include the provision of investment goods in agriculture, consumer 
+goods for peasant producers to buy, and social capital in the industrial sector to cater for migrants.
+All this has an important bearing on the question of the valuation of labour in surplus labour 
+economies when planning the social optimum allocation of resources and deciding on the degree 
+to which activities in the industrial sector should be labour intensive. Even if labour’s opportunity 
+cost is negligible, the resource costs of labour transference must be considered as a cost to the 
+community in expanding the industrial sector.
+There is also the question of increased consumption to consider. If the objective of a surplus 
+labour economy is to maximize growth, as opposed to the level of current consumption, the 
+transference of labour will also involve a further ‘cost’ in terms of increased consumption because 
+there will be a reduction in the size of the capitalist surplus if labour is valued at its opportunity 
+cost. Consider Figure 5.12, which represents the capitalist sector of the economy. On the normal 
+assumption of profit maximization, labour will be employed up to the point where the marginal 
+product of labour is equal to the industrial wage. The capitalist surplus is equal to WNX. But 
+suppose the supply of labour to the industrial sector is assumed to be ‘costless’ to society and is 
+given, by the planners, a notional (or shadow) wage of zero. In this planned system, labour would 
+be employed up to the point L1. Given the industrial wage, W, and assuming the propensity to 
+consume out of wages is unity, each additional unit of labour employed beyond L will involve 
+consumption in excess of production. If LL1 additional labour is employed, the size of the invest­
+ible surplus would be reduced by XX1L1. It follows that in an economy geared to growth, the 
+relationship between the consumption and production of migrant labour must also be taken into 
+account when estimating the costs to society of industrial expansion with surplus labour from 
+agriculture. If, at the margin, additional saving is valued more than an additional unit of consump-
+tion, the cost of a unit of labour transferred from agriculture to industry must include an allow-
+ance for increased consumption.
+N
+W
+X
+L
+0
+Units of labour
+Industrial wage
+Marginal
+product
+Marginal product
+L1
+X1
+Figure 5.12  The social valuation of labour
+174
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Summary
+•
+• Agriculture plays a crucial role in the early stages of a country’s economic development. A 
+surplus of agricultural output over subsistence needs – a marketable surplus – is required to 
+feed labour in alternative activities, to release labour and to provide capital for investment in 
+industry, to buy other domestically produced goods, and to provide foreign exchange to buy 
+imports.
+•
+• A necessary condition for agriculture to make these various contributions to economic devel-
+opment is an increase of productivity in agriculture. Agricultural productivity is extremely low 
+in most developing countries, which accounts for why so many people are so poor.
+•
+• There are several reasons for low agricultural productivity, including poor geographic and cli-
+matic conditions, a lack of investment and knowledge, the land tenure system, and urban bias 
+in the allocation of resources for health, education and infrastructure.
+•
+• Land reform is needed in many countries in order to break up large inefficient estates, and to 
+provide tenants with security of tenure so that they have the incentive to invest in new inputs.
+•
+• Attention needs to be paid to the pricing of agricultural goods to encourage a supply response 
+in agriculture.
+•
+• The transformation of traditional agriculture requires new inputs such as new varieties of seeds 
+and proper irrigation. Genetically modified (GM) food is a matter for debate. Finance for the 
+purchase of new inputs is crucial.
+•
+• As productivity in agriculture rises, the agricultural sector and other sectors of the economy be-
+come more and more interdependent. Industrial growth can be fuelled by the release of cheap la-
+bour from agriculture. This is the essence of Arthur Lewis’s model of ‘economic development with 
+unlimited supplies of labour’. The reinvestment of industrial profits drives industrial expansion.
+•
+• But industry needs a market for its goods, so the purchasing power of the agricultural sector is 
+important. It is vital to get the terms of trade right between agricultural and industrial goods, if 
+the growth of the economy is not to be demand constrained if the prices of agricultural goods 
+are too low, or supply constrained because the prices are too high.
+•
+• Surplus labour on the land has led to a vast rural–urban migration process, which is swelling 
+the amount of unemployment and underemployment in the cities of developing countries. 
+Todaro’s model of rural–urban migration explains why migration is still so high despite the low 
+probability of getting a job in the urban area.
+•
+• There are many different definitions of surplus labour, or different measures of so-called ‘dis-
+guised unemployment’. The most important distinction is between the static surplus, which 
+assumes that the marginal product of labour is zero, and the dynamic surplus, which is the 
+amount of labour that could be released without agricultural output falling, providing some 
+small compensating changes take place such as the remaining labour working longer hours or 
+small improvements in techniques of production, which raise labour productivity.
+•
+• The transfer of labour from agriculture to industry or from rural to urban areas is not a costless 
+process either for individuals or society at large. The economic and social costs of congestion 
+and overcrowding in urban areas are particularly acute.
+Appendix: the functioning of markets in agrarian societies13
+In mature developed countries, markets tend to be specialized; the markets for land, labour and 
+credit are segmented. Each market has its own set of institutions, which have their own special-
+ized function. In developing countries, at least in poor rural communities, markets are different; 
+175
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+­
+transactions of all kinds are interlinked, with the terms of one transaction contingent on another. 
+The land, labour and credit markets are interlocked. For example, landlords might provide 
+credit to tenants and labourers in the slack season, when there is no income being generated, in 
+return for a specific amount of labour in the peak season; or traders may grant credit to farmers in 
+return for a specific amount of their crop at a pre-agreed discount price. These interlinked trans-
+actions make many of the markets very imperfect, not least because they create serious barriers 
+to the entry of new agents, and inefficiency in one market may be the cause, or consequence, of 
+imperfections in another. Inefficiencies arise through lack of information, lack of incentives, the 
+inability to enforce contracts and so on. Imperfect and inefficient markets are a characteristic 
+feature of the economic functioning of poor developing economies, and they are the basis of 
+informal institutional arrangements that govern economic behaviour in rural societies.
+Below, there are separate discussions on the markets for land, labour and credit, but as we go 
+along, we will see how they interlock. What we shall find is that the contract choices made by 
+peasant farmers depend on the technological, economic and social conditions that exist in differ-
+ent environments, which determine risks and transaction costs. Agricultural production has three 
+distinguishing features: production is subject to uncertainty, production is seasonal and hired 
+labour is required, and the costs of supervising labour are high. These all play a part in determining 
+the institutional arrangements and types of contracts reached in different markets.
+The land market
+One of the characteristics of the market for land is that the volume of land transactions (buying 
+and selling) relative to the stock of land is low. This has to do with the very inegalitarian ownership 
+of land in poor countries, and a lack of property rights for a large number of people who work 
+on the land. The high concentration of land ownership in a few hands, and lack of access to land, 
+can have serious consequences for the overall development of an economy. Land may not be 
+used efficiently, large tracts of land may not be fully utilized, food production is likely to be below 
+potential, and those who might want to farm and work the land become migrants to already 
+overcrowded cities.
+The concentration of land, and the size distribution of farms, differ across continents. Latin 
+America has by far the highest concentration of land ownership, with Gini ratios of over 0.8 in 
+countries such as Brazil, Peru, Uruguay, Colombia and Venezuela. In Asia, the concentration is 
+less, but still high – with a Gini ratio in excess of 0.4 in Bangladesh, India, Thailand, Indonesia and 
+Nepal. Latin America, unsurprisingly, also has the largest farms. The proportion of small farms of 
+less than 5 hectares is less than 50% on average, and covers only 2% of the total land area. Ninety 
+per cent of land is cultivated on farms in excess of 50 hectares. In Asia, by contrast, 90% of farms 
+are less than 5 hectares, occupying over 50% of farmland. The figures on land concentration and 
+farm size are summarized in Table A5.1. In Africa, the situation differs because much of the land is 
+communally owned. The predominant form of farming is subsistence agriculture based on the vil-
+lage. On large tracts of land, there is also shifting cultivation, although this type of farming is now 
+on the decline because of increased pressure of population on food supplies. It has been replaced 
+by small owner-occupied plots. There is virtually no sharecropping with large landlords.
+There are not many economies of scale in farm production. In fact, it turns out that small farms 
+produce a higher output per hectare than large farms (see Sen, 1964; Ray, 1998). One explanation 
+is that labour is used more intensively on small (family-owned) farms because the opportunity 
+cost of using labour is very low, whereas large farms hire labour and pay a market wage, which 
+leads to a lower input of labour per unit of land. Owner-occupied farms using family labour are 
+176
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+always found to be more productive than large mechanized farms using hired labour, or tenant 
+farms with no property rights, because the incentive to be efficient is greater (see Binswanger and 
+Deininger, 1997).
+If small owner-occupied farms are more productive than large farms, there would be an effi-
+ciency or productivity gain if large landowners were to sell their land to small family units and 
+appropriate the surplus. But the market for land doesn’t work in this rational way. First, land con-
+fers power, and can be used as collateral for other purposes. Second, in practice, most land sales 
+are not from rich to poor, but from poor to rich because the poor often have to sell land in order 
+to pay debts and survive, and they are credit constrained (see later). This matters for efficiency if 
+tenants and sharecroppers replace owner-operated family farms. This is a collective action prob-
+lem and the only solution is state involvement in land reform, which transfers land compulsorily 
+from rich to poor.
+Land reform can take three main forms:
+1.	 The transfer of land from landowners to tenants who already work the land, as happened his-
+torically in South Korea, Japan and Taiwan. South Korea is an interesting case where land re-
+form took place when the country ceased to be a Japanese colony in 1949. Over one-half of 
+agricultural land owned by Japanese and large domestic landowners was transferred to over 
+60% of the rural population comprising tenant farmers.
+2.	 The transfer of large estates to smaller farms, as happened in Mexico after the revolution in 
+1917.
+3.	 The expropriation and break-up of large estates for new settlements, as in some countries in 
+Africa in recent times, but often with disastrous results, as in Kenya and Zimbabwe.
+Table A5.1  Land concentration and farm size in Asia and Latin America
+Countries
+Gini ratio of land 
+concentration
+Percentage of farms and farmland
+Percentage of 
+sharecroppers 
+or tenants
+Below 5 hectares
+Above 50 hectares
+Asia
+Farms
+Area
+Farms
+Area
+Bangladesh
+0.42
+90.6
+62.6
+–
+–
+91
+India
+0.62
+88.7
+46.7
+0.1
+3.7
+48
+Indonesia
+0.56
+92.9
+68.7
+0
+13.6
+60
+Nepal
+0.56
+97.2
+72.1
+0
+0.8
+48.3
+Philippines
+0.51
+84.8
+47.8
+0.2
+13.9
+79.3
+Thailand
+0.45
+72.3
+39.4
+0
+0.9
+29
+Latin America
+Brazil
+0.84
+36.8
+1.3
+16.3
+84.6
+–
+Costa Rica
+0.82
+48.9
+1.9
+14.5
+79.7
+9.4
+Colombia
+0.86
+59.6
+3.7
+8.4
+77.7
+49.4
+Peru
+0.91
+78
+8.9
+1.9
+79.1
+0
+Uruguay
+0.82
+14.3
+0.2
+37.6
+95.8
+4.7
+Venezuela
+0.91
+43.8
+0.9
+13.6
+92.5
+–
+Source: Otsuka et al., 1992.
+177
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+Historically, most land reforms have taken place at the same time as political change, which has 
+transferred power from corrupt elites to ‘the people’ through the creation of democratic institu-
+tions. Land reform is an important institutional change conferring property rights and providing 
+incentives to invest.
+Where tenant farmers exist, arrangements between tenants and landlords vary in different 
+parts of the world. In Latin America, tenants tend to pay a fixed rent to the landlord for the right 
+to cultivate, but retain 100% of the output. In Asia, tenants tend to be sharecroppers, sharing 
+output with the landlord on an agreed percentage basis, depending on circumstances, usually 
+50:50. With fixed rent contracts, the tenant bears the risk of fluctuations in output. Poor farmers, 
+however, are risk averse, and so they tend to be sharecroppers, sharing the risk with the landlord. It 
+is often argued that sharecropping is inefficient compared with fixed rent tenancies because work 
+incentives are weaker. With fixed rents, tenant farmers keep any extra output produced, whereas 
+sharecroppers have to relinquish a certain share, and thus there will be a tendency for sharecrop-
+pers to undersupply effort (unless, of course, their work can be costlessly observed and enforced 
+by the landlord). The empirical evidence shows (see Ray, 1998), however, that productivity on 
+tenant-owned land is higher than on sharecropped land, controlling for other factors.
+The question then arises: If sharecropping is inefficient, why is it so widely practised? The answer 
+is that it can be beneficial to landowner and farmer by reducing the risks and costs to both. Stiglitz 
+(1974) was the first to show formally that sharecropping reflects a compromise between risk-sharing 
+and work incentives. From the landlord’s point of view, they can use a sharecropping contract 
+as a screening device to choose between more wealthy, high-productivity tenants and poorer, 
+lower productivity tenants – the former receiving the fixed rent contracts and the latter receiving 
+the sharecropping contracts. Also sharecropping is cheaper, compared with self-cultivation using 
+hired labour. Labour recruitment, and the supervision of labour effort, can be costly. This is a clas-
+sic principal–agent example, where the interests of the landowner and the worker differ. The prin-
+cipal (the landowner) naturally wants as much effort and output as possible, but work effort generates 
+disutility and the worker may shirk. The landowner has no way of knowing how much of a worker’s 
+output is dependent on their effort and how much on exogenous factors. The principal cannot easily 
+monitor and enforce the work effort they want without employing supervisory staff. Sharecropping 
+may also be the preferred contract if input costs are being shared between landlord and tenant. 
+ 
+Cost-sharing inputs is a way of offsetting disincentive effects of applying inputs under output-sharing 
+contracts (Otsuka et al., 1992). Cost-sharing can be thought of as production loans to the tenant, 
+which are repaid with the output, which is deducted from total output before the output is shared.
+From the tenants’ point of view, not paying a fixed rent considerably reduces risk because in 
+the event of a bad harvest, tenants could find themselves in considerable difficulties, with their 
+livelihood threatened. Landlords also know this. For the landlords, they can vary the share they 
+get in order to get the same income as a fixed rent, taking good and bad years together. In fact, in 
+recent years, the tenant’s share has been falling because landlords have been bearing the cost of 
+increased mechanization. But greater overall efficiency will only come with giving sharecroppers 
+a greater share of output, to induce more effort, and providing security of tenure on the land to 
+provide tenants themselves with the incentive to invest.
+The labour market
+There are two main types of labour working in the rural sector of developing countries. The first is 
+casual labour, hired on a daily basis and paid either a daily wage or ‘piece rates’ for specific tasks. 
+Large landowners need more than family labour to work on their large estates, and if people are 
+178
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+landless, or possess only very small farms, they need to earn extra income for nutrition and sur-
+vival. The second type of labour is permanent labour hired by landlords on long-term contracts. 
+The function of the two types of labour is different. Casual labour is used for routine tasks that are 
+easily monitored. It will need a minimum income in order to have enough nutrition and energy 
+to work productively – the so-called efficiency wage. If the labour is landless and has no other 
+source of income, this is the minimum wage that will be paid. If the labour has other sources of 
+income, however, either from a small farm or other assets, it can supply labour at a lower thresh-
+old wage because the other income buys the nutrition it needs. On the other hand, as non-labour 
+income rises, the minimum at which labour is willing to work rises because it values leisure more 
+highly. Thus, there are conflicting forces working in the labour market (Ray, 1998). At low levels 
+of non-labour income, the availability to work for a lower wage rate dominates, while at higher 
+levels of non-labour income, the willingness to work dominates. This gives rise to two types of 
+unemployment, or categories of surplus labour, in rural areas. The first category is ‘voluntary’ 
+unemployment among labour able to work but who do not want to because of high non-labour 
+income. The second category is ‘involuntary’ because the wage rate is not high enough to enable 
+labour to work productively. In these circumstances, land reform and income distribution would 
+increase total agricultural output, because if the landless are given land, the increase in their non-
+labour income will increase their ability to work, and a lower level of income for the previously 
+more ‘wealthy’ will increase the incentive to work. The necessity to pay a minimum efficiency 
+wage is one of the reasons why wages tend to be rigid downwards in rural economies, despite 
+unemployment. Another explanation is the phenomenon of segmented labour markets, with 
+village employers hiring local labour even when it is cheaper outside. Institutions and social norms 
+often determine economic outcomes, not the free forces of the marketplace.
+The main drawback of the casual labour market from the point of view of economic devel-
+opment is that employers of labour (landlords) have no interest in improving the working 
+conditions of workers or investing in them by way of health or education, because there is no 
+guarantee that they will reap the benefits. Ray (1998) commented, ‘a casual labour market 
+creates a deterioration in the nutritional status of the workforce’. The function of permanent 
+labour, and the argument for more permanent labour contracts, is that a lot of agricultural 
+work needs supervising and large landowners require people to supervise and monitor work. 
+One facet of permanent labour is labour-tying, which, because of the seasonal nature of pro-
+duction, suits employer and employee. The employer is guaranteed labour in the busy season 
+and the worker is guaranteed work in the off-season. The wage paid to permanent labour will 
+be some margin above the casual wage to provide the incentive to monitor and supervise tasks 
+properly. The premium must be just enough to prevent ‘shirking’, and also to compensate for 
+the threat of dismissal.
+Another way of enforcing work effort is to offer long-term contracts, so that a party not hon-
+ouring a contract will suffer loss of reputation, and find it difficult to work in the future. In small 
+rural communities, reputation matters. If long-term fixed wage contracts can elicit loyal effort 
+from permanent workers, they may also receive fringe benefits and subsidized credit in return.
+According to Ray (1998), however, the amount of permanent labour used on farms relative to 
+casual labour has been falling in recent years. One reason may be that because of multiple crop-
+ping, the seasonality of production has decreased, and therefore there is less need to offer per-
+manent contracts to ensure labour is available in the harvest season. Second, if the casual wage in 
+the harvest season is above the contracted income for permanent labour, it is difficult to enforce 
+‘tied contracts’.
+179
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+We can summarize this section on labour contracts by saying that when work effort is 
+un­
+enforceable, there are three basic predictions from a standard model of landlord and workers 
+both attempting to maximize their utility in the face of production uncertainty and risk (Otsuka 
+et al., 1992):
+•
+• If production is uncertain and the worker is risk averse, the share contract will be optimal. (If the 
+worker is risk neutral, which is highly unlikely, the fixed rent contract would be chosen.)
+•
+• A share or fixed rent tenancy is superior to a fixed wage permanent labour contract because 
+the latter is costly, but long-term and interlinked contracts may be observed because they can 
+help to enforce contracts through reputation effects. Permanent labour contracts will also be 
+observed if land tenancy is illegal.
+•
+• A share tenancy is less efficient than a fixed rent tenancy and owner cultivation because of 
+reduced work incentives (unless labour can be monitored costlessly).
+Where work effort is perfectly enforceable, optimal contracts are, in general, indeterminate. If the 
+worker is risk neutral and contract enforcement is costless, all forms of contract become equally 
+efficient. If both landlord and workers are risk averse, the share contract will be chosen to share 
+production risk.
+Credit markets
+Farmers need credit for three main reasons: first, for fixed capital investment; second, to bridge 
+the gap between financing production (seeds, fertilizers, pesticides) and sales receipts from the 
+harvest (in other words, they need working capital); and third, to smooth consumption before 
+the harvest.
+Credit markets in the rural sector of developing countries are not well developed, however, for 
+two main reasons. First, due to lack of information, it is difficult for lenders to monitor loans, to 
+know how risky they are, and whether they are going to be used productively. Second, credit con-
+tracts are difficult to enforce because the legal system is weak, therefore there is the risk of default. 
+This makes the formal banking sector reluctant to lend to the rural sector. The risk of default 
+means that the formal sector only lends to richer farmers with collateral. The poor may have some 
+collateral in the form of a plot of land, but the formal banking system wants something more.
+This means that the rural credit market is dominated by informal moneylenders, charging 
+high interest rates either explicit in the form of high money rates of interest, or implicit because 
+the loan is given in return for a share of the borrower’s output at a discount price, or an agreed 
+amount of labour service at a lower-than-market wage. The rural credit market is also very seg-
+mented. Because moneylenders have much more knowledge of borrowers within a local com-
+munity, moneylenders tend to become very specialized, dealing with a particular clientele within 
+a village or serving a particular type of person. Segmentation often takes place on occupational 
+lines. Because of these links, lenders in informal markets do not like their borrowers borrowing 
+from another lender, so the existence of many lenders does not necessarily mean there is com-
+petition. Rather, the credit market is more like a series of local monopolies, and because of this 
+segmentation, interest rates on loans in the informal market are not only high but can also vary 
+considerably. There is little chance of arbitrage.
+High interest rates largely reflect lenders’ risk; that is, the risk that the borrowers might not 
+repay either because of adverse circumstance, such as a bad harvest, or because of the difficul-
+ties of collecting bad debts. Potential default exists, but in practice, it turns out to be quite low. 
+One reason is that in rural communities where everybody knows each other, if someone defaults, 
+180
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+everybody knows and no one else will lend to them. There is ‘peer’ pressure to repay. The second 
+reason is that moneylenders devise contracts that minimize the risk of default, which also makes 
+the implicit interest rate high. If the lender is a large landowner, and the landowner knows the 
+farmer, they can minimize the risk of default by making the first claim on the borrower’s output, 
+or insist that the borrower supplies labour at a lower-than-market wage (bonded labour). If the 
+lender is a trader, they can minimize risk by contracting to buy the output of the borrower at a 
+discount price. Udry (1994) found that over 90% of loans to the rural sector in Northern Nigeria 
+came from the informal sector. Research in the Punjab and Sindh regions of Pakistan shows that 
+landlords are the major source of credit for tenant farmers, while traders are the major source of 
+credit for owner-cultivators (Ray, 1998).
+Even though risk of default can be minimized by various practices, credit-rationing still exists 
+because high interest rates may attract too many high-risk customers, and high interest rates, 
+which would equilibrate the supply and demand for loans, would themselves increase the risk of 
+default. Lenders therefore prefer to ration credit instead.
+There is also the issue of risk and insurance to consider. Agricultural production is risky because 
+of the vagaries of the weather, the incidence of disease and many other factors. Peasant farmers 
+somehow need to be able to smooth their income and consumption, so as not to suffer unduly 
+in bad times. This is where insurance mechanisms are important. Self-insurance is one possibility, 
+smoothing consumption using one’s own resources; for example, saving grain in good times for 
+use in bad. Mutual insurance is another possibility. If farmers produce different products, and 
+good and bad harvests for different crops are negatively correlated, producers can help each other 
+out in what are bad times for some and good times for others. But mutual insurance may not be 
+easily enforceable. There could be risk pooling within a community through formal insurance 
+markets, but these are not well developed. If there is not risk pooling or mutual insurance, saving 
+and credit have to be used for consumption smoothing. There is evidence from a wide variety of 
+studies (see Bardhan and Udry, 1999) that households in poor, risky agricultural environments 
+engage in risk pooling and consumption smoothing, although not always successfully because of 
+informational and enforcement difficulties.
+Interlinked markets
+As we have indicated above, the markets for land, labour and credit in the rural sector of develop-
+ing countries are closely interlinked. Inefficiency in one market may be both the cause and con-
+sequence of inefficiencies in others. The markets for land and labour are interlinked because an 
+imbalance in the market for land (with both large and small holdings) leads to imbalances in the 
+market for labour. If people are landless, or have only very small holdings, they need to sell their 
+labour to large landowners who need more than just family labour.
+The markets for land and credit are linked because, as we have outlined before, landlords are 
+a major source of credit for farmers, and their labour or output is used as collateral. Also crop-
+traders are the main source of credit for cultivators who own land, and loans are provided in 
+advance of crop production. In Muslim countries, where charging interest is against Sharia law, 
+credit contracts, which take part of the output of the borrower, or specify the sale of the output 
+at a certain discount, are a substitute for charging interest.
+Floro and Yotopoulos (1991), in their study of the Philippines, identify five types of credit 
+market interlinkages:
+1.	 Credit in return for the procurement of output.
+2.	 Credit in return for the sale of output to the lender.
+181
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+3.	 Credit tied to the purchase of inputs or leasing machinery from the lender.
+4.	 Credit in return for provision of labour to the lender.
+5.	 Transfer of rights over the usufruct (profits) of the land to the lender.
+Floro and Yotopoulous (1991) find that the first three types of interlinkages are most common 
+among trader lenders, while the last two are most prevalent among farmer lenders.
+In conclusion, in rural communities where formal lending is limited by lack of proper collateral, 
+interlinked contracts in the informal money market make sense because the lender has more con-
+trol over the borrower and saves the cost of monitoring, and reduces the risk of non-repayment. 
+Landlords, or traders, in effect, get their ‘interest’ immediately if loans are conditional on work for 
+lower wages or output at lower prices.
+Institutions and decision-making in agriculture
+Agriculture is a neglected sector of the economy in many developing countries, and governments 
+pursue policies that discriminate against agriculture in favour of industry. The explanation is partly 
+historical, but mainly institutional and political. The agricultural sector’s potential for collective 
+action is weak because of the unequal relation between landlords and workers and the weak 
+bargaining power that the agricultural sector has vis-à-vis other groups in society due to history 
+and initial conditions. It is difficult for owner-operated family farms to act collectively to change 
+things because farmers are dispersed and lack political clout. If peasant farmers lack education 
+and cannot vote, they lack the means to promote change. Only by enhancing the poor’s potential 
+for collective action, by increasing their potential participation, will there be increased efficiency 
+and sustained and equitable growth in the rural sector (Binswanger and Deininger, 1997).
+1.	 What is the importance to economic development of rapid productivity growth 
+in agriculture?
+2.	 What factors hold back productivity growth in agriculture?
+3.	 How could land reform help to raise agricultural productivity?
+4.	 What is meant by ‘marketable surplus’?
+5.	 Explain why poor people tend to be risk averse and reluctant to innovate.
+6.	 In what sense is there disguised unemployment on the land?
+7.	 Does disguised unemployment on the land mean that development using surplus 
+labour is a relatively painless and costless process?
+8.	 Compare and contrast the main features of Lewis’s classical model of develop-
+ment with the neoclassical model.
+9.	 Explain the continued process of rural–urban migration despite growing unem-
+ployment in urban areas.
+10.	 In what ways do the agricultural and industrial sectors of an economy comple-
+ment one another?
+Discussion questions
+Chapter 5
+182
+F A C T O R S  I N  T H E  ­
+D E V E L O P M E N T  P R O C E S S
+Notes
+  1.  
+For excellent surveys of the issues, see Bardhan (1984), Binswanger and Deininger (1997), Dorner 
+(1992), Otsuka et al. (1992) and Lipton (2011).
+  2.  
+See also Askari and Cummings (1976) and Schiff and Montenegro (1997).
+  3.  
+See also the symposium on the Lewis model to celebrate its 25th anniversary in the Manchester 
+School, September 1979, Kirkpatrick and Barrientos (2004); the symposium on the Lewis model 
+after 50 years, Manchester School, December 2004, and Gollin’s 60 retrospective in Journal of 
+Economic Perspectives, Summer 2014.
+  4.  
+The capitalist sector is not synonymous with the industrial sector, but it is convenient to think of 
+it in this way. Agribusiness, for example, is also capitalist.
+  5.  
+The profit rate can be expressed as
+P/K 5 (O/L 2 w/p)
+(K/L)
+where P is profits, K is the quantity of capital, 0/L is the productivity of labour, w/p is the real 
+wage and K/L is the capital–labour ratio. The profit rate will rise if 0/L rises and w/p remains 
+the same (assuming no offsetting rise in K/L).
+  6.  
+A formal algebraic model, with various extensions, can be found in Thirlwall (1986).
+  7.  
+If the income elasticity of demand for industrial goods is greater than unity, and for agricultural 
+goods less than unity, then the equilibrium growth rate for industry will exceed that for agriculture.
+  8.  
+See Weisdorf (2006) for historical evidence on how industrial growth promoted agriculture by 
+lowering the relative price of industrial goods and buying more goods commercially rather than 
+producing ‘non-agricultural’ goods within the agricultural sector itself.
+  9.  
+This is not a statistical probability, since π is not bounded between zero and unity. The ‘chance’ of 
+getting a job would be a better word to use.
+10.  
+Todaro (1971) uses the same notation, S, for the total urban labour force as for the supply of 
+migrants. This can be confusing. We therefore use W for the total urban labour force and S for the 
+supply of migrants.
+11.  
+Any values can be substituted as long as w/r 5 2.
+12.  
+Other early studies of the rural–urban migration process include Knight (1972). For a survey of 
+studies, see Todaro (1976), Yap (1977) and Stark (1991). Todaro gives an alternative way of evalu-
+ating whether urban unemployment will rise or not. It can be shown that the level of unemploy-
+11.	 What are the major characteristics of the market for land in the rural sector of 
+developing countries?
+12.	 What is the principal-agent problem facing landlords in the rural sector of poor 
+countries?
+13.	 Why is sharecropping so common in the agricultural sector of many poor 
+­
+countries?
+14.	 In what ways is the credit market linked to the land and labour markets in the 
+rural sector of poor countries?
+Discussion questions – continued
+Chapter 5
+183
+5  •  T H E  R O L E  O F  A G R I C U LT U R E  A N D  S U R P L U S  L A B O U R
+ment will rise if h . g 3 N/S, where h is the period elasticity of induced migration with respect 
+to the change in modern sector job probabilities, g is the growth of urban employment prior to 
+the increase in job opportunities, N is the level of urban employment and S is the existing level 
+of rural–urban migration. It can also be shown that the rate of urban unemployment will rise if 
+ 
+h . g 3 W/S, where W is the urban workforce.
+13.  
+This section relies heavily on the works of Otsuka et al. (1992), Binswanger and Deininger (1997), 
+Ray (1998) and Bardhan and Udry (1999).
+Websites on agriculture
+Food and Agricultural Organization www.fao.org/home/en/
+International Food Policy Research Institute www.ifpri.org
+Consultative Group on International Agricultural Research www.cgiar.org
+Inter-American Institute for Cooperation on Agriculture www.iica.int/en
+International Rice Research Institute www.irri.org
+International Maize and Wheat Improvement Center www.cimmyt.org
+

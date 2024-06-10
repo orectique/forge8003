@@ -1,0 +1,1069 @@
+306
+•
+• Introduction
+•
+• Facts about world population
+•
+• The determinants of fertility
+•
+• The costs and benefits of population growth
+•
+• Population and the growth of cities
+•
+• Simon’s challenge
+•
+• The ‘optimum’ population
+•
+• A model of the low-level equilibrium trap
+•
+• Summary
+•
+• Discussion questions
+•
+• Note
+•
+• Websites on population
+POPULATION AND  
+DEVELOPMENT
+11
+307
+1 1  •  P O P U L AT I O N  A N D  D E V E L O P M E N T
+Introduction
+The relation between population growth and economic development is a complex one and the 
+historical quantitative evidence is ambiguous, particularly concerning what is cause and what 
+is effect. Does economic development precede population growth, or is population growth a 
+necessary condition for economic development to take place? Is population growth an impedi-
+ment or a stimulus to economic development? Many people consider rapid population growth in 
+developing countries to be a major obstacle to development, yet there are several ways in which 
+population growth may be a stimulus to progress, and there are several rational reasons why fam­
+ilies in developing countries choose to have many children.
+In this chapter, we first consider the facts on world population, which has grown at unpre­
+cedented rates in the years since the Second World War, particularly in developing countries, 
+although the growth is now slowing down.
+Then we turn to the question of family size and the determinants of fertility. There is a rationale 
+for poor families to have several children, and it is clear that fertility declines as people and coun-
+tries get richer. This is the theory of demographic transition. The evidence also shows that fertility 
+is heavily influenced by female education and the opportunity for women to work.
+The costs to society of rapid population growth are considered, especially the effect of a high 
+young dependency ratio on saving and capital accumulation. The potential benefits of rapid 
+population growth are also considered, including how population pressure can be a stimulus to 
+technical progress, and the fact that young people are more receptive to change and new ideas 
+and ways of doing things. It turns out that the empirical evidence across countries shows no 
+statistically significant relation (positive or negative) between the growth of population and the 
+growth of living standards.
+The question then arises of what is the optimum population of countries? This can be defined in a 
+number of ways; and it is argued that the claim that a country is ‘overpopulated’ or ‘underpopulated’ 
+needs to be viewed with some caution unless a precise definition of terms is given. The resource base 
+of a country, the size of the country, and the level of technology are crucial to any calculations.
+The chapter ends with an exposition of Nelson’s well-known model of the low-level equilibrium 
+trap, which shows how a poor region or country may get stuck in a situation where its population 
+growth exceeds its output growth, pushing income per capita down to its minimum subsistence 
+level, and how a ‘big push’ or ‘critical minimum effort’ may be necessary to get per capita income 
+to a level where the growth of per capita income becomes self-sustaining. The Nelson ‘trap’ model 
+is similar to the Malthusian trap in which some communities in developing countries still find 
+themselves, with large families and living standards oscillating around subsistence level.
+Facts about world population
+The pertinent facts about the level and growth of world population are shown in Table 11.1. 
+Today, the world’s population is nearly 7.5 billion, of which more than two-thirds live in develop-
+ing countries and nearly one-half reside in Asia. This level compares with approximately 179 mil-
+lion at the time of Christ, and fewer than 1,000 million as recently as ad 1800. The current rate of 
+growth of the world population is 1.1% per annum, which has no precedent historically. From ad 
+1 to 1750 the rate was no more than 0.05% per annum; from 1750 to 1850 it was 0.5% per annum; 
+and even between 1900 and 1950 it was only 0.8% per annum (see Kremer (1993) for a history of 
+world population).
+308
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+Table 11.1  Population statistics 
+Population
+millions
+Average 
+annual 
+population 
+growth %
+Dependency ratio
+Crude 
+death rate
+per 1,000 
+people
+Crude birth 
+rate
+per 1,000 
+people
+young,
+% of  
+working-age 
+population
+old,
+% of 
+working-age 
+population
+2014
+2000-14
+2014
+2014
+2013
+2013
+World
+7,261
+1.23
+40
+12
+  8
+19
+Low income
+  622
+2.73
+79
+  6
+  9
+36
+Middle income
+5,240
+1.25
+40
+10
+  7
+19
+Lower middle income
+2,879
+1.60
+49
+  8
+  8
+23
+Upper middle income
+2,361
+0.84
+29
+12
+  7
+15
+Low and middle income
+5,862
+1.39
+43
+10
+  8
+21
+East Asia and Pacific
+2,021
+0.77
+28
+11
+  7
+14
+Europe and Central Asia
+  264
+0.54
+33
+15
+  9
+16
+Latin America and Caribbean
+  525
+1.28
+40
+10
+  6
+18
+Middle East and North Africa
+  357
+1.81
+49
+  8
+  5
+25
+South Asia
+1,721
+1.55
+47
+  8
+  7
+22
+Sub-Saharan Africa
+  973
+2.74
+80
+  6
+10
+38
+High income
+1,399
+0.62
+26
+24
+  9
+12
+Source: World Bank, 2015.
+At the present rate of increase, the world population will double every 65 years. The current 
+projection from the UN is that, by the year 2050, the population will rise to 8 billion if birth rates 
+continue to fall dramatically, or 12 billion if birth rates come down only slowly. Figure 11.1 gives the 
+recent and projected growth rates for various regions of the world up to 2100. All the regions show 
+the rates of population growth slowing down, but with Africa and Oceania still above the world 
+average. In Europe, the population growth rate is already close to zero and forecast to be negative 
+from 2020. In Asia, and Latin America and the Caribbean, population is forecast to fall from 2060.
+The country with the largest population is China, with an estimated current population of 
+1,400 million, followed by India, the USA, Indonesia, Brazil, Pakistan, Nigeria, Bangladesh, Russia, 
+Japan, Mexico and the Philippines, all with populations in excess of 100 million. China and India 
+alone currently add 25 million people to the world’s population every year. In the last minute, 
+approximately 300 babies have been born and 150 people have died, increasing the world’s popu-
+lation by 150 persons, giving a yearly increase of 80 million.
+The rate of growth of population is the difference between the number of live births per thou-
+sand of the population and the number of deaths per thousand. In a country where the birth rate 
+is 40 per 1,000 and the death rate is 20 per 1,000, the rate of population growth will therefore be 
+(40 − 20)/1,000 5 20 per 1,000, or 2% per annum. If (in normal circumstances) a birth rate of 60 
+per 1,000 is considered to be a ‘biological’ maximum, and a death rate of 10 per 1,000 is considered 
+a ‘medical’ minimum, the maximum possible growth rate of population, ignoring immigration, 
+would be about 5% per annum. The current maximum birth rates recorded are 40 per 1,000 in 
+some African countries. For low-income countries, the average birth rate is about 36 per 1,000 and 
+309
+1 1  •  P O P U L AT I O N  A N D  D E V E L O P M E N T
+Figure 11.1  Average annual rate of population change by major area, estimates, 2000–15, and 
+ 
+projection, 2015–2100
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+Average annual rate of change (percentage)
+0.0
+-0.5
+2000
+2010
+2020
+World
+Asia
+Latin America and the caribbean
+Oceania
+Africa
+Europe
+Northern America
+2030
+2040
+2050
+Period
+2060
+2070
+2080
+2090
+2100
+Source: UN DESA, 2015.
+the average death rate is now about 9 per 1,000, giving an average rate of population increase of 
+approximately 2.7% per annum (see Table 11.1). This rapid rate of population growth, compared 
+with advanced countries (and also in relation to the growth of national income), is the result of 
+relatively high birth rates coupled with death rates that are as low as in advanced countries. If 
+population growth is a ‘problem’ in developing countries, this is the simple source of the difficulty 
+and the long-run solution is plain: there must be a reduction in fertility.
+The determinants of fertility1
+The vital questions are: Can high birth rates be expected to fall naturally with development, and 
+if so, what is the crucial level of development and per capita income (PCY) at which the adjust-
+ment will take place and how long does the process take? The conventional wisdom used to be 
+that fertility decline would come only with rising levels of per capita income, urbanization and 
+industrialization. This is the theory of demographic transition.
+If the fertility rate of countries, that is, the number of children per woman, is plotted against 
+the level of PCY, a definite negative relationship is observable. It is also true that through time, the 
+fertility rate decreases at a given level of PCY, and that there are big differences in the fertility rate 
+between countries at the same level of income. Clearly, there are important factors, other than 
+the level of PCY, that affect the level of fertility through time and across countries.
+Past and projected fertility rates are shown in Figure 11.2. The data show fertility declining in all 
+regions of the world, with the world fertility rate falling to 2.0 children per woman by the year 2050. 
+The number of children per woman required for the population to replace itself is 2.1. In developed 
+countries, fertility has already fallen below this critical level, with an average of 1.6 children per woman.
+310
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+Reductions in fertility can occur with improvements in a wide range of socioeconomic 
+conditions, such as access to family planning services, the provision of healthcare and a 
+ 
+reduction in child mortality, greater employment opportunities for women, and, above all, 
+the education of women and the promotion of female literacy. Where women are excluded 
+from secondary education, the average number of children per woman is six. In countries 
+where half of women go to secondary school, the average number of children is three. Figure 
+11.3 shows the strong negative relationship between female literacy and the reduction in fer-
+tility across 93 countries.
+There are a number of reasons why women’s education lowers fertility:
+•
+• Education improves work opportunities for women, which makes having children more costly 
+in terms of income forgone.
+•
+• Educated women want their own children to be educated, which raises the cost of having 
+children.
+•
+• Education and literacy make women more receptive to information about contraception.
+•
+• Education and employment delay marriage and the time available to rear children.
+•
+• Education improves the status, bargaining power and independence of women, encouraging 
+and enabling them to make their own choices.
+From a vicious circle of no education, high fertility, poor health of children and low productivity, 
+the education of women can lead to a virtuous circle of lower fertility, better care of children, 
+more educational opportunity and higher productivity. The countries where fertility is declining 
+most rapidly are those with the highest levels of female schooling, the lowest levels of child mor-
+tality and the widest availability of family planning services. Bangladesh is a prime example where 
+the fertility rate has fallen to 2.2 births per woman (see Case example 11.1).
+The reductions in fertility in different parts of the world over the past two decades are shown 
+in Table 11.2. In developing countries as a whole, the reduction has been 30%, from 3.8 chil-
+dren per fertile woman in 1990 to 2.6 in 2014. In low-income countries, however, the number of 
+Total fertility
+Children per woman
+Least developed countries
+Less
+developed
+regions
+World
+More
+developed regions
+7
+6
+5
+4
+3
+2
+1
+0
+1950–
+    55
+75–
+80
+2000–
+    05
+20–
+25
+45–
+50
+Figure 11.2  Past and projected fertility
+Source: UN DESA, Population Division (2003).
+311
+1 1  •  P O P U L AT I O N  A N D  D E V E L O P M E N T
+Bangladesh provides an excellent case study of the impact that a government-led fam-
+ily planning policy can have on fertility in a poor country. In the mid-1970s, the fertility 
+rate for a Bangladeshi woman was more than six children. This high fertility rate not only 
+jeopardized the health of the woman and children but also acted as a major constraint 
+on the country’s economic development and social progress. The Bangladesh family 
+planning programme, launched in the 1980s, relies on a large cadre of female outreach 
+workers going door to door to provide information, motivate clients, and provide con-
+traceptives. The programme has also used the mass media to stimulate a change in at-
+titudes about family size, promoting the merits of smaller families. As a result, virtually 
+ 
+all women in Bangladesh are aware of modern family planning methods. The fertil-
+ity rate has decreased from six children per woman to less than three today. The pro-
+gramme is estimated to have cost between $100 million and $150 million a year, but the 
+benefit–cost ratio is high. The cost-effectiveness is estimated at $13–18 per birth averted.
+Source: Center for Global Development, Washington, DC.
+Case example 11.1
+Reducing fertility in Bangladesh
+­
+children is still nearly 5. Sub-Saharan Africa has the highest fertility rate and Europe and Central 
+Asia the lowest.
+The birth rate of a country is equal to its fertility rate multiplied by the ratio of fertile women 
+to the total population. Even though fertility rates decline, birth rates do not necessarily decline 
+in the same proportion because of the young age structure of the population produced by high 
+fertility levels in the past. Thus, even if fertility continues to decline substantially, it will still take 
+decades for the population level to stabilize because of the sheer number of couples having fam­
+ilies. There is a population momentum built into the present age structure of the population of 
+most developing countries. It is estimated that even if fertility rates were reduced immediately 
+Figure 11.3  Fertility rate and female literacy, 2010
+10
+8
+6
+4
+2
+0
+20
+40
+60
+80
+100
+Adult female literacy rate (%)
+Births per woman
+Source: Authors’ compilation based on World Bank 2014.
+312
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+to the level of replacement (that is, one daughter per woman, which means approximately 2.1 
+children per family), the population of developing countries will not stabilize until 2050, at a level 
+of about 9 billion.
+Given that there may be a time lag between the death rate falling and a subsequent decline in 
+the birth rate, rapid population growth may be considered a transitional or more enduring ‘prob-
+lem’ for a country depending on the currently prevailing level of the rate of births and deaths. This 
+proposition is best illustrated by means of a simple diagram (Figure 11.4).
+The curves RB and RD represent the time paths of the birth rate and death rate, respectively. 
+Population growth is determined by the gap between the two curves. To save drawing more 
+diagrams, let us suppose that points X and Y in Figure 11.4 represent two countries with the 
+same current rate of population growth (Pq 5 St). In the case of country Y, population growth 
+will soon slow down since the death rate has reached its minimum and the birth rate is falling. 
+In the case of country X, however, which has the same current population growth, the popula-
+tion growth rate can be expected to increase in the future as the gap between the birth and 
+X
+R
+P
+V
+S
+q
+B
+D
+t
+Y
+Birth and death rates
+Time
+0
+Figure 11.4  Population momentum
+Table 11.2  Total fertility rate (births per woman), 1990 and 2014
+1990
+2014
+World
+3.3
+2.5
+Low income
+6.3
+4.9
+Middle income
+3.5
+2.4
+Lower middle income
+4.3
+2.9
+Upper middle income
+2.8
+1.9
+Low and middle income
+3.7
+2.6
+East Asia and Pacific
+2.7
+1.9
+Europe and Central Asia
+2.6
+2.0
+Latin America and Caribbean
+3.3
+2.1
+Middle East and North Africa
+4.9
+2.8
+South Asia
+4.3
+2.6
+Sub-Saharan Africa
+6.4
+5.0
+High income
+1.9
+1.7
+Source: World Bank, 2015.
+313
+1 1  •  P O P U L AT I O N  A N D  D E V E L O P M E N T
+death rates widens. The death rate is falling but the birth rate remains constant to the point 
+V; only after this point will population growth decrease. Here, then, are two countries with 
+the same observed population growth at present but with radically different future prospects. 
+When comparing countries, and their population ‘problems’, the time profile of countries must 
+be borne in mind. But the crucial questions, as we suggested earlier, are: What is the length of 
+the time lag between the death rate falling and the downturn of the birth rate? What is the 
+length of the demographic transition? It is the length of this time lag that determines the 
+short-run prospects of countries emerging from a transitional state and attempting to take-off 
+into self-sustaining growth.
+The experience of developing countries today has no historical parallel, at least in Western 
+Europe. In nineteenth-century Europe, the birth and death rates tended to fall together and 
+population growth never exceeded 1% per annum. It could almost be argued that the ‘bal-
+ance of nature’ has been upset in today’s developing countries. The introduction of public 
+health measures and medical advances reduced death rates suddenly and dramatically, but 
+the means and know-how to effect an equally dramatic fall in the birth rate were not pro-
+vided at the same time. Modern science and public health improvements have contributed 
+to the ending of premature death, but, until recently, have not exerted a significant impact 
+on births.
+Costs and benefits of population growth
+Population growth plays a conflicting role in the development process. It can act as a stimulus 
+and an impediment to growth and development. The question, to which there is no easy answer, 
+is: At what point do the economic disadvantages begin to outweigh the advantages? Where does 
+the balance lie?
+The conventional view is that high levels and rates of growth of population constitute a prob-
+lem for the world as a whole and for developing countries in particular. Population growth, it is 
+argued, depresses human welfare because it:
+•
+• Uses up scarce (non-renewable) resources and causes environmental degradation.
+•
+• Puts pressure on food supplies.
+•
+• Leads to overcrowding and congestion in cities.
+•
+• Adds to the employment problem.
+•
+• Reduces the savings ratio and dilutes the quantity of capital per person employed.
+There are elements of truth in all these arguments, especially in parts of the world where there are 
+particularly heavy concentrations of population in relation to habitable land. Asia, for example, 
+contains over one-half of the world’s population and over 2 billion people live in big cities, which 
+already suffer the highest levels of air pollution in the world, not to mention the congestion. Asia is 
+now the biggest source of greenhouse gases. As we shall see later in the chapter, however, there are 
+also arguments to be put on the other side. See Case example 11.2 for the challenge of population 
+growth in the Philippines.
+The pessimistic view of population originated with Malthus (see Chapter 4), and in recent 
+years it has been revived by ecologists, environmentalists and various eco-doomsters of dif-
+ferent persuasions. The pessimism of Malthus stemmed from the pervasive classical belief 
+314
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+The population of the Philippines is now over 100 million. The country is home to 
+one of Asia’s youngest and fastest-growing populations. The country is not expected 
+to reach its demographic peak until around 2077, well after China, South Korea and 
+other powerful economies in the region. But the Philippines may never enjoy its demo-
+graphic dividend if poverty, unemployment and inflation aren’t addressed. Unemploy-
+ment has remained stubbornly high even as the economy has grown an average of 5% 
+per year over the past decade. The country’s economic growth has largely benefited 
+the top 20% of the income distribution. Almost a quarter of the population lives be-
+low the poverty line, earning less than $386 a year or just over $1 a day. Although the 
+percentage of Filipinos living in poverty has declined slightly over the past few years, it 
+has increased among youth and urban residents – the two segments of the population 
+that are growing the fastest. A growing population and labour force is not good for 
+unemployment. About 1 million Filipinos enter the labour force every year, but only 
+one-quarter of them find stable jobs. As much as 75% of workers are employed in the 
+informal sector, which means that they have no protection from job losses – a figure 
+that is likely to increase as the population surges. There is urgent need to reduce fertil-
+ity through expanding female education and employment opportunities.
+Case example 11.2
+The challenge of population growth in the Philippines
+in the law of diminishing returns, and the underestimation of humankind’s response to the 
+challenge of diminishing productivity with the expansion of numbers through invention and 
+innovation.
+According to Malthus ([1798]1983), there is a ‘constant tendency in all animated life to 
+increase beyond the nourishment prepared for it’. Thus, every mouth is accompanied by a pair of 
+hands, but every pair of hands produces less and less additional output. Technological progress 
+(always grossly underestimated by pessimists in general and by classical economists in particular) 
+would not be rapid enough, it was thought, to offset the tendency. However, Malthus became 
+much less pessimistic between the first and fifth editions of his book, and at one point conceded 
+that, if it were not for population increase: ‘no motive would be sufficiently strong to overcome 
+the acknowledged indolence of man and make him proceed to the cultivation of the soil’.
+The main argument of the pessimistic school regarding rapid population growth is that it leads 
+to a high dependency ratio and reduces an economy’s savings because the young spend more 
+than they produce, so that capital accumulation per worker is lower than it would otherwise be, 
+which leads to a lower level of productivity and therefore living standards. This traditional argument, 
+however, ignores the fact that many young children in developing countries do, in fact, work (see 
+Dasgupta, 1995). It must also be remembered that many of the older members of a community also 
+consume without producing and that the proportion of retired members of the community to total 
+population will rise as population growth slows. Thus, what happens to the aggregate savings ratio 
+as the population growth rate changes will depend on how the composition of the total dependency 
+ratio alters, and on the propensity to save (or dissave) of the two groups of dependents. For example, 
+if the propensity of the retired to dissave was greater than that of the inactive young, the aggregate 
+savings ratio might fall with a reduction in the birth rate as the retired dependency ratio rose.
+It should also be noted that the effect of children on a society’s total savings works primarily 
+through the family as a unit and depends on how the family reacts to the increase in the number 
+of children. There may just be a substitution of one form of expenditure (on children) for another. 
+Alternatively, the family may work harder to provide for the children, in which case there may be 
+315
+1 1  •  P O P U L AT I O N  A N D  D E V E L O P M E N T
+no adverse effect on saving at all. Saving in some families may even increase if there is a sufficient 
+increase in output and a high degree of substitution. The degree of substitution between one form 
+of expenditure and another will depend on the ability to substitute, determined by living stand-
+ards and the level of saving already achieved.
+The question of an output response to population pressure comes back to the point made 
+earlier of the possibility of a positive relation between population growth and total productivity 
+growth. It may well be that the sheer increase in numbers creates work and production incentives 
+that affect output and productivity favourably. In fact, there is a good deal of theory and empir­
+ical evidence to suggest a positive relation between population growth and the growth of output 
+per unit of labour, especially in the manufacturing sector, assuming some growth in employment 
+as the population expands. This is Verdoorn’s law (discussed in Chapter 3), which hypothesizes 
+a positive relation between the growth of the population, employment and output on the one 
+hand and the growth of labour productivity on the other.
+The possible explanations for such a relation are numerous:
+1.	 It has been argued (see Chapter 6) that an economy with a faster rate of growth of employment 
+and output may be able to learn more quickly and hence raise its rate of technical progress.
+2.	 If there are internal and external economies of scale in production, increased employment and 
+output will lead to a faster rate of growth of labour productivity.
+3.	 There are likely to be economies of scale in the use of capital. Capital requirements, in most 
+cases, do not increase in the same proportion as population. There are many important indivis-
+ibilities in the provision of capital, especially in the field of transport and other social overhead 
+capital.
+It is also possible that population pressure can favourably affect individual motivation and lead 
+to changes in production techniques that can overcome the negative consequences of popula-
+tion growth. In this connection, it has been argued that a major stimulus to the Green Revolution 
+in Asia in the 1960s and 1970s came from the pressure of population on food supply. The young 
+age structure of a country also makes it more amenable to change, more receptive to new ideas, 
+more willing to shift resources from low-productivity to high-productivity sectors and so on, all of 
+which may raise income per head. In Hirschman’s model of development (see Chapter 9), popu-
+lation growth increases the supply of potential decision-makers, expands markets and leads to 
+development via shortages.
+It must not be forgotten that the world as a whole has grown progressively richer while the 
+population has expanded. Would the world be as rich today if the population had remained 
+static? Would Britain have been the first country to industrialize if its population had not grown? 
+Would the USA have become the richest country in the world without the great influx of people 
+from beyond its shores to exploit its abundant natural resources?
+All that has really been said so far is that population growth presents a paradox. On the one 
+hand, increases in population may reduce living standards owing to the adverse effect of popula-
+tion growth on savings and capital per head. On the other hand, increases in population and the 
+labour force can raise living standards through the learning, specialization and scale economies 
+that larger numbers, wider markets and a higher volume of output make possible. What may be 
+called the paradox of labour can be seen more easily by taking the identity O 5 P(O/P), or in 
+differential form, (ΔO/O) 5 ΔP/P 1 Δ(O/P)/(O/P), where O is output, P is population and O/P is 
+output per head of population (and a constant fraction of the population is assumed to work). 
+Decreasing amounts of capital per worker (and possibly diminishing returns to land) imply a 
+negative relation between the terms on the right-hand side of the equations, so that output per 
+316
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+head and living standards are lower than they would otherwise be as the population increases. 
+On the other hand, the possibility of increasing returns, due to the factors mentioned, implies a 
+positive relation between the two terms, so that living standards rise as the population increases.
+The question is: Which forces predominate? The debate as to whether population growth acts 
+as a stimulus or an impediment to the growth of living standards is largely a question of whether 
+the relation between ΔP/P and Δ(O/P)/(O/P) is significantly positive or negative. If the relation 
+is negative, then population growth is an impediment to rising living standards. If the relation is 
+positive, then the effect of population growth on the growth of output and output per head is 
+unambiguously favourable. Evidence across countries suggests that population growth and the 
+rate of capital accumulation are inversely related, which decreases the growth of labour pro-
+ductivity, but population growth and technical progress are positively related, which increases 
+the growth of labour productivity. The two effects offset each other, leaving the total effect of 
+population growth on the growth of per capita income roughly neutral (see Thirlwall (1972) for 
+an early study).
+This is indeed the conclusion of studies that examine directly the relation between population 
+growth and the growth of living standards by correlating the two variables for a cross-section of 
+countries to see whether the relation is positive or negative. When this is done, there is very little 
+systematic relation to be found between intercountry rates of population growth and rates of 
+growth of per capita income. This does not take account of the environmental degradation asso-
+ciated with population growth and the use of non-renewable resources, which are not measured 
+as a cost in the calculation of GDP.
+The fact that the international cross-section evidence lends very little support to the notion 
+that curbing population growth will have much impact, if any, on the growth of income per head 
+is not to deny, of course, that curbing population growth may be desirable for other reasons, 
+such as to relieve overcrowding, to relieve pressure on food supplies and, in general, to improve 
+the distribution of income. To be sceptical of an inverse relation between population growth and 
+per capita income growth is not to pour cold water on population control programmes. On the 
+contrary, given the uncertainty of the population growth/living standards relation, and the force 
+of other arguments for limiting numbers, the most sensible strategy is to pursue programmes 
+on the hypothesis that population control increases PCY. In simulation studies of the gains from 
+population control that use the effect on PCY as the criterion for success, however, it is important 
+that explicit account should be taken of the positive relation between population growth and 
+­
+tech­
+nical progress if the gains from population control are not to be exaggerated. See Case exam-
+ple 11.3 for a general discussion of the concern over population growth.
+Population concern is fundamentally about the balance between human needs 
+and the resources available to meet those needs now and in the future. From 
+the period of Confucius and Aristotle, observers throughout history have noted 
+the consequences of unsustainable population growth. The most famous writer 
+on population was Thomas Malthus (1776–1834), who wrote when the human 
+population was 900 million and observed that ‘population when left unchecked 
+increases in a geometric ratio [while] subsistence grows in an arithmetic ratio’. The 
+Case example 11.3
+Population concern
+317
+1 1  •  P O P U L AT I O N  A N D  D E V E L O P M E N T
+Population and the growth of cities
+One of the major consequences of population growth, and the process of rural–urban migra-
+tion, is the rapid growth of cities in developing countries. At present, just over one-half of the 
+world’s population lives in cities, and this is predicted to rise to two-thirds by 2025. In fact, vir-
+tually all the predicted increase in world population will live in cities. The urban population of 
+developing countries is already increasing by almost 700 million a year, which puts huge pressure 
+on resources. While cities only occupy 2% of the land’s earth surface, they absorb 75% of natural 
+resources – food, energy and water (Reader, 2005).
+Currently, the top ten cities in the world (by population) are Tokyo (35.7m), Mexico City 
+(19m), New York (19m), São Paulo (19m), Mumbai (18.8m), Delhi (15.9m), Shanghai (15m), 
+Kolkata (14.8m), Dhaka (13.5m) and Buenos Aires (12.8m). By 2025, it is predicted that there will 
+be 30 cities in developing countries with more than 10 million people, and 400 cities with more 
+than 1 million.
+Case example 11.3
+Population concern – continued
+famines that Malthus predicted were averted by the agricultural and industrial 
+revolutions that followed his lifetime, which facilitated a dramatic increase in food 
+productivity.
+Following the Second World War, the population reached 2,500 million and im-
+provements in public health spread to the developing world and population numbers 
+took a huge leap forward. Robert McNamara, then president of the World Bank said: 
+‘Short of nuclear war itself, population growth is the greatest issue the world faces. 
+If we do not act, the problem will be solved by famine, riots, insurrection and war.’ 
+These views were shared by such diverse people as Albert Einstein, Martin Luther King 
+and Lynden Johnson. Concerned nations and international organizations accelerated 
+support for family planning programmes. In 1968, world population had climbed to 
+3,600 million. Paul Ehrlich, US biologist, warned in his book Population Bomb (1968) 
+that population growth was again raising the spectre of widespread famine. However, 
+another development occurred at this time, the Green Revolution, which transformed 
+agricultural productivity in many developing countries through the introduction of 
+high yield crop variants and the use of modern high input farming methods. Ehrlich 
+reissued his book in 1990 as the world population reached 5,200 million. The predicted 
+famine never took place, although in 2009 the UN estimated that up to 1 billion in the 
+world were undernourished.
+In 2010, the global population reached 6,800 million, Some countries continue to 
+limit their population growth by providing reproductive health services and adopting 
+a variety of approaches to limit family size. Pressure on individuals is firmly rejected 
+by international bodies and NGOs, who emphasize the importance of a rights-based 
+approach, such that couples freely make their own reproductive choices. As we look 
+ahead to the middle of this century, world population is projected to reach 8–11 billion, 
+and increasing numbers of people are voicing concern about population numbers, in 
+the context of biodiversity loss, climate change and rapid depletion of oil, fresh water, 
+land, habitat and wildlife resources.
+For more on the subject, go to www.populationmatters.org/the-issue/overview.
+318
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+Living conditions in the cities of developing countries are often extremely poor. One-third of 
+city dwellers live in slums, and many are very insecure because of lack of land rights. There is over-
+crowding, poor sanitation, lack of clean water, pollution and disease. Over 500 million people lack 
+access to clean water and 2 million die each year as a result.
+Simon’s challenge
+The most concerted challenge to the view that population growth is uniformly depressing for the 
+material well-being of mankind has come from the economist Julian Simon (1992, 1996). Simon’s 
+major thesis is that ‘the ultimate resource is people – skilled, spirited and hopeful people – who 
+will exert their wills and imaginations for their own benefit, and so, inevitably, for the benefit of 
+us all’. William Petty, seventeenth-century English political economist, was making the same point 
+when he said: ‘it is more likely that one ingenious, curious man may rather be found among 4 
+million than among 400 persons’ (Petty, 1682). Simon brings together the theoretical arguments 
+and empirical evidence on both sides of the population debate and presents simulation results 
+on the relation between population growth and living standards. He finds that the initial effects 
+of population increase on per capita income are negative, but that, in the longer term, the posi-
+tive feedback effects resulting from the stimulus of population growth to technological progress, 
+and other factors that improve the rate of productivity growth, outweigh the negative effects. 
+Simulations suggest that, for countries already industrialized, the initial negative effect of pop-
+ulation is offset within 50 years. For less developed countries, the conclusion is that moderate 
+population growth is more favourable to the growth of living standards than either a stationary 
+population or very rapid population growth.
+An overall judgement of population growth, and whether it is beneficial or not, therefore 
+depends very much on weighing the balance between the present and the future. In economic 
+analysis, the present and the future are made comparable using the concept of a discount rate. 
+Whether the positive long-run benefits of population growth are considered to outweigh the 
+short-run negative effects depends on the discount rate and the time period taken. The less future 
+benefits are discounted and the longer the time period taken, the more beneficial (less detrimen-
+tal) population growth appears, and the shorter the time period considered and the more future 
+benefits are discounted, the less beneficial (more detrimental) population growth appears. There 
+will be some time period and some discount rate at which additional population is exactly on the 
+borderline of having a negative or positive value.
+What are the positive feedback effects that population increase can have on economic pro-
+gress that vitiate the classical prediction that population growth is uniformly depressing on living 
+standards? In his simulation model of the relationship between population growth and per capita 
+income in advanced countries, Simon attempts to capture the effect of additional children on 
+factors such as the savings ratio, labour supplied by the parents, scale economies and technical 
+progress. In his simulation model for developing countries, Simon (1992) considers the following 
+important feedback mechanisms:
+•
+• the stimulus to new methods in agriculture
+•
+• the supply response of families
+•
+• the provision of social infrastructure (particularly transport)
+•
+• scale economies
+•
+• demand-induced investment.
+319
+1 1  •  P O P U L AT I O N  A N D  D E V E L O P M E N T
+Let us briefly consider some of these factors.
+A society under pressure from population growth may be expected to respond by finding 
+new and more efficient ways of meeting given needs. In agriculture, the Malthusian view would 
+be that improvement in agricultural techniques is independent of population and that improve-
+ments simply induce population expansion. Others would argue that even if population pressure 
+does not induce the production of new techniques, it certainly induces the adoption of new tech-
+niques. It is difficult to see how the Green Revolution in Asia in the 1970s would have occurred 
+without the pressure of numbers on food supply.
+Agricultural families may respond to the needs of additional children by changing methods, 
+working harder and producing more. Studies suggest that the elasticity of output to increases in 
+the number of children is about 0.5; that is, an increase in family size, say, from four to five (25%) 
+would result in a 12.5% increase in output. Simon argues that population growth also has a large 
+positive effect on agricultural saving, which tends to be overlooked because a large fraction is 
+non-monetized.
+Population pressure provides a stimulus to develop social infrastructure, transport and com-
+munication facilities, which have far-reaching external repercussions, extending beyond the 
+additional numbers they are designed to serve. Population growth also makes these facilities 
+more economical to provide because of the scale economies involved in their provision. Simon 
+(1992) argues: ‘if there is a single key element in economic development other than culture 
+and institutions and psychological make-up, that single key element is transportation together 
+with communications’. Adam Smith (1776), an early contemporary of Malthus and much more 
+optimistic about the development process, was impressed by the benefits of communications:
+good roads, canals and navigable rivers, by diminishing the expense of carriage, put the remote 
+parts of the country more nearly upon a level with those in the neighbourhood of the town. 
+They are upon that account the greatest of all improvements – they break down monopolies … 
+they open new markets.
+To the extent that population growth exerts pressure for these facilities to be provided, a signifi-
+cant output response is to be expected.
+Increased population has many other productivity effects that are subtle and indirect, yet 
+nonetheless important. It is very difficult, for example, to improve health and sanitation in sparsely 
+populated areas, but once sanitation and health improvements become feasible and economical 
+with greater numbers, substantial benefits may result – more than in proportion to the increase in 
+population. A growing population also facilitates change without disrupting the organization and 
+positions of those already established. Thus, government and administration may be expected to 
+improve and become more in keeping with the needs of development. Youth itself has positive 
+advantages. Young people are more receptive to change and modernization than older people. 
+The younger a population, the more education (or human capital) per head of the population. 
+Young people tend to be more mobile, which is an asset when structural change is required. With 
+a growing population, investment is less risky. Many economists are of the view that one of the 
+major obstacles to development is not a shortage of savings but a lack of willingness to invest. An 
+expanding market resulting from population growth provides an incentive to investment.
+The great difference between the results of Simon and those of the pessimists is that all the 
+beneficial feedback effects of population on output mentioned above are not considered. But any 
+of the feedback factors referred to may partially or fully offset the capital dilution effect of greater 
+numbers in the short run, which is the factor that the predictions of conventional models reflect. 
+320
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+A complete analysis of the relation between population and living standards must have due 
+regard to the longer term benefits that population expansion can confer on societies, as well as 
+the short-term costs. Indeed, only when the benefits are considered, is it possible to comprehend 
+why societies are infinitely wealthier today than centuries ago, despite population expansion.
+The ‘optimum’ population
+What is the ‘optimum’ population? The term optimum population is used in several different 
+senses, but four in particular are commonly employed. First, it is sometimes used to refer to the 
+size of population that maximizes the average product or income per head. It is in this situation that 
+a society’s savings ratio is likely to be maximized. Thus, if the total product curve for an economy 
+is drawn as in Figure 11.5, the optimum population is P, where a ray from the origin is tangential 
+to the total product curve. At P, total product (Y) divided by population (P), or average product 
+per head of population, is at its maximum. The condition for maximum average product per head 
+is that the marginal and average product per head should be equal. If the marginal product of an 
+addition to the population is above the average, the average product could be increased by an 
+expansion of the population. Conversely, if the marginal product is below the average, a further 
+increase in population will reduce the average product and the population will exceed the opti-
+mum level in the way defined. If there was no saving, the maximization of product per head would 
+maximize welfare per head because consumption per head would then also be at a maximum.
+On the surface, this concept of optimum population seems an attractive one upon which to 
+base a population policy. It provides the greatest scope for maximizing savings per head if desired 
+or, in the absence of forced or compulsory saving, it will lead to the maximization of welfare 
+per head. Yet, a population policy based on maximizing per capita income has frightening impli-
+cations (not entirely fanciful) for all submarginal groups in society that may be deemed to be 
+depressing the average standard of life.
+A second approach to the concept of ‘optimum’ population adopts the criterion of total wel-
+fare maximization. This is the utilitarian approach, adopted by Henry Sidgwick, English economist 
+cum philosopher, in his Methods of Ethics, originally published in 1874. Sidgwick argues:
+If the additional population enjoy on the whole positive happiness, we ought to weigh the 
+amount of happiness gained by the extra numbers against the amount lost by the remained. 
+So that, strictly conceived, the point up to which, on utilitarian principles, population ought to 
+be encouraged to increase is not that at which average happiness is the greatest possible – as 
+appears to be often assumed by political economists of the school of Malthus – but at which 
+Y
+P
+0
+Population
+Total product
+Total product
+Figure 11.5  Maximization of average product
+321
+1 1  •  P O P U L AT I O N  A N D  D E V E L O P M E N T
+the product formed by multiplying the number of persons living into the amount of average 
+happiness reaches its maximum (emphasis added).
+According to this criterion, the population would be suboptimal if the marginal product of 
+labour was above some notional welfare subsistence level, and would reach the optimum when 
+all incomes were equalized at the welfare subsistence level (assuming a diminishing marginal 
+utility of income). But in conditions of poverty, if increments to population reduce the average 
+standard of living still further, it seems perverse to call this an improvement in welfare simply 
+because the number of people ‘enjoying’ such an impoverished state has risen. As Rawls (1972) 
+argues in his Theory of Justice, if a rational observer was asked to choose membership of one or 
+other society from behind a veil of ignorance, they would undoubtedly reject the maximization 
+of total welfare and choose the society with the prospect of a higher per capita income.
+A third definition of optimum population refers to the level of population beyond which the 
+average product in an economy falls below the level necessary for subsistence, on the assumption 
+that the total product is equally shared. In this case, the term ‘optimum’ simply refers to the max­
+imum population that can be supported with existing resources, and is the point of Malthusian 
+equilibrium. In Figure 11.6, a population beyond P1 could not be supported because the aver-
+age product of the population would be below the level of subsistence. If total product was not 
+equally shared, a total population of P1 would not be supportable, for some would have more 
+income than necessary for subsistence and others less. But note that if the product is equally 
+shared, a much larger population can be maintained than the population at which the marginal 
+product falls below subsistence, that is, P. In fact, the optimum population, P1, is consistent with 
+a negative marginal product.
+This last point leads us to the fourth sense in which the term ‘optimum’ population is some-
+times used, which is to describe a state of affairs where a country’s population is so large that 
+further increases lead to a fall in total output, implying a negative marginal product. The popula-
+tion is optimal in this sense when total product is maximized, at P2 in Figure 11.6. This definition 
+of optimum population is closely linked with the notion of population density, and attempts 
+to define underpopulation and overpopulation in terms of the relation between population 
+and resources and, in particular, land. Since resources such as land vary considerably in quality, 
+however, intercountry comparisons of ratios of population to resources must be treated with 
+great care. One country may be regarded as ‘underpopulated’ in relation to another country even 
+though it has a higher population–resource ratio, simply because the technology it uses to exploit 
+Figure 11.6  The ‘optimum’ population
+Total product
+Subsistence level
+Average product
+Population
+Marginal product
+0
+P P2 P1
+Total, average and marginal product
+322
+T H E  P E R P E T U AT I O N  O F  U N D E R D E V E L O P M E N T
+its resources is superior. Technology will influence the position and shape of the total product 
+curve – and hence the optimum population – for any given ratio of population to resources. In 
+view of the variety of interpretations of the concept of optimum population, the claim that a 
+country is ‘overpopulated’ or ‘underpopulated’ needs to be viewed with some scepticism unless a 
+precise definition of the terms is given.
+Where does all this leave the welfare basis for population control programmes? A firmer basis 
+than whether or not there are diminishing or increasing returns to population growth is to con-
+sider the divergences between the private and social benefits that arise from large numbers of 
+children. For example, individual families may prefer to have fewer children if they know that all 
+other families will have fewer children, but, in isolation, they are not willing to limit the number 
+of children they have. This is an example of what is known in welfare economics as the isolation 
+paradox, and it establishes a case for public intervention. It is the young who suffer from there 
+being more children because most of the costs arise in the future. Present parents may enjoy their 
+children, but their children may wish their parents had had fewer, and they probably would have 
+had fewer if they could have been sure that everybody else would have had fewer too. A further 
+reason for public intervention in the field of population control may be market failure, if it can be 
+shown that families have more children than they actually want and that there is an unmet need 
+for family planning services.
+It is interesting to note that surveys of desired family size in developing countries consistently 
+put the figure at one or two lower than the actual family size. Apart from this, it could be argued 
+that it is a basic human right to be able to choose freely and responsibly the number of children 
+to have and how far apart to have them. This indeed was the resolution endorsed by the first 
+UN World Population Conference in Bucharest in 1974, which laid the foundation for the World 
+Bank’s increased support for population control programmes throughout developing countries, 
+and was reiterated by the last UN Conference on Population and Development in Cairo in 1994. 
+The Cairo conference emphasized the right of women to control the number and timing of their 
+children and urged countries to provide universal access to family planning services. It is esti-
+mated that only 50% of married women in developing countries use any form of birth control. 
+As we saw earlier, however, the education of women is the major determinant of fertility, and a 
+necessary condition for a reduction in fertility is the expansion of educational and work oppor-
+tunities for women.
+A model of the low-level equilibrium trap
+To repeat, there are two main interrelated reasons why rapid population growth may be regarded 
+as a retarding influence on development:
+1.	 Rapid population growth may not permit a sufficiently large rise in per capita incomes to pro-
+vide the savings necessary for the required amount of capital formation for growth.
+2.	 If population growth outstrips the capacity of industry to absorb new labour, either urban 
+unemployment will develop or rural underemployment will be exacerbated, depressing prod­
+uctivity in the agricultural sector.
+It is not inconceivable, moreover, that rises in per capita income (PCY) in the early stages of 
+development may be accompanied by, or even induce, population growth in excess of income 
+growth, holding down PCY to a subsistence level. Today’s falling death rates (associated with 
+­
+development) are contributing to population pressure; and presumably for centuries past the 
+323
+1 1  •  P O P U L AT I O N  A N D  D E V E L O P M E N T
+population of most countries has been oscillating around the subsistence level, with small gains in 
+living standards (due to ‘technical progress’) being wiped out either by higher birth rates or fac-
+tors such as disease, famine and war. This is the notion of a low-level equilibrium trap, illustrated 
+in Figure 11.7.
+Figure 11.7 shows the relationship between the growth of population (dP/P) and the growth 
+of output (dO/O) on the one hand (measured on the vertical axis), against the level of per capita 
+income (O/P) on the other (measured on the horizontal axis). S 5 X represents the subsistence 
+level of PCY at which population growth is zero and output growth is also zero because at the 
+subsistence level there is no saving and investment. Population growth rises with PCY and then 
+levels off at a biological maximum. Output growth rises with PCY because the savings ratio also 
+rises with PCY, but then levels off (and even declines). Output growth eventually falls as the cap­
+ital–labour ratio falls. If the output growth curve cuts the population growth curve from above 
+at point S 5 X, it can be seen that any increase in PCY above the subsistence level up to a point a 
+will lead to population growth in excess of output growth, pushing income per head back to the 
+subsistence level. Conversely, any PCY level beyond a will mean a sustained rise in PCY until the 
+two curves cut again at q. This would be a new stable equilibrium, with the output growth curve 
+again cutting the population growth curve from above.
+To escape from the low-level equilibrium trap, PCY must either be raised to a, or the dO/O 
+and dP/P curves must be shifted favourably. The origin of big push theories of development (see 
+Chapter 9), and the concept of a critical minimum effort, was the belief that to escape from the 
+‘trap’, it would be necessary to raise PCY to a in one go through a massive investment programme. 
+If countries are in a trap situation, however, much greater hope probably lies in the dO/O curve 
+drifting upwards over time, through technical progress, or in a sudden drop in the dP/P curve 
+from a reduction in the birth rate. Capital from abroad, raising the dO/O curve, and emigration, 
+lowering the dP/P curve, could also free an economy from such a trap.
+To take account of factors other than population growth that may depress PCY, and factors 
+other than increases in capital per head that may raise PCY, the low-level equilibrium trap model 
+can be extended and generalized by adopting Leibenstein’s terminology of ‘income-depressing’ 
+forces and ‘income-raising’ forces (Leibenstein, 1957). Leibenstein’s approach is illustrated in Figure 
+11.8. The curve representing income-depressing forces, Z, is measured horizontally from the 450 line, 
+and the curve representing income-raising forces, X, is measured vertically from the 450 line. Per 
+capita income level a is the only point of stable equilibrium. Between a and q, income-depressing 
+0
+dO
+O
+dP
+P
+dP
+P
+dO
+O
+O
+P
+S = X
+q
+a
+,
+Figure 11.7  Low-level equilibrium trap
+
+5 ) &  1 & 3 1 & 5 6 "5 * 0 /  0 '  6 / % & 3 % & 7 & - 0 1 . & / 5
+GPSDFTBSFHSFBUFSUIBOJODPNFSBJTJOHGPSDFTBOE1$:XJMMTMJQCBDLUPa.0OMZCFZPOEqBSFJODPNF
+SBJTJOHGPSDFTHSFBUFSUIBOJODPNFEFQSFTTJOHGPSDFTTVDIUIBUBTVTUBJOFEJODSFBTFJO1$:CFDPNFT
+QPTTJCMFqJTUIFDSJUJDBM1$:MFWFMOFDFTTBSZUPFTDBQFGSPNUIFMPXMFWFMFRVJMJCSJVNUSBQ
+.PTUEFWFMPQJOHDPVOUSJFTJOUIFXPSMEUPEBZBSFFYQFSJFODJOHJODPNFHSPXUIGBTUFSUIBO
+QPQVMBUJPOHSPXUI8IFUIFSJODPNFHSPXUIXPVMECFGBTUFSJGQPQVMBUJPOHSPXUIXBTSFEVDFE
+JTBOPQFORVFTUJPO*UJTQPTTJCMFUPDPODFJWFPGBMPXMFWFMFRVJMJCSJVNUSBQCVUJUTMFWFMBMNPTU
+DFSUBJOMZSJTFTPWFSUJNFPXJOHMBSHFMZUPUFDIOJDBMQSPHSFTTCFGPSFBSFEVDUJPOJOCJSUISBUFTTFUT
+JO	TFF$BTTFO	
+,FMMFZ	
+4JNPO	
+%BTHVQUB	
+BOE#MPPN	
+GPSTVSWFZT
+PGNBOZPGUIFJTTVFTEJTDVTTFEJOUIJTDIBQUFS
+
+4VNNBSZ
+ 
+t 4JODFUIFTUIFXPSMETQPQVMBUJPOIBTHSPXOBUBOVOQSFDFEFOUFESBUFNPSFUIBOEPVC
+MJOHGSPNKVTUPWFSCJMMJPOJOUPPWFSCJMMJPOUPEBZʾFQBDFPGHSPXUIJTTMPXJOHCVU
+QPQVMBUJPOHSPXUIJOEFWFMPQJOHDPVOUSJFTJTTUJMMUISFFUJNFTGBTUFSUIBOJOEFWFMPQFEDPVO-
+USJFT	DPNQBSFEXJUIQFSBOOVN
+ʾFXPSMETQPQVMBUJPOJTGPSFDBTUUPTUBCJMJ[FBU
+BSPVOECJMMJPOJO
+ 
+t ʾFDBVTFPGUIJTQPQVMBUJPOFYQMPTJPOIBTCFFOBESBNBUJDGBMMJOUIFEFBUISBUFEVFUPBE-
+WBODFTJONFEJDBMLOPXMFEHFBOEJNQSPWFETBOJUBUJPOXJUIPVUBDPNNFOTVSBUFGBMMJOUIF
+CJSUISBUF	VOUJMSFDFOUMZ
+
+ 
+t 'FSUJMJUZSBUFTBSFIJHIJOQPPSDPVOUSJFTCVUEFDMJOFXJUIUIFMFWFMPGQFSDBQJUBJODPNFʾJTJT
+UIFUIFPSZPGEFNPHSBQIJDUSBOTJUJPO'FSUJMJUZBMTPEFDMJOFTXJUIUIFZFBSTPGFEVDBUJPOXPNFO
+SFDFJWFBOEXJUIGFNBMFFNQMPZNFOUPQQPSUVOJUJFT
+ 
+t ʾFDPTUTPGSBQJEQPQVMBUJPOHSPXUIJODMVEFQSFTTVSFPOGPPETVQQMJFTVSCBODPOHFTUJPO
+FOWJSPONFOUBMEFHSBEBUJPOUIFEFQMFUJPOPGOPOSFOFXBCMFSFTPVSDFTBOEBSFEVDUJPOJOUIF
+TBWJOHTSBUJPPGDPVOUSJFT
+ 
+t ʾFQPUFOUJBMCFOFmUTPGQPQVMBUJPOHSPXUIJODMVEFUIFTUJNVMVTUPOFXBHSJDVMUVSBMNFUIPET
+UPSBJTFPVUQVU	FHUIF(SFFO3FWPMVUJPOPGUIFTBOET
+EFNBOEJOEVDFEJOWFTUNFOU
+TDBMFFDPOPNJFTBOEUIFQSPWJTJPOPGTPDJBMJOGSBTUSVDUVSFXIJDIDPOGFSTQPTJUJWFFYUFSOBMJUJFT
+	FHUSBOTQPSU
+
+0
+a
+q
+45˚
+Zt
+X
+Per capita
+income, and
+induced income
+growth
+Per capita income, and
+induced income decline
+Figure 11.8 -FJCFOTUFJOTBQQSPBDI
+324
+325
+1 1  •  P O P U L AT I O N  A N D  D E V E L O P M E N T
+•
+• There is no statistically significant correlation (negative or positive) between the growth of 
+population and the growth of living standards across countries.
+•
+• The term ‘optimum’ population is used in four different senses: maximizing income per head; 
+maximizing total welfare; the maximum population that can be supported with existing resources; 
+ 
+and the population level that maximizes total output. The terms ‘overpopulation’ and ‘under-
+population’ need to be treated with caution without knowing the precise basis of the calculations.
+•
+• It is possible for countries to get caught in a ‘low-level equilibrium trap’ with population growth 
+exceeding income growth and income per head oscillating around subsistence level. A ‘big push’ 
+or ‘critical minimum effort’ in terms of investment may be necessary to launch communities in 
+this state on to a self-sustaining growth path.
+1.	 What accounts for the population explosion in developing countries since the 
+1970s?
+2.	 Why do poor people have large families?
+3.	 What are the major determinants of fertility?
+4.	 It has been said that ‘affluence is its own prophylactic’. Does this mean that it is 
+futile to attempt to control the size of the population before living standards rise?
+5.	 Why will the population continue to grow rapidly even if fertility rates in develop-
+ing countries fall rapidly?
+6.	 In what ways may rapid population growth impair development?
+7.	 What are the stimuli that rapid population growth might give to development?
+8.	 How would you do a cost–benefit analysis of population growth?
+9.	 What do you understand by the concept of the ‘low-level equilibrium trap’?
+10.	 Is it possible to define an ‘optimum’ population?
+Discussion questions
+Chapter 11
+Note
+1.  For an extensive survey of the determinants of fertility relating to the microeconomic behaviour of 
+households, see Dasgupta (1995).
+Websites on population
+World Bank, World Development Indicators http://data.worldbank.org/data-catalog/world- 
+develop­
+ment-indicators
+United Nations www.un.org/popin/wdtrends
+UN Population Division www.un.org/en/development/desa/population/
+UN Population Fund www.unfpa.org
+UN Population Information Network www.un.org/popin/
+
