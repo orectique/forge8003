@@ -27,7 +27,7 @@ Settings.transformations = [
 
 # Load local data
 from llama_index.core import SimpleDirectoryReader
-local_doc_reader = SimpleDirectoryReader(input_dir='../Data')
+local_doc_reader = SimpleDirectoryReader(input_dir='./Data')
 docs = local_doc_reader.load_data(show_progress=True)
 
 # We'll load some Wikipedia pages as well
@@ -48,7 +48,7 @@ index = VectorStoreIndex.from_documents(
 )
 
 # Save the index
-index.storage_context.persist(persist_dir="../Storage")
+index.storage_context.persist(persist_dir="./storage")
 
 query_engine = index.as_query_engine()
 with open("./output.txt", "w") as f:
